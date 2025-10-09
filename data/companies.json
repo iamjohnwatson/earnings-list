@@ -1551,7 +1551,400 @@
       "ticker": "HIMS"
     }
   ],
-  "Resources": [],
+  "Resources": [
+    {
+      "name": "Kinder Morgan",
+      "ticker": "KMI"
+    },
+    {
+      "name": "SLB",
+      "ticker": "SLB"
+    },
+    {
+      "name": "Halliburton",
+      "ticker": "HAL"
+    },
+    {
+      "name": "Sherwin-Williams",
+      "ticker": "SHW"
+    },
+    {
+      "name": "Baker Hughes",
+      "ticker": "BKR"
+    },
+    {
+      "name": "EQT Corp",
+      "ticker": "EQT"
+    },
+    {
+      "name": "Enphase Energy",
+      "ticker": "ENPH"
+    },
+    {
+      "name": "GE Vernova",
+      "ticker": "GEV"
+    },
+    {
+      "name": "NextEra Energy",
+      "ticker": "NEE"
+    },
+    {
+      "name": "Freeport McMoRan",
+      "ticker": "FCX"
+    },
+    {
+      "name": "First Quantum Minerals",
+      "ticker": "FQVLF"
+    },
+    {
+      "name": "Teck Resources",
+      "ticker": "TECK"
+    },
+    {
+      "name": "Valero Energy Corp",
+      "ticker": "VLO"
+    },
+    {
+      "name": "Dow",
+      "ticker": "DOW"
+    },
+    {
+      "name": "CenterPoint Energy",
+      "ticker": "CNP"
+    },
+    {
+      "name": "Newmont Corp",
+      "ticker": "NEM"
+    },
+    {
+      "name": "Weyerhaeuser",
+      "ticker": "WY"
+    },
+    {
+      "name": "Ovintiv",
+      "ticker": "OVV"
+    },
+    {
+      "name": "Phillips 66",
+      "ticker": "PSX"
+    },
+    {
+      "name": "Ecolab",
+      "ticker": "ECL"
+    },
+    {
+      "name": "DTE",
+      "ticker": "DTE"
+    },
+    {
+      "name": "PPG Industries",
+      "ticker": "PPG"
+    },
+    {
+      "name": "Expand Energy",
+      "ticker": null
+    },
+    {
+      "name": "Bunge",
+      "ticker": "BG"
+    },
+    {
+      "name": "Entergy Corp",
+      "ticker": "ETR"
+    },
+    {
+      "name": "AEP",
+      "ticker": "AEP"
+    },
+    {
+      "name": "WEC Energy Group Inc",
+      "ticker": "WEC"
+    },
+    {
+      "name": "FMC",
+      "ticker": "FMC"
+    },
+    {
+      "name": "First Energy",
+      "ticker": "FE"
+    },
+    {
+      "name": "Albemarle",
+      "ticker": "ALB"
+    },
+    {
+      "name": "Cenovus Energy",
+      "ticker": "CVE"
+    },
+    {
+      "name": "Air Products",
+      "ticker": "APD"
+    },
+    {
+      "name": "PG&E Corp",
+      "ticker": "PCG"
+    },
+    {
+      "name": "Xcel Energy Inc",
+      "ticker": "XEL"
+    },
+    {
+      "name": "PBF Energy",
+      "ticker": "PBF"
+    },
+    {
+      "name": "HF Sinclair",
+      "ticker": "DINO"
+    },
+    {
+      "name": "CMS Energy Corp",
+      "ticker": "CMS"
+    },
+    {
+      "name": "TC Energy",
+      "ticker": "TRP"
+    },
+    {
+      "name": "Exelon Corp",
+      "ticker": "EXC"
+    },
+    {
+      "name": "Southern Co",
+      "ticker": "SO"
+    },
+    {
+      "name": "PPL Corp",
+      "ticker": "PPL"
+    },
+    {
+      "name": "First Solar",
+      "ticker": "FSLR"
+    },
+    {
+      "name": "Eastman Chemical",
+      "ticker": "EMN"
+    },
+    {
+      "name": "Edison International",
+      "ticker": "EIX"
+    },
+    {
+      "name": "Eversource Energy",
+      "ticker": "ES"
+    },
+    {
+      "name": "AES Corp",
+      "ticker": "AES"
+    },
+    {
+      "name": "Ameren",
+      "ticker": "AEE"
+    },
+    {
+      "name": "Linde",
+      "ticker": "LIN"
+    },
+    {
+      "name": "Chevron",
+      "ticker": "CVX"
+    },
+    {
+      "name": "Exxon Mobil",
+      "ticker": "XOM"
+    },
+    {
+      "name": "LyondellBasell",
+      "ticker": "LYB"
+    },
+    {
+      "name": "Enbridge",
+      "ticker": "ENB"
+    },
+    {
+      "name": "Dominion Energy Inc",
+      "ticker": "D"
+    },
+    {
+      "name": "Imperial Oil",
+      "ticker": "IMO"
+    },
+    {
+      "name": "Diamondback Energy",
+      "ticker": "FANG"
+    },
+    {
+      "name": "Corterra Energy",
+      "ticker": "CTRA"
+    },
+    {
+      "name": "ONEOK",
+      "ticker": "OKE"
+    },
+    {
+      "name": "Williams Co",
+      "ticker": "WMB"
+    },
+    {
+      "name": "Marathon Petroleum",
+      "ticker": "MPC"
+    },
+    {
+      "name": "DuPont",
+      "ticker": "DD"
+    },
+    {
+      "name": "Archer-Daniels-Midland",
+      "ticker": "ADM"
+    },
+    {
+      "name": "Duke Energy",
+      "ticker": "DUK"
+    },
+    {
+      "name": "Public Service Enterprise Co",
+      "ticker": "PEG"
+    },
+    {
+      "name": "Mosaic",
+      "ticker": "MOS"
+    },
+    {
+      "name": "Devon Energy",
+      "ticker": "DVN"
+    },
+    {
+      "name": "Suncor Energy",
+      "ticker": "SU"
+    },
+    {
+      "name": "NiSource",
+      "ticker": "NI"
+    },
+    {
+      "name": "NRG Energy",
+      "ticker": "NRG"
+    },
+    {
+      "name": "Pinnacle West",
+      "ticker": "PNW"
+    },
+    {
+      "name": "Occidental Petroleum",
+      "ticker": "OXY"
+    },
+    {
+      "name": "APA",
+      "ticker": "APA"
+    },
+    {
+      "name": "Energy Transfer",
+      "ticker": "ET"
+    },
+    {
+      "name": "Texas Pacific Land",
+      "ticker": "TPL"
+    },
+    {
+      "name": "CF Industries",
+      "ticker": "CF"
+    },
+    {
+      "name": "Corteva",
+      "ticker": "CTVA"
+    },
+    {
+      "name": "Atmos Energy",
+      "ticker": "ATO"
+    },
+    {
+      "name": "Nutrien",
+      "ticker": "NTR"
+    },
+    {
+      "name": "Canadian Natural Resources",
+      "ticker": "CNQ"
+    },
+    {
+      "name": "Cheniere Energy",
+      "ticker": "LNG"
+    },
+    {
+      "name": "Targa Resources",
+      "ticker": "TRGP"
+    },
+    {
+      "name": "Allete",
+      "ticker": "ALE"
+    },
+    {
+      "name": "ConocoPhillips",
+      "ticker": "COP"
+    },
+    {
+      "name": "Constellation Energy",
+      "ticker": "CEG"
+    },
+    {
+      "name": "Evergy",
+      "ticker": "EVRG"
+    },
+    {
+      "name": "Vistra Corp",
+      "ticker": "VST"
+    },
+    {
+      "name": "Talen Energy",
+      "ticker": "TLNE"
+    },
+    {
+      "name": "Sempra",
+      "ticker": "SRE"
+    },
+    {
+      "name": "New Fortress Energy",
+      "ticker": "NFE"
+    },
+    {
+      "name": "MP Materials",
+      "ticker": "MP"
+    },
+    {
+      "name": "EOG Resources",
+      "ticker": "EOG"
+    },
+    {
+      "name": "Consolidated Edison",
+      "ticker": "ED"
+    },
+    {
+      "name": "Alliant Energy",
+      "ticker": "LNT"
+    },
+    {
+      "name": "NuScale Power",
+      "ticker": "SMR"
+    },
+    {
+      "name": "Hawaiian Electric",
+      "ticker": "HE"
+    },
+    {
+      "name": "XPLR Infrastructure (previously NEP)",
+      "ticker": "XPLR"
+    },
+    {
+      "name": "Barrick Mining",
+      "ticker": "GOLD"
+    },
+    {
+      "name": "Celanese",
+      "ticker": "CE"
+    },
+    {
+      "name": "Venture Global",
+      "ticker": null
+    }
+  ],
   "Consumer": [
     {
       "name": "Philip Morris International",
@@ -1847,4 +2240,3 @@
     }
   ]
 }
-
