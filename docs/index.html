@@ -77,26 +77,40 @@
 
       <section id="preview" class="preview hidden" aria-live="polite">
         <div class="preview-header">
-          <h2>Matching Companies</h2>
+          <div class="preview-title">
+            <h2>Matching Companies</h2>
+            <div id="preview-meta" class="preview-meta" aria-live="polite">
+              <span id="preview-sector" class="meta-chip"></span>
+              <span id="preview-week" class="meta-chip"></span>
+              <span id="preview-updated" class="meta-chip"></span>
+              <span id="preview-missing" class="meta-chip"></span>
+            </div>
+          </div>
           <span id="match-count" class="badge"></span>
         </div>
-        <div class="table-wrapper">
-          <table id="preview-table">
-            <thead>
-              <tr>
-                <th scope="col">Company</th>
-                <th scope="col">Ticker</th>
-                <th scope="col">Weekday</th>
-                <th scope="col">BMO/AMC</th>
-              </tr>
-            </thead>
-            <tbody></tbody>
-          </table>
+        <div class="preview-layout">
+          <div class="table-wrapper">
+            <table id="preview-table">
+              <thead>
+                <tr>
+                  <th scope="col">Company</th>
+                  <th scope="col">Ticker</th>
+                  <th scope="col">Weekday</th>
+                  <th scope="col">BMO/AMC</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <aside id="day-timeline" class="timeline hidden" aria-label="Daily earnings distribution">
+            <h3>Week Overview</h3>
+            <ul id="timeline-list" class="timeline-list"></ul>
+          </aside>
         </div>
       </section>
     </main>
     <script>
-      window.APP_PRELOADED_WEEKS = [{"end_date": "2025-10-03", "id": "2025-09-29", "label": "Week of Sep 29 to Oct 3", "start_date": "2025-09-29"}, {"end_date": "2025-10-10", "id": "2025-10-06", "label": "Week of Oct 6 to Oct 10", "start_date": "2025-10-06"}, {"end_date": "2025-10-17", "id": "2025-10-13", "label": "Week of Oct 13 to Oct 17", "start_date": "2025-10-13"}, {"end_date": "2025-10-24", "id": "2025-10-20", "label": "Week of Oct 20 to Oct 24", "start_date": "2025-10-20"}, {"end_date": "2025-10-31", "id": "2025-10-27", "label": "Week of Oct 27 to Oct 31", "start_date": "2025-10-27"}, {"end_date": "2025-11-07", "id": "2025-11-03", "label": "Week of Nov 3 to Nov 7", "start_date": "2025-11-03"}, {"end_date": "2025-11-14", "id": "2025-11-10", "label": "Week of Nov 10 to Nov 14", "start_date": "2025-11-10"}, {"end_date": "2025-11-21", "id": "2025-11-17", "label": "Week of Nov 17 to Nov 21", "start_date": "2025-11-17"}, {"end_date": "2025-11-28", "id": "2025-11-24", "label": "Week of Nov 24 to Nov 28", "start_date": "2025-11-24"}, {"end_date": "2025-12-05", "id": "2025-12-01", "label": "Week of Dec 1 to Dec 5", "start_date": "2025-12-01"}, {"end_date": "2025-12-12", "id": "2025-12-08", "label": "Week of Dec 8 to Dec 12", "start_date": "2025-12-08"}, {"end_date": "2025-12-19", "id": "2025-12-15", "label": "Week of Dec 15 to Dec 19", "start_date": "2025-12-15"}, {"end_date": "2025-12-26", "id": "2025-12-22", "label": "Week of Dec 22 to Dec 26", "start_date": "2025-12-22"}];
+      window.APP_PRELOADED_WEEKS = { {week_options | tojson }};
     </script>
     <script src="static/js/main.js" defer></script>
   </body>

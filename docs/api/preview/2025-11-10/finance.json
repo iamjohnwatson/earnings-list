@@ -1,7 +1,21 @@
 {
-  "records": [],
-  "count": 0,
-  "missingPublic": [],
+  "records": [
+    {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2025-11-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    }
+  ],
+  "count": 1,
+  "missingPublic": [
+    "CDPQ",
+    "CPPIB"
+  ],
+  "tickerCount": 85,
+  "generatedAt": "2025-10-09T16:35:54Z",
   "week": {
     "id": "2025-11-10",
     "start_date": "2025-11-10",

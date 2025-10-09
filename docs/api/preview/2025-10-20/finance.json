@@ -1,7 +1,133 @@
 {
-  "records": [],
-  "count": 0,
-  "missingPublic": [],
+  "records": [
+    {
+      "company": "W. R. Berkley Corp",
+      "symbol": "WRB",
+      "date": "2025-10-20",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Zions Bancorporation",
+      "symbol": "ZION",
+      "date": "2025-10-20",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Capital One Financial",
+      "symbol": "COF",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Chubb",
+      "symbol": "CB",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Nasdaq",
+      "symbol": "NDAQ",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Progressive Corporation",
+      "symbol": "PGR",
+      "date": "2025-10-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Ameriprise Financial Inc",
+      "symbol": "AMP",
+      "date": "2025-10-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "CME Group Inc",
+      "symbol": "CME",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Globe Life",
+      "symbol": "GL",
+      "date": "2025-10-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Moody's Corporation",
+      "symbol": "MCO",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Northern Trust",
+      "symbol": "NTRS",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Arthur J. Gallagher",
+      "symbol": "AJG",
+      "date": "2025-10-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Blackstone",
+      "symbol": "BX",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Lazard",
+      "symbol": "LAZ",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Aon",
+      "symbol": "AON",
+      "date": "2025-10-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    }
+  ],
+  "count": 15,
+  "missingPublic": [
+    "CDPQ",
+    "CPPIB"
+  ],
+  "tickerCount": 85,
+  "generatedAt": "2025-10-09T16:33:23Z",
   "week": {
     "id": "2025-10-20",
     "start_date": "2025-10-20",

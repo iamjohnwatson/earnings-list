@@ -25,6 +25,14 @@
       "yahoo_time_label": null
     },
     {
+      "company": "Figma",
+      "symbol": "FIG",
+      "date": "2025-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
       "company": "SentinelOne",
       "symbol": "S",
       "date": "2025-12-03",
@@ -41,11 +49,10 @@
       "yahoo_time_label": null
     }
   ],
-  "count": 5,
-  "missingPublic": [
-    "CoreWeave",
-    "Figma"
-  ],
+  "count": 6,
+  "missingPublic": [],
+  "tickerCount": 139,
+  "generatedAt": "2025-10-09T16:38:47Z",
   "week": {
     "id": "2025-12-01",
     "start_date": "2025-12-01",

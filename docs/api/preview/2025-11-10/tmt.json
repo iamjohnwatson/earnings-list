@@ -25,6 +25,14 @@
       "yahoo_time_label": null
     },
     {
+      "company": "CoreWeave",
+      "symbol": "CRWV",
+      "date": "2025-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
       "company": "Sea Limited",
       "symbol": "SE",
       "date": "2025-11-11",
@@ -105,11 +113,10 @@
       "yahoo_time_label": null
     }
   ],
-  "count": 13,
-  "missingPublic": [
-    "CoreWeave",
-    "Figma"
-  ],
+  "count": 14,
+  "missingPublic": [],
+  "tickerCount": 139,
+  "generatedAt": "2025-10-09T16:36:27Z",
   "week": {
     "id": "2025-11-10",
     "start_date": "2025-11-10",

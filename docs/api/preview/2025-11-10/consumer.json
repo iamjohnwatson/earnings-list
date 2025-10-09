@@ -1,7 +1,26 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Instacart",
+      "symbol": "CART",
+      "date": "2025-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Tyson Foods",
+      "symbol": "TSN",
+      "date": "2025-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    }
+  ],
+  "count": 2,
   "missingPublic": [],
+  "tickerCount": 73,
+  "generatedAt": "2025-10-09T16:35:47Z",
   "week": {
     "id": "2025-11-10",
     "start_date": "2025-11-10",

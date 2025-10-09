@@ -1,7 +1,106 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2025-11-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Ball Corp",
+      "symbol": "BALL",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "International Flavours & Fragrances",
+      "symbol": "IFF",
+      "date": "2025-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "McDonald\u2019s Corp",
+      "symbol": "MCD",
+      "date": "2025-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Molson Coors Beverage Co",
+      "symbol": "TAP",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Mondelez International",
+      "symbol": "MDLZ",
+      "date": "2025-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2025-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Yum Brands",
+      "symbol": "YUM",
+      "date": "2025-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "DoorDash",
+      "symbol": "DASH",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Monster Beverage",
+      "symbol": "MNST",
+      "date": "2025-11-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Ralph Lauren Corp",
+      "symbol": "RL",
+      "date": "2025-11-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Tapestry Inc",
+      "symbol": "TPR",
+      "date": "2025-11-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    }
+  ],
+  "count": 12,
   "missingPublic": [],
+  "tickerCount": 73,
+  "generatedAt": "2025-10-09T16:34:56Z",
   "week": {
     "id": "2025-11-03",
     "start_date": "2025-11-03",

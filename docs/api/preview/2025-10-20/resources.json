@@ -1,7 +1,117 @@
 {
-  "records": [],
-  "count": 0,
-  "missingPublic": [],
+  "records": [
+    {
+      "company": "EQT Corp",
+      "symbol": "EQT",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Halliburton",
+      "symbol": "HAL",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "First Energy",
+      "symbol": "FE",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "GE Vernova",
+      "symbol": "GEV",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "NextEra Energy",
+      "symbol": "NEE",
+      "date": "2025-10-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Teck Resources",
+      "symbol": "TECK",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Baker Hughes",
+      "symbol": "BKR",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "CenterPoint Energy",
+      "symbol": "CNP",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "DTE",
+      "symbol": "DTE",
+      "date": "2025-10-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Dow",
+      "symbol": "DOW",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Newmont Corp",
+      "symbol": "NEM",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "PG&E Corp",
+      "symbol": "PCG",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Valero Energy Corp",
+      "symbol": "VLO",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    }
+  ],
+  "count": 13,
+  "missingPublic": [
+    "Expand Energy",
+    "Venture Global"
+  ],
+  "tickerCount": 96,
+  "generatedAt": "2025-10-09T16:33:45Z",
   "week": {
     "id": "2025-10-20",
     "start_date": "2025-10-20",

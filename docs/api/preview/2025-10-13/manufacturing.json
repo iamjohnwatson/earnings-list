@@ -1,7 +1,50 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Fastenal Co",
+      "symbol": "FAST",
+      "date": "2025-10-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2025-10-15",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2025-10-15",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "CSX Corp",
+      "symbol": "CSX",
+      "date": "2025-10-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Snap-On Inc",
+      "symbol": "SNA",
+      "date": "2025-10-16",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null
+    }
+  ],
+  "count": 5,
   "missingPublic": [],
+  "tickerCount": 113,
+  "generatedAt": "2025-10-09T16:32:39Z",
   "week": {
     "id": "2025-10-13",
     "start_date": "2025-10-13",
