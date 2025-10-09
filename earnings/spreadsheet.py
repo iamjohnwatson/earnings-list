@@ -31,13 +31,35 @@ def _normalize_session_label(raw_value: str | None) -> str:
         return normalized.upper()
     return value
 
+
+def _date_sort_key(value: str | None) -> tuple[int, str]:
+    if not value:
+        return (1, "")
+    try:
+        # Use datetime ordering while retaining originals for later formatting.
+        parsed = datetime.fromisoformat(value)
+        return (0, parsed.isoformat())
+    except (TypeError, ValueError):
+        return (1, str(value))
+
+
+def _sort_records(records: Iterable[Mapping[str, str]]) -> list[Mapping[str, str]]:
+    items = list(records)
+    return sorted(
+        items,
+        key=lambda record: (
+            _date_sort_key(record.get("date")),
+            (record.get("company") or "").lower(),
+        ),
+    )
+
 _OUTPUT_FIELDS = ["Company", "BMO/AMC", "Time", "Coverage", "Reporter"]
 
 
 def build_csv_rows(records: Iterable[Mapping[str, str]]) -> list[dict]:
     rows = []
     previous_date = None
-    for record in records:
+    for record in _sort_records(records):
         current_date = record.get("date")
         if current_date and current_date != previous_date:
             # Insert a grouping row before the companies for the day.

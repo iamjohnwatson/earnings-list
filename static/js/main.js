@@ -33,6 +33,40 @@
     });
   }
 
+  function formatFullDate(dateString) {
+    if (!dateString) {
+      return '';
+    }
+    const date = new Date(`${dateString}T12:00:00Z`);
+    if (Number.isNaN(date.getTime())) {
+      return dateString;
+    }
+    return date.toLocaleDateString(undefined, {
+      weekday: 'long',
+      month: 'long',
+      day: 'numeric',
+      year: 'numeric',
+    });
+  }
+
+  function normalizeSessionLabel(rawValue) {
+    if (!rawValue) {
+      return 'TBD';
+    }
+    const value = rawValue.trim();
+    const normalized = value.toLowerCase().replace(/[_\s]+/g, '-');
+    if (normalized === 'time-after-hours' || normalized === 'after-hours' || normalized === 'afterhours') {
+      return 'AMC';
+    }
+    if (normalized === 'time-pre-market' || normalized === 'pre-market' || normalized === 'premarket') {
+      return 'BMO';
+    }
+    if (normalized === 'bmo' || normalized === 'amc') {
+      return value.toUpperCase();
+    }
+    return value;
+  }
+
   function renderMissing(privateFirms) {
     if (!privateFirms || privateFirms.length === 0) {
       missingSection.classList.add('hidden');
@@ -55,8 +89,31 @@
       matchCount.textContent = 'No matches';
       return;
     }
+    const sortedRecords = [...data.records].sort((a, b) => {
+      const aDate = a.date || '';
+      const bDate = b.date || '';
+      if (aDate !== bDate) {
+        return aDate.localeCompare(bDate);
+      }
+      const aCompany = (a.company || '').toLowerCase();
+      const bCompany = (b.company || '').toLowerCase();
+      return aCompany.localeCompare(bCompany);
+    });
+    let previousDate = null;
     const fragment = document.createDocumentFragment();
-    data.records.forEach((record) => {
+    sortedRecords.forEach((record) => {
+      const recordDate = record.date || '';
+      if (recordDate && recordDate !== previousDate) {
+        const groupRow = document.createElement('tr');
+        groupRow.className = 'day-row';
+        const groupCell = document.createElement('th');
+        groupCell.setAttribute('scope', 'colgroup');
+        groupCell.colSpan = 4;
+        groupCell.textContent = formatFullDate(recordDate);
+        groupRow.appendChild(groupCell);
+        fragment.appendChild(groupRow);
+        previousDate = recordDate;
+      }
       const tr = document.createElement('tr');
       const companyCell = document.createElement('td');
       companyCell.textContent = record.company || '';
@@ -65,7 +122,7 @@
       const dateCell = document.createElement('td');
       dateCell.textContent = formatWeekday(record.date);
       const callCell = document.createElement('td');
-      callCell.textContent = record.bmo_amc || 'TBD';
+      callCell.textContent = normalizeSessionLabel(record.bmo_amc);
       tr.append(companyCell, tickerCell, dateCell, callCell);
       fragment.appendChild(tr);
     });

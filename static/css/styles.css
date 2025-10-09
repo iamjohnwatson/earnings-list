@@ -164,6 +164,23 @@ select:focus {
   text-align: left;
 }
 
+#preview-table tbody tr.day-row th {
+  background: #eef4ff;
+  color: #1a3bb3;
+  font-weight: 700;
+  font-size: 0.95rem;
+  letter-spacing: 0.01em;
+  text-transform: none;
+}
+
+#preview-table tbody tr.day-row:hover {
+  background: #eef4ff;
+}
+
+#preview-table tbody tr.day-row th {
+  border-bottom-color: #d8e1ff;
+}
+
 #preview-table tbody tr:hover {
   background: #f6f8fd;
 }
