@@ -557,7 +557,356 @@
       "ticker": "ZS"
     }
   ],
-  "Finance": [],
+  "Finance": [
+    {
+      "name": "Allstate Corp",
+      "ticker": "ALL"
+    },
+    {
+      "name": "Aon",
+      "ticker": "AON"
+    },
+    {
+      "name": "Arch Capital Group",
+      "ticker": "ACGL"
+    },
+    {
+      "name": "Arthur J. Gallagher",
+      "ticker": "AJG"
+    },
+    {
+      "name": "Assurant Inc",
+      "ticker": "AIZ"
+    },
+    {
+      "name": "Brown & Brown",
+      "ticker": "BRO"
+    },
+    {
+      "name": "Chubb",
+      "ticker": "CB"
+    },
+    {
+      "name": "Cincinnati Financial",
+      "ticker": "CINF"
+    },
+    {
+      "name": "Everest",
+      "ticker": "EG"
+    },
+    {
+      "name": "Globe Life",
+      "ticker": "GL"
+    },
+    {
+      "name": "Hartford Financial Services",
+      "ticker": "HIG"
+    },
+    {
+      "name": "Lincoln National Corporation",
+      "ticker": "LNC"
+    },
+    {
+      "name": "Marsh McLennan",
+      "ticker": "MMC"
+    },
+    {
+      "name": "MetLife",
+      "ticker": "MET"
+    },
+    {
+      "name": "Principal Financial Group",
+      "ticker": "PFG"
+    },
+    {
+      "name": "Progressive Corporation",
+      "ticker": "PGR"
+    },
+    {
+      "name": "Prudential Financial",
+      "ticker": "PRU"
+    },
+    {
+      "name": "W. R. Berkley Corp",
+      "ticker": "WRB"
+    },
+    {
+      "name": "Willis Tower Watson",
+      "ticker": "WTW"
+    },
+    {
+      "name": "Cboe Global Markets",
+      "ticker": "CBOE"
+    },
+    {
+      "name": "CME Group Inc",
+      "ticker": "CME"
+    },
+    {
+      "name": "Intercontinental Exchange",
+      "ticker": "ICE"
+    },
+    {
+      "name": "Nasdaq",
+      "ticker": "NDAQ"
+    },
+    {
+      "name": "Lazard",
+      "ticker": "LAZ"
+    },
+    {
+      "name": "Bank of New York Mellon",
+      "ticker": "BK"
+    },
+    {
+      "name": "Capital One Financial",
+      "ticker": "COF"
+    },
+    {
+      "name": "Charles Schwab",
+      "ticker": "SCHW"
+    },
+    {
+      "name": "Citizens Financial",
+      "ticker": "CFG"
+    },
+    {
+      "name": "Comerica Inc",
+      "ticker": "CMA"
+    },
+    {
+      "name": "Fifth Third Bancorp",
+      "ticker": "FITB"
+    },
+    {
+      "name": "Huntington Bancshares",
+      "ticker": "HBAN"
+    },
+    {
+      "name": "KeyCorp",
+      "ticker": "KEY"
+    },
+    {
+      "name": "M&T Bank Corp",
+      "ticker": "MTB"
+    },
+    {
+      "name": "PNC Financial",
+      "ticker": "PNC"
+    },
+    {
+      "name": "Raymond James",
+      "ticker": "RJF"
+    },
+    {
+      "name": "Regions Financial",
+      "ticker": "RF"
+    },
+    {
+      "name": "State Street Corp",
+      "ticker": "STT"
+    },
+    {
+      "name": "Synchrony Financial",
+      "ticker": "SYF"
+    },
+    {
+      "name": "Truist Financial",
+      "ticker": "TFC"
+    },
+    {
+      "name": "US Bancorp",
+      "ticker": "USB"
+    },
+    {
+      "name": "Zions Bancorporation",
+      "ticker": "ZION"
+    },
+    {
+      "name": "Block",
+      "ticker": "SQ"
+    },
+    {
+      "name": "Coinbase",
+      "ticker": "COIN"
+    },
+    {
+      "name": "PayPal Holdings",
+      "ticker": "PYPL"
+    },
+    {
+      "name": "Robinhood",
+      "ticker": "HOOD"
+    },
+    {
+      "name": "BlackRock Inc",
+      "ticker": "BLK"
+    },
+    {
+      "name": "Bank of America",
+      "ticker": "BAC"
+    },
+    {
+      "name": "Citigroup",
+      "ticker": "C"
+    },
+    {
+      "name": "Goldman Sachs",
+      "ticker": "GS"
+    },
+    {
+      "name": "JPMorgan",
+      "ticker": "JPM"
+    },
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS"
+    },
+    {
+      "name": "Wells Fargo",
+      "ticker": "WFC"
+    },
+    {
+      "name": "FactSet Research",
+      "ticker": "FDS"
+    },
+    {
+      "name": "Fair Issac Corp",
+      "ticker": "FICO"
+    },
+    {
+      "name": "Fidelity National Information Services",
+      "ticker": "FIS"
+    },
+    {
+      "name": "Moody's Corporation",
+      "ticker": "MCO"
+    },
+    {
+      "name": "MSCI Inc",
+      "ticker": "MSCI"
+    },
+    {
+      "name": "S&P Global Inc",
+      "ticker": "SPGI"
+    },
+    {
+      "name": "Fiserv",
+      "ticker": "FI"
+    },
+    {
+      "name": "Fleetcor",
+      "ticker": "FLT"
+    },
+    {
+      "name": "Global Payments",
+      "ticker": "GPN"
+    },
+    {
+      "name": "Jack Henry and Associates",
+      "ticker": "JKHY"
+    },
+    {
+      "name": "Discover Financial",
+      "ticker": "DFS"
+    },
+    {
+      "name": "American Express",
+      "ticker": "AXP"
+    },
+    {
+      "name": "Mastercard",
+      "ticker": "MA"
+    },
+    {
+      "name": "Visa",
+      "ticker": "V"
+    },
+    {
+      "name": "Bank of Montreal",
+      "ticker": "BMO"
+    },
+    {
+      "name": "CDPQ",
+      "ticker": null
+    },
+    {
+      "name": "CIBC",
+      "ticker": "CM"
+    },
+    {
+      "name": "CPPIB",
+      "ticker": null
+    },
+    {
+      "name": "Manulife",
+      "ticker": "MFC"
+    },
+    {
+      "name": "National Bank",
+      "ticker": "NTIOF"
+    },
+    {
+      "name": "Royal Bank of Canada",
+      "ticker": "RY"
+    },
+    {
+      "name": "Scotiabank",
+      "ticker": "BNS"
+    },
+    {
+      "name": "Sun Life",
+      "ticker": "SLF"
+    },
+    {
+      "name": "TD Bank",
+      "ticker": "TD"
+    },
+    {
+      "name": "Apollo",
+      "ticker": "APO"
+    },
+    {
+      "name": "Blackstone",
+      "ticker": "BX"
+    },
+    {
+      "name": "Carlyle",
+      "ticker": "CG"
+    },
+    {
+      "name": "KKR",
+      "ticker": "KKR"
+    },
+    {
+      "name": "TPG",
+      "ticker": "TPG"
+    },
+    {
+      "name": "Ameriprise Financial Inc",
+      "ticker": "AMP"
+    },
+    {
+      "name": "Franklin Templeton",
+      "ticker": "BEN"
+    },
+    {
+      "name": "Invesco",
+      "ticker": "IVZ"
+    },
+    {
+      "name": "Northern Trust",
+      "ticker": "NTRS"
+    },
+    {
+      "name": "T. Rowe Price Group",
+      "ticker": "TROW"
+    },
+    {
+      "name": "Interactive Brokers",
+      "ticker": "IBKR"
+    }
+  ],
   "Manufacturing": [
     {
       "name": "TransDigm Group Inc",
@@ -1014,6 +1363,299 @@
   ],
   "Pharma": [],
   "Resources": [],
-  "Consumer": []
+  "Consumer": [
+    {
+      "name": "Philip Morris International",
+      "ticker": "PM"
+    },
+    {
+      "name": "Altria Group Inc",
+      "ticker": "MO"
+    },
+    {
+      "name": "Colgate-Palmolive",
+      "ticker": "CL"
+    },
+    {
+      "name": "Kimberly Clark Corp",
+      "ticker": "KMB"
+    },
+    {
+      "name": "Ross Stores",
+      "ticker": "ROST"
+    },
+    {
+      "name": "Simon Property Group",
+      "ticker": "SPG"
+    },
+    {
+      "name": "Molson Coors Beverage Co",
+      "ticker": "TAP"
+    },
+    {
+      "name": "Constellation Brands",
+      "ticker": "STZ"
+    },
+    {
+      "name": "Brown-Forman Corp",
+      "ticker": "BF.B"
+    },
+    {
+      "name": "Ulta Beauty",
+      "ticker": "ULTA"
+    },
+    {
+      "name": "Hormel Foods",
+      "ticker": "HRL"
+    },
+    {
+      "name": "Federal Realty Investment Trust",
+      "ticker": "FRT"
+    },
+    {
+      "name": "Darden Restaurants",
+      "ticker": "DRI"
+    },
+    {
+      "name": "Clorox Co",
+      "ticker": "CLX"
+    },
+    {
+      "name": "Etsy Inc",
+      "ticker": "ETSY"
+    },
+    {
+      "name": "VF Corp",
+      "ticker": "VFC"
+    },
+    {
+      "name": "Sysco Corp",
+      "ticker": "SYY"
+    },
+    {
+      "name": "Bath & Body Works",
+      "ticker": "BBWI"
+    },
+    {
+      "name": "McCormick & Co",
+      "ticker": "MKC"
+    },
+    {
+      "name": "Monster Beverage",
+      "ticker": "MNST"
+    },
+    {
+      "name": "Lamb Weston Holdings",
+      "ticker": "LW"
+    },
+    {
+      "name": "Keurig Dr. Pepper",
+      "ticker": "KDP"
+    },
+    {
+      "name": "Regency Centers Corp",
+      "ticker": "REG"
+    },
+    {
+      "name": "Church & Dwight",
+      "ticker": "CHD"
+    },
+    {
+      "name": "Kimco Realty Corp",
+      "ticker": "KIM"
+    },
+    {
+      "name": "International Flavours & Fragrances",
+      "ticker": "IFF"
+    },
+    {
+      "name": "Cintas Corp",
+      "ticker": "CTAS"
+    },
+    {
+      "name": "Ball Corp",
+      "ticker": "BALL"
+    },
+    {
+      "name": "Tractor Supply Co",
+      "ticker": "TSCO"
+    },
+    {
+      "name": "Masco Corp",
+      "ticker": "MAS"
+    },
+    {
+      "name": "Rollins Inc",
+      "ticker": "ROL"
+    },
+    {
+      "name": "Amcor PLC",
+      "ticker": "AMCR"
+    },
+    {
+      "name": "International Paper Co",
+      "ticker": "IP"
+    },
+    {
+      "name": "Deckers Outdoors",
+      "ticker": "DECK"
+    },
+    {
+      "name": "Walmart Inc",
+      "ticker": "WMT"
+    },
+    {
+      "name": "Procter & Gamble",
+      "ticker": "PG"
+    },
+    {
+      "name": "Home Depot Inc",
+      "ticker": "HD"
+    },
+    {
+      "name": "Coca-Cola Co",
+      "ticker": "KO"
+    },
+    {
+      "name": "PepsiCo Inc",
+      "ticker": "PEP"
+    },
+    {
+      "name": "Costco Wholesale Corp",
+      "ticker": "COST"
+    },
+    {
+      "name": "McDonald’s Corp",
+      "ticker": "MCD"
+    },
+    {
+      "name": "Nike Inc",
+      "ticker": "NKE"
+    },
+    {
+      "name": "Lowe’s Cos Inc",
+      "ticker": "LOW"
+    },
+    {
+      "name": "Starbucks Corp",
+      "ticker": "SBUX"
+    },
+    {
+      "name": "Estee Lauder",
+      "ticker": "EL"
+    },
+    {
+      "name": "TJX Cos Inc",
+      "ticker": "TJX"
+    },
+    {
+      "name": "Mondelez International",
+      "ticker": "MDLZ"
+    },
+    {
+      "name": "Target Corp",
+      "ticker": "TGT"
+    },
+    {
+      "name": "Dollar General",
+      "ticker": "DG"
+    },
+    {
+      "name": "Kraft Heinz Co",
+      "ticker": "KHC"
+    },
+    {
+      "name": "General Mills",
+      "ticker": "GIS"
+    },
+    {
+      "name": "Hershey Co",
+      "ticker": "HSY"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "ticker": "CMG"
+    },
+    {
+      "name": "Yum Brands",
+      "ticker": "YUM"
+    },
+    {
+      "name": "Kroger Co",
+      "ticker": "KR"
+    },
+    {
+      "name": "Dollar Tree",
+      "ticker": "DLTR"
+    },
+    {
+      "name": "Kellanova",
+      "ticker": "K"
+    },
+    {
+      "name": "Tyson Foods",
+      "ticker": "TSN"
+    },
+    {
+      "name": "Conagra Brands",
+      "ticker": "CAG"
+    },
+    {
+      "name": "Best Buy Co Inc",
+      "ticker": "BBY"
+    },
+    {
+      "name": "J.M. Smucker Co",
+      "ticker": "SJM"
+    },
+    {
+      "name": "Campbell Soup Co",
+      "ticker": "CPB"
+    },
+    {
+      "name": "Royal Caribbean Group",
+      "ticker": "RCL"
+    },
+    {
+      "name": "Domino’s Pizza Inc",
+      "ticker": "DPZ"
+    },
+    {
+      "name": "Carnival Corp",
+      "ticker": "CCL"
+    },
+    {
+      "name": "Tapestry Inc",
+      "ticker": "TPR"
+    },
+    {
+      "name": "Hasbro Inc",
+      "ticker": "HAS"
+    },
+    {
+      "name": "Ralph Lauren Corp",
+      "ticker": "RL"
+    },
+    {
+      "name": "Norwegian Cruise Line",
+      "ticker": "NCLH"
+    },
+    {
+      "name": "Lululemon Athletica",
+      "ticker": "LULU"
+    },
+    {
+      "name": "Coca-Cola Europacific",
+      "ticker": "CCEP"
+    },
+    {
+      "name": "DoorDash",
+      "ticker": "DASH"
+    },
+    {
+      "name": "Instacart",
+      "ticker": "CART"
+    }
+  ]
 }
 
