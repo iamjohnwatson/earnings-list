@@ -85,6 +85,7 @@ def _fetch_data(sector: str, week: dict):
         "records": results,
         "missing_public": get_companies_without_ticker(sector),
         "ticker_count": len(ticker_to_name),
+        "generated_at": datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
     }
     _set_cache(sector, week["id"], metadata)
     return metadata
@@ -130,6 +131,8 @@ def api_preview():
             "records": data["records"],
             "count": len(data["records"]),
             "missingPublic": data["missing_public"],
+            "tickerCount": data.get("ticker_count", 0),
+            "generatedAt": data.get("generated_at"),
             "week": week,
             "sector": sector,
         }

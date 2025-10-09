@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import json
 import logging
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 from typing import Dict, Iterable, List
 from urllib.parse import quote
@@ -100,6 +100,8 @@ def serialise_preview(sector: str, sector_slug: str, week: dict, data: Dict[str,
         "records": data["records"],
         "count": len(data["records"]),
         "missingPublic": data["missing_public"],
+        "tickerCount": data.get("ticker_count", 0),
+        "generatedAt": data.get("generated_at"),
         "week": week,
         "sector": sector,
         "sectorSlug": sector_slug,
@@ -125,6 +127,7 @@ def fetch_sector_week(sector: str, week: dict) -> Dict[str, object]:
         "records": results,
         "missing_public": get_companies_without_ticker(sector),
         "ticker_count": len(ticker_to_name),
+        "generated_at": datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
     }
 
 

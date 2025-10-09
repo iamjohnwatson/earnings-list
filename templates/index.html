@@ -43,21 +43,35 @@
 
       <section id="preview" class="preview hidden" aria-live="polite">
         <div class="preview-header">
-          <h2>Matching Companies</h2>
+          <div class="preview-title">
+            <h2>Matching Companies</h2>
+            <div id="preview-meta" class="preview-meta" aria-live="polite">
+              <span id="preview-sector" class="meta-chip"></span>
+              <span id="preview-week" class="meta-chip"></span>
+              <span id="preview-updated" class="meta-chip"></span>
+              <span id="preview-missing" class="meta-chip"></span>
+            </div>
+          </div>
           <span id="match-count" class="badge"></span>
         </div>
-        <div class="table-wrapper">
-          <table id="preview-table">
-            <thead>
-              <tr>
-                <th scope="col">Company</th>
-                <th scope="col">Ticker</th>
-                <th scope="col">Weekday</th>
-                <th scope="col">BMO/AMC</th>
-              </tr>
-            </thead>
-            <tbody></tbody>
-          </table>
+        <div class="preview-layout">
+          <div class="table-wrapper">
+            <table id="preview-table">
+              <thead>
+                <tr>
+                  <th scope="col">Company</th>
+                  <th scope="col">Ticker</th>
+                  <th scope="col">Weekday</th>
+                  <th scope="col">BMO/AMC</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <aside id="day-timeline" class="timeline hidden" aria-label="Daily earnings distribution">
+            <h3>Week Overview</h3>
+            <ul id="timeline-list" class="timeline-list"></ul>
+          </aside>
         </div>
       </section>
     </main>
