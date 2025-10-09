@@ -1,0 +1,103 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Earnings Week Planner</title>
+    <link rel="stylesheet" href="static/css/styles.css">
+  </head>
+  <body>
+    <main class="container">
+      <header class="page-header">
+        <h1>Quarterly Earnings Downloader</h1>
+        <p>Select a coverage week and sector to build a Reuters-ready earnings spreadsheet.</p>
+      </header>
+
+      <section class="controls">
+        <form id="filters" class="controls-form" action="javascript:void(0);">
+          <label class="field">
+            <span>Week</span>
+            <select id="week-select" required>
+              
+              <option value="2025-09-29">Week of Sep 29 to Oct 3</option>
+              
+              <option value="2025-10-06">Week of Oct 6 to Oct 10</option>
+              
+              <option value="2025-10-13">Week of Oct 13 to Oct 17</option>
+              
+              <option value="2025-10-20">Week of Oct 20 to Oct 24</option>
+              
+              <option value="2025-10-27">Week of Oct 27 to Oct 31</option>
+              
+              <option value="2025-11-03">Week of Nov 3 to Nov 7</option>
+              
+              <option value="2025-11-10">Week of Nov 10 to Nov 14</option>
+              
+              <option value="2025-11-17">Week of Nov 17 to Nov 21</option>
+              
+              <option value="2025-11-24">Week of Nov 24 to Nov 28</option>
+              
+              <option value="2025-12-01">Week of Dec 1 to Dec 5</option>
+              
+              <option value="2025-12-08">Week of Dec 8 to Dec 12</option>
+              
+              <option value="2025-12-15">Week of Dec 15 to Dec 19</option>
+              
+              <option value="2025-12-22">Week of Dec 22 to Dec 26</option>
+              
+            </select>
+          </label>
+          <label class="field">
+            <span>Sector</span>
+            <select id="sector-select" required>
+              
+              <option value="Consumer">Consumer</option>
+              
+              <option value="Finance">Finance</option>
+              
+              <option value="Manufacturing">Manufacturing</option>
+              
+              <option value="Pharma">Pharma</option>
+              
+              <option value="Resources">Resources</option>
+              
+              <option value="TMT">TMT</option>
+              
+            </select>
+          </label>
+          <div class="actions">
+            <button type="button" id="preview-btn" class="btn primary">Preview Week</button>
+            <button type="button" id="download-btn" class="btn" disabled>Download CSV</button>
+          </div>
+        </form>
+        <div id="status" class="status" role="status" aria-live="polite"></div>
+      </section>
+
+      <section id="missing" class="missing hidden" aria-live="polite"></section>
+
+      <section id="preview" class="preview hidden" aria-live="polite">
+        <div class="preview-header">
+          <h2>Matching Companies</h2>
+          <span id="match-count" class="badge"></span>
+        </div>
+        <div class="table-wrapper">
+          <table id="preview-table">
+            <thead>
+              <tr>
+                <th scope="col">Company</th>
+                <th scope="col">Ticker</th>
+                <th scope="col">Weekday</th>
+                <th scope="col">BMO/AMC</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+    <script>
+      window.APP_PRELOADED_WEEKS = [{"end_date": "2025-10-03", "id": "2025-09-29", "label": "Week of Sep 29 to Oct 3", "start_date": "2025-09-29"}, {"end_date": "2025-10-10", "id": "2025-10-06", "label": "Week of Oct 6 to Oct 10", "start_date": "2025-10-06"}, {"end_date": "2025-10-17", "id": "2025-10-13", "label": "Week of Oct 13 to Oct 17", "start_date": "2025-10-13"}, {"end_date": "2025-10-24", "id": "2025-10-20", "label": "Week of Oct 20 to Oct 24", "start_date": "2025-10-20"}, {"end_date": "2025-10-31", "id": "2025-10-27", "label": "Week of Oct 27 to Oct 31", "start_date": "2025-10-27"}, {"end_date": "2025-11-07", "id": "2025-11-03", "label": "Week of Nov 3 to Nov 7", "start_date": "2025-11-03"}, {"end_date": "2025-11-14", "id": "2025-11-10", "label": "Week of Nov 10 to Nov 14", "start_date": "2025-11-10"}, {"end_date": "2025-11-21", "id": "2025-11-17", "label": "Week of Nov 17 to Nov 21", "start_date": "2025-11-17"}, {"end_date": "2025-11-28", "id": "2025-11-24", "label": "Week of Nov 24 to Nov 28", "start_date": "2025-11-24"}, {"end_date": "2025-12-05", "id": "2025-12-01", "label": "Week of Dec 1 to Dec 5", "start_date": "2025-12-01"}, {"end_date": "2025-12-12", "id": "2025-12-08", "label": "Week of Dec 8 to Dec 12", "start_date": "2025-12-08"}, {"end_date": "2025-12-19", "id": "2025-12-15", "label": "Week of Dec 15 to Dec 19", "start_date": "2025-12-15"}, {"end_date": "2025-12-26", "id": "2025-12-22", "label": "Week of Dec 22 to Dec 26", "start_date": "2025-12-22"}];
+    </script>
+    <script src="static/js/main.js" defer></script>
+  </body>
+</html>

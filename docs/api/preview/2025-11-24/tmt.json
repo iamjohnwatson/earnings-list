@@ -1,0 +1,82 @@
+{
+  "records": [
+    {
+      "company": "Zoom",
+      "symbol": "ZM",
+      "date": "2025-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Analog Devices",
+      "symbol": "ADI",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Autodesk",
+      "symbol": "ADSK",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Crowdstrike",
+      "symbol": "CRWD",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Dell",
+      "symbol": "DELL",
+      "date": "2025-11-25",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "HP Inc",
+      "symbol": "HPQ",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "VinFast",
+      "symbol": "VFS",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Workday",
+      "symbol": "WDAY",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    }
+  ],
+  "count": 8,
+  "missingPublic": [
+    "CoreWeave",
+    "Figma"
+  ],
+  "week": {
+    "id": "2025-11-24",
+    "start_date": "2025-11-24",
+    "end_date": "2025-11-28",
+    "label": "Week of Nov 24 to Nov 28"
+  },
+  "sector": "TMT",
+  "sectorSlug": "tmt",
+  "downloadPath": "downloads/2025-11-24/earnings_tmt_2025-11-24.csv"
+}

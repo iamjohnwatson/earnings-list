@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "company": "Crown Castle",
+      "symbol": "CCI",
+      "date": "2025-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    }
+  ],
+  "count": 1,
+  "missingPublic": [
+    "CoreWeave",
+    "Figma"
+  ],
+  "week": {
+    "id": "2025-10-13",
+    "start_date": "2025-10-13",
+    "end_date": "2025-10-17",
+    "label": "Week of Oct 13 to Oct 17"
+  },
+  "sector": "TMT",
+  "sectorSlug": "tmt",
+  "downloadPath": "downloads/2025-10-13/earnings_tmt_2025-10-13.csv"
+}

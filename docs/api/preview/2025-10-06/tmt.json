@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2025-10-09",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC"
+    }
+  ],
+  "count": 1,
+  "missingPublic": [
+    "CoreWeave",
+    "Figma"
+  ],
+  "week": {
+    "id": "2025-10-06",
+    "start_date": "2025-10-06",
+    "end_date": "2025-10-10",
+    "label": "Week of Oct 6 to Oct 10"
+  },
+  "sector": "TMT",
+  "sectorSlug": "tmt",
+  "downloadPath": "downloads/2025-10-06/earnings_tmt_2025-10-06.csv"
+}

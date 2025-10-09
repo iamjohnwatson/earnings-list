@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2025-09-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    }
+  ],
+  "count": 1,
+  "missingPublic": [
+    "CoreWeave",
+    "Figma"
+  ],
+  "week": {
+    "id": "2025-09-29",
+    "start_date": "2025-09-29",
+    "end_date": "2025-10-03",
+    "label": "Week of Sep 29 to Oct 3"
+  },
+  "sector": "TMT",
+  "sectorSlug": "tmt",
+  "downloadPath": "downloads/2025-09-29/earnings_tmt_2025-09-29.csv"
+}

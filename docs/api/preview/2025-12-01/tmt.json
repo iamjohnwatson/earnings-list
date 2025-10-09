@@ -1,0 +1,58 @@
+{
+  "records": [
+    {
+      "company": "Zscaler",
+      "symbol": "ZS",
+      "date": "2025-12-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Marvell",
+      "symbol": "MRVL",
+      "date": "2025-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Salesforce",
+      "symbol": "CRM",
+      "date": "2025-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "SentinelOne",
+      "symbol": "S",
+      "date": "2025-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    },
+    {
+      "company": "Synopsys",
+      "symbol": "SNPS",
+      "date": "2025-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null
+    }
+  ],
+  "count": 5,
+  "missingPublic": [
+    "CoreWeave",
+    "Figma"
+  ],
+  "week": {
+    "id": "2025-12-01",
+    "start_date": "2025-12-01",
+    "end_date": "2025-12-05",
+    "label": "Week of Dec 1 to Dec 5"
+  },
+  "sector": "TMT",
+  "sectorSlug": "tmt",
+  "downloadPath": "downloads/2025-12-01/earnings_tmt_2025-12-01.csv"
+}

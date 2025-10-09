@@ -1,0 +1,188 @@
+﻿:root {
+  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #1a1a1a;
+  background: #f5f7fb;
+  line-height: 1.5;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2.5rem 1.75rem 4rem;
+}
+
+.page-header h1 {
+  margin-bottom: 0.25rem;
+}
+
+.page-header p {
+  margin-top: 0;
+  color: #4a4a4a;
+}
+
+.controls-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: flex-end;
+  margin-bottom: 1rem;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  min-width: 220px;
+}
+
+.field span {
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+select {
+  padding: 0.6rem 0.75rem;
+  border-radius: 8px;
+  border: 1px solid #c7ced9;
+  font-size: 1rem;
+  background-color: #fff;
+}
+
+select:focus {
+  outline: 2px solid #3761ee;
+  outline-offset: 2px;
+}
+
+.actions {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.btn {
+  padding: 0.65rem 1.6rem;
+  border-radius: 8px;
+  border: 1px solid #1a1a1a;
+  background: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.btn.primary {
+  background: #1a4dff;
+  border-color: #1a4dff;
+  color: #fff;
+}
+
+.btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.btn:not(:disabled):hover {
+  background: #1a4dff;
+  border-color: #1a4dff;
+  color: #fff;
+}
+
+.status {
+  min-height: 1.5rem;
+  font-size: 0.95rem;
+}
+
+.status.info {
+  color: #26418f;
+}
+
+.status.error {
+  color: #b42318;
+}
+
+.status.success {
+  color: #0f7a2a;
+}
+
+.status.loading {
+  color: #1a4dff;
+}
+
+.missing {
+  background: #fff;
+  border: 1px solid #e0e6f3;
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.2rem;
+}
+
+.missing strong {
+  display: block;
+  margin-bottom: 0.6rem;
+}
+
+.preview {
+  background: #fff;
+  border-radius: 12px;
+  border: 1px solid #e0e6f3;
+  padding: 1.5rem 1.75rem;
+  box-shadow: 0 12px 30px rgba(12, 25, 56, 0.08);
+}
+
+.preview-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.75rem;
+  border-radius: 999px;
+  background: #eef4ff;
+  color: #1a4dff;
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+#preview-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#preview-table th,
+#preview-table td {
+  padding: 0.65rem 0.75rem;
+  border-bottom: 1px solid #e6eaf2;
+  text-align: left;
+}
+
+#preview-table tbody tr:hover {
+  background: #f6f8fd;
+}
+
+.hidden {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  .controls-form {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .actions {
+    justify-content: stretch;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
