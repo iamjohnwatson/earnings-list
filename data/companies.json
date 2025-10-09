@@ -558,7 +558,460 @@
     }
   ],
   "Finance": [],
-  "Manufacturing": [],
+  "Manufacturing": [
+    {
+      "name": "TransDigm Group Inc",
+      "ticker": "TDG"
+    },
+    {
+      "name": "GE Aerospace",
+      "ticker": "GE"
+    },
+    {
+      "name": "General Dynamics Corp",
+      "ticker": "GD"
+    },
+    {
+      "name": "CNH Industrial",
+      "ticker": "CNHI"
+    },
+    {
+      "name": "Airbnb Inc",
+      "ticker": "ABNB"
+    },
+    {
+      "name": "Las Vegas Sands Corp",
+      "ticker": "LVS"
+    },
+    {
+      "name": "Ford Motor Co",
+      "ticker": "F"
+    },
+    {
+      "name": "RTX",
+      "ticker": "RTX"
+    },
+    {
+      "name": "Boston Properties",
+      "ticker": "BXP"
+    },
+    {
+      "name": "Southwest Airlines Co",
+      "ticker": "LUV"
+    },
+    {
+      "name": "Bombardier",
+      "ticker": "BDRBF"
+    },
+    {
+      "name": "Nordson Corp",
+      "ticker": "NDSN"
+    },
+    {
+      "name": "Hilton Worldwide Holdings Inc",
+      "ticker": "HLT"
+    },
+    {
+      "name": "Fortive Corp",
+      "ticker": "FTV"
+    },
+    {
+      "name": "Aptiv PLC",
+      "ticker": "APTV"
+    },
+    {
+      "name": "Lockheed Martin",
+      "ticker": "LMT"
+    },
+    {
+      "name": "American Water Works",
+      "ticker": "AWK"
+    },
+    {
+      "name": "American Airlines Group Inc",
+      "ticker": "AAL"
+    },
+    {
+      "name": "Textron Inc",
+      "ticker": "TXT"
+    },
+    {
+      "name": "Equity Residential",
+      "ticker": "EQR"
+    },
+    {
+      "name": "Marriott International Inc",
+      "ticker": "MAR"
+    },
+    {
+      "name": "Ingersoll Rand Inc",
+      "ticker": "IR"
+    },
+    {
+      "name": "Autozone Inc",
+      "ticker": "AZO"
+    },
+    {
+      "name": "Veralto Corp",
+      "ticker": "VLTO"
+    },
+    {
+      "name": "Illinois Tool Works Inc",
+      "ticker": "ITW"
+    },
+    {
+      "name": "Air Canada",
+      "ticker": "ACDVF"
+    },
+    {
+      "name": "United Rentals Inc",
+      "ticker": "URI"
+    },
+    {
+      "name": "Invitation Homes Inc",
+      "ticker": "INVH"
+    },
+    {
+      "name": "Expedia Group Inc",
+      "ticker": "EXPE"
+    },
+    {
+      "name": "Wynn Resorts Ltd",
+      "ticker": "WYNN"
+    },
+    {
+      "name": "Borgwarner Inc",
+      "ticker": "BWA"
+    },
+    {
+      "name": "Packaging Corp of America",
+      "ticker": "PKG"
+    },
+    {
+      "name": "AMETEK Inc",
+      "ticker": "AME"
+    },
+    {
+      "name": "Air Lease",
+      "ticker": "AL"
+    },
+    {
+      "name": "Steel Dynamics",
+      "ticker": "STLD"
+    },
+    {
+      "name": "Old Dominion Freight Line Inc",
+      "ticker": "ODFL"
+    },
+    {
+      "name": "Booking Holdings Inc",
+      "ticker": "BKNG"
+    },
+    {
+      "name": "Caesars Entertainment Inc",
+      "ticker": "CZR"
+    },
+    {
+      "name": "Carmax Inc",
+      "ticker": "KMX"
+    },
+    {
+      "name": "Jabil Inc",
+      "ticker": "JBL"
+    },
+    {
+      "name": "Stanley Black & Decker",
+      "ticker": "SWK"
+    },
+    {
+      "name": "JetBlue",
+      "ticker": "JBLU"
+    },
+    {
+      "name": "Nucor Corp",
+      "ticker": "NUE"
+    },
+    {
+      "name": "J B Hunt Transport Services Inc",
+      "ticker": "JBHT"
+    },
+    {
+      "name": "Eaton Corporation PLC",
+      "ticker": "ETN"
+    },
+    {
+      "name": "MGM Resorts International",
+      "ticker": "MGM"
+    },
+    {
+      "name": "Magna International",
+      "ticker": "MGA"
+    },
+    {
+      "name": "Realty Income Corp",
+      "ticker": "O"
+    },
+    {
+      "name": "Fastenal Co",
+      "ticker": "FAST"
+    },
+    {
+      "name": "Alaska Air",
+      "ticker": "ALK"
+    },
+    {
+      "name": "Pool Corp",
+      "ticker": "POOL"
+    },
+    {
+      "name": "CH Robinson Worldwide Inc",
+      "ticker": "CHRW"
+    },
+    {
+      "name": "Host Hotels & Resorts Inc",
+      "ticker": "HST"
+    },
+    {
+      "name": "TE Connectivity Ltd",
+      "ticker": "TEL"
+    },
+    {
+      "name": "Harley Davidson",
+      "ticker": "HOG"
+    },
+    {
+      "name": "Parker-Hannifin Corp",
+      "ticker": "PH"
+    },
+    {
+      "name": "Dover Corp",
+      "ticker": "DOV"
+    },
+    {
+      "name": "Spirit Airlines",
+      "ticker": "SAVE"
+    },
+    {
+      "name": "Jacobs Solutions Inc",
+      "ticker": "J"
+    },
+    {
+      "name": "Expeditors International of Washington Inc",
+      "ticker": "EXPD"
+    },
+    {
+      "name": "VICI Properties Inc",
+      "ticker": "VICI"
+    },
+    {
+      "name": "Waste Management Inc",
+      "ticker": "WM"
+    },
+    {
+      "name": "Caterpillar",
+      "ticker": "CAT"
+    },
+    {
+      "name": "Camden Property Trust",
+      "ticker": "CPT"
+    },
+    {
+      "name": "Wabtec",
+      "ticker": "WAB"
+    },
+    {
+      "name": "Delta Air",
+      "ticker": "DAL"
+    },
+    {
+      "name": "Otis Worldwide Corp",
+      "ticker": "OTIS"
+    },
+    {
+      "name": "Extra Space Storage Inc",
+      "ticker": "EXR"
+    },
+    {
+      "name": "IDEX Corp",
+      "ticker": "IEX"
+    },
+    {
+      "name": "Republic Services Inc",
+      "ticker": "RSG"
+    },
+    {
+      "name": "Deere",
+      "ticker": "DE"
+    },
+    {
+      "name": "Northrop Grumman Corp",
+      "ticker": "NOC"
+    },
+    {
+      "name": "Frontier Holdings",
+      "ticker": "ULCC"
+    },
+    {
+      "name": "Alexandria Real Estate Equities Inc",
+      "ticker": "ARE"
+    },
+    {
+      "name": "Prologis Inc",
+      "ticker": "PLD"
+    },
+    {
+      "name": "Johnson Controls International PLC",
+      "ticker": "JCI"
+    },
+    {
+      "name": "Mid-America Apartment Communities Inc",
+      "ticker": "MAA"
+    },
+    {
+      "name": "Emerson Electric Co",
+      "ticker": "EMR"
+    },
+    {
+      "name": "Huntington Ingalls Industries Inc",
+      "ticker": "HII"
+    },
+    {
+      "name": "Boeing",
+      "ticker": "BA"
+    },
+    {
+      "name": "Quanta Services Inc",
+      "ticker": "PWR"
+    },
+    {
+      "name": "Public Storage",
+      "ticker": "PSA"
+    },
+    {
+      "name": "WW Grainger Inc",
+      "ticker": "GWW"
+    },
+    {
+      "name": "Union Pacific Corp",
+      "ticker": "UNP"
+    },
+    {
+      "name": "Rockwell Automation Inc",
+      "ticker": "ROK"
+    },
+    {
+      "name": "L3Harris Technologies Inc",
+      "ticker": "LHX"
+    },
+    {
+      "name": "Snap-On Inc",
+      "ticker": "SNA"
+    },
+    {
+      "name": "Vulcan Materials Co",
+      "ticker": "VMC"
+    },
+    {
+      "name": "Essex Property Trust Inc",
+      "ticker": "ESS"
+    },
+    {
+      "name": "CSX Corp",
+      "ticker": "CSX"
+    },
+    {
+      "name": "Martin Marietta Materials Inc",
+      "ticker": "MLM"
+    },
+    {
+      "name": "Leidos Holdings Inc",
+      "ticker": "LDOS"
+    },
+    {
+      "name": "Axon Enterprise Inc",
+      "ticker": "AXON"
+    },
+    {
+      "name": "FedEx",
+      "ticker": "FDX"
+    },
+    {
+      "name": "UDR INC",
+      "ticker": "UDR"
+    },
+    {
+      "name": "Norfolk Southern Corp",
+      "ticker": "NSC"
+    },
+    {
+      "name": "Teledyne Technologies Inc",
+      "ticker": "TDY"
+    },
+    {
+      "name": "Lennar Corp",
+      "ticker": "LEN"
+    },
+    {
+      "name": "UPS",
+      "ticker": "UPS"
+    },
+    {
+      "name": "3M Co",
+      "ticker": "MMM"
+    },
+    {
+      "name": "A O Smith Corp",
+      "ticker": "AOS"
+    },
+    {
+      "name": "Honeywell",
+      "ticker": "HON"
+    },
+    {
+      "name": "Pultegroup Inc",
+      "ticker": "PHM"
+    },
+    {
+      "name": "Keysight Technologies Inc",
+      "ticker": "KEYS"
+    },
+    {
+      "name": "Peloton",
+      "ticker": "PTON"
+    },
+    {
+      "name": "Carrier Global Corp",
+      "ticker": "CARR"
+    },
+    {
+      "name": "Trane Technologies PLC",
+      "ticker": "TT"
+    },
+    {
+      "name": "DR Horton Inc",
+      "ticker": "DHI"
+    },
+    {
+      "name": "Pentair PLC",
+      "ticker": "PNR"
+    },
+    {
+      "name": "Hubbell Inc",
+      "ticker": "HUBB"
+    },
+    {
+      "name": "Generac Holdings Inc",
+      "ticker": "GNRC"
+    },
+    {
+      "name": "Howmet Aerospace",
+      "ticker": "HWM"
+    },
+    {
+      "name": "NVR Inc",
+      "ticker": "NVR"
+    }
+  ],
   "Pharma": [],
   "Resources": [],
   "Consumer": []
