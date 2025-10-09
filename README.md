@@ -13,10 +13,10 @@ A web application that scrapes and aggregates upcoming US company earnings annou
 ## 📋 What It Does
 
 This tool automatically:
-1. Fetches earnings announcement schedules from major financial data sources
+1. Fetches earnings announcement schedules
 2. Consolidates and normalizes the data
 3. Presents it in an accessible web interface
-4. Enables quick export to CSV format for spreadsheet analysis
+4. Enables quick export to CSV format for spreadsheet based editing
 
 ## 🛠️ Installation
 
@@ -63,28 +63,15 @@ The static site will be generated in the `docs/` directory with:
 - Ready-to-download CSV files
 - All necessary assets
 
-## 🌐 Deployment
-
-### GitHub Pages
-
-This repository is configured for automatic deployment to GitHub Pages:
-
-1. Push your changes to the `main` branch
-2. The `Deploy static site` workflow automatically builds and deploys
-3. Access your site at: `https://<your-username>.github.io/earnings-list/`
-
-To manually trigger a rebuild, go to the **Actions** tab and run the workflow.
-
 ## 📊 Data Sources
 
-- **Nasdaq**: Official earnings calendar data
+- **Nasdaq**: Earnings calendar data
 - **Yahoo Finance**: Supplementary earnings information
 
 ## 📝 Use Cases
 
-- Track upcoming earnings for investment research
-- Plan trading strategies around earnings dates
-- Export data for financial modeling
+- Track upcoming earnings for coverage
+- Export data for news planning
 - Monitor earnings season activity
 
 ## 🤝 Contributing
@@ -100,4 +87,4 @@ This project is open source and available under the MIT License.
 
 ## ⚠️ Disclaimer
 
-This tool is for informational purposes only. Always verify earnings dates with official company sources. Not intended as financial advice.
+This tool is for informational purposes only. Always verify earnings dates with official company sources.
