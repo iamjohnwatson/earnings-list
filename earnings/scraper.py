@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import logging
+import threading
 from datetime import date, datetime, timedelta
 from typing import Dict, Iterable, List, Optional, Set, Tuple
 
@@ -21,6 +22,12 @@ _DEFAULT_HEADERS = {
     "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9",
 }
+
+_AGGREGATOR_CACHE_TTL = timedelta(minutes=30)
+_nasdaq_cache: Dict[date, Dict[str, object]] = {}
+_yahoo_cache: Dict[date, Dict[str, object]] = {}
+_nasdaq_lock = threading.Lock()
+_yahoo_lock = threading.Lock()
 
 
 class EarningsScrapeError(RuntimeError):
@@ -54,7 +61,7 @@ def _normalise_call_window(label: Optional[str]) -> str:
     return mapping.get(normalised, normalised)
 
 
-def _fetch_nasdaq_day(session: requests.Session, day: date) -> List[dict]:
+def _request_nasdaq_day(session: requests.Session, day: date) -> List[dict]:
     date_str = day.isoformat()
     try:
         response = session.get(_NASDAQ_URL, params={"date": date_str}, timeout=20)
@@ -97,7 +104,32 @@ def _fetch_nasdaq_day(session: requests.Session, day: date) -> List[dict]:
     return parsed
 
 
-def _fetch_yahoo_day(
+def _get_cached_entry(cache: Dict[date, Dict[str, object]], lock: threading.Lock, day: date):
+    with lock:
+        entry = cache.get(day)
+        if not entry:
+            return None
+        expires_at = entry.get("expires_at")
+        if isinstance(expires_at, datetime) and expires_at > datetime.utcnow():
+            return entry.get("data")
+        cache.pop(day, None)
+        return None
+
+
+def _store_cache_entry(
+    cache: Dict[date, Dict[str, object]],
+    lock: threading.Lock,
+    day: date,
+    data,
+) -> None:
+    with lock:
+        cache[day] = {
+            "data": data,
+            "expires_at": datetime.utcnow() + _AGGREGATOR_CACHE_TTL,
+        }
+
+
+def _request_yahoo_day(
     session: requests.Session,
     day: date,
     tickers: Set[str],
@@ -132,38 +164,76 @@ def _fetch_yahoo_day(
     return lookup
 
 
+def _fetch_nasdaq_day(session: requests.Session, day: date) -> List[dict]:
+    cached = _get_cached_entry(_nasdaq_cache, _nasdaq_lock, day)
+    if cached is not None:
+        return cached  # type: ignore[return-value]
+    data = _request_nasdaq_day(session, day)
+    _store_cache_entry(_nasdaq_cache, _nasdaq_lock, day, data)
+    return data
+
+
+def _fetch_yahoo_day(
+    session: requests.Session,
+    day: date,
+    tickers: Set[str],
+) -> Dict[str, str]:
+    cached = _get_cached_entry(_yahoo_cache, _yahoo_lock, day)
+    if isinstance(cached, dict):
+        if not tickers:
+            return dict(cached)
+        return {symbol: cached[symbol] for symbol in tickers if symbol in cached}
+    lookup_all = _request_yahoo_day(session, day, set())
+    _store_cache_entry(_yahoo_cache, _yahoo_lock, day, lookup_all)
+    if not tickers:
+        return lookup_all
+    return {symbol: value for symbol, value in lookup_all.items() if symbol in tickers}
+
+
 def fetch_weekly_earnings(
     *,
     start: date,
     end: date,
     ticker_to_name: Dict[str, str],
     companies: Optional[List[Dict[str, str]]] = None,
+    ir_events: Optional[Dict[str, InvestorRelationsEvent]] = None,
+    session: Optional[requests.Session] = None,
 ) -> List[dict]:
     """Fetch earnings for the provided tickers between ``start`` and ``end`` inclusive."""
 
     if start > end:
         raise ValueError("start date must be before end date")
 
-    session = requests.Session()
+    owns_session = False
+    if session is None:
+        session = requests.Session()
+        owns_session = True
+
     session.headers.update(_DEFAULT_HEADERS)
 
     tickers = set(ticker_to_name.keys())
     results: List[dict] = []
     seen: Set[Tuple[str, date]] = set()
     lookup: Dict[Tuple[str, date], dict] = {}
+    today = date.today()
 
-    if companies:
-        try:
-            ir_events = fetch_investor_relations_events(
-                session,
-                companies=companies,
-                today=date.today(),
-            )
-        except Exception as exc:  # pragma: no cover - defensive
-            logger.warning("Investor relations fetch failed: %s", exc)
-            ir_events = {}
-        for symbol, event in ir_events.items():
-            if event.date < date.today():
+    try:
+        ir_lookup: Dict[str, InvestorRelationsEvent] = {}
+        if ir_events is not None:
+            ir_lookup = dict(ir_events)
+        elif companies:
+            try:
+                ir_lookup = fetch_investor_relations_events(
+                    session,
+                    companies=companies,
+                    today=today,
+                )
+            except Exception as exc:  # pragma: no cover - defensive
+                logger.warning("Investor relations fetch failed: %s", exc)
+                ir_lookup = {}
+
+        for symbol, event in (ir_lookup or {}).items():
+            if event.date < today:
                 continue
             if symbol not in tickers:
                 continue
@@ -186,49 +256,52 @@ def fetch_weekly_earnings(
             results.append(entry)
             lookup[key] = entry
 
-    for day in _daterange(start, end):
-        yahoo_lookup = _fetch_yahoo_day(session, day, tickers)
-        try:
-            nasdaq_rows = _fetch_nasdaq_day(session, day)
-        except EarningsScrapeError as exc:
-            logger.warning("Skipping Nasdaq data for %s: %s", day, exc)
-            continue
-
-        for row in nasdaq_rows:
-            symbol = row["symbol"]
-            if symbol not in tickers:
-                continue
-            key = (symbol, day)
-            source_call = yahoo_lookup.get(symbol)
-            fallback_call = _normalise_call_window(row.get("time"))
-
-            existing = lookup.get(key)
-            if existing:
-                if source_call:
-                    existing["yahoo_time_label"] = source_call
-                    if existing.get("bmo_amc") in (None, "", "TBD"):
-                        existing["bmo_amc"] = source_call
-                if row.get("time"):
-                    existing["nasdaq_time_label"] = row.get("time")
-                    if existing.get("bmo_amc") in (None, "", "TBD"):
-                        existing["bmo_amc"] = fallback_call
+        for day in _daterange(start, end):
+            yahoo_lookup = _fetch_yahoo_day(session, day, tickers)
+            try:
+                nasdaq_rows = _fetch_nasdaq_day(session, day)
+            except EarningsScrapeError as exc:
+                logger.warning("Skipping Nasdaq data for %s: %s", day, exc)
                 continue
 
-            if key in seen:
-                continue
+            for row in nasdaq_rows:
+                symbol = row["symbol"]
+                if symbol not in tickers:
+                    continue
+                key = (symbol, day)
+                source_call = yahoo_lookup.get(symbol)
+                fallback_call = _normalise_call_window(row.get("time"))
 
-            seen.add(key)
-            entry = {
-                "company": ticker_to_name.get(symbol, row.get("company") or symbol),
-                "symbol": symbol,
-                "date": day.isoformat(),
-                "bmo_amc": source_call or fallback_call,
-                "nasdaq_time_label": row.get("time"),
-                "yahoo_time_label": source_call,
-                "source": "aggregator",
-            }
-            results.append(entry)
-            lookup[key] = entry
+                existing = lookup.get(key)
+                if existing:
+                    if source_call:
+                        existing["yahoo_time_label"] = source_call
+                        if existing.get("bmo_amc") in (None, "", "TBD"):
+                            existing["bmo_amc"] = source_call
+                    if row.get("time"):
+                        existing["nasdaq_time_label"] = row.get("time")
+                        if existing.get("bmo_amc") in (None, "", "TBD"):
+                            existing["bmo_amc"] = fallback_call
+                    continue
 
-    results.sort(key=lambda item: (item["date"], item["company"]))
-    return results
+                if key in seen:
+                    continue
+
+                seen.add(key)
+                entry = {
+                    "company": ticker_to_name.get(symbol, row.get("company") or symbol),
+                    "symbol": symbol,
+                    "date": day.isoformat(),
+                    "bmo_amc": source_call or fallback_call,
+                    "nasdaq_time_label": row.get("time"),
+                    "yahoo_time_label": source_call,
+                    "source": "aggregator",
+                }
+                results.append(entry)
+                lookup[key] = entry
+
+        results.sort(key=lambda item: (item["date"], item["company"]))
+        return results
+    finally:
+        if owns_session:
+            session.close()

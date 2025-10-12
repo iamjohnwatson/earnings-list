@@ -6,13 +6,18 @@
       "date": "2025-10-14",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 1,
   "missingPublic": [],
   "tickerCount": 73,
-  "generatedAt": "2025-10-09T16:32:24Z",
+  "generatedAt": "2025-10-12T10:31:53Z",
+  "irCompanies": [],
+  "fallbackCompanies": [
+    "Domino\u2019s Pizza Inc"
+  ],
   "week": {
     "id": "2025-10-13",
     "start_date": "2025-10-13",

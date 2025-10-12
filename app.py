@@ -48,6 +48,19 @@ def _validate_payload(payload: dict) -> tuple[str, dict]:
     return sector, week
 
 
+def _should_cache_week(week: dict) -> bool:
+    """Only cache for current and upcoming week to keep data fresh."""
+
+    try:
+        start = date.fromisoformat(week["start_date"])
+    except (TypeError, ValueError, KeyError):
+        return False
+    today = date.today()
+    current_week_start = today - timedelta(days=today.weekday())
+    next_week_start = current_week_start + timedelta(days=7)
+    return start in (current_week_start, next_week_start)
+
+
 def _get_cached(sector: str, week_id: str):
     cache_key = (sector, week_id)
     entry = _cache.get(cache_key)
@@ -68,7 +81,8 @@ def _set_cache(sector: str, week_id: str, data):
 
 
 def _fetch_data(sector: str, week: dict):
-    cached = _get_cached(sector, week["id"])
+    cacheable = _should_cache_week(week)
+    cached = _get_cached(sector, week["id"]) if cacheable else None
     if cached is not None:
         return cached
 
@@ -98,7 +112,8 @@ def _fetch_data(sector: str, week: dict):
         "ir_companies": ir_companies,
         "fallback_companies": fallback_companies,
     }
-    _set_cache(sector, week["id"], metadata)
+    if cacheable:
+        _set_cache(sector, week["id"], metadata)
     return metadata
 
 

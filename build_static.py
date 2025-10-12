@@ -2,17 +2,19 @@ from __future__ import annotations
 
 import json
 import logging
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, datetime
 from pathlib import Path
 from typing import Dict, Iterable, List
 from urllib.parse import quote
 
+import requests
+
 from earnings.companies import (
-    get_companies_without_ticker,
     get_sector_companies,
     get_sectors,
-    get_ticker_to_name,
 )
+from earnings.ir_scraper import InvestorRelationsEvent, fetch_investor_relations_events
 from earnings.scraper import EarningsScrapeError, fetch_weekly_earnings
 from earnings.spreadsheet import generate_csv_bytes
 from earnings.week_selector import get_week_options
@@ -120,9 +122,18 @@ def serialise_csv(sector_slug: str, week: dict, data: Dict[str, object]) -> None
     csv_path.write_bytes(stream.getbuffer())
 
 
-def fetch_sector_week(sector: str, week: dict) -> Dict[str, object]:
-    ticker_to_name = get_ticker_to_name(sector)
-    companies = get_sector_companies(sector)
+def fetch_sector_week(
+    sector: str,
+    week: dict,
+    *,
+    companies: List[Dict[str, str]],
+    ir_events: Dict[str, InvestorRelationsEvent] | None = None,
+) -> Dict[str, object]:
+    ticker_to_name = {
+        entry["ticker"]: entry["name"]
+        for entry in companies
+        if entry.get("ticker")
+    }
     start_date = date.fromisoformat(week["start_date"])
     end_date = date.fromisoformat(week["end_date"])
     results = fetch_weekly_earnings(
@@ -130,14 +141,16 @@ def fetch_sector_week(sector: str, week: dict) -> Dict[str, object]:
         end=end_date,
         ticker_to_name=ticker_to_name,
         companies=companies,
+        ir_events=ir_events,
     )
     ir_companies = sorted({item["company"] for item in results if item.get("source") == "investor_relations"})
     fallback_companies = sorted(
         {item["company"] for item in results if item.get("source") != "investor_relations"}
     )
+    missing_public = [entry["name"] for entry in companies if not entry.get("ticker")]
     return {
         "records": results,
-        "missing_public": get_companies_without_ticker(sector),
+        "missing_public": missing_public,
         "ticker_count": len(ticker_to_name),
         "generated_at": datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
         "ir_companies": ir_companies,
@@ -159,17 +172,56 @@ def build_static_site() -> None:
     serialise_weeks(weeks)
     sector_slugs = serialise_sectors(sectors)
 
+    sector_companies: Dict[str, List[Dict[str, str]]] = {
+        sector: get_sector_companies(sector) for sector in sectors
+    }
+    ir_cache: Dict[str, Dict[str, InvestorRelationsEvent]] = {}
+
+    for sector in sectors:
+        if sector in ir_cache:
+            continue
+        companies = sector_companies[sector]
+        try:
+            with requests.Session() as session:
+                ir_cache[sector] = fetch_investor_relations_events(
+                    session,
+                    companies=companies,
+                )
+        except Exception as exc:  # pragma: no cover - defensive
+            logger.warning("Failed to prefetch IR data for %s: %s", sector, exc)
+            ir_cache[sector] = {}
+
+    max_workers = min(len(sectors), 6) or 1
+
     for week in weeks:
-        for sector in sectors:
-            logger.info("Fetching %s / %s", week["id"], sector)
-            sector_slug = sector_slugs[sector]
-            try:
-                data = fetch_sector_week(sector, week)
-            except EarningsScrapeError as exc:
-                logger.error("Failed to fetch %s / %s: %s", week["id"], sector, exc)
-                continue
-            serialise_preview(sector, sector_slug, week, data)
-            serialise_csv(sector_slug, week, data)
+        logger.info("Processing week %s", week["id"])
+        futures = {}
+
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            for sector in sectors:
+                sector_slug = sector_slugs[sector]
+                companies = sector_companies[sector]
+                ir_events = ir_cache.get(sector)
+                futures[executor.submit(
+                    fetch_sector_week,
+                    sector,
+                    week,
+                    companies=companies,
+                    ir_events=ir_events,
+                )] = (sector, sector_slug)
+
+            for future in as_completed(futures):
+                sector, sector_slug = futures[future]
+                try:
+                    data = future.result()
+                except EarningsScrapeError as exc:
+                    logger.error("Failed to fetch %s / %s: %s", week["id"], sector, exc)
+                    continue
+                except Exception as exc:  # pragma: no cover - defensive
+                    logger.error("Unexpected error for %s / %s: %s", week["id"], sector, exc)
+                    continue
+                serialise_preview(sector, sector_slug, week, data)
+                serialise_csv(sector_slug, week, data)
 
     logger.info("Static site build complete.")
 

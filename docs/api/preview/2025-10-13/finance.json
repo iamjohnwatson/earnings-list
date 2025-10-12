@@ -6,7 +6,8 @@
       "date": "2025-10-14",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Citigroup",
@@ -14,7 +15,10 @@
       "date": "2025-10-14",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Goldman Sachs",
@@ -22,15 +26,19 @@
       "date": "2025-10-14",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2025-10-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Wells Fargo",
@@ -38,23 +46,32 @@
       "date": "2025-10-14",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2025-10-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2025-10-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:00 AM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM ",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Morgan Stanley",
@@ -62,23 +79,39 @@
       "date": "2025-10-15",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2025-10-15",
+      "bmo_amc": "11:00 AM EDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Progressive Corporation",
+      "symbol": "PGR",
+      "date": "2025-10-15",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Synchrony Financial",
       "symbol": "SYF",
       "date": "2025-10-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM ET",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Bank of New York Mellon",
@@ -86,7 +119,8 @@
       "date": "2025-10-16",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Charles Schwab",
@@ -94,7 +128,8 @@
       "date": "2025-10-16",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Interactive Brokers",
@@ -102,7 +137,8 @@
       "date": "2025-10-16",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "KeyCorp",
@@ -110,7 +146,8 @@
       "date": "2025-10-16",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "M&T Bank Corp",
@@ -118,7 +155,8 @@
       "date": "2025-10-16",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Marsh McLennan",
@@ -126,7 +164,8 @@
       "date": "2025-10-16",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "US Bancorp",
@@ -134,7 +173,8 @@
       "date": "2025-10-16",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "American Express",
@@ -142,7 +182,8 @@
       "date": "2025-10-17",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Comerica Inc",
@@ -150,7 +191,8 @@
       "date": "2025-10-17",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Fifth Third Bancorp",
@@ -158,15 +200,19 @@
       "date": "2025-10-17",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2025-10-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Regions Financial",
@@ -174,7 +220,8 @@
       "date": "2025-10-17",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "State Street Corp",
@@ -182,7 +229,8 @@
       "date": "2025-10-17",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Truist Financial",
@@ -190,16 +238,48 @@
       "date": "2025-10-17",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 24,
+  "count": 25,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-09T16:32:32Z",
+  "generatedAt": "2025-10-12T11:48:10Z",
+  "irCompanies": [
+    "Bank of America",
+    "Citigroup",
+    "Citizens Financial",
+    "Huntington Bancshares",
+    "JPMorgan",
+    "PNC Financial",
+    "Synchrony Financial",
+    "Truist Financial",
+    "Wells Fargo"
+  ],
+  "fallbackCompanies": [
+    "American Express",
+    "Bank of New York Mellon",
+    "BlackRock Inc",
+    "Charles Schwab",
+    "Comerica Inc",
+    "Fifth Third Bancorp",
+    "Goldman Sachs",
+    "Interactive Brokers",
+    "KeyCorp",
+    "M&T Bank Corp",
+    "Marsh McLennan",
+    "Morgan Stanley",
+    "Progressive Corporation",
+    "Regions Financial",
+    "State Street Corp",
+    "US Bancorp"
+  ],
   "week": {
     "id": "2025-10-13",
     "start_date": "2025-10-13",

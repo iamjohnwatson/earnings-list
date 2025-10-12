@@ -6,7 +6,8 @@
       "date": "2025-10-14",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Abbott Laboratories",
@@ -14,7 +15,8 @@
       "date": "2025-10-15",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Intuitive Surgical Inc",
@@ -22,13 +24,20 @@
       "date": "2025-10-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 3,
   "missingPublic": [],
   "tickerCount": 47,
-  "generatedAt": "2025-10-09T16:32:50Z",
+  "generatedAt": "2025-10-12T12:03:06Z",
+  "irCompanies": [],
+  "fallbackCompanies": [
+    "Abbott Laboratories",
+    "Intuitive Surgical Inc",
+    "Johnson & Johnson"
+  ],
   "week": {
     "id": "2025-10-13",
     "start_date": "2025-10-13",

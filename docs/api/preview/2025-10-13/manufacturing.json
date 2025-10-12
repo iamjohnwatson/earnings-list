@@ -6,7 +6,19 @@
       "date": "2025-10-13",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
+      "date": "2025-10-14",
+      "bmo_amc": "09:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "09:00 AM EDT",
+      "ir_source_url": "https://investors.mgmresorts.com/investors/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "J B Hunt Transport Services Inc",
@@ -14,15 +26,19 @@
       "date": "2025-10-15",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Prologis Inc",
       "symbol": "PLD",
       "date": "2025-10-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "12:00 PM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": "12:00 PM ET",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations"
     },
     {
       "company": "CSX Corp",
@@ -30,7 +46,8 @@
       "date": "2025-10-16",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Snap-On Inc",
@@ -38,13 +55,24 @@
       "date": "2025-10-16",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-09T16:32:39Z",
+  "generatedAt": "2025-10-12T11:58:42Z",
+  "irCompanies": [
+    "MGM Resorts International",
+    "Prologis Inc"
+  ],
+  "fallbackCompanies": [
+    "CSX Corp",
+    "Fastenal Co",
+    "J B Hunt Transport Services Inc",
+    "Snap-On Inc"
+  ],
   "week": {
     "id": "2025-10-13",
     "start_date": "2025-10-13",
