@@ -73,19 +73,30 @@ def _fetch_data(sector: str, week: dict):
         return cached
 
     ticker_to_name = get_ticker_to_name(sector)
+    companies = get_sector_companies(sector)
     start_date = date.fromisoformat(week["start_date"])
     end_date = date.fromisoformat(week["end_date"])
 
     try:
-        results = fetch_weekly_earnings(start=start_date, end=end_date, ticker_to_name=ticker_to_name)
+        results = fetch_weekly_earnings(
+            start=start_date,
+            end=end_date,
+            ticker_to_name=ticker_to_name,
+            companies=companies,
+        )
     except EarningsScrapeError as exc:
         raise ValidationError(str(exc))
+
+    ir_companies = sorted({item["company"] for item in results if item.get("source") == "investor_relations"})
+    fallback_companies = sorted({item["company"] for item in results if item.get("source") != "investor_relations"})
 
     metadata = {
         "records": results,
         "missing_public": get_companies_without_ticker(sector),
         "ticker_count": len(ticker_to_name),
         "generated_at": datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
+        "ir_companies": ir_companies,
+        "fallback_companies": fallback_companies,
     }
     _set_cache(sector, week["id"], metadata)
     return metadata
@@ -133,6 +144,8 @@ def api_preview():
             "missingPublic": data["missing_public"],
             "tickerCount": data.get("ticker_count", 0),
             "generatedAt": data.get("generated_at"),
+            "irCompanies": data.get("ir_companies", []),
+            "fallbackCompanies": data.get("fallback_companies", []),
             "week": week,
             "sector": sector,
         }

@@ -14,6 +14,9 @@
   const previewWeek = document.getElementById('preview-week');
   const previewUpdated = document.getElementById('preview-updated');
   const previewMissing = document.getElementById('preview-missing');
+  const sourceSummary = document.getElementById('source-summary');
+  const irSourceList = document.getElementById('ir-source-list');
+  const fallbackSourceList = document.getElementById('fallback-source-list');
 
   let lastPayload = null;
   let lastPreview = null;
@@ -156,6 +159,52 @@
     timelineContainer.classList.add('hidden');
   }
 
+  function clearSourceSummary() {
+    if (!sourceSummary) {
+      return;
+    }
+    sourceSummary.classList.add('hidden');
+    if (irSourceList) {
+      irSourceList.innerHTML = '';
+    }
+    if (fallbackSourceList) {
+      fallbackSourceList.innerHTML = '';
+    }
+  }
+
+  function renderSourceSummary(data) {
+    if (!sourceSummary || !irSourceList || !fallbackSourceList) {
+      return;
+    }
+    const irNames = Array.isArray(data?.irCompanies) ? data.irCompanies : [];
+    const fallbackNames = Array.isArray(data?.fallbackCompanies) ? data.fallbackCompanies : [];
+
+    const populate = (element, names) => {
+      element.innerHTML = '';
+      if (!names.length) {
+        const emptyItem = document.createElement('li');
+        emptyItem.textContent = 'No companies for this selection.';
+        emptyItem.classList.add('is-empty');
+        element.appendChild(emptyItem);
+        return;
+      }
+      names.forEach((name) => {
+        const item = document.createElement('li');
+        item.textContent = name;
+        element.appendChild(item);
+      });
+    };
+
+    populate(irSourceList, irNames);
+    populate(fallbackSourceList, fallbackNames);
+
+    if (!irNames.length && !fallbackNames.length) {
+      sourceSummary.classList.add('hidden');
+    } else {
+      sourceSummary.classList.remove('hidden');
+    }
+  }
+
   function renderTimeline(groups) {
     if (!groups || groups.length === 0) {
       clearTimeline();
@@ -254,6 +303,7 @@
   function renderPreview(data) {
     tableBody.innerHTML = '';
     clearTimeline();
+    clearSourceSummary();
     if (!data.records || data.records.length === 0) {
       previewSection.classList.add('hidden');
       matchCount.textContent = 'No matches';
@@ -357,6 +407,7 @@
       const groups = renderPreview(data);
       updatePreviewMeta(data, groups);
       renderMissing(data.missingPublic);
+      renderSourceSummary(data);
       if (data.count > 0) {
         setStatus(`Found ${data.count} companies for ${data.week.label}.`, 'success');
         downloadBtn.disabled = false;
@@ -370,6 +421,7 @@
       resetMeta();
       matchCount.textContent = 'No matches';
       renderMissing([]);
+      clearSourceSummary();
       lastPreview = null;
       lastPayload = null;
     }
@@ -420,5 +472,3 @@
     }),
   );
 })();
-
-

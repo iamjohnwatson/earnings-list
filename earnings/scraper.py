@@ -9,6 +9,8 @@ from typing import Dict, Iterable, List, Optional, Set, Tuple
 import requests
 from bs4 import BeautifulSoup
 
+from .ir_scraper import InvestorRelationsEvent, fetch_investor_relations_events
+
 logger = logging.getLogger(__name__)
 
 _NASDAQ_URL = "https://api.nasdaq.com/api/calendar/earnings"
@@ -135,6 +137,7 @@ def fetch_weekly_earnings(
     start: date,
     end: date,
     ticker_to_name: Dict[str, str],
+    companies: Optional[List[Dict[str, str]]] = None,
 ) -> List[dict]:
     """Fetch earnings for the provided tickers between ``start`` and ``end`` inclusive."""
 
@@ -147,6 +150,41 @@ def fetch_weekly_earnings(
     tickers = set(ticker_to_name.keys())
     results: List[dict] = []
     seen: Set[Tuple[str, date]] = set()
+    lookup: Dict[Tuple[str, date], dict] = {}
+
+    if companies:
+        try:
+            ir_events = fetch_investor_relations_events(
+                session,
+                companies=companies,
+                today=date.today(),
+            )
+        except Exception as exc:  # pragma: no cover - defensive
+            logger.warning("Investor relations fetch failed: %s", exc)
+            ir_events = {}
+        for symbol, event in ir_events.items():
+            if event.date < date.today():
+                continue
+            if symbol not in tickers:
+                continue
+            if not (start <= event.date <= end):
+                continue
+            key = (symbol, event.date)
+            seen.add(key)
+            normalised_time = _normalise_call_window(event.time_label)
+            entry = {
+                "company": event.company,
+                "symbol": symbol,
+                "date": event.date.isoformat(),
+                "bmo_amc": normalised_time,
+                "nasdaq_time_label": None,
+                "yahoo_time_label": None,
+                "ir_time_label": event.time_label,
+                "ir_source_url": event.source_url,
+                "source": "investor_relations",
+            }
+            results.append(entry)
+            lookup[key] = entry
 
     for day in _daterange(start, end):
         yahoo_lookup = _fetch_yahoo_day(session, day, tickers)
@@ -161,21 +199,36 @@ def fetch_weekly_earnings(
             if symbol not in tickers:
                 continue
             key = (symbol, day)
-            if key in seen:
-                continue
-            seen.add(key)
             source_call = yahoo_lookup.get(symbol)
             fallback_call = _normalise_call_window(row.get("time"))
-            results.append(
-                {
-                    "company": ticker_to_name.get(symbol, row.get("company") or symbol),
-                    "symbol": symbol,
-                    "date": day.isoformat(),
-                    "bmo_amc": source_call or fallback_call,
-                    "nasdaq_time_label": row.get("time"),
-                    "yahoo_time_label": source_call,
-                }
-            )
+
+            existing = lookup.get(key)
+            if existing:
+                if source_call:
+                    existing["yahoo_time_label"] = source_call
+                    if existing.get("bmo_amc") in (None, "", "TBD"):
+                        existing["bmo_amc"] = source_call
+                if row.get("time"):
+                    existing["nasdaq_time_label"] = row.get("time")
+                    if existing.get("bmo_amc") in (None, "", "TBD"):
+                        existing["bmo_amc"] = fallback_call
+                continue
+
+            if key in seen:
+                continue
+
+            seen.add(key)
+            entry = {
+                "company": ticker_to_name.get(symbol, row.get("company") or symbol),
+                "symbol": symbol,
+                "date": day.isoformat(),
+                "bmo_amc": source_call or fallback_call,
+                "nasdaq_time_label": row.get("time"),
+                "yahoo_time_label": source_call,
+                "source": "aggregator",
+            }
+            results.append(entry)
+            lookup[key] = entry
 
     results.sort(key=lambda item: (item["date"], item["company"]))
     return results

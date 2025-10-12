@@ -1642,7 +1642,8 @@
     },
     {
       "name": "Expand Energy",
-      "ticker": null
+      "ticker": null,
+      "investorRelationsUrl": "https://investors.expandenergy.com/"
     },
     {
       "name": "Bunge",
@@ -1930,7 +1931,8 @@
     },
     {
       "name": "XPLR Infrastructure (previously NEP)",
-      "ticker": "XPLR"
+      "ticker": "XPLR",
+      "investorRelationsUrl": "https://www.investor.xplrinfrastructure.com/"
     },
     {
       "name": "Barrick Mining",
@@ -1942,301 +1944,375 @@
     },
     {
       "name": "Venture Global",
-      "ticker": null
+      "ticker": null,
+      "investorRelationsUrl": "https://investors.ventureglobal.com/overview/default.aspx"
     }
   ],
   "Consumer": [
     {
       "name": "Philip Morris International",
-      "ticker": "PM"
+      "ticker": "PM",
+      "investorRelationsUrl": "https://www.pmi.com/investors"
     },
     {
       "name": "Altria Group Inc",
-      "ticker": "MO"
+      "ticker": "MO",
+      "investorRelationsUrl": "https://investor.altria.com/"
     },
     {
       "name": "Colgate-Palmolive",
-      "ticker": "CL"
+      "ticker": "CL",
+      "investorRelationsUrl": "https://investor.colgatepalmolive.com/"
     },
     {
       "name": "Kimberly Clark Corp",
-      "ticker": "KMB"
+      "ticker": "KMB",
+      "investorRelationsUrl": "https://investor.kimberly-clark.com/"
     },
     {
       "name": "Ross Stores",
-      "ticker": "ROST"
+      "ticker": "ROST",
+      "investorRelationsUrl": "https://investors.rossstores.com/"
     },
     {
       "name": "Simon Property Group",
-      "ticker": "SPG"
+      "ticker": "SPG",
+      "investorRelationsUrl": "https://investors.simon.com/"
     },
     {
       "name": "Molson Coors Beverage Co",
-      "ticker": "TAP"
+      "ticker": "TAP",
+      "investorRelationsUrl": "https://ir.molsoncoors.com/"
     },
     {
       "name": "Constellation Brands",
-      "ticker": "STZ"
+      "ticker": "STZ",
+      "investorRelationsUrl": "https://ir.cbrands.com/"
     },
     {
       "name": "Brown-Forman Corp",
-      "ticker": "BF.B"
+      "ticker": "BF.B",
+      "investorRelationsUrl": "https://investors.brown-forman.com/"
     },
     {
       "name": "Ulta Beauty",
-      "ticker": "ULTA"
+      "ticker": "ULTA",
+      "investorRelationsUrl": "https://ir.ulta.com/"
     },
     {
       "name": "Hormel Foods",
-      "ticker": "HRL"
+      "ticker": "HRL",
+      "investorRelationsUrl": "https://investor.hormelfoods.com/"
     },
     {
       "name": "Federal Realty Investment Trust",
-      "ticker": "FRT"
+      "ticker": "FRT",
+      "investorRelationsUrl": "https://investors.federalrealty.com/"
     },
     {
       "name": "Darden Restaurants",
-      "ticker": "DRI"
+      "ticker": "DRI",
+      "investorRelationsUrl": "https://investor.darden.com/"
     },
     {
       "name": "Clorox Co",
-      "ticker": "CLX"
+      "ticker": "CLX",
+      "investorRelationsUrl": "https://investors.thecloroxcompany.com/"
     },
     {
       "name": "Etsy Inc",
-      "ticker": "ETSY"
+      "ticker": "ETSY",
+      "investorRelationsUrl": "https://investors.etsy.com/"
     },
     {
       "name": "VF Corp",
-      "ticker": "VFC"
+      "ticker": "VFC",
+      "investorRelationsUrl": "https://investors.vfc.com/"
     },
     {
       "name": "Sysco Corp",
-      "ticker": "SYY"
+      "ticker": "SYY",
+      "investorRelationsUrl": "https://investors.sysco.com/"
     },
     {
       "name": "Bath & Body Works",
-      "ticker": "BBWI"
+      "ticker": "BBWI",
+      "investorRelationsUrl": "https://ir.bbwinc.com/"
     },
     {
       "name": "McCormick & Co",
-      "ticker": "MKC"
+      "ticker": "MKC",
+      "investorRelationsUrl": "https://ir.mccormickcorporation.com/"
     },
     {
       "name": "Monster Beverage",
-      "ticker": "MNST"
+      "ticker": "MNST",
+      "investorRelationsUrl": "https://investors.monsterbevcorp.com/"
     },
     {
       "name": "Lamb Weston Holdings",
-      "ticker": "LW"
+      "ticker": "LW",
+      "investorRelationsUrl": "https://investor.lambweston.com/"
     },
     {
       "name": "Keurig Dr. Pepper",
-      "ticker": "KDP"
+      "ticker": "KDP",
+      "investorRelationsUrl": "https://investors.keurigdrpepper.com/"
     },
     {
       "name": "Regency Centers Corp",
-      "ticker": "REG"
+      "ticker": "REG",
+      "investorRelationsUrl": "https://investors.regencycenters.com/"
     },
     {
       "name": "Church & Dwight",
-      "ticker": "CHD"
+      "ticker": "CHD",
+      "investorRelationsUrl": "https://investor.churchdwight.com/"
     },
     {
       "name": "Kimco Realty Corp",
-      "ticker": "KIM"
+      "ticker": "KIM",
+      "investorRelationsUrl": "https://investors.kimcorealty.com/"
     },
     {
       "name": "International Flavours & Fragrances",
-      "ticker": "IFF"
+      "ticker": "IFF",
+      "investorRelationsUrl": "https://ir.iff.com/"
     },
     {
       "name": "Cintas Corp",
-      "ticker": "CTAS"
+      "ticker": "CTAS",
+      "investorRelationsUrl": "https://investor.cintas.com/"
     },
     {
       "name": "Ball Corp",
-      "ticker": "BALL"
+      "ticker": "BALL",
+      "investorRelationsUrl": "https://investors.ball.com/"
     },
     {
       "name": "Tractor Supply Co",
-      "ticker": "TSCO"
+      "ticker": "TSCO",
+      "investorRelationsUrl": "https://investors.tractorsupply.com/"
     },
     {
       "name": "Masco Corp",
-      "ticker": "MAS"
+      "ticker": "MAS",
+      "investorRelationsUrl": "https://investor.masco.com/"
     },
     {
       "name": "Rollins Inc",
-      "ticker": "ROL"
+      "ticker": "ROL",
+      "investorRelationsUrl": "https://ir.rollins.com/"
     },
     {
       "name": "Amcor PLC",
-      "ticker": "AMCR"
+      "ticker": "AMCR",
+      "investorRelationsUrl": "https://www.amcor.com/investors"
     },
     {
       "name": "International Paper Co",
-      "ticker": "IP"
+      "ticker": "IP",
+      "investorRelationsUrl": "https://investor.internationalpaper.com/"
     },
     {
       "name": "Deckers Outdoors",
-      "ticker": "DECK"
+      "ticker": "DECK",
+      "investorRelationsUrl": "https://ir.deckers.com/"
     },
     {
       "name": "Walmart Inc",
-      "ticker": "WMT"
+      "ticker": "WMT",
+      "investorRelationsUrl": "https://stock.walmart.com/"
     },
     {
       "name": "Procter & Gamble",
-      "ticker": "PG"
+      "ticker": "PG",
+      "investorRelationsUrl": "https://www.pginvestor.com/"
     },
     {
       "name": "Home Depot Inc",
-      "ticker": "HD"
+      "ticker": "HD",
+      "investorRelationsUrl": "https://ir.homedepot.com/"
     },
     {
       "name": "Coca-Cola Co",
-      "ticker": "KO"
+      "ticker": "KO",
+      "investorRelationsUrl": "https://investors.coca-colacompany.com/"
     },
     {
       "name": "PepsiCo Inc",
-      "ticker": "PEP"
+      "ticker": "PEP",
+      "investorRelationsUrl": "https://investors.pepsico.com/"
     },
     {
       "name": "Costco Wholesale Corp",
-      "ticker": "COST"
+      "ticker": "COST",
+      "investorRelationsUrl": "https://investor.costco.com/"
     },
     {
-      "name": "McDonald’s Corp",
-      "ticker": "MCD"
+      "name": "McDonald\u2019s Corp",
+      "ticker": "MCD",
+      "investorRelationsUrl": "https://investor.mcdonalds.com/"
     },
     {
       "name": "Nike Inc",
-      "ticker": "NKE"
+      "ticker": "NKE",
+      "investorRelationsUrl": "https://investors.nike.com/"
     },
     {
-      "name": "Lowe’s Cos Inc",
-      "ticker": "LOW"
+      "name": "Lowe\u2019s Cos Inc",
+      "ticker": "LOW",
+      "investorRelationsUrl": "https://investor.lowes.com/"
     },
     {
       "name": "Starbucks Corp",
-      "ticker": "SBUX"
+      "ticker": "SBUX",
+      "investorRelationsUrl": "https://investor.starbucks.com/"
     },
     {
       "name": "Estee Lauder",
-      "ticker": "EL"
+      "ticker": "EL",
+      "investorRelationsUrl": "https://investors.elcompanies.com/"
     },
     {
       "name": "TJX Cos Inc",
-      "ticker": "TJX"
+      "ticker": "TJX",
+      "investorRelationsUrl": "https://investor.tjx.com/"
     },
     {
       "name": "Mondelez International",
-      "ticker": "MDLZ"
+      "ticker": "MDLZ",
+      "investorRelationsUrl": "https://ir.mondelezinternational.com/"
     },
     {
       "name": "Target Corp",
-      "ticker": "TGT"
+      "ticker": "TGT",
+      "investorRelationsUrl": "https://investors.target.com/"
     },
     {
       "name": "Dollar General",
-      "ticker": "DG"
+      "ticker": "DG",
+      "investorRelationsUrl": "https://investor.dollargeneral.com/"
     },
     {
       "name": "Kraft Heinz Co",
-      "ticker": "KHC"
+      "ticker": "KHC",
+      "investorRelationsUrl": "https://ir.kraftheinzcompany.com/"
     },
     {
       "name": "General Mills",
-      "ticker": "GIS"
+      "ticker": "GIS",
+      "investorRelationsUrl": "https://investors.generalmills.com/"
     },
     {
       "name": "Hershey Co",
-      "ticker": "HSY"
+      "ticker": "HSY",
+      "investorRelationsUrl": "https://ir.thehersheycompany.com/"
     },
     {
       "name": "Chipotle Mexican Grill",
-      "ticker": "CMG"
+      "ticker": "CMG",
+      "investorRelationsUrl": "https://ir.chipotle.com/"
     },
     {
       "name": "Yum Brands",
-      "ticker": "YUM"
+      "ticker": "YUM",
+      "investorRelationsUrl": "https://investors.yum.com/"
     },
     {
       "name": "Kroger Co",
-      "ticker": "KR"
+      "ticker": "KR",
+      "investorRelationsUrl": "https://ir.kroger.com/"
     },
     {
       "name": "Dollar Tree",
-      "ticker": "DLTR"
+      "ticker": "DLTR",
+      "investorRelationsUrl": "https://investor.dollartree.com/"
     },
     {
       "name": "Kellanova",
-      "ticker": "K"
+      "ticker": "K",
+      "investorRelationsUrl": "https://investor.kellanova.com/"
     },
     {
       "name": "Tyson Foods",
-      "ticker": "TSN"
+      "ticker": "TSN",
+      "investorRelationsUrl": "https://ir.tyson.com/"
     },
     {
       "name": "Conagra Brands",
-      "ticker": "CAG"
+      "ticker": "CAG",
+      "investorRelationsUrl": "https://ir.conagrabrands.com/"
     },
     {
       "name": "Best Buy Co Inc",
-      "ticker": "BBY"
+      "ticker": "BBY",
+      "investorRelationsUrl": "https://investors.bestbuy.com/"
     },
     {
       "name": "J.M. Smucker Co",
-      "ticker": "SJM"
+      "ticker": "SJM",
+      "investorRelationsUrl": "https://investors.jmsmucker.com/"
     },
     {
       "name": "Campbell Soup Co",
-      "ticker": "CPB"
+      "ticker": "CPB",
+      "investorRelationsUrl": "https://investor.campbellsoupcompany.com/"
     },
     {
       "name": "Royal Caribbean Group",
-      "ticker": "RCL"
+      "ticker": "RCL",
+      "investorRelationsUrl": "https://www.rclinvestor.com/"
     },
     {
-      "name": "Domino’s Pizza Inc",
-      "ticker": "DPZ"
+      "name": "Domino\u2019s Pizza Inc",
+      "ticker": "DPZ",
+      "investorRelationsUrl": "https://ir.dominos.com/"
     },
     {
       "name": "Carnival Corp",
-      "ticker": "CCL"
+      "ticker": "CCL",
+      "investorRelationsUrl": "https://www.carnivalcorp.com/investors/"
     },
     {
       "name": "Tapestry Inc",
-      "ticker": "TPR"
+      "ticker": "TPR",
+      "investorRelationsUrl": "https://investors.tapestry.com/"
     },
     {
       "name": "Hasbro Inc",
-      "ticker": "HAS"
+      "ticker": "HAS",
+      "investorRelationsUrl": "https://investor.hasbro.com/"
     },
     {
       "name": "Ralph Lauren Corp",
-      "ticker": "RL"
+      "ticker": "RL",
+      "investorRelationsUrl": "https://investor.ralphlauren.com/"
     },
     {
       "name": "Norwegian Cruise Line",
-      "ticker": "NCLH"
+      "ticker": "NCLH",
+      "investorRelationsUrl": "https://www.nclhltd.com/investors/"
     },
     {
       "name": "Lululemon Athletica",
-      "ticker": "LULU"
+      "ticker": "LULU",
+      "investorRelationsUrl": "https://investor.lululemon.com/"
     },
     {
       "name": "Coca-Cola Europacific",
-      "ticker": "CCEP"
+      "ticker": "CCEP",
+      "investorRelationsUrl": "https://investors.ccep.com/"
     },
     {
       "name": "DoorDash",
-      "ticker": "DASH"
+      "ticker": "DASH",
+      "investorRelationsUrl": "https://ir.doordash.com/"
     },
     {
       "name": "Instacart",
-      "ticker": "CART"
+      "ticker": "CART",
+      "investorRelationsUrl": "https://investors.instacart.com/"
     }
   ]
 }

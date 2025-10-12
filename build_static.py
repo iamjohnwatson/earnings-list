@@ -102,6 +102,8 @@ def serialise_preview(sector: str, sector_slug: str, week: dict, data: Dict[str,
         "missingPublic": data["missing_public"],
         "tickerCount": data.get("ticker_count", 0),
         "generatedAt": data.get("generated_at"),
+        "irCompanies": data.get("ir_companies", []),
+        "fallbackCompanies": data.get("fallback_companies", []),
         "week": week,
         "sector": sector,
         "sectorSlug": sector_slug,
@@ -120,14 +122,26 @@ def serialise_csv(sector_slug: str, week: dict, data: Dict[str, object]) -> None
 
 def fetch_sector_week(sector: str, week: dict) -> Dict[str, object]:
     ticker_to_name = get_ticker_to_name(sector)
+    companies = get_sector_companies(sector)
     start_date = date.fromisoformat(week["start_date"])
     end_date = date.fromisoformat(week["end_date"])
-    results = fetch_weekly_earnings(start=start_date, end=end_date, ticker_to_name=ticker_to_name)
+    results = fetch_weekly_earnings(
+        start=start_date,
+        end=end_date,
+        ticker_to_name=ticker_to_name,
+        companies=companies,
+    )
+    ir_companies = sorted({item["company"] for item in results if item.get("source") == "investor_relations"})
+    fallback_companies = sorted(
+        {item["company"] for item in results if item.get("source") != "investor_relations"}
+    )
     return {
         "records": results,
         "missing_public": get_companies_without_ticker(sector),
         "ticker_count": len(ticker_to_name),
         "generated_at": datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
+        "ir_companies": ir_companies,
+        "fallback_companies": fallback_companies,
     }
 
 
