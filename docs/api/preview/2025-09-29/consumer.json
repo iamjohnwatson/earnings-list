@@ -6,7 +6,8 @@
       "date": "2025-09-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Lamb Weston Holdings",
@@ -14,7 +15,8 @@
       "date": "2025-09-30",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Nike Inc",
@@ -22,7 +24,8 @@
       "date": "2025-09-30",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Conagra Brands",
@@ -30,13 +33,21 @@
       "date": "2025-10-01",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 4,
   "missingPublic": [],
   "tickerCount": 73,
-  "generatedAt": "2025-10-09T16:30:47Z",
+  "generatedAt": "2025-10-12T09:01:08Z",
+  "irCompanies": [],
+  "fallbackCompanies": [
+    "Carnival Corp",
+    "Conagra Brands",
+    "Lamb Weston Holdings",
+    "Nike Inc"
+  ],
   "week": {
     "id": "2025-09-29",
     "start_date": "2025-09-29",

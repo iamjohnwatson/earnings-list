@@ -6,13 +6,18 @@
       "date": "2025-09-30",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 1,
   "missingPublic": [],
   "tickerCount": 139,
-  "generatedAt": "2025-10-09T16:31:29Z",
+  "generatedAt": "2025-10-12T09:41:03Z",
+  "irCompanies": [],
+  "fallbackCompanies": [
+    "Paychex"
+  ],
   "week": {
     "id": "2025-09-29",
     "start_date": "2025-09-29",
