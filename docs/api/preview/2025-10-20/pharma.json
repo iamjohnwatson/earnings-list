@@ -4,9 +4,12 @@
       "company": "Danaher Corp",
       "symbol": "DHR",
       "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 A.M. ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 a.m. ET",
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Elevance Health Inc",
@@ -14,7 +17,8 @@
       "date": "2025-10-21",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Quest Diagnostics Inc",
@@ -22,7 +26,8 @@
       "date": "2025-10-21",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Boston Scientific Corp",
@@ -30,7 +35,10 @@
       "date": "2025-10-22",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Molina Healthcare Inc",
@@ -38,7 +46,8 @@
       "date": "2025-10-22",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Thermo Fisher Scientific Inc",
@@ -46,7 +55,8 @@
       "date": "2025-10-22",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Edwards Lifesciences Corp",
@@ -54,7 +64,8 @@
       "date": "2025-10-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Healthpeak Properties",
@@ -62,15 +73,17 @@
       "date": "2025-10-23",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "West Pharmaceutical Services Inc",
       "symbol": "WST",
       "date": "2025-10-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "HCA Healthcare Inc",
@@ -78,13 +91,28 @@
       "date": "2025-10-24",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 10,
   "missingPublic": [],
   "tickerCount": 47,
-  "generatedAt": "2025-10-09T16:33:38Z",
+  "generatedAt": "2025-10-12T14:05:52Z",
+  "irCompanies": [
+    "Boston Scientific Corp",
+    "Danaher Corp"
+  ],
+  "fallbackCompanies": [
+    "Edwards Lifesciences Corp",
+    "Elevance Health Inc",
+    "HCA Healthcare Inc",
+    "Healthpeak Properties",
+    "Molina Healthcare Inc",
+    "Quest Diagnostics Inc",
+    "Thermo Fisher Scientific Inc",
+    "West Pharmaceutical Services Inc"
+  ],
   "week": {
     "id": "2025-10-20",
     "start_date": "2025-10-20",

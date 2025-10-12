@@ -4,9 +4,12 @@
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.coca-colacompany.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Philip Morris International",
@@ -14,15 +17,8 @@
       "date": "2025-10-21",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
-    },
-    {
-      "company": "Rollins Inc",
-      "symbol": "ROL",
-      "date": "2025-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Deckers Outdoors",
@@ -30,7 +26,8 @@
       "date": "2025-10-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Hasbro Inc",
@@ -38,7 +35,8 @@
       "date": "2025-10-23",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Keurig Dr. Pepper",
@@ -46,7 +44,8 @@
       "date": "2025-10-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Tractor Supply Co",
@@ -54,7 +53,8 @@
       "date": "2025-10-23",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Procter & Gamble",
@@ -62,13 +62,25 @@
       "date": "2025-10-24",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 73,
-  "generatedAt": "2025-10-09T16:33:16Z",
+  "generatedAt": "2025-10-12T13:25:00Z",
+  "irCompanies": [
+    "Coca-Cola Co"
+  ],
+  "fallbackCompanies": [
+    "Deckers Outdoors",
+    "Hasbro Inc",
+    "Keurig Dr. Pepper",
+    "Philip Morris International",
+    "Procter & Gamble",
+    "Tractor Supply Co"
+  ],
   "week": {
     "id": "2025-10-20",
     "start_date": "2025-10-20",

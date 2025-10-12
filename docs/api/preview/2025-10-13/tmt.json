@@ -1,18 +1,25 @@
 {
   "records": [
     {
-      "company": "Crown Castle",
-      "symbol": "CCI",
+      "company": "HPE",
+      "symbol": "HPE",
       "date": "2025-10-15",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 1,
   "missingPublic": [],
   "tickerCount": 139,
-  "generatedAt": "2025-10-09T16:33:08Z",
+  "generatedAt": "2025-10-12T13:18:58Z",
+  "irCompanies": [
+    "HPE"
+  ],
+  "fallbackCompanies": [],
   "week": {
     "id": "2025-10-13",
     "start_date": "2025-10-13",
