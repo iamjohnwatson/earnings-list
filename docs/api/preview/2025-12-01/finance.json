@@ -6,7 +6,8 @@
       "date": "2025-12-02",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Royal Bank of Canada",
@@ -14,16 +15,52 @@
       "date": "2025-12-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "CIBC",
+      "symbol": "CM",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "TD Bank",
+      "symbol": "TD",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-09T16:38:22Z",
+  "generatedAt": "2025-10-13T12:57:35Z",
+  "irCompanies": [],
+  "fallbackCompanies": [
+    "Bank of Montreal",
+    "CIBC",
+    "Royal Bank of Canada",
+    "Scotiabank",
+    "TD Bank"
+  ],
   "week": {
     "id": "2025-12-01",
     "start_date": "2025-12-01",

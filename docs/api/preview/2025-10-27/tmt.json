@@ -6,7 +6,8 @@
       "date": "2025-10-27",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "F5",
@@ -14,7 +15,8 @@
       "date": "2025-10-27",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "NXP Semiconductors",
@@ -22,7 +24,8 @@
       "date": "2025-10-27",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Onsemi",
@@ -30,7 +33,8 @@
       "date": "2025-10-27",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "SBA Communications",
@@ -38,7 +42,8 @@
       "date": "2025-10-27",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "American Tower",
@@ -46,7 +51,8 @@
       "date": "2025-10-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "CoStar Group",
@@ -54,7 +60,8 @@
       "date": "2025-10-28",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Corning",
@@ -62,7 +69,8 @@
       "date": "2025-10-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Electronic Arts",
@@ -70,7 +78,8 @@
       "date": "2025-10-28",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Interpublic Group of Companies",
@@ -78,7 +87,8 @@
       "date": "2025-10-28",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Seagate",
@@ -86,7 +96,8 @@
       "date": "2025-10-28",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Zebra Technologies",
@@ -94,7 +105,8 @@
       "date": "2025-10-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "ADP",
@@ -102,7 +114,8 @@
       "date": "2025-10-29",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Cognizant",
@@ -110,7 +123,8 @@
       "date": "2025-10-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Dayforce",
@@ -118,15 +132,19 @@
       "date": "2025-10-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "5:30 PM ET",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": "5:30 PM ET",
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Garmin",
@@ -134,31 +152,19 @@
       "date": "2025-10-29",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
-    },
-    {
-      "company": "Gen Digital",
-      "symbol": "GEN",
-      "date": "2025-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
-    },
-    {
-      "company": "GoDaddy",
-      "symbol": "GDDY",
-      "date": "2025-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "KLA Corp",
       "symbol": "KLAC",
       "date": "2025-10-29",
-      "bmo_amc": "TBD",
+      "bmo_amc": "2:00 PM PDT",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00 pm PDT",
+      "ir_source_url": "https://ir.kla.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Meta",
@@ -166,23 +172,19 @@
       "date": "2025-10-29",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Microsoft",
       "symbol": "MSFT",
       "date": "2025-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
-    },
-    {
-      "company": "Monolithic Power",
-      "symbol": "MPWR",
-      "date": "2025-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.microsoft.com/en-us/investor/default",
+      "source": "investor_relations"
     },
     {
       "company": "Paycom",
@@ -190,7 +192,8 @@
       "date": "2025-10-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Roku",
@@ -198,7 +201,28 @@
       "date": "2025-10-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "ServiceNow",
+      "symbol": "NOW",
+      "date": "2025-10-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2025-10-29",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations"
     },
     {
       "company": "eBay",
@@ -206,7 +230,8 @@
       "date": "2025-10-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Amazon",
@@ -214,7 +239,8 @@
       "date": "2025-10-30",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Apple",
@@ -222,7 +248,8 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Atlassian",
@@ -230,7 +257,8 @@
       "date": "2025-10-30",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Comcast",
@@ -238,23 +266,19 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
-      "company": "Intel",
-      "symbol": "INTC",
+      "company": "GoDaddy",
+      "symbol": "GDDY",
       "date": "2025-10-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
-    },
-    {
-      "company": "Mobileye",
-      "symbol": "MBLY",
-      "date": "2025-10-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://aboutus.godaddy.net/investor-relations/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Roblox",
@@ -262,15 +286,19 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "SiriusXM",
       "symbol": "SIRI",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM ET",
+      "ir_source_url": "https://investor.siriusxm.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Charter Communications",
@@ -278,13 +306,51 @@
       "date": "2025-10-31",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 35,
+  "count": 33,
   "missingPublic": [],
   "tickerCount": 139,
-  "generatedAt": "2025-10-09T16:34:46Z",
+  "generatedAt": "2025-10-13T12:56:49Z",
+  "irCompanies": [
+    "Equinix",
+    "GoDaddy",
+    "KLA Corp",
+    "Microsoft",
+    "SiriusXM",
+    "Verizon"
+  ],
+  "fallbackCompanies": [
+    "ADP",
+    "Amazon",
+    "American Tower",
+    "Apple",
+    "Atlassian",
+    "Cadence",
+    "Charter Communications",
+    "CoStar Group",
+    "Cognizant",
+    "Comcast",
+    "Corning",
+    "Dayforce",
+    "Electronic Arts",
+    "F5",
+    "Garmin",
+    "Interpublic Group of Companies",
+    "Meta",
+    "NXP Semiconductors",
+    "Onsemi",
+    "Paycom",
+    "Roblox",
+    "Roku",
+    "SBA Communications",
+    "Seagate",
+    "ServiceNow",
+    "Zebra Technologies",
+    "eBay"
+  ],
   "week": {
     "id": "2025-10-27",
     "start_date": "2025-10-27",

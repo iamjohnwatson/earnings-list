@@ -9,8 +9,8 @@
   <body>
     <main class="container">
       <header class="page-header">
-        <h1>Quarterly Earnings Downloader</h1>
-        <p>Select a coverage week and sector to build a Reuters-ready earnings spreadsheet.</p>
+        <h1>Company Events Calendar Assistant</h1>
+        <p>Pick a coverage week and sector to pull upcoming earnings calls, analyst days, and other investor events—results aren’t guaranteed to be exhaustive or perfectly accurate, so double-check the calendar before you publish.</p>
       </header>
 
       <section class="controls">
@@ -18,8 +18,6 @@
           <label class="field">
             <span>Week</span>
             <select id="week-select" required>
-              
-              <option value="2025-09-29">Week of Sep 29 to Oct 3</option>
               
               <option value="2025-10-06">Week of Oct 6 to Oct 10</option>
               
@@ -44,6 +42,8 @@
               <option value="2025-12-15">Week of Dec 15 to Dec 19</option>
               
               <option value="2025-12-22">Week of Dec 22 to Dec 26</option>
+              
+              <option value="2025-12-29">Week of Dec 29 to Jan 2</option>
               
             </select>
           </label>
@@ -119,6 +119,11 @@
               <ul id="fallback-source-list" class="source-summary__list"></ul>
             </div>
           </div>
+        </div>
+        <div class="source-note">
+          <p>We start by crawling each company’s investor relations site for future event dates.</p>
+          <p>If we can’t find one, we tap Nasdaq and Yahoo Finance to fill the gaps.</p>
+          <p>You get a single list that highlights which events came from official sources and which rely on public aggregators.</p>
         </div>
       </section>
     </main>

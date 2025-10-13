@@ -392,10 +392,20 @@
   }
 
   async function handlePreview() {
-    const payload = {
-      sector: sectorSelect.value,
-      weekId: weekSelect.value,
-    };
+   const payload = {
+     sector: sectorSelect.value,
+     weekId: weekSelect.value,
+   };
+    if (!payload.sector || !payload.weekId) {
+      setStatus('Pick a week and sector first.', 'error');
+      previewSection.classList.add('hidden');
+      clearTimeline();
+      clearSourceSummary();
+      resetMeta();
+      matchCount.textContent = 'No matches';
+      renderMissing([]);
+      return;
+    }
     const slug = toSectorSlug(payload.sector);
     const url = `api/preview/${payload.weekId}/${slug}.json`;
     setStatus('Fetching earnings...', 'loading');

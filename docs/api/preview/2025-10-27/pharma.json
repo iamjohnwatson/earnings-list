@@ -6,7 +6,8 @@
       "date": "2025-10-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Labcorp Holdings Inc",
@@ -14,7 +15,8 @@
       "date": "2025-10-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Tenet Healthcare",
@@ -22,7 +24,8 @@
       "date": "2025-10-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Bio-Techne Corp",
@@ -30,15 +33,19 @@
       "date": "2025-10-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:00AM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Cardinal Health Inc",
@@ -46,7 +53,8 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Eli Lilly and Co",
@@ -54,21 +62,25 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
-    },
-    {
-      "company": "IDEXX Laboratories Inc",
-      "symbol": "IDXX",
-      "date": "2025-10-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 47,
-  "generatedAt": "2025-10-09T16:34:30Z",
+  "generatedAt": "2025-10-13T12:56:49Z",
+  "irCompanies": [
+    "Centene Corp"
+  ],
+  "fallbackCompanies": [
+    "Bio-Techne Corp",
+    "Cardinal Health Inc",
+    "Eli Lilly and Co",
+    "IQVIA Holdings Inc",
+    "Labcorp Holdings Inc",
+    "Tenet Healthcare"
+  ],
   "week": {
     "id": "2025-10-27",
     "start_date": "2025-10-27",
