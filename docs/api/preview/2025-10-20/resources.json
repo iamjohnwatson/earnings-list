@@ -91,6 +91,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Freeport McMoRan",
+      "symbol": "FCX",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Newmont Corp",
       "symbol": "NEM",
       "date": "2025-10-23",
@@ -118,13 +127,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [
     "Expand Energy",
     "Venture Global"
   ],
   "tickerCount": 96,
-  "generatedAt": "2025-10-13T18:50:41Z",
+  "generatedAt": "2025-10-13T21:45:49Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Baker Hughes",
@@ -133,6 +142,7 @@
     "Dow",
     "EQT Corp",
     "First Energy",
+    "Freeport McMoRan",
     "GE Vernova",
     "Halliburton",
     "Newmont Corp",

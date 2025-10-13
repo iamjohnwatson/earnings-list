@@ -297,6 +297,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Camden Property Trust",
+      "symbol": "CPT",
+      "date": "2025-10-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
       "date": "2025-10-30",
@@ -418,10 +427,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 45,
+  "count": 46,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-13T18:50:47Z",
+  "generatedAt": "2025-10-13T21:45:55Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
@@ -442,6 +451,7 @@
     "Boston Properties",
     "CH Robinson Worldwide Inc",
     "Caesars Entertainment Inc",
+    "Camden Property Trust",
     "Caterpillar",
     "Eaton Corporation PLC",
     "Equity Residential",

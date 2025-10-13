@@ -43,62 +43,6 @@
       "sector": "Pharma"
     },
     {
-      "company": "Fox Corp",
-      "symbol": "FOXA",
-      "date": "2025-10-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.foxcorporation.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-10-13",
-      "bmo_amc": "2:31 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:31 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2025-10-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2025-10-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2025-10-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2025-10-14",
@@ -367,6 +311,18 @@
       "sector": "Finance"
     },
     {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2025-10-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Fastenal Co",
       "symbol": "FAST",
       "date": "2025-10-13",
@@ -379,11 +335,11 @@
     {
       "company": "MGM Resorts International",
       "symbol": "MGM",
-      "date": "2025-10-14",
-      "bmo_amc": "09:00 AM EDT",
+      "date": "2025-10-13",
+      "bmo_amc": "4:00 PM",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "09:00 AM EDT",
+      "ir_time_label": "4:00 PM ",
       "ir_source_url": "https://investors.mgmresorts.com/investors/overview/default.aspx",
       "source": "investor_relations",
       "sector": "Manufacturing"
@@ -431,6 +387,62 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Fox Corp",
+      "symbol": "FOXA",
+      "date": "2025-10-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.foxcorporation.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-10-13",
+      "bmo_amc": "4:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2025-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2025-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2025-10-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2025-10-13",
@@ -453,7 +465,7 @@
       "sector": "Consumer"
     }
   ],
-  "count": 42,
+  "count": 43,
   "missingPublic": [
     "CDPQ",
     "CPPIB",
@@ -461,9 +473,10 @@
     "Venture Global"
   ],
   "tickerCount": 553,
-  "generatedAt": "2025-10-13T18:50:34Z",
+  "generatedAt": "2025-10-13T21:45:42Z",
   "irCompanies": [
     "Bank of America",
+    "Bombardier",
     "Citigroup",
     "Citizens Financial",
     "DaVita Inc",

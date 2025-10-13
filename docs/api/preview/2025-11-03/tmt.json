@@ -91,6 +91,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Reddit",
+      "symbol": "RDDT",
+      "date": "2025-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Rivian",
       "symbol": "RIVN",
       "date": "2025-11-04",
@@ -100,6 +109,15 @@
       "ir_time_label": null,
       "ir_source_url": "https://rivian.com/investors",
       "source": "investor_relations"
+    },
+    {
+      "company": "Snap",
+      "symbol": "SNAP",
+      "date": "2025-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Spotify",
@@ -228,6 +246,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Snap",
+      "symbol": "SNAP",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Trimble",
       "symbol": "TRMB",
       "date": "2025-11-05",
@@ -320,10 +347,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 35,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 139,
-  "generatedAt": "2025-10-13T18:50:54Z",
+  "generatedAt": "2025-10-13T21:46:03Z",
   "irCompanies": [
     "Gen Digital",
     "Rivian"
@@ -357,6 +384,8 @@
     "Pinterest",
     "Qorvo",
     "Qualcomm",
+    "Reddit",
+    "Snap",
     "Spotify",
     "Take-Two Interactive",
     "Trade Desk",
