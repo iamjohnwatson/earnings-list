@@ -3,7 +3,7 @@ name: Rebuild static site
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */5 * * *"  # every 5 hours (UTC)
+    - cron: "0 */3 * * *"  # every 3 hours (UTC)
 
 jobs:
   build:
