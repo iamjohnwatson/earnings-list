@@ -12,29 +12,11 @@
       "source": "investor_relations"
     },
     {
-      "company": "Mondelez International",
-      "symbol": "MDLZ",
-      "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Regency Centers Corp",
       "symbol": "REG",
       "date": "2025-10-28",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Royal Caribbean Group",
-      "symbol": "RCL",
-      "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -232,10 +214,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 25,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 73,
-  "generatedAt": "2025-10-13T12:56:49Z",
+  "generatedAt": "2025-10-13T15:47:17Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Estee Lauder",
@@ -256,11 +238,9 @@
     "Kimco Realty Corp",
     "Kraft Heinz Co",
     "Masco Corp",
-    "Mondelez International",
     "Norwegian Cruise Line",
     "Regency Centers Corp",
     "Rollins Inc",
-    "Royal Caribbean Group",
     "Starbucks Corp",
     "Sysco Corp",
     "VF Corp"

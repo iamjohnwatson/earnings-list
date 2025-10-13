@@ -255,8 +255,8 @@
       "company": "Atlassian",
       "symbol": "TEAM",
       "date": "2025-10-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -279,6 +279,24 @@
       "ir_time_label": null,
       "ir_source_url": "https://aboutus.godaddy.net/investor-relations/overview/default.aspx",
       "source": "investor_relations"
+    },
+    {
+      "company": "Monolithic Power",
+      "symbol": "MPWR",
+      "date": "2025-10-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Reddit",
+      "symbol": "RDDT",
+      "date": "2025-10-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Roblox",
@@ -310,10 +328,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 33,
+  "count": 35,
   "missingPublic": [],
   "tickerCount": 139,
-  "generatedAt": "2025-10-13T12:56:49Z",
+  "generatedAt": "2025-10-13T15:47:16Z",
   "irCompanies": [
     "Equinix",
     "GoDaddy",
@@ -340,9 +358,11 @@
     "Garmin",
     "Interpublic Group of Companies",
     "Meta",
+    "Monolithic Power",
     "NXP Semiconductors",
     "Onsemi",
     "Paycom",
+    "Reddit",
     "Roblox",
     "Roku",
     "SBA Communications",

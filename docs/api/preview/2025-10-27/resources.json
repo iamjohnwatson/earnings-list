@@ -28,6 +28,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Freeport McMoRan",
+      "symbol": "FCX",
+      "date": "2025-10-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "ONEOK",
       "symbol": "OKE",
       "date": "2025-10-28",
@@ -253,13 +262,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 29,
   "missingPublic": [
     "Expand Energy",
     "Venture Global"
   ],
   "tickerCount": 96,
-  "generatedAt": "2025-10-13T12:56:48Z",
+  "generatedAt": "2025-10-13T15:47:17Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -276,6 +285,7 @@
     "Exxon Mobil",
     "FMC",
     "First Solar",
+    "Freeport McMoRan",
     "HF Sinclair",
     "Imperial Oil",
     "Linde",

@@ -64,12 +64,21 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Gilead",
+      "symbol": "GILD",
+      "date": "2025-10-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 47,
-  "generatedAt": "2025-10-13T12:56:49Z",
+  "generatedAt": "2025-10-13T15:47:17Z",
   "irCompanies": [
     "Centene Corp"
   ],
@@ -77,6 +86,7 @@
     "Bio-Techne Corp",
     "Cardinal Health Inc",
     "Eli Lilly and Co",
+    "Gilead",
     "IQVIA Holdings Inc",
     "Labcorp Holdings Inc",
     "Tenet Healthcare"
