@@ -61,13 +61,9 @@
       "bmo_amc": "2:00 P.M.",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-<<<<<<< HEAD
-      "source": "aggregator"
-=======
       "ir_time_label": "2:00 p.m. ",
       "ir_source_url": "https://investor.lamresearch.com/",
       "source": "investor_relations"
->>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Teradyne",
@@ -109,19 +105,12 @@
       "company": "Intel",
       "symbol": "INTC",
       "date": "2025-10-23",
-<<<<<<< HEAD
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-=======
       "bmo_amc": "2:00 PM PT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "2:00 PM PT",
       "ir_source_url": "https://www.intc.com/",
       "source": "investor_relations"
->>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Mobileye",
@@ -139,13 +128,9 @@
       "bmo_amc": "8:00 AM",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-<<<<<<< HEAD
-      "source": "aggregator"
-=======
       "ir_time_label": "8:00 AM ",
       "ir_source_url": "https://about.rogers.com/investor-relations/",
       "source": "investor_relations"
->>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Roper Technologies",
@@ -187,34 +172,20 @@
   "count": 18,
   "missingPublic": [],
   "tickerCount": 139,
-<<<<<<< HEAD
-  "generatedAt": "2025-10-13T16:54:03Z",
-  "irCompanies": [],
-=======
-  "generatedAt": "2025-10-13T15:47:09Z",
+  "generatedAt": "2025-10-13T18:50:41Z",
   "irCompanies": [
     "Intel",
     "Lam Research",
     "Rogers Communications"
   ],
->>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
   "fallbackCompanies": [
     "Amphenol",
     "Crown Castle",
     "Digital Realty",
     "IBM",
-<<<<<<< HEAD
-    "Intel",
-    "Lam Research",
     "Mobileye",
     "Netflix",
     "Omnicom",
-    "Rogers Communications",
-=======
-    "Mobileye",
-    "Netflix",
-    "Omnicom",
->>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Roper Technologies",
     "T-Mobile US",
     "Teradyne",

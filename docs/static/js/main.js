@@ -347,7 +347,7 @@
         }
         const groupCell = document.createElement('th');
         groupCell.setAttribute('scope', 'colgroup');
-        groupCell.colSpan = showSector ? 5 : 4;
+        groupCell.colSpan = showSector ? 6 : 5;
         groupCell.textContent = group?.fullLabel || formatFullDate(recordDate);
         if (group?.isWeekend) {
           const badge = document.createElement('span');
@@ -367,6 +367,18 @@
       const tickerCell = document.createElement('td');
       tickerCell.dataset.label = 'Ticker';
       tickerCell.textContent = record.symbol || '';
+      const irCell = document.createElement('td');
+      irCell.dataset.label = 'IR Source';
+      if (record.source === 'investor_relations' && record.ir_source_url) {
+        const link = document.createElement('a');
+        link.href = record.ir_source_url;
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        link.textContent = 'Investor relations';
+        irCell.appendChild(link);
+      } else {
+        irCell.textContent = 'N/A';
+      }
       const dateCell = document.createElement('td');
       dateCell.dataset.label = 'Weekday';
       dateCell.textContent = formatWeekday(record.date) || 'TBD';
@@ -392,6 +404,7 @@
         sectorCell.textContent = record.sector || data.sector || '';
         tr.appendChild(sectorCell);
       }
+      tr.appendChild(irCell);
       tr.append(dateCell, callCell);
       fragment.appendChild(tr);
     });

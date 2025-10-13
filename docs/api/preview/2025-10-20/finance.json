@@ -91,6 +91,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Arthur J. Gallagher",
+      "symbol": "AJG",
+      "date": "2025-10-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Blackstone",
       "symbol": "BX",
       "date": "2025-10-23",
@@ -118,21 +127,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-<<<<<<< HEAD
-  "generatedAt": "2025-10-13T16:54:03Z",
-=======
-  "generatedAt": "2025-10-13T15:47:09Z",
->>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
+  "generatedAt": "2025-10-13T18:50:40Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Ameriprise Financial Inc",
     "Aon",
+    "Arthur J. Gallagher",
     "Blackstone",
     "CME Group Inc",
     "Capital One Financial",

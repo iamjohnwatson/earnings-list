@@ -1,15 +1,6 @@
 {
   "records": [
     {
-<<<<<<< HEAD
-      "company": "Mondelez International",
-      "symbol": "MDLZ",
-      "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-=======
       "company": "Keurig Dr. Pepper",
       "symbol": "KDP",
       "date": "2025-10-27",
@@ -19,7 +10,6 @@
       "ir_time_label": null,
       "ir_source_url": "https://investors.keurigdrpepper.com/",
       "source": "investor_relations"
->>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Regency Centers Corp",
@@ -29,18 +19,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-<<<<<<< HEAD
     },
     {
       "company": "Royal Caribbean Group",
       "symbol": "RCL",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "10:00AM ET",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator"
-=======
->>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
+      "ir_time_label": "10:00AM ET",
+      "ir_source_url": "https://www.rclinvestor.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Sysco Corp",
@@ -67,13 +56,9 @@
       "bmo_amc": "4:30 PM",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-<<<<<<< HEAD
-      "source": "aggregator"
-=======
       "ir_time_label": "4:30 PM ",
       "ir_source_url": "https://ir.chipotle.com/",
       "source": "investor_relations"
->>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Clorox Co",
@@ -154,13 +139,9 @@
       "bmo_amc": "08:30AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-<<<<<<< HEAD
-      "source": "aggregator"
-=======
       "ir_time_label": "08:30AM ET",
       "ir_source_url": "https://www.elcompanies.com/en/investors",
       "source": "investor_relations"
->>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Hershey Co",
@@ -244,29 +225,15 @@
       "source": "aggregator"
     }
   ],
-<<<<<<< HEAD
   "count": 24,
   "missingPublic": [],
   "tickerCount": 73,
-  "generatedAt": "2025-10-13T16:54:09Z",
-  "irCompanies": [],
-  "fallbackCompanies": [
-    "Altria Group Inc",
-    "Amcor PLC",
-    "Chipotle Mexican Grill",
-    "Church & Dwight",
-    "Clorox Co",
-    "Colgate-Palmolive",
-    "Estee Lauder",
-=======
-  "count": 23,
-  "missingPublic": [],
-  "tickerCount": 73,
-  "generatedAt": "2025-10-13T15:47:17Z",
+  "generatedAt": "2025-10-13T18:50:48Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Estee Lauder",
-    "Keurig Dr. Pepper"
+    "Keurig Dr. Pepper",
+    "Royal Caribbean Group"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
@@ -274,7 +241,6 @@
     "Church & Dwight",
     "Clorox Co",
     "Colgate-Palmolive",
->>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Etsy Inc",
     "Federal Realty Investment Trust",
     "Hershey Co",
@@ -284,17 +250,9 @@
     "Kimco Realty Corp",
     "Kraft Heinz Co",
     "Masco Corp",
-<<<<<<< HEAD
-    "Mondelez International",
     "Norwegian Cruise Line",
     "Regency Centers Corp",
     "Rollins Inc",
-    "Royal Caribbean Group",
-=======
-    "Norwegian Cruise Line",
-    "Regency Centers Corp",
-    "Rollins Inc",
->>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Starbucks Corp",
     "Sysco Corp",
     "VF Corp"
