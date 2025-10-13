@@ -23,14 +23,15 @@
               {% endfor %}
             </select>
           </label>
-          <label class="field">
-            <span>Sector</span>
-            <select id="sector-select" required>
-              {% for sector in sectors %}
-              <option value="{{ sector }}">{{ sector }}</option>
-              {% endfor %}
-            </select>
-          </label>
+            <label class="field">
+              <span>Sector</span>
+              <select id="sector-select" required>
+                <option value="All">All sectors</option>
+                {% for sector in sectors %}
+                <option value="{{ sector }}">{{ sector }}</option>
+                {% endfor %}
+              </select>
+            </label>
           <div class="actions">
             <button type="button" id="preview-btn" class="btn primary">Preview Week</button>
             <button type="button" id="download-btn" class="btn" disabled>Download CSV</button>
@@ -57,14 +58,16 @@
         <div class="preview-layout">
           <div class="table-wrapper">
             <table id="preview-table">
-              <thead>
-                <tr>
-                  <th scope="col">Company</th>
-                  <th scope="col">Ticker</th>
-                  <th scope="col">Weekday</th>
-                  <th scope="col">BMO/AMC</th>
-                </tr>
-              </thead>
+                <thead>
+                  <tr>
+                    <th scope="col">Company</th>
+                    <th scope="col">Ticker</th>
+                    <th scope="col" id="sector-column" class="hidden">Sector</th>
+                    <th scope="col">IR Source</th>
+                    <th scope="col">Weekday</th>
+                    <th scope="col">BMO/AMC</th>
+                  </tr>
+                </thead>
               <tbody></tbody>
             </table>
           </div>

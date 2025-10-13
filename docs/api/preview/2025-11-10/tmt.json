@@ -6,15 +6,8 @@
       "date": "2025-11-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
-    },
-    {
-      "company": "IAC",
-      "symbol": "IAC",
-      "date": "2025-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Live Nation Entertainment",
@@ -22,7 +15,8 @@
       "date": "2025-11-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "CoreWeave",
@@ -30,7 +24,8 @@
       "date": "2025-11-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Sea Limited",
@@ -38,7 +33,8 @@
       "date": "2025-11-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Shopify",
@@ -46,7 +42,8 @@
       "date": "2025-11-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Skyworks Solutions",
@@ -54,7 +51,8 @@
       "date": "2025-11-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Tencent Music",
@@ -62,7 +60,8 @@
       "date": "2025-11-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Cisco Systems",
@@ -70,7 +69,8 @@
       "date": "2025-11-12",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "GlobalFoundries",
@@ -78,7 +78,8 @@
       "date": "2025-11-12",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Tower Semiconductor",
@@ -86,7 +87,8 @@
       "date": "2025-11-12",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Applied Materials",
@@ -94,7 +96,8 @@
       "date": "2025-11-13",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Disney",
@@ -102,7 +105,8 @@
       "date": "2025-11-13",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "JD.com",
@@ -110,13 +114,30 @@
       "date": "2025-11-13",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 139,
-  "generatedAt": "2025-10-09T16:36:27Z",
+  "generatedAt": "2025-10-13T16:54:20Z",
+  "irCompanies": [],
+  "fallbackCompanies": [
+    "Applied Materials",
+    "Cisco Systems",
+    "CoreWeave",
+    "Disney",
+    "GlobalFoundries",
+    "Grab",
+    "JD.com",
+    "Live Nation Entertainment",
+    "Sea Limited",
+    "Shopify",
+    "Skyworks Solutions",
+    "Tencent Music",
+    "Tower Semiconductor"
+  ],
   "week": {
     "id": "2025-11-10",
     "start_date": "2025-11-10",

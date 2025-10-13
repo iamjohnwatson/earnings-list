@@ -1,20 +1,13 @@
 {
   "records": [
     {
-      "company": "Constellation Energy",
-      "symbol": "CEG",
-      "date": "2025-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
-    },
-    {
       "company": "Corterra Energy",
       "symbol": "CTRA",
       "date": "2025-11-03",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Diamondback Energy",
@@ -22,7 +15,8 @@
       "date": "2025-11-03",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Eastman Chemical",
@@ -30,7 +24,8 @@
       "date": "2025-11-03",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Eversource Energy",
@@ -38,7 +33,8 @@
       "date": "2025-11-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Pinnacle West",
@@ -46,7 +42,8 @@
       "date": "2025-11-03",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Public Service Enterprise Co",
@@ -54,7 +51,17 @@
       "date": "2025-11-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "AES Corp",
+      "symbol": "AES",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Corteva",
@@ -62,7 +69,8 @@
       "date": "2025-11-04",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "DuPont",
@@ -70,7 +78,8 @@
       "date": "2025-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Exelon Corp",
@@ -78,15 +87,8 @@
       "date": "2025-11-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
-    },
-    {
-      "company": "First Solar",
-      "symbol": "FSLR",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Marathon Petroleum",
@@ -94,7 +96,8 @@
       "date": "2025-11-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Ovintiv",
@@ -102,7 +105,8 @@
       "date": "2025-11-04",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Targa Resources",
@@ -110,15 +114,17 @@
       "date": "2025-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "APA",
       "symbol": "APA",
       "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Albemarle",
@@ -126,7 +132,8 @@
       "date": "2025-11-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Ameren",
@@ -134,7 +141,8 @@
       "date": "2025-11-05",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Atmos Energy",
@@ -142,7 +150,8 @@
       "date": "2025-11-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Bunge",
@@ -150,7 +159,8 @@
       "date": "2025-11-05",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "CF Industries",
@@ -158,7 +168,8 @@
       "date": "2025-11-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Devon Energy",
@@ -166,15 +177,17 @@
       "date": "2025-11-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Energy Transfer",
       "symbol": "ET",
       "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Nutrien",
@@ -182,7 +195,8 @@
       "date": "2025-11-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Sempra",
@@ -190,15 +204,17 @@
       "date": "2025-11-05",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Texas Pacific Land",
       "symbol": "TPL",
       "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Williams Co",
@@ -206,7 +222,8 @@
       "date": "2025-11-05",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Air Products",
@@ -214,7 +231,8 @@
       "date": "2025-11-06",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Alliant Energy",
@@ -222,7 +240,8 @@
       "date": "2025-11-06",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Canadian Natural Resources",
@@ -230,7 +249,8 @@
       "date": "2025-11-06",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Celanese",
@@ -238,7 +258,8 @@
       "date": "2025-11-06",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "ConocoPhillips",
@@ -246,7 +267,8 @@
       "date": "2025-11-06",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Consolidated Edison",
@@ -254,7 +276,8 @@
       "date": "2025-11-06",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "EOG Resources",
@@ -262,7 +285,8 @@
       "date": "2025-11-06",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Evergy",
@@ -270,7 +294,8 @@
       "date": "2025-11-06",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "MP Materials",
@@ -278,7 +303,8 @@
       "date": "2025-11-06",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "NRG Energy",
@@ -286,7 +312,8 @@
       "date": "2025-11-06",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "New Fortress Energy",
@@ -294,7 +321,8 @@
       "date": "2025-11-06",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "NuScale Power",
@@ -302,7 +330,8 @@
       "date": "2025-11-06",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "TC Energy",
@@ -310,7 +339,8 @@
       "date": "2025-11-06",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Vistra Corp",
@@ -318,7 +348,17 @@
       "date": "2025-11-06",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Constellation Energy",
+      "symbol": "CEG",
+      "date": "2025-11-07",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Duke Energy",
@@ -326,7 +366,8 @@
       "date": "2025-11-07",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Enbridge",
@@ -334,15 +375,8 @@
       "date": "2025-11-07",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
-    },
-    {
-      "company": "Exxon Mobil",
-      "symbol": "XOM",
-      "date": "2025-11-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "PPL Corp",
@@ -350,16 +384,63 @@
       "date": "2025-11-07",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 44,
+  "count": 43,
   "missingPublic": [
     "Expand Energy",
     "Venture Global"
   ],
   "tickerCount": 96,
-  "generatedAt": "2025-10-09T16:35:28Z",
+  "generatedAt": "2025-10-13T16:54:14Z",
+  "irCompanies": [],
+  "fallbackCompanies": [
+    "AES Corp",
+    "APA",
+    "Air Products",
+    "Albemarle",
+    "Alliant Energy",
+    "Ameren",
+    "Atmos Energy",
+    "Bunge",
+    "CF Industries",
+    "Canadian Natural Resources",
+    "Celanese",
+    "ConocoPhillips",
+    "Consolidated Edison",
+    "Constellation Energy",
+    "Corterra Energy",
+    "Corteva",
+    "Devon Energy",
+    "Diamondback Energy",
+    "DuPont",
+    "Duke Energy",
+    "EOG Resources",
+    "Eastman Chemical",
+    "Enbridge",
+    "Energy Transfer",
+    "Evergy",
+    "Eversource Energy",
+    "Exelon Corp",
+    "MP Materials",
+    "Marathon Petroleum",
+    "NRG Energy",
+    "New Fortress Energy",
+    "NuScale Power",
+    "Nutrien",
+    "Ovintiv",
+    "PPL Corp",
+    "Pinnacle West",
+    "Public Service Enterprise Co",
+    "Sempra",
+    "TC Energy",
+    "Targa Resources",
+    "Texas Pacific Land",
+    "Vistra Corp",
+    "Williams Co"
+  ],
   "week": {
     "id": "2025-11-03",
     "start_date": "2025-11-03",

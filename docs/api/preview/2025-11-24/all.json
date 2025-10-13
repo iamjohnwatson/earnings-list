@@ -1,0 +1,157 @@
+{
+  "records": [
+    {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2025-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Bath & Body Works",
+      "symbol": "BBWI",
+      "date": "2025-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Zoom",
+      "symbol": "ZM",
+      "date": "2025-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Analog Devices",
+      "symbol": "ADI",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Autodesk",
+      "symbol": "ADSK",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Crowdstrike",
+      "symbol": "CRWD",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Dell",
+      "symbol": "DELL",
+      "date": "2025-11-25",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "HP Inc",
+      "symbol": "HPQ",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "VinFast",
+      "symbol": "VFS",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Workday",
+      "symbol": "WDAY",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    }
+  ],
+  "count": 12,
+  "missingPublic": [
+    "CDPQ",
+    "CPPIB",
+    "Expand Energy",
+    "Venture Global"
+  ],
+  "tickerCount": 553,
+  "generatedAt": "2025-10-13T16:54:30Z",
+  "irCompanies": [],
+  "fallbackCompanies": [
+    "Agilent",
+    "Analog Devices",
+    "Autodesk",
+    "Bath & Body Works",
+    "Best Buy Co Inc",
+    "Crowdstrike",
+    "Dell",
+    "HP Inc",
+    "J.M. Smucker Co",
+    "VinFast",
+    "Workday",
+    "Zoom"
+  ],
+  "week": {
+    "id": "2025-11-24",
+    "start_date": "2025-11-24",
+    "end_date": "2025-11-28",
+    "label": "Week of Nov 24 to Nov 28"
+  },
+  "sector": "All sectors",
+  "sectorSlug": "all",
+  "downloadPath": "downloads/2025-11-24/earnings_all_2025-11-24.csv"
+}

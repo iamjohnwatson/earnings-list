@@ -1,9 +1,23 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 47,
-  "generatedAt": "2025-10-09T16:38:39Z",
+  "generatedAt": "2025-10-13T16:54:35Z",
+  "irCompanies": [],
+  "fallbackCompanies": [
+    "Cooper Companies Inc"
+  ],
   "week": {
     "id": "2025-12-01",
     "start_date": "2025-12-01",

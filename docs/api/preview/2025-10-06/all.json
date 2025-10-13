@@ -1,0 +1,80 @@
+{
+  "records": [
+    {
+      "company": "Constellation Brands",
+      "symbol": "STZ",
+      "date": "2025-10-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2025-10-07",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "PepsiCo Inc",
+      "symbol": "PEP",
+      "date": "2025-10-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2025-10-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2025-10-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    }
+  ],
+  "count": 5,
+  "missingPublic": [
+    "CDPQ",
+    "CPPIB",
+    "Expand Energy",
+    "Venture Global"
+  ],
+  "tickerCount": 553,
+  "generatedAt": "2025-10-13T16:53:51Z",
+  "irCompanies": [],
+  "fallbackCompanies": [
+    "Applied Digital",
+    "Constellation Brands",
+    "Delta Air",
+    "McCormick & Co",
+    "PepsiCo Inc"
+  ],
+  "week": {
+    "id": "2025-10-06",
+    "start_date": "2025-10-06",
+    "end_date": "2025-10-10",
+    "label": "Week of Oct 6 to Oct 10"
+  },
+  "sector": "All sectors",
+  "sectorSlug": "all",
+  "downloadPath": "downloads/2025-10-06/earnings_all_2025-10-06.csv"
+}

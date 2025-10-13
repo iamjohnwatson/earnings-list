@@ -3,7 +3,7 @@ from __future__ import annotations
 import json
 import logging
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import Dict, Iterable, List
 from urllib.parse import quote
@@ -196,6 +196,12 @@ def build_static_site() -> None:
     for week in weeks:
         logger.info("Processing week %s", week["id"])
         futures = {}
+        aggregate_records = []
+        aggregate_missing: set[str] = set()
+        aggregate_ir: set[str] = set()
+        aggregate_fallback: set[str] = set()
+        aggregate_ticker_count = 0
+        aggregate_latest: datetime | None = None
 
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             for sector in sectors:
@@ -222,6 +228,39 @@ def build_static_site() -> None:
                     continue
                 serialise_preview(sector, sector_slug, week, data)
                 serialise_csv(sector_slug, week, data)
+                aggregate_records.extend(
+                    {**record, "sector": sector} for record in data["records"]
+                )
+                aggregate_missing.update(data.get("missing_public", []))
+                aggregate_ir.update(data.get("ir_companies", []))
+                aggregate_fallback.update(data.get("fallback_companies", []))
+                aggregate_ticker_count += data.get("ticker_count", 0)
+                generated_at = data.get("generated_at")
+                if generated_at:
+                    try:
+                        parsed = datetime.fromisoformat(generated_at.replace("Z", "+00:00"))
+                    except ValueError:  # pragma: no cover - defensive
+                        parsed = None
+                    if parsed and (aggregate_latest is None or parsed > aggregate_latest):
+                        aggregate_latest = parsed
+
+        timestamp = (aggregate_latest or datetime.utcnow()).replace(microsecond=0)
+        if timestamp.tzinfo is not None:
+            timestamp = timestamp.astimezone(timezone.utc)
+            generated_at = timestamp.isoformat().replace("+00:00", "Z")
+        else:
+            generated_at = f"{timestamp.isoformat()}Z"
+
+        aggregate_payload = {
+            "records": aggregate_records,
+            "missing_public": sorted(aggregate_missing),
+            "ticker_count": aggregate_ticker_count,
+            "generated_at": generated_at,
+            "ir_companies": sorted(aggregate_ir),
+            "fallback_companies": sorted(aggregate_fallback),
+        }
+        serialise_preview("All sectors", "all", week, aggregate_payload)
+        serialise_csv("all", week, aggregate_payload)
 
     logger.info("Static site build complete.")
 

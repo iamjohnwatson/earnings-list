@@ -4,12 +4,10 @@
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2025-10-21",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am ET",
-      "ir_source_url": "https://investors.coca-colacompany.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Philip Morris International",
@@ -69,11 +67,10 @@
   "count": 7,
   "missingPublic": [],
   "tickerCount": 73,
-  "generatedAt": "2025-10-12T13:25:00Z",
-  "irCompanies": [
-    "Coca-Cola Co"
-  ],
+  "generatedAt": "2025-10-13T16:54:03Z",
+  "irCompanies": [],
   "fallbackCompanies": [
+    "Coca-Cola Co",
     "Deckers Outdoors",
     "Hasbro Inc",
     "Keurig Dr. Pepper",

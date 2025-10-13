@@ -14,6 +14,7 @@
   const previewWeek = document.getElementById('preview-week');
   const previewUpdated = document.getElementById('preview-updated');
   const previewMissing = document.getElementById('preview-missing');
+  const sectorHeader = document.getElementById('sector-column');
   const sourceSummary = document.getElementById('source-summary');
   const irSourceList = document.getElementById('ir-source-list');
   const fallbackSourceList = document.getElementById('fallback-source-list');
@@ -253,6 +254,9 @@
       el.textContent = '';
       el.className = 'meta-chip';
     });
+    if (sectorHeader) {
+      sectorHeader.classList.add('hidden');
+    }
   }
 
   function updatePreviewMeta(data, groups) {
@@ -262,7 +266,10 @@
     }
     resetMeta();
     if (data.sector) {
-      previewSector.textContent = `${data.sector} sector (${data.tickerCount ?? 0} tracked)`;
+      const sectorLabel = data.sector;
+      const needsSuffix = !sectorLabel.toLowerCase().includes('sector');
+      const label = `${sectorLabel}${needsSuffix ? ' sector' : ''}`.trim();
+      previewSector.textContent = `${label} (${data.tickerCount ?? 0} tracked)`;
     }
     if (data.week && data.week.label) {
       previewWeek.textContent = data.week.label;
@@ -305,9 +312,16 @@
     clearTimeline();
     clearSourceSummary();
     if (!data.records || data.records.length === 0) {
+      if (sectorHeader) {
+        sectorHeader.classList.add('hidden');
+      }
       previewSection.classList.add('hidden');
       matchCount.textContent = 'No matches';
       return [];
+    }
+    const showSector = data.sectorSlug === 'all';
+    if (sectorHeader) {
+      sectorHeader.classList.toggle('hidden', !showSector);
     }
     const sortedRecords = [...data.records].sort((a, b) => {
       const aDate = a.date || '';
@@ -333,7 +347,7 @@
         }
         const groupCell = document.createElement('th');
         groupCell.setAttribute('scope', 'colgroup');
-        groupCell.colSpan = 4;
+        groupCell.colSpan = showSector ? 5 : 4;
         groupCell.textContent = group?.fullLabel || formatFullDate(recordDate);
         if (group?.isWeekend) {
           const badge = document.createElement('span');
@@ -370,7 +384,15 @@
       }
       pill.textContent = sessionValue;
       callCell.appendChild(pill);
-      tr.append(companyCell, tickerCell, dateCell, callCell);
+      tr.appendChild(companyCell);
+      tr.appendChild(tickerCell);
+      if (showSector) {
+        const sectorCell = document.createElement('td');
+        sectorCell.dataset.label = 'Sector';
+        sectorCell.textContent = record.sector || data.sector || '';
+        tr.appendChild(sectorCell);
+      }
+      tr.append(dateCell, callCell);
       fragment.appendChild(tr);
     });
     tableBody.appendChild(fragment);
@@ -392,10 +414,20 @@
   }
 
   async function handlePreview() {
-    const payload = {
-      sector: sectorSelect.value,
-      weekId: weekSelect.value,
-    };
+   const payload = {
+     sector: sectorSelect.value,
+     weekId: weekSelect.value,
+   };
+    if (!payload.sector || !payload.weekId) {
+      setStatus('Pick a week and sector first.', 'error');
+      previewSection.classList.add('hidden');
+      clearTimeline();
+      clearSourceSummary();
+      resetMeta();
+      matchCount.textContent = 'No matches';
+      renderMissing([]);
+      return;
+    }
     const slug = toSectorSlug(payload.sector);
     const url = `api/preview/${payload.weekId}/${slug}.json`;
     setStatus('Fetching earnings...', 'loading');

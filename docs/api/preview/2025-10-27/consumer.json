@@ -1,12 +1,31 @@
 {
   "records": [
     {
+      "company": "Mondelez International",
+      "symbol": "MDLZ",
+      "date": "2025-10-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Regency Centers Corp",
       "symbol": "REG",
       "date": "2025-10-28",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2025-10-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Sysco Corp",
@@ -14,7 +33,8 @@
       "date": "2025-10-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "VF Corp",
@@ -22,7 +42,8 @@
       "date": "2025-10-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Chipotle Mexican Grill",
@@ -30,7 +51,8 @@
       "date": "2025-10-29",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Clorox Co",
@@ -38,7 +60,8 @@
       "date": "2025-10-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Etsy Inc",
@@ -46,7 +69,8 @@
       "date": "2025-10-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Kraft Heinz Co",
@@ -54,7 +78,8 @@
       "date": "2025-10-29",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Masco Corp",
@@ -62,7 +87,17 @@
       "date": "2025-10-29",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Rollins Inc",
+      "symbol": "ROL",
+      "date": "2025-10-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Starbucks Corp",
@@ -70,7 +105,8 @@
       "date": "2025-10-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Altria Group Inc",
@@ -78,7 +114,8 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Amcor PLC",
@@ -86,7 +123,8 @@
       "date": "2025-10-30",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Estee Lauder",
@@ -94,7 +132,8 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Hershey Co",
@@ -102,7 +141,8 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "International Paper Co",
@@ -110,7 +150,8 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Kellanova",
@@ -118,7 +159,8 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Kimberly Clark Corp",
@@ -126,7 +168,8 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Kimco Realty Corp",
@@ -134,7 +177,8 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Norwegian Cruise Line",
@@ -142,7 +186,8 @@
       "date": "2025-10-30",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Church & Dwight",
@@ -150,7 +195,8 @@
       "date": "2025-10-31",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Colgate-Palmolive",
@@ -158,7 +204,8 @@
       "date": "2025-10-31",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Federal Realty Investment Trust",
@@ -166,13 +213,41 @@
       "date": "2025-10-31",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 73,
-  "generatedAt": "2025-10-09T16:34:02Z",
+  "generatedAt": "2025-10-13T16:54:09Z",
+  "irCompanies": [],
+  "fallbackCompanies": [
+    "Altria Group Inc",
+    "Amcor PLC",
+    "Chipotle Mexican Grill",
+    "Church & Dwight",
+    "Clorox Co",
+    "Colgate-Palmolive",
+    "Estee Lauder",
+    "Etsy Inc",
+    "Federal Realty Investment Trust",
+    "Hershey Co",
+    "International Paper Co",
+    "Kellanova",
+    "Kimberly Clark Corp",
+    "Kimco Realty Corp",
+    "Kraft Heinz Co",
+    "Masco Corp",
+    "Mondelez International",
+    "Norwegian Cruise Line",
+    "Regency Centers Corp",
+    "Rollins Inc",
+    "Royal Caribbean Group",
+    "Starbucks Corp",
+    "Sysco Corp",
+    "VF Corp"
+  ],
   "week": {
     "id": "2025-10-27",
     "start_date": "2025-10-27",
