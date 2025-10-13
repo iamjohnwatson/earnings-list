@@ -139,10 +139,16 @@
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "5:30 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
+<<<<<<< HEAD
       "source": "aggregator"
+=======
+      "ir_time_label": "5:30 PM ET",
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Garmin",
@@ -152,6 +158,7 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+<<<<<<< HEAD
     },
     {
       "company": "Gen Digital",
@@ -161,15 +168,23 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+=======
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "KLA Corp",
       "symbol": "KLAC",
       "date": "2025-10-29",
-      "bmo_amc": "TBD",
+      "bmo_amc": "2:00 PM PDT",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
+<<<<<<< HEAD
       "source": "aggregator"
+=======
+      "ir_time_label": "2:00 pm PDT",
+      "ir_source_url": "https://ir.kla.com/",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Meta",
@@ -190,6 +205,7 @@
       "ir_time_label": null,
       "ir_source_url": "https://www.microsoft.com/en-us/investor/default",
       "source": "investor_relations"
+<<<<<<< HEAD
     },
     {
       "company": "Monolithic Power",
@@ -199,6 +215,8 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+=======
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Paycom",
@@ -231,10 +249,19 @@
       "company": "Verizon",
       "symbol": "VZ",
       "date": "2025-10-29",
+<<<<<<< HEAD
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+=======
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "eBay",
@@ -288,7 +315,13 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
+<<<<<<< HEAD
       "source": "aggregator"
+=======
+      "ir_time_label": null,
+      "ir_source_url": "https://aboutus.godaddy.net/investor-relations/overview/default.aspx",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Monolithic Power",
@@ -341,10 +374,21 @@
   "count": 37,
   "missingPublic": [],
   "tickerCount": 139,
+<<<<<<< HEAD
   "generatedAt": "2025-10-13T16:54:09Z",
   "irCompanies": [
     "Microsoft",
     "SiriusXM"
+=======
+  "generatedAt": "2025-10-13T15:47:16Z",
+  "irCompanies": [
+    "Equinix",
+    "GoDaddy",
+    "KLA Corp",
+    "Microsoft",
+    "SiriusXM",
+    "Verizon"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
   ],
   "fallbackCompanies": [
     "ADP",
@@ -360,6 +404,7 @@
     "Corning",
     "Dayforce",
     "Electronic Arts",
+<<<<<<< HEAD
     "Equinix",
     "F5",
     "Garmin",
@@ -367,6 +412,11 @@
     "GoDaddy",
     "Interpublic Group of Companies",
     "KLA Corp",
+=======
+    "F5",
+    "Garmin",
+    "Interpublic Group of Companies",
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Meta",
     "Monolithic Power",
     "NXP Semiconductors",
@@ -378,7 +428,10 @@
     "SBA Communications",
     "Seagate",
     "ServiceNow",
+<<<<<<< HEAD
     "Verizon",
+=======
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Zebra Technologies",
     "eBay"
   ],

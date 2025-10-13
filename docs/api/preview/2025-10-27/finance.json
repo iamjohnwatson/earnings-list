@@ -203,6 +203,20 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "company": "Aon",
+      "symbol": "AON",
+      "date": "2025-10-31",
+      "bmo_amc": "7:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30am",
+      "ir_source_url": "https://ir.aon.com/",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Cboe Global Markets",
@@ -223,14 +237,24 @@
       "source": "aggregator"
     }
   ],
+<<<<<<< HEAD
   "count": 24,
+=======
+  "count": 25,
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
+<<<<<<< HEAD
   "generatedAt": "2025-10-13T16:54:08Z",
   "irCompanies": [
+=======
+  "generatedAt": "2025-10-13T15:47:17Z",
+  "irCompanies": [
+    "Aon",
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Arch Capital Group",
     "Cincinnati Financial",
     "Fiserv"

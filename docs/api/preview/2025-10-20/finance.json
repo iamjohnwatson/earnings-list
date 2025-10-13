@@ -67,8 +67,8 @@
       "company": "Globe Life",
       "symbol": "GL",
       "date": "2025-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -87,15 +87,6 @@
       "date": "2025-10-22",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Arthur J. Gallagher",
-      "symbol": "AJG",
-      "date": "2025-10-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -127,18 +118,21 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
+<<<<<<< HEAD
   "generatedAt": "2025-10-13T16:54:03Z",
+=======
+  "generatedAt": "2025-10-13T15:47:09Z",
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
   "irCompanies": [],
   "fallbackCompanies": [
     "Ameriprise Financial Inc",
     "Aon",
-    "Arthur J. Gallagher",
     "Blackstone",
     "CME Group Inc",
     "Capital One Financial",

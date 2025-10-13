@@ -40,10 +40,16 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:00AM",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
+<<<<<<< HEAD
       "source": "aggregator"
+=======
+      "ir_time_label": "9:00am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Cardinal Health Inc",
@@ -76,12 +82,22 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 47,
+<<<<<<< HEAD
   "generatedAt": "2025-10-13T16:54:09Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Bio-Techne Corp",
     "Cardinal Health Inc",
     "Centene Corp",
+=======
+  "generatedAt": "2025-10-13T15:47:17Z",
+  "irCompanies": [
+    "Centene Corp"
+  ],
+  "fallbackCompanies": [
+    "Bio-Techne Corp",
+    "Cardinal Health Inc",
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Eli Lilly and Co",
     "Gilead",
     "IQVIA Holdings Inc",

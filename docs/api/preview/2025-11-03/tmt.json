@@ -89,6 +89,7 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+<<<<<<< HEAD
     },
     {
       "company": "Reddit",
@@ -98,6 +99,8 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+=======
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Rivian",
@@ -106,6 +109,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
+<<<<<<< HEAD
       "source": "aggregator"
     },
     {
@@ -116,6 +120,11 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+=======
+      "ir_time_label": null,
+      "ir_source_url": "https://rivian.com/investors",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Spotify",
@@ -287,6 +296,20 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "company": "Gen Digital",
+      "symbol": "GEN",
+      "date": "2025-11-06",
+      "bmo_amc": "10:30 AM ET",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "10:30 am ET",
+      "ir_source_url": "https://investor.gendigital.com/overview/default.aspx",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Motorola",
@@ -334,11 +357,22 @@
       "source": "aggregator"
     }
   ],
+<<<<<<< HEAD
   "count": 37,
   "missingPublic": [],
   "tickerCount": 139,
   "generatedAt": "2025-10-13T16:54:14Z",
   "irCompanies": [],
+=======
+  "count": 36,
+  "missingPublic": [],
+  "tickerCount": 139,
+  "generatedAt": "2025-10-13T15:47:25Z",
+  "irCompanies": [
+    "Gen Digital",
+    "Rivian"
+  ],
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
   "fallbackCompanies": [
     "Akamai Technologies",
     "Alphabet Inc",
@@ -368,8 +402,11 @@
     "Pinterest",
     "Qorvo",
     "Qualcomm",
+<<<<<<< HEAD
     "Reddit",
     "Rivian",
+=======
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Snap",
     "Spotify",
     "Take-Two Interactive",

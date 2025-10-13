@@ -1,6 +1,7 @@
 {
   "records": [
     {
+<<<<<<< HEAD
       "company": "Mondelez International",
       "symbol": "MDLZ",
       "date": "2025-10-28",
@@ -8,6 +9,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+=======
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
+      "date": "2025-10-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Regency Centers Corp",
@@ -17,6 +29,7 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+<<<<<<< HEAD
     },
     {
       "company": "Royal Caribbean Group",
@@ -26,6 +39,8 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+=======
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Sysco Corp",
@@ -49,10 +64,16 @@
       "company": "Chipotle Mexican Grill",
       "symbol": "CMG",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:30 PM",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
+<<<<<<< HEAD
       "source": "aggregator"
+=======
+      "ir_time_label": "4:30 PM ",
+      "ir_source_url": "https://ir.chipotle.com/",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Clorox Co",
@@ -130,10 +151,16 @@
       "company": "Estee Lauder",
       "symbol": "EL",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "08:30AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
+<<<<<<< HEAD
       "source": "aggregator"
+=======
+      "ir_time_label": "08:30AM ET",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Hershey Co",
@@ -217,6 +244,7 @@
       "source": "aggregator"
     }
   ],
+<<<<<<< HEAD
   "count": 24,
   "missingPublic": [],
   "tickerCount": 73,
@@ -230,6 +258,23 @@
     "Clorox Co",
     "Colgate-Palmolive",
     "Estee Lauder",
+=======
+  "count": 23,
+  "missingPublic": [],
+  "tickerCount": 73,
+  "generatedAt": "2025-10-13T15:47:17Z",
+  "irCompanies": [
+    "Chipotle Mexican Grill",
+    "Estee Lauder",
+    "Keurig Dr. Pepper"
+  ],
+  "fallbackCompanies": [
+    "Altria Group Inc",
+    "Amcor PLC",
+    "Church & Dwight",
+    "Clorox Co",
+    "Colgate-Palmolive",
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Etsy Inc",
     "Federal Realty Investment Trust",
     "Hershey Co",
@@ -239,11 +284,17 @@
     "Kimco Realty Corp",
     "Kraft Heinz Co",
     "Masco Corp",
+<<<<<<< HEAD
     "Mondelez International",
     "Norwegian Cruise Line",
     "Regency Centers Corp",
     "Rollins Inc",
     "Royal Caribbean Group",
+=======
+    "Norwegian Cruise Line",
+    "Regency Centers Corp",
+    "Rollins Inc",
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Starbucks Corp",
     "Sysco Corp",
     "VF Corp"

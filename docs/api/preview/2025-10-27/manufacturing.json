@@ -67,10 +67,16 @@
       "company": "DR Horton Inc",
       "symbol": "DHI",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
+<<<<<<< HEAD
       "source": "aggregator"
+=======
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investor.drhorton.com/",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Equity Residential",
@@ -89,6 +95,20 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2025-10-28",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Veralto Corp",
@@ -157,9 +177,10 @@
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "12:00 PM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
+<<<<<<< HEAD
       "source": "aggregator"
     },
     {
@@ -170,6 +191,11 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+=======
+      "ir_time_label": "12:00 pm ET",
+      "ir_source_url": "https://investors.fortive.com/",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Invitation Homes Inc",
@@ -202,8 +228,13 @@
       "company": "Mid-America Apartment Communities Inc",
       "symbol": "MAA",
       "date": "2025-10-29",
+<<<<<<< HEAD
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+=======
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -211,10 +242,16 @@
       "company": "Old Dominion Freight Line Inc",
       "symbol": "ODFL",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
+<<<<<<< HEAD
       "source": "aggregator"
+=======
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://ir.odfl.com/",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "Otis Worldwide Corp",
@@ -391,26 +428,50 @@
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
+<<<<<<< HEAD
       "source": "aggregator"
+=======
+      "ir_time_label": "8:00 AM EDT",
+      "ir_source_url": "https://www.magna.com/company/investors",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     },
     {
       "company": "WW Grainger Inc",
       "symbol": "GWW",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 A.M. CT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
+<<<<<<< HEAD
       "source": "aggregator"
+=======
+      "ir_time_label": "10:00 a.m. CT",
+      "ir_source_url": "https://invest.grainger.com/home/default.aspx",
+      "source": "investor_relations"
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     }
   ],
   "count": 45,
   "missingPublic": [],
   "tickerCount": 113,
+<<<<<<< HEAD
   "generatedAt": "2025-10-13T16:54:09Z",
   "irCompanies": [],
+=======
+  "generatedAt": "2025-10-13T15:47:17Z",
+  "irCompanies": [
+    "DR Horton Inc",
+    "Fortive Corp",
+    "Magna International",
+    "Old Dominion Freight Line Inc",
+    "UPS",
+    "WW Grainger Inc"
+  ],
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
   "fallbackCompanies": [
     "A O Smith Corp",
     "AMETEK Inc",
@@ -424,26 +485,41 @@
     "CH Robinson Worldwide Inc",
     "Caesars Entertainment Inc",
     "Caterpillar",
+<<<<<<< HEAD
     "DR Horton Inc",
+=======
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Eaton Corporation PLC",
     "Equity Residential",
     "Essex Property Trust Inc",
     "Extra Space Storage Inc",
+<<<<<<< HEAD
     "Fortive Corp",
     "Generac Holdings Inc",
     "Howmet Aerospace",
     "Huntington Ingalls Industries Inc",
     "Illinois Tool Works Inc",
+=======
+    "Generac Holdings Inc",
+    "Howmet Aerospace",
+    "Huntington Ingalls Industries Inc",
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Ingersoll Rand Inc",
     "Invitation Homes Inc",
     "L3Harris Technologies Inc",
     "MGM Resorts International",
+<<<<<<< HEAD
     "Magna International",
+=======
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Martin Marietta Materials Inc",
     "Mid-America Apartment Communities Inc",
     "NVR Inc",
     "Nucor Corp",
+<<<<<<< HEAD
     "Old Dominion Freight Line Inc",
+=======
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Otis Worldwide Corp",
     "Peloton",
     "Public Storage",
@@ -455,7 +531,10 @@
     "VICI Properties Inc",
     "Veralto Corp",
     "Vulcan Materials Co",
+<<<<<<< HEAD
     "WW Grainger Inc",
+=======
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
     "Waste Management Inc"
   ],
   "week": {

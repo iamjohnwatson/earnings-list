@@ -202,8 +202,8 @@
       "company": "Pool Corp",
       "symbol": "POOL",
       "date": "2025-10-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -256,8 +256,17 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
+<<<<<<< HEAD
   "generatedAt": "2025-10-13T16:54:03Z",
   "irCompanies": [],
+=======
+  "generatedAt": "2025-10-13T15:47:08Z",
+  "irCompanies": [
+    "Honeywell",
+    "Parker-Hannifin Corp",
+    "Southwest Airlines Co"
+  ],
+>>>>>>> df34d1d7932df1effe31cfef46e4e8a3f28837a3
   "fallbackCompanies": [
     "3M Co",
     "Alaska Air",
