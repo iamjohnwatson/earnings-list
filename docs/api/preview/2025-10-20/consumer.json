@@ -4,12 +4,19 @@
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2025-10-21",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am ET",
-      "ir_source_url": "https://investors.coca-colacompany.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
+    },
+    {
+      "company": "Mattel",
+      "symbol": "MAT",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Philip Morris International",
@@ -66,17 +73,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
-  "tickerCount": 73,
-  "generatedAt": "2025-10-14T09:49:35Z",
-  "irCompanies": [
-    "Coca-Cola Co"
-  ],
+  "tickerCount": 74,
+  "generatedAt": "2025-10-14T12:14:36Z",
+  "irCompanies": [],
   "fallbackCompanies": [
+    "Coca-Cola Co",
     "Deckers Outdoors",
     "Hasbro Inc",
     "Keurig Dr. Pepper",
+    "Mattel",
     "Philip Morris International",
     "Procter & Gamble",
     "Tractor Supply Co"

@@ -64,6 +64,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Archer-Daniels-Midland",
+      "symbol": "ADM",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Corteva",
       "symbol": "CTVA",
       "date": "2025-11-04",
@@ -388,13 +397,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 43,
+  "count": 44,
   "missingPublic": [
     "Expand Energy",
     "Venture Global"
   ],
   "tickerCount": 96,
-  "generatedAt": "2025-10-14T09:49:51Z",
+  "generatedAt": "2025-10-14T12:14:55Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
@@ -403,6 +412,7 @@
     "Albemarle",
     "Alliant Energy",
     "Ameren",
+    "Archer-Daniels-Midland",
     "Atmos Energy",
     "Bunge",
     "CF Industries",

@@ -51,6 +51,16 @@
       "sector": "Finance"
     },
     {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2025-12-02",
@@ -127,20 +137,8 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
       "company": "Zscaler",
@@ -220,11 +218,9 @@
     "Expand Energy",
     "Venture Global"
   ],
-  "tickerCount": 553,
-  "generatedAt": "2025-10-14T09:50:28Z",
-  "irCompanies": [
-    "Ulta Beauty"
-  ],
+  "tickerCount": 555,
+  "generatedAt": "2025-10-14T12:15:36Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Bank of Montreal",
     "Brown-Forman Corp",
@@ -245,6 +241,7 @@
     "SentinelOne",
     "Synopsys",
     "TD Bank",
+    "Ulta Beauty",
     "Zscaler"
   ],
   "week": {

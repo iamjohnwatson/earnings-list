@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Fox Corp",
-      "symbol": "FOXA",
-      "date": "2025-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "IAC",
       "symbol": "IAC",
       "date": "2025-11-03",
@@ -37,11 +28,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Alphabet Inc",
-      "symbol": "GOOGL",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "SBA Communications",
+      "symbol": "SBAC",
+      "date": "2025-11-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -97,9 +88,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://rivian.com/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Spotify",
@@ -276,12 +265,10 @@
       "company": "Gen Digital",
       "symbol": "GEN",
       "date": "2025-11-06",
-      "bmo_amc": "10:30 AM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "10:30 am ET",
-      "ir_source_url": "https://investor.gendigital.com/overview/default.aspx",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Motorola",
@@ -314,12 +301,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-06",
-      "bmo_amc": "4:00 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Trade Desk",
@@ -331,18 +316,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 36,
+  "count": 35,
   "missingPublic": [],
-  "tickerCount": 139,
-  "generatedAt": "2025-10-14T09:49:51Z",
-  "irCompanies": [
-    "Gen Digital",
-    "Rivian",
-    "Take-Two Interactive"
-  ],
+  "tickerCount": 140,
+  "generatedAt": "2025-10-14T12:14:55Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
-    "Alphabet Inc",
     "Arista Networks",
     "Arm Holdings",
     "Bumble",
@@ -350,9 +330,9 @@
     "Duolingo",
     "EPAM",
     "Fortinet",
-    "Fox Corp",
     "Freshworks",
     "Gartner",
+    "Gen Digital",
     "IAC",
     "Iron Mountain",
     "Kyndryl",
@@ -369,8 +349,11 @@
     "Pinterest",
     "Qorvo",
     "Qualcomm",
+    "Rivian",
+    "SBA Communications",
     "Snap",
     "Spotify",
+    "Take-Two Interactive",
     "Trade Desk",
     "Trimble",
     "Uber"

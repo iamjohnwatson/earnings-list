@@ -27,7 +27,9 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "JPMorgan",
@@ -86,12 +88,10 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2025-10-15",
-      "bmo_amc": "11:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "11:00 am EDT",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Progressive Corporation",
@@ -106,12 +106,10 @@
       "company": "Synchrony Financial",
       "symbol": "SYF",
       "date": "2025-10-15",
-      "bmo_amc": "8:00 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM ET",
-      "ir_source_url": "https://investors.synchrony.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Bank of New York Mellon",
@@ -250,15 +248,14 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-14T09:49:27Z",
+  "generatedAt": "2025-10-14T12:14:28Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Citizens Financial",
+    "Goldman Sachs",
     "Huntington Bancshares",
     "JPMorgan",
-    "PNC Financial",
-    "Synchrony Financial",
     "Truist Financial",
     "Wells Fargo"
   ],
@@ -269,15 +266,16 @@
     "Charles Schwab",
     "Comerica Inc",
     "Fifth Third Bancorp",
-    "Goldman Sachs",
     "Interactive Brokers",
     "KeyCorp",
     "M&T Bank Corp",
     "Marsh McLennan",
     "Morgan Stanley",
+    "PNC Financial",
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",
+    "Synchrony Financial",
     "US Bancorp"
   ],
   "week": {

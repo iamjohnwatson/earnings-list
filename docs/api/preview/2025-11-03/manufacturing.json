@@ -55,15 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "IDEX Corp",
-      "symbol": "IEX",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "JetBlue",
       "symbol": "JBLU",
       "date": "2025-11-04",
@@ -115,9 +106,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.johnsoncontrols.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Airbnb Inc",
@@ -136,17 +125,6 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-11-06",
-      "bmo_amc": "8:00 A.M",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 a.m",
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
     },
     {
       "company": "Camden Property Trust",
@@ -203,14 +181,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-14T09:49:54Z",
-  "irCompanies": [
-    "Bombardier",
-    "Johnson Controls International PLC"
-  ],
+  "generatedAt": "2025-10-14T12:14:55Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
@@ -222,8 +197,8 @@
     "Frontier Holdings",
     "Host Hotels & Resorts Inc",
     "Hubbell Inc",
-    "IDEX Corp",
     "JetBlue",
+    "Johnson Controls International PLC",
     "Leidos Holdings Inc",
     "Marriott International Inc",
     "Parker-Hannifin Corp",

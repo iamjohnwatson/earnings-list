@@ -104,15 +104,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Coinbase",
-      "symbol": "COIN",
-      "date": "2025-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Everest",
       "symbol": "EG",
       "date": "2025-10-29",
@@ -153,6 +144,15 @@
     {
       "company": "Arthur J. Gallagher",
       "symbol": "AJG",
+      "date": "2025-10-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Coinbase",
+      "symbol": "COIN",
       "date": "2025-10-30",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
@@ -208,12 +208,10 @@
       "company": "Aon",
       "symbol": "AON",
       "date": "2025-10-31",
-      "bmo_amc": "7:30AM",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "7:30am",
-      "ir_source_url": "https://ir.aon.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Cboe Global Markets",
@@ -240,14 +238,14 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-14T09:49:42Z",
+  "generatedAt": "2025-10-14T12:14:47Z",
   "irCompanies": [
-    "Aon",
     "Arch Capital Group",
     "Cincinnati Financial",
     "Fiserv"
   ],
   "fallbackCompanies": [
+    "Aon",
     "Arch Capital Group",
     "Arthur J. Gallagher",
     "Brown & Brown",

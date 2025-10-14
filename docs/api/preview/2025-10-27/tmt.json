@@ -37,15 +37,6 @@
       "source": "aggregator"
     },
     {
-      "company": "SBA Communications",
-      "symbol": "SBAC",
-      "date": "2025-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "American Tower",
       "symbol": "AMT",
       "date": "2025-10-28",
@@ -118,6 +109,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Alphabet Inc",
+      "symbol": "GOOGL",
+      "date": "2025-10-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Cognizant",
       "symbol": "CTSH",
       "date": "2025-10-29",
@@ -139,12 +139,10 @@
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2025-10-29",
-      "bmo_amc": "5:30 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "5:30 PM ET",
-      "ir_source_url": "https://investor.equinix.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Garmin",
@@ -159,12 +157,10 @@
       "company": "KLA Corp",
       "symbol": "KLAC",
       "date": "2025-10-29",
-      "bmo_amc": "2:00 PM PDT",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "2:00 pm PDT",
-      "ir_source_url": "https://ir.kla.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Meta",
@@ -217,19 +213,17 @@
       "company": "Verizon",
       "symbol": "VZ",
       "date": "2025-10-29",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM ET",
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "eBay",
       "symbol": "EBAY",
       "date": "2025-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -273,12 +267,10 @@
       "company": "Fox Corp",
       "symbol": "FOXA",
       "date": "2025-10-30",
-      "bmo_amc": "8:00 AM EDT",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EDT",
-      "ir_source_url": "https://investor.foxcorporation.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "GoDaddy",
@@ -287,9 +279,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://aboutus.godaddy.net/investor-relations/overview/default.aspx",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Monolithic Power",
@@ -341,19 +331,15 @@
   ],
   "count": 36,
   "missingPublic": [],
-  "tickerCount": 139,
-  "generatedAt": "2025-10-14T09:49:43Z",
+  "tickerCount": 140,
+  "generatedAt": "2025-10-14T12:14:46Z",
   "irCompanies": [
-    "Equinix",
-    "Fox Corp",
-    "GoDaddy",
-    "KLA Corp",
     "Microsoft",
-    "SiriusXM",
-    "Verizon"
+    "SiriusXM"
   ],
   "fallbackCompanies": [
     "ADP",
+    "Alphabet Inc",
     "Amazon",
     "American Tower",
     "Apple",
@@ -366,9 +352,13 @@
     "Corning",
     "Dayforce",
     "Electronic Arts",
+    "Equinix",
     "F5",
+    "Fox Corp",
     "Garmin",
+    "GoDaddy",
     "Interpublic Group of Companies",
+    "KLA Corp",
     "Meta",
     "Monolithic Power",
     "NXP Semiconductors",
@@ -377,9 +367,9 @@
     "Reddit",
     "Roblox",
     "Roku",
-    "SBA Communications",
     "Seagate",
     "ServiceNow",
+    "Verizon",
     "Zebra Technologies",
     "eBay"
   ],

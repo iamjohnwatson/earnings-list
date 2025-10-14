@@ -28,6 +28,15 @@
       "source": "aggregator"
     },
     {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Amphenol",
       "symbol": "APH",
       "date": "2025-10-22",
@@ -58,12 +67,10 @@
       "company": "Lam Research",
       "symbol": "LRCX",
       "date": "2025-10-22",
-      "bmo_amc": "2:00 P.M.",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "2:00 p.m. ",
-      "ir_source_url": "https://investor.lamresearch.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Teradyne",
@@ -105,12 +112,10 @@
       "company": "Intel",
       "symbol": "INTC",
       "date": "2025-10-23",
-      "bmo_amc": "2:00 PM PT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "2:00 PM PT",
-      "ir_source_url": "https://www.intc.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mobileye",
@@ -125,12 +130,10 @@
       "company": "Rogers Communications",
       "symbol": "RCI",
       "date": "2025-10-23",
-      "bmo_amc": "8:00 AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM ",
-      "ir_source_url": "https://about.rogers.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Roper Technologies",
@@ -169,23 +172,23 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [],
-  "tickerCount": 139,
-  "generatedAt": "2025-10-14T09:49:35Z",
-  "irCompanies": [
-    "Intel",
-    "Lam Research",
-    "Rogers Communications"
-  ],
+  "tickerCount": 140,
+  "generatedAt": "2025-10-14T12:14:37Z",
+  "irCompanies": [],
   "fallbackCompanies": [
+    "AT&T",
     "Amphenol",
     "Crown Castle",
     "Digital Realty",
     "IBM",
+    "Intel",
+    "Lam Research",
     "Mobileye",
     "Netflix",
     "Omnicom",
+    "Rogers Communications",
     "Roper Technologies",
     "T-Mobile US",
     "Teradyne",

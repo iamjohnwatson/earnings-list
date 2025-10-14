@@ -90,14 +90,17 @@
           </div>
         </div>
         <div class="source-note">
-          <p>We start by crawling each company’s investor relations site for future event dates.</p>
-          <p>If we can’t find one, we tap Nasdaq and Yahoo Finance to fill the gaps.</p>
+          <p>We start by crawling each company's investor relations site for future event dates.</p>
+          <p>If we can't find one, we tap Nasdaq and Yahoo Finance to fill the gaps.</p>
           <p>You get a single list that highlights which events came from official sources and which rely on public aggregators.</p>
         </div>
+        <footer class="preview-credit">
+          By Akash Sriram
+        </footer>
       </section>
     </main>
     <script>
-      window.APP_PRELOADED_WEEKS = { {week_options | tojson }};
+      window.APP_PRELOADED_WEEKS = {{ week_options | tojson }};
     </script>
     <script src="static/js/main.js" defer></script>
   </body>

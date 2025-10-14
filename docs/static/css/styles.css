@@ -617,6 +617,13 @@ select:focus {
   margin-bottom: 0.6rem;
 }
 
+.preview-credit {
+  margin-top: 1.5rem;
+  text-align: center;
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+}
+
 .hidden {
   display: none;
 }

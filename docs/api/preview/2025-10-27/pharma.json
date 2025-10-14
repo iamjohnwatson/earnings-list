@@ -40,19 +40,17 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2025-10-29",
-      "bmo_amc": "9:00AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "DaVita Inc",
       "symbol": "DVA",
       "date": "2025-10-29",
       "bmo_amc": "5:00 P.M.",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "5:00 p.m. ",
       "ir_source_url": "https://investors.davita.com/",
@@ -64,6 +62,15 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Edwards Lifesciences Corp",
+      "symbol": "EW",
+      "date": "2025-10-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -86,17 +93,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 47,
-  "generatedAt": "2025-10-14T09:49:43Z",
+  "generatedAt": "2025-10-14T12:14:46Z",
   "irCompanies": [
-    "Centene Corp",
     "DaVita Inc"
   ],
   "fallbackCompanies": [
     "Bio-Techne Corp",
     "Cardinal Health Inc",
+    "Centene Corp",
+    "Edwards Lifesciences Corp",
     "Eli Lilly and Co",
     "Gilead",
     "IQVIA Holdings Inc",
