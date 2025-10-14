@@ -18,14 +18,36 @@
   const sourceSummary = document.getElementById('source-summary');
   const irSourceList = document.getElementById('ir-source-list');
   const fallbackSourceList = document.getElementById('fallback-source-list');
+  const searchForm = document.getElementById('search-form');
+  const searchInput = document.getElementById('search-input');
+  const searchClearBtn = document.getElementById('search-clear-btn');
+  const searchStatus = document.getElementById('search-status');
+  const searchResults = document.getElementById('search-results');
+  const searchResultsList = document.getElementById('search-results-list');
+  const searchResultsCount = document.getElementById('search-results-count');
 
   let lastPayload = null;
   let lastPreview = null;
+  let searchIndexPromise = null;
+  let searchIndex = null;
 
   function setStatus(message, variant = "info") {
     statusEl.textContent = message || "";
     const classes = ["status", variant].filter(Boolean).join(" ");
     statusEl.className = classes;
+  }
+
+  function setSearchStatus(message, variant = "info") {
+    if (!searchStatus) {
+      return;
+    }
+    if (!message) {
+      searchStatus.textContent = "";
+      searchStatus.className = "status";
+      return;
+    }
+    searchStatus.textContent = message;
+    searchStatus.className = `status ${variant}`.trim();
   }
 
   function formatWeekday(dateString) {
@@ -426,6 +448,217 @@
     return response.json();
   }
 
+  function normaliseSearchValue(value) {
+    return value ? value.toLowerCase().replace(/[^a-z0-9]/g, "") : "";
+  }
+
+  function describeSource(source) {
+    if (!source) {
+      return "Source unconfirmed";
+    }
+    if (source === "investor_relations") {
+      return "Investor relations";
+    }
+    if (source === "aggregator") {
+      return "Public aggregators";
+    }
+    return source.replace(/[_-]/g, " ");
+  }
+
+  async function loadSearchIndex() {
+    if (searchIndex) {
+      return searchIndex;
+    }
+    if (searchIndexPromise) {
+      return searchIndexPromise;
+    }
+    const weeks = Array.isArray(window.APP_PRELOADED_WEEKS) ? window.APP_PRELOADED_WEEKS : [];
+    searchIndexPromise = (async () => {
+      const entries = [];
+      await Promise.all(
+        weeks.map(async (week) => {
+          try {
+            const data = await fetchJSON(`api/preview/${week.id}/all.json`);
+            const weekLabel = week.label || (data.week && data.week.label) || "";
+            const records = Array.isArray(data.records) ? data.records : [];
+            records.forEach((record) => {
+              entries.push({
+                company: record.company || "",
+                symbol: record.symbol || "",
+                date: record.date || "",
+                sector: record.sector || data.sector || "",
+                source: record.source || "",
+                session: record.bmo_amc || record.nasdaq_time_label || "",
+                weekId: week.id,
+                weekLabel,
+              });
+            });
+          } catch (error) {
+            console.warn(`Failed to load search data for ${week.id}:`, error);
+          }
+        }),
+      );
+      return entries;
+    })();
+    searchIndex = await searchIndexPromise;
+    return searchIndex;
+  }
+
+  function clearSearchResults() {
+    if (!searchResults || !searchResultsList || !searchResultsCount) {
+      return;
+    }
+    searchResultsList.innerHTML = "";
+    searchResultsCount.textContent = "";
+    searchResults.classList.add("hidden");
+  }
+
+  function renderSearchResults(items) {
+    if (!searchResults || !searchResultsList || !searchResultsCount) {
+      return;
+    }
+    const MAX_RESULTS = 40;
+    const limited = items.slice(0, MAX_RESULTS);
+    searchResultsList.innerHTML = "";
+    limited.forEach((entry) => {
+      const listItem = document.createElement("li");
+      listItem.className = "search-results__item";
+      listItem.tabIndex = 0;
+
+      const primary = document.createElement("div");
+      primary.className = "search-results__primary";
+      const company = document.createElement("span");
+      company.className = "search-results__company";
+      company.textContent = entry.company || "Unnamed company";
+      primary.appendChild(company);
+
+      if (entry.symbol) {
+        const ticker = document.createElement("span");
+        ticker.className = "search-results__ticker";
+        ticker.textContent = entry.symbol.toUpperCase();
+        primary.appendChild(ticker);
+      }
+      listItem.appendChild(primary);
+
+      const dateLine = document.createElement("div");
+      dateLine.className = "search-results__date";
+      if (entry.date) {
+        dateLine.textContent = `${formatFullDate(entry.date)} • ${entry.weekLabel}`;
+      } else {
+        dateLine.textContent = `${entry.weekLabel} • Date to be confirmed`;
+      }
+      listItem.appendChild(dateLine);
+
+      const meta = document.createElement("div");
+      meta.className = "search-results__meta";
+      const sectorMeta = document.createElement("span");
+      sectorMeta.textContent = entry.sector || "Sector unknown";
+      meta.appendChild(sectorMeta);
+
+      if (entry.session) {
+        const sessionMeta = document.createElement("span");
+        sessionMeta.textContent = `Session: ${entry.session}`;
+        meta.appendChild(sessionMeta);
+      }
+
+      const sourceMeta = document.createElement("span");
+      sourceMeta.textContent = describeSource(entry.source);
+      meta.appendChild(sourceMeta);
+      listItem.appendChild(meta);
+
+      listItem.addEventListener("click", () => {
+        if (!weekSelect || !sectorSelect) {
+          return;
+        }
+        weekSelect.value = entry.weekId;
+        const desiredSector = entry.sector && entry.sector !== "All sectors" ? entry.sector : "All";
+        const availableValues = Array.from(sectorSelect.options).map((opt) => opt.value);
+        sectorSelect.value = availableValues.includes(desiredSector) ? desiredSector : "All";
+        downloadBtn.disabled = true;
+        setStatus(`Loading ${entry.company} in the weekly preview...`, "loading");
+        handlePreview();
+        if (previewSection) {
+          window.scrollTo({ top: previewSection.offsetTop - 24, behavior: "smooth" });
+        }
+      });
+
+      listItem.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          listItem.click();
+        }
+      });
+
+      searchResultsList.appendChild(listItem);
+    });
+
+    if (items.length > limited.length) {
+      const moreNotice = document.createElement("li");
+      moreNotice.className = "search-results__item search-results__item--more";
+      moreNotice.textContent = `Showing ${limited.length} of ${items.length} matches. Refine your search to narrow results.`;
+      searchResultsList.appendChild(moreNotice);
+    }
+
+    const matchLabel = items.length === 1 ? "match" : "matches";
+    searchResultsCount.textContent = `${items.length} ${matchLabel}`;
+    searchResults.classList.remove("hidden");
+  }
+
+  async function handleSearch(event) {
+    event.preventDefault();
+    const query = searchInput ? searchInput.value.trim() : "";
+    if (!query) {
+      setSearchStatus("Enter a company name or ticker to search.", "error");
+      clearSearchResults();
+      return;
+    }
+    setSearchStatus("Looking for earnings...", "loading");
+    clearSearchResults();
+    try {
+      const index = await loadSearchIndex();
+      if (!index.length) {
+        setSearchStatus("No searchable earnings data is available yet.", "info");
+        return;
+      }
+      const target = normaliseSearchValue(query);
+      const matches = index.filter((entry) => {
+        const companyKey = normaliseSearchValue(entry.company);
+        const symbolKey = normaliseSearchValue(entry.symbol);
+        return companyKey.includes(target) || symbolKey.includes(target);
+      });
+      if (!matches.length) {
+        setSearchStatus(`No upcoming earnings found for "${query}".`, "info");
+        return;
+      }
+      matches.sort((a, b) => {
+        if (!a.date && !b.date) {
+          return a.weekLabel.localeCompare(b.weekLabel);
+        }
+        if (!a.date) {
+          return 1;
+        }
+        if (!b.date) {
+          return -1;
+        }
+        return new Date(a.date) - new Date(b.date);
+      });
+      renderSearchResults(matches);
+      setSearchStatus(`Showing ${matches.length} match${matches.length === 1 ? "" : "es"} for "${query}".`, "success");
+    } catch (error) {
+      console.error("Search failed", error);
+      setSearchStatus("Unable to run the search right now. Please try again later.", "error");
+    }
+  }
+
+  function handleSearchClear() {
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.focus();
+    }
+    setSearchStatus("");
+    clearSearchResults();
+  }
+
   async function handlePreview() {
    const payload = {
      sector: sectorSelect.value,
@@ -516,4 +749,10 @@
       setStatus('Adjust selections and preview to refresh.', 'info');
     }),
   );
+  if (searchForm) {
+    searchForm.addEventListener("submit", handleSearch);
+  }
+  if (searchClearBtn) {
+    searchClearBtn.addEventListener("click", handleSearchClear);
+  }
 })();

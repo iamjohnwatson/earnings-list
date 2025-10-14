@@ -74,6 +74,31 @@
         <div id="status" class="status" role="status" aria-live="polite"></div>
       </section>
 
+      <section class="search-panel" aria-labelledby="search-heading">
+        <div class="search-panel__header">
+          <h2 id="search-heading">Look up a company</h2>
+          <p>Find upcoming earnings by entering a company name or ticker symbol.</p>
+        </div>
+        <form id="search-form" class="search-form" action="javascript:void(0);">
+          <label class="field search-field">
+            <span>Company or ticker</span>
+            <input type="text" id="search-input" name="search" placeholder="e.g. MSFT or Microsoft" autocomplete="off">
+          </label>
+          <div class="search-actions">
+            <button type="submit" class="btn primary" id="search-btn">Search</button>
+            <button type="button" class="btn" id="search-clear-btn">Clear</button>
+          </div>
+        </form>
+        <div id="search-status" class="status" role="status" aria-live="polite"></div>
+        <section id="search-results" class="search-results hidden" aria-live="polite">
+          <header class="search-results__header">
+            <h3>Upcoming matches</h3>
+            <span id="search-results-count" class="badge"></span>
+          </header>
+          <ul id="search-results-list" class="search-results__list"></ul>
+        </section>
+      </section>
+
       <section id="missing" class="missing hidden" aria-live="polite"></section>
 
       <section id="preview" class="preview hidden" aria-live="polite">
