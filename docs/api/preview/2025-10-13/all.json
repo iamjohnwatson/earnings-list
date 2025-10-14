@@ -1,14 +1,52 @@
 {
   "records": [
     {
-      "company": "Domino\u2019s Pizza Inc",
-      "symbol": "DPZ",
+      "company": "Intuit",
+      "symbol": "INTU",
       "date": "2025-10-14",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator",
-      "sector": "Consumer"
+      "bmo_amc": "6:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:00 AM EDT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-10-14",
+      "bmo_amc": "4:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Tencent Music",
+      "symbol": "TME",
+      "date": "2025-10-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.tencentmusic.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2025-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "BlackRock Inc",
@@ -85,9 +123,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "Finance"
     },
     {
@@ -299,52 +335,54 @@
       "sector": "Finance"
     },
     {
-      "company": "Intuit",
-      "symbol": "INTU",
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
       "date": "2025-10-14",
-      "bmo_amc": "6:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "6:00 AM EDT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-10-14",
-      "bmo_amc": "2:33 PM ET",
-      "nasdaq_time_label": null,
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
+      "date": "2025-10-15",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "2:33 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
-      "company": "Tencent Music",
-      "symbol": "TME",
-      "date": "2025-10-14",
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
+      "date": "2025-10-16",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.tencentmusic.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
-      "company": "HPE",
-      "symbol": "HPE",
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
       "date": "2025-10-15",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2025-10-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "Fastenal Co",
@@ -384,10 +422,10 @@
       "company": "MGM Resorts International",
       "symbol": "MGM",
       "date": "2025-10-14",
-      "bmo_amc": "09:00 AM EDT",
+      "bmo_amc": "4:00 PM",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "09:00 AM EDT",
+      "ir_time_label": "4:00 PM ",
       "ir_source_url": "https://investors.mgmresorts.com/investors/overview/default.aspx",
       "source": "investor_relations",
       "sector": "Manufacturing"
@@ -401,6 +439,18 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2025-10-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations",
       "sector": "Manufacturing"
     },
@@ -447,63 +497,23 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2025-10-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2025-10-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
       "date": "2025-10-14",
       "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
       "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
-      "date": "2025-10-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
-      "date": "2025-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     }
   ],
-  "count": 46,
+  "count": 47,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 558,
-  "generatedAt": "2025-10-14T18:53:34Z",
+  "generatedAt": "2025-10-14T21:45:35Z",
   "irCompanies": [
     "Bank of America",
     "Bombardier",
@@ -522,7 +532,7 @@
     "Take-Two Interactive",
     "Tencent Music",
     "Truist Financial",
-    "Wells Fargo"
+    "UPS"
   ],
   "fallbackCompanies": [
     "Abbott Laboratories",
@@ -552,7 +562,8 @@
     "Snap-On Inc",
     "State Street Corp",
     "Truist Financial",
-    "US Bancorp"
+    "US Bancorp",
+    "Wells Fargo"
   ],
   "week": {
     "id": "2025-10-13",
