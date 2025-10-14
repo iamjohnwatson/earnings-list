@@ -27,7 +27,6 @@
   const searchResultsCount = document.getElementById('search-results-count');
   const searchSuggestions = document.getElementById('search-suggestions');
   const searchPanel = document.querySelector('.search-panel');
-  const themeToggle = document.getElementById('theme-toggle');
 
   let lastPayload = null;
   let lastPreview = null;
@@ -35,9 +34,7 @@
   let searchIndex = null;
   let suggestionItems = [];
   let activeSuggestionIndex = -1;
-  let currentTheme = null;
 
-  const THEME_STORAGE_KEY = 'earnings-theme';
   const MAX_SEARCH_RESULTS = 40;
   const MAX_SUGGESTIONS = 8;
 
@@ -60,40 +57,6 @@
     searchStatus.className = `status ${variant}`.trim();
   }
 
-  function updateThemeToggle(isDark) {
-    if (!themeToggle) {
-      return;
-    }
-    const icon = themeToggle.querySelector('.theme-toggle__icon');
-    const label = themeToggle.querySelector('.theme-toggle__label');
-    if (icon) {
-      icon.textContent = isDark ? 'Sun' : 'Moon';
-    }
-    if (label) {
-      label.textContent = isDark ? 'Light mode' : 'Dark mode';
-    }
-    themeToggle.setAttribute('aria-pressed', String(isDark));
-  }
-
-  function applyTheme(theme) {
-    const isDark = theme === 'dark';
-    if (isDark) {
-      document.body.setAttribute('data-theme', 'dark');
-    } else {
-      document.body.removeAttribute('data-theme');
-    }
-    currentTheme = isDark ? 'dark' : 'light';
-    updateThemeToggle(isDark);
-  }
-
-  function persistTheme(theme) {
-    try {
-      window.localStorage.setItem(THEME_STORAGE_KEY, theme);
-    } catch (error) {
-      console.warn('Unable to persist theme preference', error);
-    }
-  }
-
   function handleSuggestionListKeyDown(event) {
     if (!suggestionItems.length) {
       return;
@@ -114,22 +77,6 @@
         setActiveSuggestion(nextIndex);
       }
     }
-  }
-
-  function resolveInitialTheme() {
-    let stored = null;
-    try {
-      stored = window.localStorage.getItem(THEME_STORAGE_KEY);
-    } catch (error) {
-      stored = null;
-    }
-    if (stored === 'dark' || stored === 'light') {
-      return stored;
-    }
-    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      return 'dark';
-    }
-    return 'light';
   }
 
   function formatWeekday(dateString) {
@@ -269,14 +216,12 @@
     if (previewSection) {
       previewSection.classList.remove('hidden');
     }
-    document.body.classList.add('preview-active');
   }
 
   function hidePreviewSection() {
     if (previewSection) {
       previewSection.classList.add('hidden');
     }
-    document.body.classList.remove('preview-active');
   }
 
   function clearSourceSummary() {
@@ -1066,38 +1011,6 @@
       setStatus(error.message, 'error');
     } finally {
       downloadBtn.disabled = false;
-    }
-  }
-
-  const storedThemePreference = (() => {
-    try {
-      return window.localStorage.getItem(THEME_STORAGE_KEY);
-    } catch (error) {
-      return null;
-    }
-  })();
-  let themePreferenceLocked = storedThemePreference === 'dark' || storedThemePreference === 'light';
-  const initialTheme = resolveInitialTheme();
-  applyTheme(initialTheme);
-  if (themeToggle) {
-    themeToggle.addEventListener('click', () => {
-      const nextTheme = currentTheme === 'dark' ? 'light' : 'dark';
-      applyTheme(nextTheme);
-      persistTheme(nextTheme);
-      themePreferenceLocked = true;
-    });
-  }
-  if (!themePreferenceLocked && window.matchMedia) {
-    const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
-    const handleMediaChange = (event) => {
-      if (!themePreferenceLocked) {
-        applyTheme(event.matches ? 'dark' : 'light');
-      }
-    };
-    if (typeof mediaQuery.addEventListener === 'function') {
-      mediaQuery.addEventListener('change', handleMediaChange);
-    } else if (typeof mediaQuery.addListener === 'function') {
-      mediaQuery.addListener(handleMediaChange);
     }
   }
 
