@@ -64,6 +64,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Carrier Global Corp",
+      "symbol": "CARR",
+      "date": "2025-10-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "DR Horton Inc",
       "symbol": "DHI",
       "date": "2025-10-28",
@@ -418,10 +427,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 45,
+  "count": 46,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-14T06:52:53Z",
+  "generatedAt": "2025-10-14T09:49:42Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
@@ -442,6 +451,7 @@
     "Boston Properties",
     "CH Robinson Worldwide Inc",
     "Caesars Entertainment Inc",
+    "Carrier Global Corp",
     "Caterpillar",
     "Eaton Corporation PLC",
     "Equity Residential",
