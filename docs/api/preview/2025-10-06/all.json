@@ -31,16 +31,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2025-10-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Delta Air",
       "symbol": "DAL",
       "date": "2025-10-09",
@@ -49,6 +39,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2025-10-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
   "count": 5,
@@ -59,7 +59,7 @@
     "Venture Global"
   ],
   "tickerCount": 553,
-  "generatedAt": "2025-10-14T01:20:14Z",
+  "generatedAt": "2025-10-14T04:05:04Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Applied Digital",

@@ -228,6 +228,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Snap",
+      "symbol": "SNAP",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Trimble",
       "symbol": "TRMB",
       "date": "2025-11-05",
@@ -268,7 +277,7 @@
       "symbol": "GEN",
       "date": "2025-11-06",
       "bmo_amc": "10:30 AM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "10:30 am ET",
       "ir_source_url": "https://investor.gendigital.com/overview/default.aspx",
@@ -322,10 +331,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 35,
+  "count": 36,
   "missingPublic": [],
   "tickerCount": 139,
-  "generatedAt": "2025-10-14T01:20:43Z",
+  "generatedAt": "2025-10-14T04:05:33Z",
   "irCompanies": [
     "Gen Digital",
     "Rivian",
@@ -360,6 +369,7 @@
     "Pinterest",
     "Qorvo",
     "Qualcomm",
+    "Snap",
     "Spotify",
     "Trade Desk",
     "Trimble",

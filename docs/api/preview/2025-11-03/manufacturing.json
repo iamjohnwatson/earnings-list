@@ -149,6 +149,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Camden Property Trust",
+      "symbol": "CPT",
+      "date": "2025-11-06",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Expedia Group Inc",
       "symbol": "EXPE",
       "date": "2025-11-06",
@@ -194,10 +203,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-14T01:20:43Z",
+  "generatedAt": "2025-10-14T04:05:33Z",
   "irCompanies": [
     "Bombardier",
     "Johnson Controls International PLC"
@@ -206,6 +215,7 @@
     "Air Lease",
     "Airbnb Inc",
     "Axon Enterprise Inc",
+    "Camden Property Trust",
     "Emerson Electric Co",
     "Expedia Group Inc",
     "Expeditors International of Washington Inc",
