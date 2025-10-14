@@ -208,10 +208,12 @@
       "company": "Aon",
       "symbol": "AON",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "7:30AM",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "7:30am",
+      "ir_source_url": "https://ir.aon.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Cboe Global Markets",
@@ -238,14 +240,14 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-14T12:14:47Z",
+  "generatedAt": "2025-10-14T18:53:49Z",
   "irCompanies": [
+    "Aon",
     "Arch Capital Group",
     "Cincinnati Financial",
     "Fiserv"
   ],
   "fallbackCompanies": [
-    "Aon",
     "Arch Capital Group",
     "Arthur J. Gallagher",
     "Brown & Brown",

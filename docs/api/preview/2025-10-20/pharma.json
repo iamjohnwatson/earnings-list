@@ -4,10 +4,12 @@
       "company": "Danaher Corp",
       "symbol": "DHR",
       "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 A.M. ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 a.m. ET",
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Elevance Health Inc",
@@ -34,7 +36,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Molina Healthcare Inc",
@@ -84,12 +88,13 @@
   ],
   "count": 9,
   "missingPublic": [],
-  "tickerCount": 47,
-  "generatedAt": "2025-10-14T12:14:36Z",
-  "irCompanies": [],
-  "fallbackCompanies": [
+  "tickerCount": 48,
+  "generatedAt": "2025-10-14T18:53:41Z",
+  "irCompanies": [
     "Boston Scientific Corp",
-    "Danaher Corp",
+    "Danaher Corp"
+  ],
+  "fallbackCompanies": [
     "Elevance Health Inc",
     "HCA Healthcare Inc",
     "Healthpeak Properties",

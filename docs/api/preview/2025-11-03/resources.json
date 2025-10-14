@@ -100,6 +100,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Expand Energy",
+      "symbol": "EXE",
+      "date": "2025-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Marathon Petroleum",
       "symbol": "MPC",
       "date": "2025-11-04",
@@ -397,13 +406,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 44,
-  "missingPublic": [
-    "Expand Energy",
-    "Venture Global"
-  ],
-  "tickerCount": 96,
-  "generatedAt": "2025-10-14T12:14:55Z",
+  "count": 45,
+  "missingPublic": [],
+  "tickerCount": 98,
+  "generatedAt": "2025-10-14T18:53:57Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
@@ -434,6 +440,7 @@
     "Evergy",
     "Eversource Energy",
     "Exelon Corp",
+    "Expand Energy",
     "MP Materials",
     "Marathon Petroleum",
     "NRG Energy",

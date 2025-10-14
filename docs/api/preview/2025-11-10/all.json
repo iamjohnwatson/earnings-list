@@ -1,21 +1,21 @@
 {
   "records": [
     {
-      "company": "Novavax",
-      "symbol": "NVAX",
-      "date": "2025-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Occidental Petroleum",
       "symbol": "OXY",
       "date": "2025-11-10",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2025-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
@@ -49,6 +49,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Novavax",
+      "symbol": "NVAX",
+      "date": "2025-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
       "company": "Instacart",
@@ -187,7 +197,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://thewaltdisneycompany.com/investor-relations/",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -207,32 +219,33 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
+      "source": "investor_relations",
       "sector": "Finance"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
-    "CPPIB",
-    "Expand Energy",
-    "Venture Global"
+    "CPPIB"
   ],
-  "tickerCount": 555,
-  "generatedAt": "2025-10-14T12:15:04Z",
-  "irCompanies": [],
+  "tickerCount": 558,
+  "generatedAt": "2025-10-14T18:54:04Z",
+  "irCompanies": [
+    "Disney",
+    "Manulife"
+  ],
   "fallbackCompanies": [
     "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
-    "Disney",
     "GlobalFoundries",
     "Grab",
     "Hawaiian Electric",
     "Instacart",
     "JD.com",
     "Live Nation Entertainment",
-    "Manulife",
     "Mosaic",
     "Novavax",
     "Occidental Petroleum",
@@ -242,7 +255,8 @@
     "Suncor Energy",
     "Tencent Music",
     "Tower Semiconductor",
-    "Tyson Foods"
+    "Tyson Foods",
+    "Venture Global"
   ],
   "week": {
     "id": "2025-11-10",

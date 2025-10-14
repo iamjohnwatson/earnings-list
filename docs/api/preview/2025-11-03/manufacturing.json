@@ -106,7 +106,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.johnsoncontrols.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Airbnb Inc",
@@ -184,8 +186,10 @@
   "count": 20,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-14T12:14:55Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-14T18:53:57Z",
+  "irCompanies": [
+    "Johnson Controls International PLC"
+  ],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
@@ -198,7 +202,6 @@
     "Host Hotels & Resorts Inc",
     "Hubbell Inc",
     "JetBlue",
-    "Johnson Controls International PLC",
     "Leidos Holdings Inc",
     "Marriott International Inc",
     "Parker-Hannifin Corp",

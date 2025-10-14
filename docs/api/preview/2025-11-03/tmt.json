@@ -88,7 +88,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://rivian.com/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Spotify",
@@ -265,10 +267,12 @@
       "company": "Gen Digital",
       "symbol": "GEN",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "10:30 AM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:30 am ET",
+      "ir_source_url": "https://investor.gendigital.com/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Motorola",
@@ -319,8 +323,11 @@
   "count": 35,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-14T12:14:55Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-14T18:53:57Z",
+  "irCompanies": [
+    "Gen Digital",
+    "Rivian"
+  ],
   "fallbackCompanies": [
     "Akamai Technologies",
     "Arista Networks",
@@ -332,7 +339,6 @@
     "Fortinet",
     "Freshworks",
     "Gartner",
-    "Gen Digital",
     "IAC",
     "Iron Mountain",
     "Kyndryl",
@@ -349,7 +355,6 @@
     "Pinterest",
     "Qorvo",
     "Qualcomm",
-    "Rivian",
     "SBA Communications",
     "Snap",
     "Spotify",

@@ -4,18 +4,18 @@
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2025-10-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2025-10-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.citigroup.com/global/investors",
       "source": "investor_relations"
@@ -24,31 +24,51 @@
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2025-10-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2025-10-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations"
     },
     {
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2025-10-14",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:30 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2025-10-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
       "source": "investor_relations"
     },
     {
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2025-10-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
       "source": "investor_relations"
@@ -88,10 +108,12 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2025-10-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "11:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "11:00 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Progressive Corporation",
@@ -106,10 +128,12 @@
       "company": "Synchrony Financial",
       "symbol": "SYF",
       "date": "2025-10-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM ET",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Bank of New York Mellon",
@@ -205,12 +229,10 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2025-10-17",
-      "bmo_amc": "9:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Regions Financial",
@@ -237,25 +259,24 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 25,
+  "count": 27,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-14T12:14:28Z",
+  "generatedAt": "2025-10-14T18:53:34Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Citizens Financial",
     "Goldman Sachs",
     "Huntington Bancshares",
-    "JPMorgan",
+    "PNC Financial",
+    "Synchrony Financial",
     "Truist Financial",
     "Wells Fargo"
   ],
@@ -266,16 +287,17 @@
     "Charles Schwab",
     "Comerica Inc",
     "Fifth Third Bancorp",
+    "Huntington Bancshares",
     "Interactive Brokers",
+    "JPMorgan",
     "KeyCorp",
     "M&T Bank Corp",
     "Marsh McLennan",
     "Morgan Stanley",
-    "PNC Financial",
     "Progressive Corporation",
     "Regions Financial",
     "State Street Corp",
-    "Synchrony Financial",
+    "Truist Financial",
     "US Bancorp"
   ],
   "week": {

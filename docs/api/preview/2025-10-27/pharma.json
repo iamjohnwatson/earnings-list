@@ -28,6 +28,15 @@
       "source": "aggregator"
     },
     {
+      "company": "UnitedHealth Group",
+      "symbol": "UNH",
+      "date": "2025-10-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Bio-Techne Corp",
       "symbol": "TECH",
       "date": "2025-10-29",
@@ -40,10 +49,12 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:00AM",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
     },
     {
       "company": "DaVita Inc",
@@ -93,23 +104,24 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
-  "tickerCount": 47,
-  "generatedAt": "2025-10-14T12:14:46Z",
+  "tickerCount": 48,
+  "generatedAt": "2025-10-14T18:53:49Z",
   "irCompanies": [
+    "Centene Corp",
     "DaVita Inc"
   ],
   "fallbackCompanies": [
     "Bio-Techne Corp",
     "Cardinal Health Inc",
-    "Centene Corp",
     "Edwards Lifesciences Corp",
     "Eli Lilly and Co",
     "Gilead",
     "IQVIA Holdings Inc",
     "Labcorp Holdings Inc",
-    "Tenet Healthcare"
+    "Tenet Healthcare",
+    "UnitedHealth Group"
   ],
   "week": {
     "id": "2025-10-27",

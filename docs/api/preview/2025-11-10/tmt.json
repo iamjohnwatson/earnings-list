@@ -106,7 +106,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://thewaltdisneycompany.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "JD.com",
@@ -121,13 +123,14 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-14T12:15:03Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-14T18:54:04Z",
+  "irCompanies": [
+    "Disney"
+  ],
   "fallbackCompanies": [
     "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
-    "Disney",
     "GlobalFoundries",
     "Grab",
     "JD.com",

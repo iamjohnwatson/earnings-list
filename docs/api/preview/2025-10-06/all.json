@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2025-10-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Constellation Brands",
       "symbol": "STZ",
       "date": "2025-10-06",
@@ -31,16 +41,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2025-10-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Delta Air",
       "symbol": "DAL",
       "date": "2025-10-09",
@@ -54,12 +54,10 @@
   "count": 5,
   "missingPublic": [
     "CDPQ",
-    "CPPIB",
-    "Expand Energy",
-    "Venture Global"
+    "CPPIB"
   ],
-  "tickerCount": 555,
-  "generatedAt": "2025-10-14T12:14:20Z",
+  "tickerCount": 558,
+  "generatedAt": "2025-10-14T18:53:26Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Applied Digital",

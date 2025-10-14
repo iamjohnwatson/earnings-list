@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
+      "date": "2025-10-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Mondelez International",
       "symbol": "MDLZ",
       "date": "2025-10-28",
@@ -22,10 +33,12 @@
       "company": "Royal Caribbean Group",
       "symbol": "RCL",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00AM ET",
+      "ir_source_url": "https://www.rclinvestor.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Sysco Corp",
@@ -49,10 +62,12 @@
       "company": "Chipotle Mexican Grill",
       "symbol": "CMG",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:30 PM",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 PM ",
+      "ir_source_url": "https://ir.chipotle.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Clorox Co",
@@ -130,10 +145,12 @@
       "company": "Estee Lauder",
       "symbol": "EL",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "08:30AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "08:30AM ET",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Hershey Co",
@@ -217,19 +234,22 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 74,
-  "generatedAt": "2025-10-14T12:14:47Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-14T18:53:49Z",
+  "irCompanies": [
+    "Chipotle Mexican Grill",
+    "Estee Lauder",
+    "Keurig Dr. Pepper",
+    "Royal Caribbean Group"
+  ],
   "fallbackCompanies": [
     "Altria Group Inc",
     "Amcor PLC",
-    "Chipotle Mexican Grill",
     "Church & Dwight",
     "Clorox Co",
     "Colgate-Palmolive",
-    "Estee Lauder",
     "Etsy Inc",
     "Federal Realty Investment Trust",
     "Hershey Co",
@@ -243,7 +263,6 @@
     "Norwegian Cruise Line",
     "Regency Centers Corp",
     "Rollins Inc",
-    "Royal Caribbean Group",
     "Starbucks Corp",
     "Sysco Corp",
     "VF Corp"

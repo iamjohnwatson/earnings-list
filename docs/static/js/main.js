@@ -18,14 +18,65 @@
   const sourceSummary = document.getElementById('source-summary');
   const irSourceList = document.getElementById('ir-source-list');
   const fallbackSourceList = document.getElementById('fallback-source-list');
+  const searchForm = document.getElementById('search-form');
+  const searchInput = document.getElementById('search-input');
+  const searchClearBtn = document.getElementById('search-clear-btn');
+  const searchStatus = document.getElementById('search-status');
+  const searchResults = document.getElementById('search-results');
+  const searchResultsList = document.getElementById('search-results-list');
+  const searchResultsCount = document.getElementById('search-results-count');
+  const searchSuggestions = document.getElementById('search-suggestions');
+  const searchPanel = document.querySelector('.search-panel');
 
   let lastPayload = null;
   let lastPreview = null;
+  let searchIndexPromise = null;
+  let searchIndex = null;
+  let suggestionItems = [];
+  let activeSuggestionIndex = -1;
+
+  const MAX_SEARCH_RESULTS = 40;
+  const MAX_SUGGESTIONS = 8;
 
   function setStatus(message, variant = "info") {
     statusEl.textContent = message || "";
     const classes = ["status", variant].filter(Boolean).join(" ");
     statusEl.className = classes;
+  }
+
+  function setSearchStatus(message, variant = "info") {
+    if (!searchStatus) {
+      return;
+    }
+    if (!message) {
+      searchStatus.textContent = "";
+      searchStatus.className = "status";
+      return;
+    }
+    searchStatus.textContent = message;
+    searchStatus.className = `status ${variant}`.trim();
+  }
+
+  function handleSuggestionListKeyDown(event) {
+    if (!suggestionItems.length) {
+      return;
+    }
+    if (event.key === "ArrowDown") {
+      event.preventDefault();
+      const nextIndex = Math.min(activeSuggestionIndex + 1, suggestionItems.length - 1);
+      setActiveSuggestion(nextIndex);
+    } else if (event.key === "ArrowUp") {
+      event.preventDefault();
+      const nextIndex = activeSuggestionIndex <= 0 ? -1 : activeSuggestionIndex - 1;
+      if (nextIndex === -1) {
+        setActiveSuggestion(-1);
+        if (searchInput) {
+          searchInput.focus();
+        }
+      } else {
+        setActiveSuggestion(nextIndex);
+      }
+    }
   }
 
   function formatWeekday(dateString) {
@@ -120,19 +171,20 @@
     const map = new Map();
     records.forEach((record) => {
       const key = record.date || 'Unscheduled';
-      if (!map.has(key)) {
-        const group = {
-          key,
-          fullLabel: formatFullDate(record.date || ''),
-          shortLabel: formatDayName(record.date || ''),
-          compactLabel: formatShortDate(record.date || ''),
-          count: 0,
-          isWeekend: isWeekend(record.date || ''),
-        };
-        map.set(key, group);
-        groups.push(group);
-      }
-      map.get(key).count += 1;
+    if (!map.has(key)) {
+      const group = {
+        key,
+        fullLabel: formatFullDate(record.date || ''),
+        shortLabel: formatDayName(record.date || ''),
+        compactLabel: formatShortDate(record.date || ''),
+        count: 0,
+        isWeekend: isWeekend(record.date || ''),
+        anchorId: key === 'Unscheduled' ? 'day-unscheduled' : `day-${key}`,
+      };
+      map.set(key, group);
+      groups.push(group);
+    }
+    map.get(key).count += 1;
     });
     return groups;
   }
@@ -158,6 +210,18 @@
   function clearTimeline() {
     timelineList.innerHTML = '';
     timelineContainer.classList.add('hidden');
+  }
+
+  function showPreviewSection() {
+    if (previewSection) {
+      previewSection.classList.remove('hidden');
+    }
+  }
+
+  function hidePreviewSection() {
+    if (previewSection) {
+      previewSection.classList.add('hidden');
+    }
   }
 
   function clearSourceSummary() {
@@ -206,6 +270,21 @@
     }
   }
 
+  function focusDay(anchorId) {
+    if (!anchorId) {
+      return;
+    }
+    const targetRow = document.getElementById(anchorId);
+    if (!targetRow) {
+      return;
+    }
+    targetRow.classList.add('day-row--highlight');
+    targetRow.scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });
+    window.setTimeout(() => {
+      targetRow.classList.remove('day-row--highlight');
+    }, 2000);
+  }
+
   function renderTimeline(groups) {
     if (!groups || groups.length === 0) {
       clearTimeline();
@@ -218,6 +297,9 @@
       }
       const item = document.createElement('li');
       item.className = 'timeline-entry';
+      item.dataset.targetId = group.anchorId;
+      item.tabIndex = 0;
+      item.setAttribute('role', 'button');
       if (group.isWeekend) {
         item.classList.add('timeline-entry--weekend');
       }
@@ -238,6 +320,13 @@
         note.textContent = 'Weekend';
         item.append(note);
       }
+      item.addEventListener('click', () => focusDay(group.anchorId));
+      item.addEventListener('keydown', (event) => {
+        if (event.key === 'Enter' || event.key === ' ') {
+          event.preventDefault();
+          focusDay(group.anchorId);
+        }
+      });
       fragment.appendChild(item);
     });
     if (!fragment.hasChildNodes()) {
@@ -287,7 +376,7 @@
         : 0;
       matchCount.textContent =
         dayCount > 0
-          ? `${recordCount} companies • ${dayCount} day${dayCount === 1 ? '' : 's'}`
+          ? `${recordCount} companies - ${dayCount} day${dayCount === 1 ? '' : 's'}`
           : `${recordCount} companies`;
     }
   }
@@ -315,7 +404,7 @@
       if (sectorHeader) {
         sectorHeader.classList.add('hidden');
       }
-      previewSection.classList.add('hidden');
+      hidePreviewSection();
       matchCount.textContent = 'No matches';
       return [];
     }
@@ -342,6 +431,11 @@
         const group = dayGroups.find((entry) => entry.key === recordDate);
         const groupRow = document.createElement('tr');
         groupRow.className = 'day-row';
+        if (group?.anchorId) {
+          groupRow.id = group.anchorId;
+        } else if (recordDate) {
+          groupRow.id = `day-${recordDate}`;
+        }
         if (group?.isWeekend) {
           groupRow.classList.add('is-weekend');
         }
@@ -409,7 +503,7 @@
       fragment.appendChild(tr);
     });
     tableBody.appendChild(fragment);
-    previewSection.classList.remove('hidden');
+    showPreviewSection();
     renderTimeline(dayGroups);
     return dayGroups;
   }
@@ -426,6 +520,418 @@
     return response.json();
   }
 
+  function normaliseSearchValue(value) {
+    return value ? value.toLowerCase().replace(/[^a-z0-9]/g, "") : "";
+  }
+
+  function describeSource(source) {
+    if (!source) {
+      return "Source unconfirmed";
+    }
+    if (source === "investor_relations") {
+      return "Investor relations";
+    }
+    if (source === "aggregator") {
+      return "Public aggregators";
+    }
+    return source.replace(/[_-]/g, " ");
+  }
+
+  async function loadSearchIndex() {
+    if (searchIndex) {
+      return searchIndex;
+    }
+    if (searchIndexPromise) {
+      return searchIndexPromise;
+    }
+    const weeks = Array.isArray(window.APP_PRELOADED_WEEKS) ? window.APP_PRELOADED_WEEKS : [];
+    searchIndexPromise = (async () => {
+      const entries = [];
+      await Promise.all(
+        weeks.map(async (week) => {
+          try {
+            const data = await fetchJSON(`api/preview/${week.id}/all.json`);
+            const weekLabel = week.label || (data.week && data.week.label) || "";
+            const records = Array.isArray(data.records) ? data.records : [];
+            records.forEach((record) => {
+              entries.push({
+                company: record.company || "",
+                symbol: record.symbol || "",
+                date: record.date || "",
+                sector: record.sector || data.sector || "",
+                source: record.source || "",
+                session: record.bmo_amc || record.nasdaq_time_label || "",
+                weekId: week.id,
+                weekLabel,
+              });
+            });
+          } catch (error) {
+            console.warn(`Failed to load search data for ${week.id}:`, error);
+          }
+        }),
+      );
+      return entries;
+    })();
+    searchIndex = await searchIndexPromise;
+    return searchIndex;
+  }
+
+  function clearSearchResults() {
+    if (!searchResults || !searchResultsList || !searchResultsCount) {
+      return;
+    }
+    searchResultsList.innerHTML = "";
+    searchResultsCount.textContent = "";
+    searchResults.classList.add("hidden");
+  }
+
+  function renderSearchResults(items) {
+    if (!searchResults || !searchResultsList || !searchResultsCount) {
+      return;
+    }
+    const limited = items.slice(0, MAX_SEARCH_RESULTS);
+    searchResultsList.innerHTML = "";
+    limited.forEach((entry) => {
+      const listItem = document.createElement("li");
+      listItem.className = "search-results__item";
+      listItem.tabIndex = 0;
+
+      const primary = document.createElement("div");
+      primary.className = "search-results__primary";
+      const company = document.createElement("span");
+      company.className = "search-results__company";
+      company.textContent = entry.company || "Unnamed company";
+      primary.appendChild(company);
+
+      if (entry.symbol) {
+        const ticker = document.createElement("span");
+        ticker.className = "search-results__ticker";
+        ticker.textContent = entry.symbol.toUpperCase();
+        primary.appendChild(ticker);
+      }
+      listItem.appendChild(primary);
+
+      const dateLine = document.createElement("div");
+      dateLine.className = "search-results__date";
+      if (entry.date) {
+        dateLine.textContent = `${formatFullDate(entry.date)} - ${entry.weekLabel}`;
+      } else {
+        dateLine.textContent = `${entry.weekLabel} - Date to be confirmed`;
+      }
+      listItem.appendChild(dateLine);
+
+      const meta = document.createElement("div");
+      meta.className = "search-results__meta";
+      const sectorMeta = document.createElement("span");
+      sectorMeta.textContent = entry.sector || "Sector unknown";
+      meta.appendChild(sectorMeta);
+
+      if (entry.session) {
+        const sessionMeta = document.createElement("span");
+        sessionMeta.textContent = `Session: ${entry.session}`;
+        meta.appendChild(sessionMeta);
+      }
+
+      const sourceMeta = document.createElement("span");
+      sourceMeta.textContent = describeSource(entry.source);
+      meta.appendChild(sourceMeta);
+      listItem.appendChild(meta);
+
+      listItem.addEventListener("click", () => {
+        if (!weekSelect || !sectorSelect) {
+          return;
+        }
+        weekSelect.value = entry.weekId;
+        const desiredSector = entry.sector && entry.sector !== "All sectors" ? entry.sector : "All";
+        const availableValues = Array.from(sectorSelect.options).map((opt) => opt.value);
+        sectorSelect.value = availableValues.includes(desiredSector) ? desiredSector : "All";
+        downloadBtn.disabled = true;
+        setStatus(`Loading ${entry.company} in the weekly preview...`, "loading");
+        handlePreview();
+        if (previewSection) {
+          window.scrollTo({ top: previewSection.offsetTop - 24, behavior: "smooth" });
+        }
+      });
+
+      listItem.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          listItem.click();
+        }
+      });
+
+      searchResultsList.appendChild(listItem);
+    });
+
+    if (items.length > limited.length) {
+      const moreNotice = document.createElement("li");
+      moreNotice.className = "search-results__item search-results__item--more";
+      moreNotice.textContent = `Showing ${limited.length} of ${items.length} matches. Refine your search to narrow results.`;
+      searchResultsList.appendChild(moreNotice);
+    }
+
+    const matchLabel = items.length === 1 ? "match" : "matches";
+    searchResultsCount.textContent = `${items.length} ${matchLabel}`;
+    searchResults.classList.remove("hidden");
+  }
+
+  function clearSuggestions() {
+    suggestionItems = [];
+    activeSuggestionIndex = -1;
+    if (searchSuggestions) {
+      searchSuggestions.innerHTML = "";
+      searchSuggestions.classList.add("hidden");
+    }
+    if (searchInput) {
+      searchInput.setAttribute("aria-expanded", "false");
+    }
+  }
+
+  function setActiveSuggestion(index, focusItem = true) {
+    if (!searchSuggestions) {
+      activeSuggestionIndex = -1;
+      return;
+    }
+    const items = Array.from(searchSuggestions.querySelectorAll("li"));
+    items.forEach((item, idx) => {
+      const isActive = idx === index && idx >= 0;
+      item.classList.toggle("is-active", isActive);
+      item.setAttribute("aria-selected", String(isActive));
+      if (isActive && focusItem) {
+        item.focus();
+      }
+    });
+    activeSuggestionIndex = index;
+  }
+
+  function selectSuggestion(entry) {
+    if (!searchInput || !entry) {
+      return;
+    }
+    const value = entry.symbol || entry.company || "";
+    if (value) {
+      searchInput.value = value;
+    }
+    clearSuggestions();
+    runSearch(value);
+    searchInput.focus();
+  }
+
+  function renderSuggestions(items) {
+    if (!searchSuggestions) {
+      return;
+    }
+    if (!items.length) {
+      clearSuggestions();
+      return;
+    }
+    suggestionItems = items.slice(0, MAX_SUGGESTIONS);
+    searchSuggestions.innerHTML = "";
+    const fragment = document.createDocumentFragment();
+    suggestionItems.forEach((entry, index) => {
+      const listItem = document.createElement("li");
+      listItem.setAttribute("role", "option");
+      listItem.tabIndex = -1;
+      const name = document.createElement("span");
+      name.textContent = entry.company || entry.symbol || "";
+      listItem.appendChild(name);
+      if (entry.symbol) {
+        const ticker = document.createElement("span");
+        ticker.className = "search-suggestions__ticker";
+        ticker.textContent = entry.symbol.toUpperCase();
+        listItem.appendChild(ticker);
+      }
+      listItem.addEventListener("mousedown", (event) => {
+        event.preventDefault();
+      });
+      listItem.addEventListener("click", () => selectSuggestion(entry));
+      listItem.addEventListener("mouseenter", () => setActiveSuggestion(index, false));
+      listItem.addEventListener("mouseleave", () => setActiveSuggestion(-1, false));
+      listItem.addEventListener("focus", () => setActiveSuggestion(index, false));
+      listItem.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          selectSuggestion(entry);
+          return;
+        }
+        if (event.key === "ArrowDown" || event.key === "ArrowUp") {
+          handleSuggestionListKeyDown(event);
+        }
+      });
+      fragment.appendChild(listItem);
+    });
+    searchSuggestions.appendChild(fragment);
+    searchSuggestions.classList.remove("hidden");
+    if (searchInput) {
+      searchInput.setAttribute("aria-expanded", "true");
+    }
+  }
+
+  async function handleSearchInputEvent() {
+    if (!searchInput) {
+      return;
+    }
+    const query = searchInput.value.trim();
+    if (!query) {
+      clearSuggestions();
+      return;
+    }
+    const target = normaliseSearchValue(query);
+    if (!target) {
+      clearSuggestions();
+      return;
+    }
+    try {
+      const index = await loadSearchIndex();
+      if (!index.length) {
+        clearSuggestions();
+        return;
+      }
+      const matches = [];
+      const seen = new Set();
+      index.forEach((entry) => {
+        const companyKey = normaliseSearchValue(entry.company);
+        const symbolKey = normaliseSearchValue(entry.symbol);
+        const symbolIndex = symbolKey.indexOf(target);
+        const companyIndex = companyKey.indexOf(target);
+        if (symbolIndex === -1 && companyIndex === -1) {
+          return;
+        }
+        const uniqueKey = `${entry.company || ""}|${entry.symbol || ""}`;
+        if (seen.has(uniqueKey)) {
+          return;
+        }
+        seen.add(uniqueKey);
+        let matchRank = 3;
+        let rankIndex = companyIndex;
+        if (symbolIndex === 0) {
+          matchRank = 0;
+          rankIndex = symbolIndex;
+        } else if (symbolIndex > 0) {
+          matchRank = 1;
+          rankIndex = symbolIndex;
+        } else if (companyIndex === 0) {
+          matchRank = 2;
+          rankIndex = companyIndex;
+        }
+        const timestamp = entry.date ? Date.parse(entry.date) || Number.POSITIVE_INFINITY : Number.POSITIVE_INFINITY;
+        matches.push({ entry, matchRank, rankIndex: rankIndex ?? Number.MAX_SAFE_INTEGER, timestamp });
+      });
+      if (!matches.length) {
+        clearSuggestions();
+        return;
+      }
+      matches.sort((a, b) => {
+        if (a.matchRank !== b.matchRank) {
+          return a.matchRank - b.matchRank;
+        }
+        if (a.rankIndex !== b.rankIndex) {
+          return a.rankIndex - b.rankIndex;
+        }
+        return a.timestamp - b.timestamp;
+      });
+      renderSuggestions(matches.map((item) => item.entry));
+    } catch (error) {
+      console.error("Failed to build suggestions", error);
+      clearSuggestions();
+    }
+  }
+
+  function handleSearchKeyDown(event) {
+    if (!suggestionItems.length) {
+      if (event.key === "ArrowDown") {
+        handleSearchInputEvent();
+      }
+      return;
+    }
+    if (event.key === "ArrowDown") {
+      event.preventDefault();
+      const nextIndex = Math.min(activeSuggestionIndex + 1, suggestionItems.length - 1);
+      setActiveSuggestion(nextIndex);
+    } else if (event.key === "ArrowUp") {
+      event.preventDefault();
+      const nextIndex = activeSuggestionIndex <= 0 ? -1 : activeSuggestionIndex - 1;
+      if (nextIndex === -1) {
+        setActiveSuggestion(-1);
+        if (searchInput) {
+          searchInput.focus();
+        }
+      } else {
+        setActiveSuggestion(nextIndex);
+      }
+    } else if (event.key === "Enter") {
+      if (activeSuggestionIndex >= 0 && activeSuggestionIndex < suggestionItems.length) {
+        event.preventDefault();
+        selectSuggestion(suggestionItems[activeSuggestionIndex]);
+      }
+    } else if (event.key === "Escape") {
+      clearSuggestions();
+    }
+  }
+
+  async function runSearch(query) {
+    const value = (query || "").trim();
+    if (!value) {
+      setSearchStatus("Enter a company name or ticker to search.", "error");
+      clearSearchResults();
+      clearSuggestions();
+      return;
+    }
+    setSearchStatus("Looking for earnings...", "loading");
+    clearSearchResults();
+    clearSuggestions();
+    try {
+      const index = await loadSearchIndex();
+      if (!index.length) {
+        setSearchStatus("No searchable earnings data is available yet.", "info");
+        return;
+      }
+      const target = normaliseSearchValue(value);
+      const matches = index.filter((entry) => {
+        const companyKey = normaliseSearchValue(entry.company);
+        const symbolKey = normaliseSearchValue(entry.symbol);
+        return companyKey.includes(target) || symbolKey.includes(target);
+      });
+      if (!matches.length) {
+        setSearchStatus(`No upcoming earnings found for "${value}".`, "info");
+        return;
+      }
+      matches.sort((a, b) => {
+        if (!a.date && !b.date) {
+          return a.weekLabel.localeCompare(b.weekLabel);
+        }
+        if (!a.date) {
+          return 1;
+        }
+        if (!b.date) {
+          return -1;
+        }
+        return new Date(a.date) - new Date(b.date);
+      });
+      renderSearchResults(matches);
+      setSearchStatus(`Showing ${matches.length} match${matches.length === 1 ? "" : "es"} for "${value}".`, "success");
+    } catch (error) {
+      console.error("Search failed", error);
+      setSearchStatus("Unable to run the search right now. Please try again later.", "error");
+    }
+  }
+
+  async function handleSearch(event) {
+    event.preventDefault();
+    const inputValue = searchInput ? searchInput.value : "";
+    await runSearch(inputValue);
+  }
+
+  function handleSearchClear() {
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.focus();
+    }
+    setSearchStatus("");
+    clearSearchResults();
+    clearSuggestions();
+  }
+
   async function handlePreview() {
    const payload = {
      sector: sectorSelect.value,
@@ -433,7 +939,7 @@
    };
     if (!payload.sector || !payload.weekId) {
       setStatus('Pick a week and sector first.', 'error');
-      previewSection.classList.add('hidden');
+      hidePreviewSection();
       clearTimeline();
       clearSourceSummary();
       resetMeta();
@@ -461,7 +967,7 @@
       }
     } catch (error) {
       setStatus(error.message, 'error');
-      previewSection.classList.add('hidden');
+      hidePreviewSection();
       clearTimeline();
       resetMeta();
       matchCount.textContent = 'No matches';
@@ -508,6 +1014,37 @@
     }
   }
 
+  if (searchInput) {
+    searchInput.setAttribute('role', 'combobox');
+    searchInput.setAttribute('aria-autocomplete', 'list');
+    searchInput.setAttribute('aria-controls', 'search-suggestions');
+    searchInput.setAttribute('aria-expanded', 'false');
+    searchInput.setAttribute('aria-haspopup', 'listbox');
+    searchInput.addEventListener('input', () => {
+      handleSearchInputEvent();
+    });
+    searchInput.addEventListener('focus', () => {
+      handleSearchInputEvent();
+    });
+    searchInput.addEventListener('keydown', handleSearchKeyDown);
+    searchInput.addEventListener('blur', () => {
+      window.setTimeout(() => {
+        const active = document.activeElement;
+        if (!searchPanel || !active || !searchPanel.contains(active)) {
+          clearSuggestions();
+        }
+      }, 120);
+    });
+  }
+
+  if (searchPanel) {
+    document.addEventListener('click', (event) => {
+      if (!searchPanel.contains(event.target)) {
+        clearSuggestions();
+      }
+    });
+  }
+
   previewBtn.addEventListener('click', handlePreview);
   downloadBtn.addEventListener('click', handleDownload);
   [weekSelect, sectorSelect].forEach((select) =>
@@ -516,4 +1053,13 @@
       setStatus('Adjust selections and preview to refresh.', 'info');
     }),
   );
+  if (searchForm) {
+    searchForm.addEventListener("submit", handleSearch);
+  }
+  if (searchClearBtn) {
+    searchClearBtn.addEventListener("click", handleSearchClear);
+  }
 })();
+
+
+
