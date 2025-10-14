@@ -82,6 +82,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Marriott International Inc",
+      "symbol": "MAR",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Stanley Black & Decker",
       "symbol": "SWK",
       "date": "2025-11-04",
@@ -129,13 +138,15 @@
       "source": "aggregator"
     },
     {
-      "company": "Camden Property Trust",
-      "symbol": "CPT",
+      "company": "Bombardier",
+      "symbol": "BDRBF",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "8:00 A.M",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 a.m",
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Expedia Group Inc",
@@ -183,18 +194,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-13T21:46:02Z",
+  "generatedAt": "2025-10-14T01:20:43Z",
   "irCompanies": [
+    "Bombardier",
     "Johnson Controls International PLC"
   ],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
     "Axon Enterprise Inc",
-    "Camden Property Trust",
     "Emerson Electric Co",
     "Expedia Group Inc",
     "Expeditors International of Washington Inc",
@@ -204,6 +215,7 @@
     "IDEX Corp",
     "JetBlue",
     "Leidos Holdings Inc",
+    "Marriott International Inc",
     "Parker-Hannifin Corp",
     "Realty Income Corp",
     "Rockwell Automation Inc",

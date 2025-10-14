@@ -48,6 +48,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "DaVita Inc",
+      "symbol": "DVA",
+      "date": "2025-10-29",
+      "bmo_amc": "5:00 P.M.",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:00 p.m. ",
+      "ir_source_url": "https://investors.davita.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Cardinal Health Inc",
       "symbol": "CAH",
       "date": "2025-10-30",
@@ -64,19 +75,30 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Gilead",
+      "symbol": "GILD",
+      "date": "2025-10-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 47,
-  "generatedAt": "2025-10-13T21:45:55Z",
+  "generatedAt": "2025-10-14T01:20:36Z",
   "irCompanies": [
-    "Centene Corp"
+    "Centene Corp",
+    "DaVita Inc"
   ],
   "fallbackCompanies": [
     "Bio-Techne Corp",
     "Cardinal Health Inc",
     "Eli Lilly and Co",
+    "Gilead",
     "IQVIA Holdings Inc",
     "Labcorp Holdings Inc",
     "Tenet Healthcare"

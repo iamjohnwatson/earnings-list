@@ -109,6 +109,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Gilead",
+      "symbol": "GILD",
+      "date": "2025-11-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Mckesson Corp",
       "symbol": "MCK",
       "date": "2025-11-05",
@@ -140,7 +149,7 @@
       "symbol": "BDX",
       "date": "2025-11-06",
       "bmo_amc": "8:00 AM ET",
-      "nasdaq_time_label": "time-pre-market",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "ir_time_label": "8:00 AM ET",
       "ir_source_url": "https://investors.bd.com/",
@@ -192,10 +201,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 47,
-  "generatedAt": "2025-10-13T21:46:03Z",
+  "generatedAt": "2025-10-14T01:20:44Z",
   "irCompanies": [
     "Becton Dickinson and Co"
   ],
@@ -206,6 +215,7 @@
     "Charles River Labs",
     "DaVita Inc",
     "Dentsply Sirona",
+    "Gilead",
     "Henry Schein Inc",
     "Hims and Hers",
     "IDEXX Laboratories Inc",

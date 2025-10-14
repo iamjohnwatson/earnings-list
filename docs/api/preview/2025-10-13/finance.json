@@ -4,18 +4,18 @@
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2025-10-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2025-10-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://www.citigroup.com/global/investors",
       "source": "investor_relations"
@@ -24,9 +24,9 @@
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2025-10-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -35,7 +35,7 @@
       "date": "2025-10-14",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 AM ET",
       "ir_source_url": "https://www.jpmorganchase.com/ir",
       "source": "investor_relations"
@@ -44,9 +44,9 @@
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2025-10-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
       "source": "investor_relations"
@@ -250,7 +250,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-13T21:45:41Z",
+  "generatedAt": "2025-10-14T01:20:22Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",

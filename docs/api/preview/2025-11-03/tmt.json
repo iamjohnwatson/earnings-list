@@ -91,15 +91,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Reddit",
-      "symbol": "RDDT",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Rivian",
       "symbol": "RIVN",
       "date": "2025-11-04",
@@ -109,15 +100,6 @@
       "ir_time_label": null,
       "ir_source_url": "https://rivian.com/investors",
       "source": "investor_relations"
-    },
-    {
-      "company": "Snap",
-      "symbol": "SNAP",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     },
     {
       "company": "Spotify",
@@ -246,15 +228,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Snap",
-      "symbol": "SNAP",
-      "date": "2025-11-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Trimble",
       "symbol": "TRMB",
       "date": "2025-11-05",
@@ -295,7 +268,7 @@
       "symbol": "GEN",
       "date": "2025-11-06",
       "bmo_amc": "10:30 AM ET",
-      "nasdaq_time_label": "time-after-hours",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": "10:30 am ET",
       "ir_source_url": "https://investor.gendigital.com/overview/default.aspx",
@@ -332,10 +305,12 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Trade Desk",
@@ -347,13 +322,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 38,
+  "count": 35,
   "missingPublic": [],
   "tickerCount": 139,
-  "generatedAt": "2025-10-13T21:46:03Z",
+  "generatedAt": "2025-10-14T01:20:43Z",
   "irCompanies": [
     "Gen Digital",
-    "Rivian"
+    "Rivian",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -384,10 +360,7 @@
     "Pinterest",
     "Qorvo",
     "Qualcomm",
-    "Reddit",
-    "Snap",
     "Spotify",
-    "Take-Two Interactive",
     "Trade Desk",
     "Trimble",
     "Uber"

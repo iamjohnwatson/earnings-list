@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "company": "Fox Corp",
-      "symbol": "FOXA",
-      "date": "2025-10-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.foxcorporation.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-10-13",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2025-10-15",
@@ -34,14 +12,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 139,
-  "generatedAt": "2025-10-13T21:45:41Z",
+  "generatedAt": "2025-10-14T01:20:22Z",
   "irCompanies": [
-    "Fox Corp",
-    "HPE",
-    "Take-Two Interactive"
+    "HPE"
   ],
   "fallbackCompanies": [],
   "week": {

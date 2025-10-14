@@ -1,33 +1,20 @@
 {
   "records": [
     {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2025-10-13",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EDT",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Domino\u2019s Pizza Inc",
       "symbol": "DPZ",
       "date": "2025-10-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 73,
-  "generatedAt": "2025-10-13T21:45:42Z",
-  "irCompanies": [
-    "Norwegian Cruise Line"
-  ],
+  "generatedAt": "2025-10-14T01:20:22Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Domino\u2019s Pizza Inc"
   ],
