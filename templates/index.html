@@ -9,8 +9,14 @@
   <body>
     <main class="container">
       <header class="page-header">
-        <h1>Company Events Calendar Assistant</h1>
-        <p>Pick a coverage week and sector to pull upcoming earnings calls, analyst days, and other investor events—results aren’t guaranteed to be exhaustive or perfectly accurate, so double-check the calendar before you publish.</p>
+        <div class="page-header__top">
+          <h1>Company Events Calendar Assistant</h1>
+          <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+            <span class="theme-toggle__icon" aria-hidden="true">Moon</span>
+            <span class="theme-toggle__label">Dark mode</span>
+          </button>
+        </div>
+        <p>Pick a coverage week and sector to pull upcoming earnings calls, analyst days, and other investor events-results aren't guaranteed to be exhaustive or perfectly accurate, so double-check the calendar before you publish.</p>
       </header>
 
       <section class="controls">
@@ -40,89 +46,92 @@
         <div id="status" class="status" role="status" aria-live="polite"></div>
       </section>
 
-      <section class="search-panel" aria-labelledby="search-heading">
-        <div class="search-panel__header">
-          <h2 id="search-heading">Look up a company</h2>
-          <p>Find upcoming earnings by entering a company name or ticker symbol.</p>
-        </div>
-        <form id="search-form" class="search-form" action="javascript:void(0);">
-          <label class="field search-field">
-            <span>Company or ticker</span>
-            <input type="text" id="search-input" name="search" placeholder="e.g. MSFT or Microsoft" autocomplete="off">
-          </label>
-          <div class="search-actions">
-            <button type="submit" class="btn primary" id="search-btn">Search</button>
-            <button type="button" class="btn" id="search-clear-btn">Clear</button>
+      <div class="results-area">
+        <section id="preview" class="preview hidden" aria-live="polite">
+          <div class="preview-header">
+            <div class="preview-title">
+              <h2>Matching Companies</h2>
+              <div id="preview-meta" class="preview-meta" aria-live="polite">
+                <span id="preview-sector" class="meta-chip"></span>
+                <span id="preview-week" class="meta-chip"></span>
+                <span id="preview-updated" class="meta-chip"></span>
+                <span id="preview-missing" class="meta-chip"></span>
+              </div>
+            </div>
+            <span id="match-count" class="badge"></span>
           </div>
-        </form>
-        <div id="search-status" class="status" role="status" aria-live="polite"></div>
-        <section id="search-results" class="search-results hidden" aria-live="polite">
-          <header class="search-results__header">
-            <h3>Upcoming matches</h3>
-            <span id="search-results-count" class="badge"></span>
-          </header>
-          <ul id="search-results-list" class="search-results__list"></ul>
+          <section id="missing" class="missing hidden" aria-live="polite"></section>
+          <div class="preview-layout">
+            <div class="table-wrapper">
+              <table id="preview-table">
+                  <thead>
+                    <tr>
+                      <th scope="col">Company</th>
+                      <th scope="col">Ticker</th>
+                      <th scope="col" id="sector-column" class="hidden">Sector</th>
+                      <th scope="col">IR Source</th>
+                      <th scope="col">Weekday</th>
+                      <th scope="col">BMO/AMC</th>
+                    </tr>
+                  </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+            <aside id="day-timeline" class="timeline hidden" aria-label="Daily earnings distribution">
+              <h3>Week Overview</h3>
+              <ul id="timeline-list" class="timeline-list"></ul>
+            </aside>
+          </div>
+          <div id="source-summary" class="source-summary hidden" aria-live="polite">
+            <h3>Source Breakdown</h3>
+            <div class="source-summary__columns">
+              <div class="source-summary__group">
+                <h4>Investor Relations</h4>
+                <ul id="ir-source-list" class="source-summary__list"></ul>
+              </div>
+              <div class="source-summary__group">
+                <h4>Nasdaq &amp; Yahoo Finance</h4>
+                <ul id="fallback-source-list" class="source-summary__list"></ul>
+              </div>
+            </div>
+          </div>
+          <div class="source-note">
+            <p>We start by crawling each company's investor relations site for future event dates.</p>
+            <p>If we can't find one, we tap Nasdaq and Yahoo Finance to fill the gaps.</p>
+            <p>You get a single list that highlights which events came from official sources and which rely on public aggregators.</p>
+          </div>
         </section>
-      </section>
 
-      <section id="missing" class="missing hidden" aria-live="polite"></section>
+        <aside class="search-panel" aria-labelledby="search-heading">
+          <div class="search-panel__header">
+            <h2 id="search-heading">Look up a company</h2>
+            <p>Find upcoming earnings by entering a company name or ticker symbol.</p>
+          </div>
+          <form id="search-form" class="search-form" action="javascript:void(0);">
+            <label class="field search-field">
+              <span>Company or ticker</span>
+              <input type="text" id="search-input" name="search" placeholder="e.g. MSFT or Microsoft" autocomplete="off">
+              <ul id="search-suggestions" class="search-suggestions hidden" role="listbox" aria-label="Suggestions"></ul>
+            </label>
+            <div class="search-actions">
+              <button type="submit" class="btn primary" id="search-btn">Search</button>
+              <button type="button" class="btn" id="search-clear-btn">Clear</button>
+            </div>
+          </form>
+          <div id="search-status" class="status" role="status" aria-live="polite"></div>
+          <section id="search-results" class="search-results hidden" aria-live="polite">
+            <header class="search-results__header">
+              <h3>Upcoming matches</h3>
+              <span id="search-results-count" class="badge"></span>
+            </header>
+            <ul id="search-results-list" class="search-results__list"></ul>
+          </section>
+        </aside>
+      </div>
 
-      <section id="preview" class="preview hidden" aria-live="polite">
-        <div class="preview-header">
-          <div class="preview-title">
-            <h2>Matching Companies</h2>
-            <div id="preview-meta" class="preview-meta" aria-live="polite">
-              <span id="preview-sector" class="meta-chip"></span>
-              <span id="preview-week" class="meta-chip"></span>
-              <span id="preview-updated" class="meta-chip"></span>
-              <span id="preview-missing" class="meta-chip"></span>
-            </div>
-          </div>
-          <span id="match-count" class="badge"></span>
-        </div>
-        <div class="preview-layout">
-          <div class="table-wrapper">
-            <table id="preview-table">
-                <thead>
-                  <tr>
-                    <th scope="col">Company</th>
-                    <th scope="col">Ticker</th>
-                    <th scope="col" id="sector-column" class="hidden">Sector</th>
-                    <th scope="col">IR Source</th>
-                    <th scope="col">Weekday</th>
-                    <th scope="col">BMO/AMC</th>
-                  </tr>
-                </thead>
-              <tbody></tbody>
-            </table>
-          </div>
-          <aside id="day-timeline" class="timeline hidden" aria-label="Daily earnings distribution">
-            <h3>Week Overview</h3>
-            <ul id="timeline-list" class="timeline-list"></ul>
-          </aside>
-        </div>
-        <div id="source-summary" class="source-summary hidden" aria-live="polite">
-          <h3>Source Breakdown</h3>
-          <div class="source-summary__columns">
-            <div class="source-summary__group">
-              <h4>Investor Relations</h4>
-              <ul id="ir-source-list" class="source-summary__list"></ul>
-            </div>
-            <div class="source-summary__group">
-              <h4>Nasdaq &amp; Yahoo Finance</h4>
-              <ul id="fallback-source-list" class="source-summary__list"></ul>
-            </div>
-          </div>
-        </div>
-        <div class="source-note">
-          <p>We start by crawling each company's investor relations site for future event dates.</p>
-          <p>If we can't find one, we tap Nasdaq and Yahoo Finance to fill the gaps.</p>
-          <p>You get a single list that highlights which events came from official sources and which rely on public aggregators.</p>
-        </div>
-        <footer class="preview-credit">
-          By Akash Sriram
-        </footer>
-      </section>
+      <footer class="site-credit">
+        By Akash Sriram
+      </footer>
     </main>
     <script>
       window.APP_PRELOADED_WEEKS = {{ week_options | tojson }};
