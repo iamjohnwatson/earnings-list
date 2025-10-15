@@ -130,12 +130,10 @@
       "company": "Becton Dickinson and Co",
       "symbol": "BDX",
       "date": "2025-11-06",
-      "bmo_amc": "8:00 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM ET",
-      "ir_source_url": "https://investors.bd.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Dentsply Sirona",
@@ -186,13 +184,12 @@
   "count": 20,
   "missingPublic": [],
   "tickerCount": 48,
-  "generatedAt": "2025-10-15T18:53:34Z",
-  "irCompanies": [
-    "Becton Dickinson and Co"
-  ],
+  "generatedAt": "2025-10-15T21:47:43Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
+    "Becton Dickinson and Co",
     "Cencora Inc",
     "Charles River Labs",
     "Dentsply Sirona",

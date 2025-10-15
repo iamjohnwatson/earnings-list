@@ -1,6 +1,72 @@
 {
   "records": [
     {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2025-10-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
+      "date": "2025-10-15",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
+      "date": "2025-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bd.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Bio-Techne Corp",
+      "symbol": "TECH",
+      "date": "2025-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bio-techne.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2025-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
+      "date": "2025-10-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2025-10-14",
@@ -292,10 +358,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-10-15",
-      "bmo_amc": "2:27 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:27 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -325,58 +391,38 @@
       "sector": "TMT"
     },
     {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
       "date": "2025-10-14",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
       "date": "2025-10-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Bio-Techne Corp",
-      "symbol": "TECH",
-      "date": "2025-10-15",
-      "bmo_amc": "TBD",
+      "bmo_amc": "1:29 PM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bio-techne.com/",
+      "ir_time_label": "1:29 PM EDT",
+      "ir_source_url": "https://www.nclhltd.com/investors",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
       "date": "2025-10-15",
-      "bmo_amc": "TBD",
+      "bmo_amc": "9:05 AM",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
+      "ir_time_label": "9:05 am ",
+      "ir_source_url": "https://www.rclinvestor.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
-      "date": "2025-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
       "company": "Fastenal Co",
@@ -435,6 +481,18 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
+      "date": "2025-10-15",
+      "bmo_amc": "4:00 PM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 PM ",
+      "ir_source_url": "https://investors.mgmresorts.com/investors/overview/default.aspx",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Prologis Inc",
       "symbol": "PLD",
       "date": "2025-10-15",
@@ -467,40 +525,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Domino\u2019s Pizza Inc",
-      "symbol": "DPZ",
-      "date": "2025-10-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2025-10-15",
-      "bmo_amc": "1:29 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:29 PM EDT",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Royal Caribbean Group",
-      "symbol": "RCL",
-      "date": "2025-10-15",
-      "bmo_amc": "9:05 AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:05 am ",
-      "ir_source_url": "https://www.rclinvestor.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "Kinder Morgan",
       "symbol": "KMI",
       "date": "2025-10-15",
@@ -521,15 +545,16 @@
       "sector": "Resources"
     }
   ],
-  "count": 48,
+  "count": 50,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 558,
-  "generatedAt": "2025-10-15T18:53:06Z",
+  "generatedAt": "2025-10-15T21:47:15Z",
   "irCompanies": [
     "Bank of America",
+    "Becton Dickinson and Co",
     "Bio-Techne Corp",
     "Bombardier",
     "Centene Corp",
@@ -539,6 +564,7 @@
     "Huntington Bancshares",
     "Intuit",
     "Lennar Corp",
+    "MGM Resorts International",
     "Morgan Stanley",
     "Norwegian Cruise Line",
     "PNC Financial",
