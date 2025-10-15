@@ -8,13 +8,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2025-10-15",
+      "bmo_amc": "9:05 AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:05 am ",
+      "ir_source_url": "https://www.rclinvestor.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 74,
-  "generatedAt": "2025-10-15T12:58:10Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-15T15:47:55Z",
+  "irCompanies": [
+    "Royal Caribbean Group"
+  ],
   "fallbackCompanies": [
     "Domino\u2019s Pizza Inc"
   ],

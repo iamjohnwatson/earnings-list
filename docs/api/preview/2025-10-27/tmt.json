@@ -217,12 +217,10 @@
       "company": "Verizon",
       "symbol": "VZ",
       "date": "2025-10-29",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM ET",
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "eBay",
@@ -342,15 +340,14 @@
   "count": 36,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-15T12:58:29Z",
+  "generatedAt": "2025-10-15T15:48:13Z",
   "irCompanies": [
     "Equinix",
     "Fox Corp",
     "GoDaddy",
     "KLA Corp",
     "Microsoft",
-    "SiriusXM",
-    "Verizon"
+    "SiriusXM"
   ],
   "fallbackCompanies": [
     "ADP",
@@ -380,6 +377,7 @@
     "Roku",
     "Seagate",
     "ServiceNow",
+    "Verizon",
     "Zebra Technologies",
     "eBay"
   ],
