@@ -17,15 +17,25 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "GameStop",
+      "symbol": "GME",
+      "date": "2025-12-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-15T09:51:14Z",
+  "generatedAt": "2025-10-15T12:59:23Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "C3.ai",
+    "GameStop",
     "Oracle"
   ],
   "week": {

@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2025-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "J B Hunt Transport Services Inc",
       "symbol": "JBHT",
       "date": "2025-10-15",
@@ -17,6 +28,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2025-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Prologis Inc",
@@ -48,11 +70,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-15T09:49:53Z",
+  "generatedAt": "2025-10-15T12:58:11Z",
   "irCompanies": [
+    "Bombardier",
+    "Lennar Corp",
     "Prologis Inc"
   ],
   "fallbackCompanies": [

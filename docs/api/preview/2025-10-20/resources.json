@@ -37,15 +37,6 @@
       "source": "aggregator"
     },
     {
-      "company": "NextEra Energy",
-      "symbol": "NEE",
-      "date": "2025-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Teck Resources",
       "symbol": "TECK",
       "date": "2025-10-22",
@@ -127,10 +118,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-10-15T09:50:04Z",
+  "generatedAt": "2025-10-15T12:58:20Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Baker Hughes",
@@ -143,7 +134,6 @@
     "GE Vernova",
     "Halliburton",
     "Newmont Corp",
-    "NextEra Energy",
     "PG&E Corp",
     "Teck Resources",
     "Valero Energy Corp"

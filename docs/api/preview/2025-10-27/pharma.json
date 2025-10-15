@@ -49,12 +49,10 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2025-10-29",
-      "bmo_amc": "9:00AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "DaVita Inc",
@@ -107,14 +105,14 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 48,
-  "generatedAt": "2025-10-15T09:50:14Z",
+  "generatedAt": "2025-10-15T12:58:29Z",
   "irCompanies": [
-    "Centene Corp",
     "DaVita Inc"
   ],
   "fallbackCompanies": [
     "Bio-Techne Corp",
     "Cardinal Health Inc",
+    "Centene Corp",
     "Edwards Lifesciences Corp",
     "Eli Lilly and Co",
     "Gilead",

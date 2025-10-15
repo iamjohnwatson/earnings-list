@@ -21,18 +21,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2025-11-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Occidental Petroleum",
       "symbol": "OXY",
       "date": "2025-11-10",
@@ -93,6 +81,18 @@
       "sector": "Pharma"
     },
     {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2025-11-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Grab",
       "symbol": "GRAB",
       "date": "2025-11-10",
@@ -133,28 +133,8 @@
       "sector": "TMT"
     },
     {
-      "company": "Shopify",
-      "symbol": "SHOP",
-      "date": "2025-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Skyworks Solutions",
       "symbol": "SWKS",
-      "date": "2025-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Tencent Music",
-      "symbol": "TME",
       "date": "2025-11-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -186,8 +166,8 @@
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2025-11-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://ir.tencentmusic.com/",
@@ -237,13 +217,13 @@
       "sector": "TMT"
     }
   ],
-  "count": 23,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 558,
-  "generatedAt": "2025-10-15T09:50:34Z",
+  "generatedAt": "2025-10-15T12:58:47Z",
   "irCompanies": [
     "Disney",
     "Manulife",
@@ -263,10 +243,8 @@
     "Novavax",
     "Occidental Petroleum",
     "Sea Limited",
-    "Shopify",
     "Skyworks Solutions",
     "Suncor Energy",
-    "Tencent Music",
     "Tower Semiconductor",
     "Tyson Foods",
     "Venture Global"

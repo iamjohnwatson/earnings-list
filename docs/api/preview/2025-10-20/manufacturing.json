@@ -111,6 +111,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Teledyne Technologies Inc",
       "symbol": "TDY",
       "date": "2025-10-22",
@@ -214,7 +223,7 @@
       "symbol": "LUV",
       "date": "2025-10-23",
       "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": "10:00 am EDT",
       "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
@@ -266,10 +275,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-15T09:50:03Z",
+  "generatedAt": "2025-10-15T12:58:19Z",
   "irCompanies": [
     "Parker-Hannifin Corp",
     "Southwest Airlines Co"
@@ -295,6 +304,7 @@
     "Pool Corp",
     "Pultegroup Inc",
     "RTX",
+    "Southwest Airlines Co",
     "Steel Dynamics",
     "Teledyne Technologies Inc",
     "Textron Inc",

@@ -37,26 +37,8 @@
       "source": "aggregator"
     },
     {
-      "company": "Shopify",
-      "symbol": "SHOP",
-      "date": "2025-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Skyworks Solutions",
       "symbol": "SWKS",
-      "date": "2025-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Tencent Music",
-      "symbol": "TME",
       "date": "2025-11-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -85,8 +67,8 @@
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2025-11-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://ir.tencentmusic.com/",
@@ -131,10 +113,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-15T09:50:34Z",
+  "generatedAt": "2025-10-15T12:58:47Z",
   "irCompanies": [
     "Disney",
     "Tencent Music"
@@ -148,9 +130,7 @@
     "JD.com",
     "Live Nation Entertainment",
     "Sea Limited",
-    "Shopify",
     "Skyworks Solutions",
-    "Tencent Music",
     "Tower Semiconductor"
   ],
   "week": {
