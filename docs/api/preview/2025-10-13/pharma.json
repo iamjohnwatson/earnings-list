@@ -4,18 +4,18 @@
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2025-10-14",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Abbott Laboratories",
       "symbol": "ABT",
       "date": "2025-10-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -31,7 +31,7 @@
   "count": 3,
   "missingPublic": [],
   "tickerCount": 48,
-  "generatedAt": "2025-10-14T21:45:34Z",
+  "generatedAt": "2025-10-15T01:21:44Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",

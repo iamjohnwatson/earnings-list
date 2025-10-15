@@ -305,10 +305,12 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Trade Desk",
@@ -323,10 +325,11 @@
   "count": 35,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-14T21:46:01Z",
+  "generatedAt": "2025-10-15T01:22:12Z",
   "irCompanies": [
     "Gen Digital",
-    "Rivian"
+    "Rivian",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -358,7 +361,6 @@
     "SBA Communications",
     "Snap",
     "Spotify",
-    "Take-Two Interactive",
     "Trade Desk",
     "Trimble",
     "Uber"

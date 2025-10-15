@@ -10,67 +10,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-10-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2025-10-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2025-10-14",
-      "bmo_amc": "4:00 PM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ",
-      "ir_source_url": "https://investors.mgmresorts.com/investors/overview/default.aspx",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2025-10-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2025-10-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "J B Hunt Transport Services Inc",
       "symbol": "JBHT",
       "date": "2025-10-15",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -79,7 +24,7 @@
       "date": "2025-10-15",
       "bmo_amc": "12:00 PM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "12:00 PM ET",
       "ir_source_url": "https://ir.prologis.com/",
       "source": "investor_relations"
@@ -103,17 +48,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-14T21:45:35Z",
+  "generatedAt": "2025-10-15T01:21:45Z",
   "irCompanies": [
-    "Bombardier",
-    "Lennar Corp",
-    "MGM Resorts International",
-    "Prologis Inc",
-    "Quanta Services Inc",
-    "UPS"
+    "Prologis Inc"
   ],
   "fallbackCompanies": [
     "CSX Corp",
