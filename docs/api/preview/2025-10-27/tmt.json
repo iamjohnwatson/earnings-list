@@ -85,8 +85,8 @@
       "company": "Seagate",
       "symbol": "STX",
       "date": "2025-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -121,8 +121,8 @@
       "company": "Cognizant",
       "symbol": "CTSH",
       "date": "2025-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -292,6 +292,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Lumen Tech",
+      "symbol": "LUMN",
+      "date": "2025-10-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Monolithic Power",
       "symbol": "MPWR",
       "date": "2025-10-30",
@@ -330,6 +339,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Western Digital",
+      "symbol": "WDC",
+      "date": "2025-10-30",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Charter Communications",
       "symbol": "CHTR",
       "date": "2025-10-31",
@@ -339,10 +357,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 36,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-16T09:49:28Z",
+  "generatedAt": "2025-10-16T12:56:39Z",
   "irCompanies": [
     "Equinix",
     "Fox Corp",
@@ -370,6 +388,7 @@
     "F5",
     "Garmin",
     "Interpublic Group of Companies",
+    "Lumen Tech",
     "Meta",
     "Monolithic Power",
     "NXP Semiconductors",
@@ -380,6 +399,7 @@
     "Roku",
     "Seagate",
     "ServiceNow",
+    "Western Digital",
     "Zebra Technologies",
     "eBay"
   ],

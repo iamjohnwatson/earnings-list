@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Tower Semiconductor",
+      "symbol": "TSEM",
+      "date": "2025-11-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "CoreWeave",
       "symbol": "CRWV",
       "date": "2025-11-11",
@@ -75,15 +84,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Tower Semiconductor",
-      "symbol": "TSEM",
-      "date": "2025-11-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Applied Materials",
       "symbol": "AMAT",
       "date": "2025-11-13",
@@ -116,7 +116,7 @@
   "count": 12,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-16T09:49:46Z",
+  "generatedAt": "2025-10-16T12:56:58Z",
   "irCompanies": [
     "Disney",
     "Tencent Music"

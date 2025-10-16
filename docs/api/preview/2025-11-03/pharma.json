@@ -82,6 +82,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Bio-Techne Corp",
+      "symbol": "TECH",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Cencora Inc",
       "symbol": "COR",
       "date": "2025-11-05",
@@ -183,16 +192,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [],
   "tickerCount": 48,
-  "generatedAt": "2025-10-16T09:49:36Z",
+  "generatedAt": "2025-10-16T12:56:48Z",
   "irCompanies": [
     "Becton Dickinson and Co"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
+    "Bio-Techne Corp",
     "Cencora Inc",
     "Charles River Labs",
     "Dentsply Sirona",

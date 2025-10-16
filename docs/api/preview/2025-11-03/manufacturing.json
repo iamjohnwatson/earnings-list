@@ -19,15 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Emerson Electric Co",
-      "symbol": "EMR",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Expeditors International of Washington Inc",
       "symbol": "EXPD",
       "date": "2025-11-04",
@@ -39,15 +30,6 @@
     {
       "company": "Frontier Holdings",
       "symbol": "ULCC",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "JetBlue",
-      "symbol": "JBLU",
       "date": "2025-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -73,6 +55,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Martin Marietta Materials Inc",
+      "symbol": "MLM",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Stanley Black & Decker",
       "symbol": "SWK",
       "date": "2025-11-04",
@@ -86,7 +77,7 @@
       "symbol": "EMR",
       "date": "2025-11-05",
       "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:30 am EST",
       "ir_source_url": "https://ir.emerson.com/",
@@ -129,17 +120,6 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-11-06",
-      "bmo_amc": "8:00 A.M",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 a.m",
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
     },
     {
       "company": "Camden Property Trust",
@@ -196,12 +176,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-16T09:49:37Z",
+  "generatedAt": "2025-10-16T12:56:48Z",
   "irCompanies": [
-    "Bombardier",
     "Emerson Electric Co",
     "Johnson Controls International PLC"
   ],
@@ -210,14 +189,13 @@
     "Airbnb Inc",
     "Axon Enterprise Inc",
     "Camden Property Trust",
-    "Emerson Electric Co",
     "Expedia Group Inc",
     "Expeditors International of Washington Inc",
     "Frontier Holdings",
     "Host Hotels & Resorts Inc",
-    "JetBlue",
     "Leidos Holdings Inc",
     "Marriott International Inc",
+    "Martin Marietta Materials Inc",
     "Parker-Hannifin Corp",
     "Realty Income Corp",
     "Rockwell Automation Inc",
