@@ -33,10 +33,12 @@
       "company": "Royal Caribbean Group",
       "symbol": "RCL",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00AM ET",
+      "ir_source_url": "https://www.rclinvestor.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Sysco Corp",
@@ -226,11 +228,12 @@
   "count": 24,
   "missingPublic": [],
   "tickerCount": 74,
-  "generatedAt": "2025-10-15T21:47:33Z",
+  "generatedAt": "2025-10-16T01:22:10Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Estee Lauder",
-    "Keurig Dr. Pepper"
+    "Keurig Dr. Pepper",
+    "Royal Caribbean Group"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
@@ -250,7 +253,6 @@
     "Norwegian Cruise Line",
     "Regency Centers Corp",
     "Rollins Inc",
-    "Royal Caribbean Group",
     "Starbucks Corp",
     "Sysco Corp",
     "VF Corp"

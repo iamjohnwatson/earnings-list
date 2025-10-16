@@ -8,38 +8,13 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2025-10-15",
-      "bmo_amc": "1:29 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:29 PM EDT",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Royal Caribbean Group",
-      "symbol": "RCL",
-      "date": "2025-10-15",
-      "bmo_amc": "9:05 AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:05 am ",
-      "ir_source_url": "https://www.rclinvestor.com/",
-      "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 74,
-  "generatedAt": "2025-10-15T21:47:15Z",
-  "irCompanies": [
-    "Norwegian Cruise Line",
-    "Royal Caribbean Group"
-  ],
+  "generatedAt": "2025-10-16T01:21:53Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Domino\u2019s Pizza Inc"
   ],
