@@ -70,18 +70,14 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
   "count": 8,
   "missingPublic": [],
   "tickerCount": 74,
-  "generatedAt": "2025-10-16T12:57:24Z",
-  "irCompanies": [
-    "Ulta Beauty"
-  ],
+  "generatedAt": "2025-10-16T15:50:14Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Brown-Forman Corp",
     "Campbell Soup Co",
@@ -89,7 +85,8 @@
     "Dollar Tree",
     "Hormel Foods",
     "Kroger Co",
-    "Lululemon Athletica"
+    "Lululemon Athletica",
+    "Ulta Beauty"
   ],
   "week": {
     "id": "2025-12-01",

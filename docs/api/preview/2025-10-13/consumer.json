@@ -8,13 +8,38 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Altria Group Inc",
+      "symbol": "MO",
+      "date": "2025-10-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.altria.com/investors/at-a-glance",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2025-10-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 74,
-  "generatedAt": "2025-10-16T12:56:22Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-16T15:49:07Z",
+  "irCompanies": [
+    "Altria Group Inc",
+    "Ulta Beauty"
+  ],
   "fallbackCompanies": [
     "Domino\u2019s Pizza Inc"
   ],

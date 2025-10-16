@@ -103,9 +103,9 @@
       "company": "Bank of New York Mellon",
       "symbol": "BK",
       "date": "2025-10-16",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -116,6 +116,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2025-10-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Interactive Brokers",
@@ -139,18 +150,18 @@
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2025-10-16",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Marsh McLennan",
       "symbol": "MMC",
       "date": "2025-10-16",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -230,14 +241,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 25,
+  "count": 26,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-16T12:56:23Z",
+  "generatedAt": "2025-10-16T15:49:08Z",
   "irCompanies": [
+    "Citizens Financial",
     "Huntington Bancshares",
     "Truist Financial"
   ],
