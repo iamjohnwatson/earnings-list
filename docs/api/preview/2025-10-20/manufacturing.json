@@ -195,12 +195,10 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2025-10-23",
-      "bmo_amc": "8:30 A.M. ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Norfolk Southern Corp",
@@ -219,17 +217,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2025-10-23",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Textron Inc",
@@ -268,14 +255,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-16T18:51:38Z",
+  "generatedAt": "2025-10-16T21:47:02Z",
   "irCompanies": [
-    "Honeywell",
-    "Parker-Hannifin Corp",
-    "Southwest Airlines Co"
+    "Parker-Hannifin Corp"
   ],
   "fallbackCompanies": [
     "3M Co",
@@ -287,6 +272,7 @@
     "General Dynamics Corp",
     "Harley Davidson",
     "Hilton Worldwide Holdings Inc",
+    "Honeywell",
     "Illinois Tool Works Inc",
     "Las Vegas Sands Corp",
     "Lockheed Martin",

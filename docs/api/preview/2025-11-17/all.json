@@ -1,6 +1,36 @@
 {
   "records": [
     {
+      "company": "Jacobs Solutions Inc",
+      "symbol": "J",
+      "date": "2025-11-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2025-11-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2025-11-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Xpeng",
       "symbol": "XPEV",
       "date": "2025-11-18",
@@ -71,16 +101,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2025-11-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2025-11-18",
@@ -143,34 +163,14 @@
       "sector": "Consumer"
     },
     {
-      "company": "Jacobs Solutions Inc",
-      "symbol": "J",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
       "date": "2025-11-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
-      "date": "2025-11-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2025-11-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     }
   ],
   "count": 17,
@@ -179,7 +179,7 @@
     "CPPIB"
   ],
   "tickerCount": 558,
-  "generatedAt": "2025-10-16T18:52:17Z",
+  "generatedAt": "2025-10-16T21:47:39Z",
   "irCompanies": [
     "Home Depot Inc"
   ],

@@ -1,54 +1,84 @@
 {
   "records": [
     {
-      "company": "Scotiabank",
-      "symbol": "BNS",
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Zscaler",
+      "symbol": "ZS",
+      "date": "2025-12-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Marvell",
+      "symbol": "MRVL",
       "date": "2025-12-02",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "TMT"
     },
     {
-      "company": "Royal Bank of Canada",
-      "symbol": "RY",
+      "company": "Salesforce",
+      "symbol": "CRM",
+      "date": "2025-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Figma",
+      "symbol": "FIG",
       "date": "2025-12-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "TMT"
     },
     {
-      "company": "Bank of Montreal",
-      "symbol": "BMO",
+      "company": "SentinelOne",
+      "symbol": "S",
+      "date": "2025-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Synopsys",
+      "symbol": "SNPS",
+      "date": "2025-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
       "date": "2025-12-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "CIBC",
-      "symbol": "CM",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "TD Bank",
-      "symbol": "TD",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "sector": "TMT"
     },
     {
       "company": "Campbell Soup Co",
@@ -131,84 +161,54 @@
       "sector": "Consumer"
     },
     {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Zscaler",
-      "symbol": "ZS",
-      "date": "2025-12-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
+      "company": "Scotiabank",
+      "symbol": "BNS",
       "date": "2025-12-02",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Salesforce",
-      "symbol": "CRM",
-      "date": "2025-12-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Figma",
-      "symbol": "FIG",
+      "company": "Royal Bank of Canada",
+      "symbol": "RY",
       "date": "2025-12-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "SentinelOne",
-      "symbol": "S",
-      "date": "2025-12-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Synopsys",
-      "symbol": "SNPS",
-      "date": "2025-12-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
       "date": "2025-12-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
+    },
+    {
+      "company": "CIBC",
+      "symbol": "CM",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "TD Bank",
+      "symbol": "TD",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
   "count": 21,
@@ -217,7 +217,7 @@
     "CPPIB"
   ],
   "tickerCount": 558,
-  "generatedAt": "2025-10-16T18:52:36Z",
+  "generatedAt": "2025-10-16T21:47:57Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Bank of Montreal",

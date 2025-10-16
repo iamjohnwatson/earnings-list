@@ -136,12 +136,10 @@
       "company": "Estee Lauder",
       "symbol": "EL",
       "date": "2025-10-30",
-      "bmo_amc": "08:30AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "08:30AM ET",
-      "ir_source_url": "https://www.elcompanies.com/en/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Hershey Co",
@@ -228,10 +226,9 @@
   "count": 24,
   "missingPublic": [],
   "tickerCount": 74,
-  "generatedAt": "2025-10-16T18:51:49Z",
+  "generatedAt": "2025-10-16T21:47:11Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
-    "Estee Lauder",
     "Keurig Dr. Pepper",
     "Royal Caribbean Group"
   ],
@@ -240,6 +237,7 @@
     "Amcor PLC",
     "Church & Dwight",
     "Colgate-Palmolive",
+    "Estee Lauder",
     "Etsy Inc",
     "Federal Realty Investment Trust",
     "Hershey Co",

@@ -100,6 +100,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2025-10-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Bank of New York Mellon",
       "symbol": "BK",
       "date": "2025-10-16",
@@ -132,10 +143,12 @@
       "company": "Interactive Brokers",
       "symbol": "IBKR",
       "date": "2025-10-16",
-      "bmo_amc": "AMC",
+      "bmo_amc": "4:30PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "source": "aggregator"
+      "ir_time_label": "4:30pm ET",
+      "ir_source_url": "https://investors.interactivebrokers.com/ir/main.php",
+      "source": "investor_relations"
     },
     {
       "company": "KeyCorp",
@@ -163,6 +176,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2025-10-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
     },
     {
       "company": "US Bancorp",
@@ -236,21 +260,21 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 28,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-16T18:51:30Z",
+  "generatedAt": "2025-10-16T21:46:53Z",
   "irCompanies": [
+    "Bank of America",
     "Citizens Financial",
     "Huntington Bancshares",
+    "Interactive Brokers",
     "Truist Financial"
   ],
   "fallbackCompanies": [
@@ -264,7 +288,6 @@
     "Comerica Inc",
     "Fifth Third Bancorp",
     "Goldman Sachs",
-    "Interactive Brokers",
     "JPMorgan",
     "KeyCorp",
     "M&T Bank Corp",
@@ -275,6 +298,7 @@
     "Regions Financial",
     "State Street Corp",
     "Synchrony Financial",
+    "Truist Financial",
     "US Bancorp",
     "Wells Fargo"
   ],
