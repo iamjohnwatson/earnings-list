@@ -1,50 +1,6 @@
 {
   "records": [
     {
-      "company": "Domino\u2019s Pizza Inc",
-      "symbol": "DPZ",
-      "date": "2025-10-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Altria Group Inc",
-      "symbol": "MO",
-      "date": "2025-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.altria.com/investors/at-a-glance",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ulta Beauty",
-      "symbol": "ULTA",
-      "date": "2025-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2025-10-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Fastenal Co",
       "symbol": "FAST",
       "date": "2025-10-13",
@@ -107,34 +63,38 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
       "date": "2025-10-14",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
-      "date": "2025-10-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
+      "company": "Altria Group Inc",
+      "symbol": "MO",
       "date": "2025-10-16",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.altria.com/investors/at-a-glance",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2025-10-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
       "company": "Intuit",
@@ -152,10 +112,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-10-16",
-      "bmo_amc": "11:29 AM ET",
+      "bmo_amc": "2:24 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:29 AM ET",
+      "ir_time_label": "2:24 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -437,6 +397,46 @@
       "ir_source_url": "https://ir.truist.com/",
       "source": "investor_relations",
       "sector": "Finance"
+    },
+    {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2025-10-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2025-10-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
+      "date": "2025-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
+      "date": "2025-10-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     }
   ],
   "count": 42,
@@ -445,7 +445,7 @@
     "CPPIB"
   ],
   "tickerCount": 558,
-  "generatedAt": "2025-10-16T15:49:08Z",
+  "generatedAt": "2025-10-16T18:51:30Z",
   "irCompanies": [
     "Altria Group Inc",
     "Bombardier",
