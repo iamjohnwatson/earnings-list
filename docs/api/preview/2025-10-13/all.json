@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
+      "date": "2025-10-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2025-10-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2025-10-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-10-17",
+      "bmo_amc": "4:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2025-10-14",
@@ -269,6 +315,16 @@
       "sector": "Finance"
     },
     {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2025-10-17",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2025-10-14",
@@ -302,69 +358,13 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-10-17",
-      "bmo_amc": "2:00 PM ET",
+      "bmo_amc": "3:13 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:00 pm ET",
+      "ir_time_label": "3:13 pm ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
-    },
-    {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2025-10-17",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Domino\u2019s Pizza Inc",
-      "symbol": "DPZ",
-      "date": "2025-10-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2025-10-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2025-10-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-10-17",
-      "bmo_amc": "2:25 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:25 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
     },
     {
       "company": "Fastenal Co",
@@ -417,6 +417,18 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2025-10-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "MGM Resorts International",
       "symbol": "MGM",
       "date": "2025-10-17",
@@ -427,23 +439,37 @@
       "ir_source_url": "https://investors.mgmresorts.com/investors/overview/default.aspx",
       "source": "investor_relations",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Old Dominion Freight Line Inc",
+      "symbol": "ODFL",
+      "date": "2025-10-17",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://ir.odfl.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 41,
+  "count": 43,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 564,
-  "generatedAt": "2025-10-17T18:49:12Z",
+  "generatedAt": "2025-10-17T21:47:14Z",
   "irCompanies": [
     "Bank of America",
     "Comerica Inc",
     "HPE",
     "Huntington Bancshares",
+    "Lennar Corp",
     "Live Nation Entertainment",
     "MGM Resorts International",
     "Merck",
+    "Old Dominion Freight Line Inc",
     "Take-Two Interactive",
     "Truist Financial"
   ],

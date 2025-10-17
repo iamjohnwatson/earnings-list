@@ -253,12 +253,10 @@
       "company": "Old Dominion Freight Line Inc",
       "symbol": "ODFL",
       "date": "2025-10-29",
-      "bmo_amc": "10:00 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 am ET",
-      "ir_source_url": "https://ir.odfl.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Otis Worldwide Corp",
@@ -450,12 +448,11 @@
   "count": 48,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-17T18:49:29Z",
+  "generatedAt": "2025-10-17T21:47:31Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
     "Magna International",
-    "Old Dominion Freight Line Inc",
     "Quanta Services Inc",
     "UPS",
     "WW Grainger Inc"
@@ -491,6 +488,7 @@
     "Mid-America Apartment Communities Inc",
     "NVR Inc",
     "Nucor Corp",
+    "Old Dominion Freight Line Inc",
     "Otis Worldwide Corp",
     "Peloton",
     "Public Storage",
