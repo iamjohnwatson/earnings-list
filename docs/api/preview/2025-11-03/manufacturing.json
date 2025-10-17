@@ -37,6 +37,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Harley Davidson",
+      "symbol": "HOG",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Leidos Holdings Inc",
       "symbol": "LDOS",
       "date": "2025-11-04",
@@ -187,10 +196,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-17T09:49:47Z",
+  "generatedAt": "2025-10-17T12:57:13Z",
   "irCompanies": [
     "Bombardier",
     "Emerson Electric Co",
@@ -204,6 +213,7 @@
     "Expedia Group Inc",
     "Expeditors International of Washington Inc",
     "Frontier Holdings",
+    "Harley Davidson",
     "Host Hotels & Resorts Inc",
     "Leidos Holdings Inc",
     "Marriott International Inc",

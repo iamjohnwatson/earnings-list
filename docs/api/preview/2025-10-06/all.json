@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2025-10-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Constellation Brands",
       "symbol": "STZ",
       "date": "2025-10-06",
@@ -49,6 +39,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2025-10-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 5,
@@ -57,7 +57,7 @@
     "CPPIB"
   ],
   "tickerCount": 558,
-  "generatedAt": "2025-10-17T09:49:13Z",
+  "generatedAt": "2025-10-17T12:56:38Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Applied Digital",

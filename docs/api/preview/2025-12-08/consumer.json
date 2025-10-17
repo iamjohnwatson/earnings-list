@@ -1,11 +1,23 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2025-12-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 74,
-  "generatedAt": "2025-10-17T09:50:33Z",
+  "generatedAt": "2025-10-17T12:57:56Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Costco Wholesale Corp"
+  ],
   "week": {
     "id": "2025-12-08",
     "start_date": "2025-12-08",

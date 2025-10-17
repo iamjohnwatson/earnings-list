@@ -85,8 +85,8 @@
       "company": "Las Vegas Sands Corp",
       "symbol": "LVS",
       "date": "2025-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -183,24 +183,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Harley Davidson",
-      "symbol": "HOG",
-      "date": "2025-10-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2025-10-23",
-      "bmo_amc": "8:30 A.M. ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Norfolk Southern Corp",
@@ -268,12 +257,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-17T09:49:30Z",
+  "generatedAt": "2025-10-17T12:56:55Z",
   "irCompanies": [
-    "Honeywell",
     "Parker-Hannifin Corp",
     "Southwest Airlines Co"
   ],
@@ -285,8 +273,8 @@
     "Ford Motor Co",
     "GE Aerospace",
     "General Dynamics Corp",
-    "Harley Davidson",
     "Hilton Worldwide Holdings Inc",
+    "Honeywell",
     "Illinois Tool Works Inc",
     "Las Vegas Sands Corp",
     "Lockheed Martin",

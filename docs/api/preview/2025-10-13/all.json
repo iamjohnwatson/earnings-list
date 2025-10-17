@@ -1,6 +1,56 @@
 {
   "records": [
     {
+      "company": "Fastenal Co",
+      "symbol": "FAST",
+      "date": "2025-10-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2025-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2025-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "CSX Corp",
+      "symbol": "CSX",
+      "date": "2025-10-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Snap-On Inc",
+      "symbol": "SNA",
+      "date": "2025-10-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Domino\u2019s Pizza Inc",
       "symbol": "DPZ",
       "date": "2025-10-14",
@@ -39,6 +89,18 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2025-10-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "BlackRock Inc",
@@ -154,8 +216,8 @@
       "company": "Bank of New York Mellon",
       "symbol": "BK",
       "date": "2025-10-16",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -164,8 +226,8 @@
       "company": "Charles Schwab",
       "symbol": "SCHW",
       "date": "2025-10-16",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -174,8 +236,8 @@
       "company": "Interactive Brokers",
       "symbol": "IBKR",
       "date": "2025-10-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -184,8 +246,8 @@
       "company": "KeyCorp",
       "symbol": "KEY",
       "date": "2025-10-16",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -194,8 +256,8 @@
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2025-10-16",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -204,8 +266,8 @@
       "company": "Marsh McLennan",
       "symbol": "MMC",
       "date": "2025-10-16",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -214,8 +276,8 @@
       "company": "US Bancorp",
       "symbol": "USB",
       "date": "2025-10-16",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -231,22 +293,36 @@
       "sector": "Finance"
     },
     {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2025-10-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Comerica Inc",
       "symbol": "CMA",
       "date": "2025-10-17",
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.comerica.com/",
+      "source": "investor_relations",
       "sector": "Finance"
     },
     {
       "company": "Fifth Third Bancorp",
       "symbol": "FITB",
       "date": "2025-10-17",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -254,10 +330,10 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2025-10-17",
-      "bmo_amc": "9:00 AM EDT",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "ir_time_label": "9:00 am EDT",
+      "ir_time_label": null,
       "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations",
       "sector": "Finance"
@@ -289,92 +365,35 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2025-10-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
+      "ir_source_url": "https://ir.truist.com/",
       "source": "investor_relations",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
       "company": "SLB",
       "symbol": "SLB",
       "date": "2025-10-17",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Fastenal Co",
-      "symbol": "FAST",
-      "date": "2025-10-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
-      "date": "2025-10-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Prologis Inc",
-      "symbol": "PLD",
-      "date": "2025-10-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "CSX Corp",
-      "symbol": "CSX",
-      "date": "2025-10-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Snap-On Inc",
-      "symbol": "SNA",
-      "date": "2025-10-16",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
-  "count": 36,
+  "count": 37,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 558,
-  "generatedAt": "2025-10-17T09:49:22Z",
+  "generatedAt": "2025-10-17T12:56:46Z",
   "irCompanies": [
+    "Bank of America",
+    "Comerica Inc",
     "HPE",
-    "Huntington Bancshares"
+    "Huntington Bancshares",
+    "Truist Financial"
   ],
   "fallbackCompanies": [
     "Abbott Laboratories",
@@ -386,7 +405,6 @@
     "Charles Schwab",
     "Citigroup",
     "Citizens Financial",
-    "Comerica Inc",
     "Domino\u2019s Pizza Inc",
     "Fastenal Co",
     "Fifth Third Bancorp",
@@ -408,7 +426,6 @@
     "Snap-On Inc",
     "State Street Corp",
     "Synchrony Financial",
-    "Truist Financial",
     "US Bancorp",
     "Wells Fargo"
   ],

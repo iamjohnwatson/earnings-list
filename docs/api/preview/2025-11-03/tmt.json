@@ -10,15 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "NYT",
-      "symbol": "NYT",
-      "date": "2025-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Palantir",
       "symbol": "PLTR",
       "date": "2025-11-03",
@@ -152,14 +143,23 @@
       "company": "Bumble",
       "symbol": "BMBL",
       "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Duolingo",
       "symbol": "DUOL",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Figma",
+      "symbol": "FIG",
       "date": "2025-11-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
@@ -215,8 +215,8 @@
       "company": "Lyft",
       "symbol": "LYFT",
       "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -224,8 +224,8 @@
       "company": "NYT",
       "symbol": "NYT",
       "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.nytco.com/investors/",
@@ -234,6 +234,15 @@
     {
       "company": "PTC",
       "symbol": "PTC",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Paycom",
+      "symbol": "PAYC",
       "date": "2025-11-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
@@ -344,10 +353,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 37,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-17T09:49:49Z",
+  "generatedAt": "2025-10-17T12:57:12Z",
   "irCompanies": [
     "Gen Digital",
     "Live Nation Entertainment",
@@ -363,6 +372,7 @@
     "Datadog",
     "Duolingo",
     "EPAM",
+    "Figma",
     "Fortinet",
     "Freshworks",
     "Gartner",
@@ -374,10 +384,10 @@
     "Match Group",
     "Microchip Tech",
     "Motorola",
-    "NYT",
     "News Corp",
     "PTC",
     "Palantir",
+    "Paycom",
     "Pinterest",
     "Qorvo",
     "Qualcomm",

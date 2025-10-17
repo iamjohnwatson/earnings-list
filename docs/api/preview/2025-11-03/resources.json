@@ -28,15 +28,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Eversource Energy",
-      "symbol": "ES",
-      "date": "2025-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Pinnacle West",
       "symbol": "PNW",
       "date": "2025-11-03",
@@ -100,20 +91,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Eversource Energy",
+      "symbol": "ES",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Exelon Corp",
       "symbol": "EXC",
       "date": "2025-11-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Expand Energy",
-      "symbol": "EXE",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -238,8 +229,8 @@
       "company": "Sempra",
       "symbol": "SRE",
       "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -319,8 +310,8 @@
       "company": "Evergy",
       "symbol": "EVRG",
       "date": "2025-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -404,12 +395,21 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Hawaiian Electric",
+      "symbol": "HE",
+      "date": "2025-11-07",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 45,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-10-17T09:49:49Z",
+  "generatedAt": "2025-10-17T12:57:12Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
@@ -440,7 +440,7 @@
     "Evergy",
     "Eversource Energy",
     "Exelon Corp",
-    "Expand Energy",
+    "Hawaiian Electric",
     "MP Materials",
     "Marathon Petroleum",
     "NRG Energy",

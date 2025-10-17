@@ -1,302 +1,6 @@
 {
   "records": [
     {
-      "company": "Steel Dynamics",
-      "symbol": "STLD",
-      "date": "2025-10-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "3M Co",
-      "symbol": "MMM",
-      "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "GE Aerospace",
-      "symbol": "GE",
-      "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Lockheed Martin",
-      "symbol": "LMT",
-      "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Northrop Grumman Corp",
-      "symbol": "NOC",
-      "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Pentair PLC",
-      "symbol": "PNR",
-      "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Pultegroup Inc",
-      "symbol": "PHM",
-      "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "RTX",
-      "symbol": "RTX",
-      "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Hilton Worldwide Holdings Inc",
-      "symbol": "HLT",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Las Vegas Sands Corp",
-      "symbol": "LVS",
-      "date": "2025-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Packaging Corp of America",
-      "symbol": "PKG",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Parker-Hannifin Corp",
-      "symbol": "PH",
-      "date": "2025-10-22",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://investors.parker.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Teledyne Technologies Inc",
-      "symbol": "TDY",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "United Rentals Inc",
-      "symbol": "URI",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Wabtec",
-      "symbol": "WAB",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Alaska Air",
-      "symbol": "ALK",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "American Airlines Group Inc",
-      "symbol": "AAL",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Dover Corp",
-      "symbol": "DOV",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Ford Motor Co",
-      "symbol": "F",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Harley Davidson",
-      "symbol": "HOG",
-      "date": "2025-10-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2025-10-23",
-      "bmo_amc": "8:30 A.M. ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Norfolk Southern Corp",
-      "symbol": "NSC",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Pool Corp",
-      "symbol": "POOL",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2025-10-23",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Textron Inc",
-      "symbol": "TXT",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Union Pacific Corp",
-      "symbol": "UNP",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "General Dynamics Corp",
-      "symbol": "GD",
-      "date": "2025-10-24",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Illinois Tool Works Inc",
-      "symbol": "ITW",
-      "date": "2025-10-24",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2025-10-21",
@@ -381,31 +85,11 @@
       "sector": "TMT"
     },
     {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2025-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Tesla",
       "symbol": "TSLA",
       "date": "2025-10-22",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Tyler Tech",
-      "symbol": "TYL",
-      "date": "2025-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -647,16 +331,6 @@
       "sector": "Resources"
     },
     {
-      "company": "DTE",
-      "symbol": "DTE",
-      "date": "2025-10-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Dow",
       "symbol": "DOW",
       "date": "2025-10-23",
@@ -705,6 +379,290 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Steel Dynamics",
+      "symbol": "STLD",
+      "date": "2025-10-20",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "3M Co",
+      "symbol": "MMM",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "GE Aerospace",
+      "symbol": "GE",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Lockheed Martin",
+      "symbol": "LMT",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Northrop Grumman Corp",
+      "symbol": "NOC",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Pentair PLC",
+      "symbol": "PNR",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Pultegroup Inc",
+      "symbol": "PHM",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "RTX",
+      "symbol": "RTX",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Hilton Worldwide Holdings Inc",
+      "symbol": "HLT",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Las Vegas Sands Corp",
+      "symbol": "LVS",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Packaging Corp of America",
+      "symbol": "PKG",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Parker-Hannifin Corp",
+      "symbol": "PH",
+      "date": "2025-10-22",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://investors.parker.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Teledyne Technologies Inc",
+      "symbol": "TDY",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "United Rentals Inc",
+      "symbol": "URI",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Wabtec",
+      "symbol": "WAB",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Alaska Air",
+      "symbol": "ALK",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "American Airlines Group Inc",
+      "symbol": "AAL",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Dover Corp",
+      "symbol": "DOV",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Ford Motor Co",
+      "symbol": "F",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Norfolk Southern Corp",
+      "symbol": "NSC",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Pool Corp",
+      "symbol": "POOL",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2025-10-23",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Textron Inc",
+      "symbol": "TXT",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Union Pacific Corp",
+      "symbol": "UNP",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "General Dynamics Corp",
+      "symbol": "GD",
+      "date": "2025-10-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Illinois Tool Works Inc",
+      "symbol": "ITW",
+      "date": "2025-10-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "W. R. Berkley Corp",
@@ -757,16 +715,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Ameriprise Financial Inc",
-      "symbol": "AMP",
-      "date": "2025-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "CME Group Inc",
       "symbol": "CME",
       "date": "2025-10-22",
@@ -802,6 +750,16 @@
       "date": "2025-10-22",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Raymond James",
+      "symbol": "RJF",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -921,19 +879,18 @@
       "sector": "Pharma"
     }
   ],
-  "count": 90,
+  "count": 86,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 558,
-  "generatedAt": "2025-10-17T09:49:31Z",
+  "generatedAt": "2025-10-17T12:56:55Z",
   "irCompanies": [
     "AT&T",
     "Boston Scientific Corp",
     "Coca-Cola Co",
     "Danaher Corp",
-    "Honeywell",
     "Intel",
     "Lam Research",
     "Parker-Hannifin Corp",
@@ -944,7 +901,6 @@
     "3M Co",
     "Alaska Air",
     "American Airlines Group Inc",
-    "Ameriprise Financial Inc",
     "Amphenol",
     "Baker Hughes",
     "Blackstone",
@@ -953,7 +909,6 @@
     "CenterPoint Energy",
     "Chubb",
     "Crown Castle",
-    "DTE",
     "Deckers Outdoors",
     "Digital Realty",
     "Dover Corp",
@@ -969,10 +924,10 @@
     "Globe Life",
     "HCA Healthcare Inc",
     "Halliburton",
-    "Harley Davidson",
     "Hasbro Inc",
     "Healthpeak Properties",
     "Hilton Worldwide Holdings Inc",
+    "Honeywell",
     "IBM",
     "Illinois Tool Works Inc",
     "Keurig Dr. Pepper",
@@ -1000,19 +955,18 @@
     "Pultegroup Inc",
     "Quest Diagnostics Inc",
     "RTX",
+    "Raymond James",
     "Roper Technologies",
     "Southwest Airlines Co",
     "Steel Dynamics",
     "T-Mobile US",
     "Teck Resources",
     "Teledyne Technologies Inc",
-    "Teradyne",
     "Tesla",
     "Texas Instruments",
     "Textron Inc",
     "Thermo Fisher Scientific Inc",
     "Tractor Supply Co",
-    "Tyler Tech",
     "Union Pacific Corp",
     "United Rentals Inc",
     "Valero Energy Corp",

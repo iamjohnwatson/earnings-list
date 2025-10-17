@@ -133,6 +133,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Ameriprise Financial Inc",
+      "symbol": "AMP",
+      "date": "2025-10-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Arthur J. Gallagher",
       "symbol": "AJG",
       "date": "2025-10-30",
@@ -225,13 +234,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 25,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-17T09:49:39Z",
+  "generatedAt": "2025-10-17T12:57:03Z",
   "irCompanies": [
     "Aon",
     "Arch Capital Group",
@@ -239,6 +248,7 @@
     "Fiserv"
   ],
   "fallbackCompanies": [
+    "Ameriprise Financial Inc",
     "Arch Capital Group",
     "Arthur J. Gallagher",
     "Brown & Brown",

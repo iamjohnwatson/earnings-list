@@ -35,15 +35,25 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Broadcom",
+      "symbol": "AVGO",
+      "date": "2025-12-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-17T09:50:34Z",
+  "generatedAt": "2025-10-17T12:57:55Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",
+    "Broadcom",
     "C3.ai",
     "GameStop",
     "Oracle"

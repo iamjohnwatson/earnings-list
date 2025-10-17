@@ -1,6 +1,56 @@
 {
   "records": [
     {
+      "company": "Scotiabank",
+      "symbol": "BNS",
+      "date": "2025-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "symbol": "RY",
+      "date": "2025-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "CIBC",
+      "symbol": "CM",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "TD Bank",
+      "symbol": "TD",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2025-12-02",
@@ -83,6 +133,16 @@
       "sector": "Consumer"
     },
     {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Zscaler",
       "symbol": "ZS",
       "date": "2025-12-01",
@@ -106,16 +166,6 @@
       "company": "Salesforce",
       "symbol": "CRM",
       "date": "2025-12-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Figma",
-      "symbol": "FIG",
-      "date": "2025-12-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
@@ -151,75 +201,15 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Scotiabank",
-      "symbol": "BNS",
-      "date": "2025-12-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Royal Bank of Canada",
-      "symbol": "RY",
-      "date": "2025-12-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Bank of Montreal",
-      "symbol": "BMO",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "CIBC",
-      "symbol": "CM",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "TD Bank",
-      "symbol": "TD",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
     }
   ],
-  "count": 21,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 558,
-  "generatedAt": "2025-10-17T09:50:25Z",
+  "generatedAt": "2025-10-17T12:57:47Z",
   "irCompanies": [
     "Ulta Beauty"
   ],
@@ -231,7 +221,6 @@
     "Cooper Companies Inc",
     "Dollar General",
     "Dollar Tree",
-    "Figma",
     "HPE",
     "Hormel Foods",
     "Kroger Co",
