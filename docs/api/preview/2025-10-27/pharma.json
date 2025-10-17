@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Regeneron Pharmaceuticals",
+      "symbol": "REGN",
+      "date": "2025-10-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Tenet Healthcare",
       "symbol": "THC",
       "date": "2025-10-28",
@@ -31,6 +40,15 @@
       "company": "UnitedHealth Group",
       "symbol": "UNH",
       "date": "2025-10-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "CVS Health Corp",
+      "symbol": "CVS",
+      "date": "2025-10-29",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
@@ -59,6 +77,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "GE HealthCare Technologies Inc",
+      "symbol": "GEHC",
+      "date": "2025-10-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Bio-Techne Corp",
       "symbol": "TECH",
       "date": "2025-10-30",
@@ -70,8 +97,26 @@
       "source": "investor_relations"
     },
     {
+      "company": "Bristol Myers-Squibb",
+      "symbol": "BMY",
+      "date": "2025-10-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Cardinal Health Inc",
       "symbol": "CAH",
+      "date": "2025-10-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Cigna",
+      "symbol": "CI",
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -104,24 +149,39 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-10-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 17,
   "missingPublic": [],
-  "tickerCount": 48,
-  "generatedAt": "2025-10-17T15:47:43Z",
+  "tickerCount": 54,
+  "generatedAt": "2025-10-17T18:49:29Z",
   "irCompanies": [
     "Bio-Techne Corp",
     "Centene Corp",
     "DaVita Inc"
   ],
   "fallbackCompanies": [
+    "Bristol Myers-Squibb",
+    "CVS Health Corp",
     "Cardinal Health Inc",
+    "Cigna",
     "Edwards Lifesciences Corp",
     "Eli Lilly and Co",
+    "GE HealthCare Technologies Inc",
     "Gilead",
     "IQVIA Holdings Inc",
     "Labcorp Holdings Inc",
+    "Merck",
+    "Regeneron Pharmaceuticals",
     "Tenet Healthcare",
     "UnitedHealth Group"
   ],
