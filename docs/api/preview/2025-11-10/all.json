@@ -125,24 +125,14 @@
       "sector": "TMT"
     },
     {
-      "company": "Instacart",
-      "symbol": "CART",
+      "company": "Novavax",
+      "symbol": "NVAX",
       "date": "2025-11-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Tyson Foods",
-      "symbol": "TSN",
-      "date": "2025-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
       "company": "Occidental Petroleum",
@@ -195,16 +185,6 @@
       "sector": "Resources"
     },
     {
-      "company": "Novavax",
-      "symbol": "NVAX",
-      "date": "2025-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Manulife",
       "symbol": "MFC",
       "date": "2025-11-12",
@@ -215,6 +195,26 @@
       "ir_source_url": "https://www.manulife.com/en/investors/index.html",
       "source": "investor_relations",
       "sector": "Finance"
+    },
+    {
+      "company": "Instacart",
+      "symbol": "CART",
+      "date": "2025-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tyson Foods",
+      "symbol": "TSN",
+      "date": "2025-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 21,
@@ -223,7 +223,7 @@
     "CPPIB"
   ],
   "tickerCount": 558,
-  "generatedAt": "2025-10-17T06:53:40Z",
+  "generatedAt": "2025-10-17T09:49:58Z",
   "irCompanies": [
     "Disney",
     "Manulife",
