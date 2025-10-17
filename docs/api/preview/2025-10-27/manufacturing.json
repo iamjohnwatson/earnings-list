@@ -235,12 +235,10 @@
       "company": "MGM Resorts International",
       "symbol": "MGM",
       "date": "2025-10-29",
-      "bmo_amc": "02:00 PM PST",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "02:00 PM PST",
-      "ir_source_url": "https://investors.mgmresorts.com/investors/overview/default.aspx",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -452,11 +450,10 @@
   "count": 48,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-17T12:57:03Z",
+  "generatedAt": "2025-10-17T15:47:42Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
-    "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
     "Quanta Services Inc",
@@ -490,6 +487,7 @@
     "Invitation Homes Inc",
     "JetBlue",
     "L3Harris Technologies Inc",
+    "MGM Resorts International",
     "Mid-America Apartment Communities Inc",
     "NVR Inc",
     "Nucor Corp",
