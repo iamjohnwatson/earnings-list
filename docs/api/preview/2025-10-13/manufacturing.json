@@ -28,17 +28,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "CSX Corp",
       "symbol": "CSX",
       "date": "2025-10-16",
@@ -48,46 +37,20 @@
       "source": "aggregator"
     },
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2025-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Snap-On Inc",
       "symbol": "SNA",
       "date": "2025-10-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2025-10-16",
-      "bmo_amc": "4:32PM EDT",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:32pm EDT",
-      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-16T21:46:53Z",
-  "irCompanies": [
-    "Bombardier",
-    "Lennar Corp",
-    "Southwest Airlines Co"
-  ],
+  "generatedAt": "2025-10-17T01:20:50Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "CSX Corp",
     "Fastenal Co",

@@ -100,23 +100,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2025-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Bank of New York Mellon",
       "symbol": "BK",
       "date": "2025-10-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -129,26 +118,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2025-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations"
-    },
-    {
       "company": "Interactive Brokers",
       "symbol": "IBKR",
       "date": "2025-10-16",
-      "bmo_amc": "4:30PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:30pm ET",
-      "ir_source_url": "https://investors.interactivebrokers.com/ir/main.php",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "KeyCorp",
@@ -163,30 +139,19 @@
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2025-10-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Marsh McLennan",
       "symbol": "MMC",
       "date": "2025-10-16",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2025-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "US Bancorp",
@@ -201,27 +166,27 @@
       "company": "American Express",
       "symbol": "AXP",
       "date": "2025-10-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Comerica Inc",
       "symbol": "CMA",
       "date": "2025-10-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Fifth Third Bancorp",
       "symbol": "FITB",
       "date": "2025-10-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -230,7 +195,7 @@
       "date": "2025-10-17",
       "bmo_amc": "9:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "9:00 am EDT",
       "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations"
@@ -239,43 +204,39 @@
       "company": "Regions Financial",
       "symbol": "RF",
       "date": "2025-10-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "State Street Corp",
       "symbol": "STT",
       "date": "2025-10-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2025-10-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 25,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-16T21:46:53Z",
+  "generatedAt": "2025-10-17T01:20:49Z",
   "irCompanies": [
-    "Bank of America",
-    "Citizens Financial",
-    "Huntington Bancshares",
-    "Interactive Brokers",
-    "Truist Financial"
+    "Huntington Bancshares"
   ],
   "fallbackCompanies": [
     "American Express",
@@ -288,6 +249,7 @@
     "Comerica Inc",
     "Fifth Third Bancorp",
     "Goldman Sachs",
+    "Interactive Brokers",
     "JPMorgan",
     "KeyCorp",
     "M&T Bank Corp",

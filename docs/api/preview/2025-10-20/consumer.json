@@ -4,10 +4,12 @@
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.coca-colacompany.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Mattel",
@@ -76,10 +78,11 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 74,
-  "generatedAt": "2025-10-16T21:47:02Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-17T01:20:58Z",
+  "irCompanies": [
+    "Coca-Cola Co"
+  ],
   "fallbackCompanies": [
-    "Coca-Cola Co",
     "Deckers Outdoors",
     "Hasbro Inc",
     "Keurig Dr. Pepper",

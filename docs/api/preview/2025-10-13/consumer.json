@@ -8,62 +8,13 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Altria Group Inc",
-      "symbol": "MO",
-      "date": "2025-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.altria.com/investors/at-a-glance",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Coca-Cola Co",
-      "symbol": "KO",
-      "date": "2025-10-16",
-      "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am ET",
-      "ir_source_url": "https://investors.coca-colacompany.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Estee Lauder",
-      "symbol": "EL",
-      "date": "2025-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.elcompanies.com/en/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Ulta Beauty",
-      "symbol": "ULTA",
-      "date": "2025-10-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations"
     }
   ],
-  "count": 5,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 74,
-  "generatedAt": "2025-10-16T21:46:52Z",
-  "irCompanies": [
-    "Altria Group Inc",
-    "Coca-Cola Co",
-    "Estee Lauder",
-    "Ulta Beauty"
-  ],
+  "generatedAt": "2025-10-17T01:20:50Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Domino\u2019s Pizza Inc"
   ],
