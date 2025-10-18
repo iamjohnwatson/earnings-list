@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2025-11-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2025-11-18",
@@ -61,16 +71,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2025-11-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     },
     {
       "company": "Jacobs Solutions Inc",
@@ -179,7 +179,7 @@
     "CPPIB"
   ],
   "tickerCount": 564,
-  "generatedAt": "2025-10-18T18:51:36Z",
+  "generatedAt": "2025-10-18T21:46:33Z",
   "irCompanies": [
     "Home Depot Inc"
   ],
