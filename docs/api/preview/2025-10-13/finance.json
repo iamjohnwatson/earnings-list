@@ -172,34 +172,21 @@
       "source": "aggregator"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2025-10-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Comerica Inc",
       "symbol": "CMA",
       "date": "2025-10-17",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.comerica.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Fifth Third Bancorp",
       "symbol": "FITB",
       "date": "2025-10-17",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -209,9 +196,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Regions Financial",
@@ -238,24 +223,17 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 25,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-17T21:47:14Z",
-  "irCompanies": [
-    "Bank of America",
-    "Comerica Inc",
-    "Huntington Bancshares",
-    "Truist Financial"
-  ],
+  "generatedAt": "2025-10-18T01:20:26Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "American Express",
     "Bank of America",
@@ -264,8 +242,10 @@
     "Charles Schwab",
     "Citigroup",
     "Citizens Financial",
+    "Comerica Inc",
     "Fifth Third Bancorp",
     "Goldman Sachs",
+    "Huntington Bancshares",
     "Interactive Brokers",
     "JPMorgan",
     "KeyCorp",
@@ -277,6 +257,7 @@
     "Regions Financial",
     "State Street Corp",
     "Synchrony Financial",
+    "Truist Financial",
     "US Bancorp",
     "Wells Fargo"
   ],

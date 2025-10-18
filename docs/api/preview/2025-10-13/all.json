@@ -1,52 +1,6 @@
 {
   "records": [
     {
-      "company": "Domino\u2019s Pizza Inc",
-      "symbol": "DPZ",
-      "date": "2025-10-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2025-10-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2025-10-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-10-17",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2025-10-14",
@@ -237,36 +191,22 @@
       "sector": "Finance"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2025-10-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Comerica Inc",
       "symbol": "CMA",
       "date": "2025-10-17",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.comerica.com/",
-      "source": "investor_relations",
+      "yahoo_time_label": null,
+      "source": "aggregator",
       "sector": "Finance"
     },
     {
       "company": "Fifth Third Bancorp",
       "symbol": "FITB",
       "date": "2025-10-17",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -277,9 +217,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "Finance"
     },
     {
@@ -309,20 +247,8 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2025-10-17",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Finance"
     },
     {
       "company": "Johnson & Johnson",
@@ -355,16 +281,14 @@
       "sector": "Pharma"
     },
     {
-      "company": "Merck",
-      "symbol": "MRK",
+      "company": "SLB",
+      "symbol": "SLB",
       "date": "2025-10-17",
-      "bmo_amc": "3:13 PM ET",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "3:13 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "Fastenal Co",
@@ -417,62 +341,24 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2025-10-17",
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
+      "date": "2025-10-14",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2025-10-17",
-      "bmo_amc": "10:35 AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:35 AM ",
-      "ir_source_url": "https://investors.mgmresorts.com/investors/overview/default.aspx",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Old Dominion Freight Line Inc",
-      "symbol": "ODFL",
-      "date": "2025-10-17",
-      "bmo_amc": "10:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am ET",
-      "ir_source_url": "https://ir.odfl.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
-  "count": 43,
+  "count": 35,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 564,
-  "generatedAt": "2025-10-17T21:47:14Z",
-  "irCompanies": [
-    "Bank of America",
-    "Comerica Inc",
-    "HPE",
-    "Huntington Bancshares",
-    "Lennar Corp",
-    "Live Nation Entertainment",
-    "MGM Resorts International",
-    "Merck",
-    "Old Dominion Freight Line Inc",
-    "Take-Two Interactive",
-    "Truist Financial"
-  ],
+  "generatedAt": "2025-10-18T01:20:27Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",
     "American Express",
@@ -483,10 +369,12 @@
     "Charles Schwab",
     "Citigroup",
     "Citizens Financial",
+    "Comerica Inc",
     "Domino\u2019s Pizza Inc",
     "Fastenal Co",
     "Fifth Third Bancorp",
     "Goldman Sachs",
+    "Huntington Bancshares",
     "Interactive Brokers",
     "Intuitive Surgical Inc",
     "J B Hunt Transport Services Inc",
@@ -504,6 +392,7 @@
     "Snap-On Inc",
     "State Street Corp",
     "Synchrony Financial",
+    "Truist Financial",
     "US Bancorp",
     "Wells Fargo"
   ],

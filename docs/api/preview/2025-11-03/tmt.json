@@ -46,6 +46,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2025-11-04",
+      "bmo_amc": "2:00PM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00pm PDT",
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Match Group",
       "symbol": "MTCH",
       "date": "2025-11-04",
@@ -325,10 +336,12 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Trade Desk",
@@ -340,14 +353,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 37,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-17T21:47:40Z",
+  "generatedAt": "2025-10-18T01:20:52Z",
   "irCompanies": [
     "Gen Digital",
+    "Live Nation Entertainment",
     "NYT",
-    "Rivian"
+    "Rivian",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -380,7 +395,6 @@
     "Shopify",
     "Snap",
     "Spotify",
-    "Take-Two Interactive",
     "Trade Desk",
     "Trimble",
     "Uber"
