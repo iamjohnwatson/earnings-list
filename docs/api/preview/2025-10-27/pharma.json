@@ -157,17 +157,20 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     }
   ],
   "count": 17,
   "missingPublic": [],
   "tickerCount": 54,
-  "generatedAt": "2025-10-19T06:54:17Z",
+  "generatedAt": "2025-10-19T09:47:52Z",
   "irCompanies": [
     "Bio-Techne Corp",
     "Centene Corp",
-    "DaVita Inc"
+    "DaVita Inc",
+    "Merck"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",
@@ -180,7 +183,6 @@
     "Gilead",
     "IQVIA Holdings Inc",
     "Labcorp Holdings Inc",
-    "Merck",
     "Regeneron Pharmaceuticals",
     "Tenet Healthcare",
     "UnitedHealth Group"
