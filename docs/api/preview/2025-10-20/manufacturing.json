@@ -186,12 +186,10 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2025-10-23",
-      "bmo_amc": "8:30 A.M. ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Norfolk Southern Corp",
@@ -262,9 +260,8 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-18T21:45:59Z",
+  "generatedAt": "2025-10-19T01:29:25Z",
   "irCompanies": [
-    "Honeywell",
     "Parker-Hannifin Corp",
     "Southwest Airlines Co"
   ],
@@ -277,6 +274,7 @@
     "GE Aerospace",
     "General Dynamics Corp",
     "Hilton Worldwide Holdings Inc",
+    "Honeywell",
     "Illinois Tool Works Inc",
     "Las Vegas Sands Corp",
     "Lockheed Martin",
