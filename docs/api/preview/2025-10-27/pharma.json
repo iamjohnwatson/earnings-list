@@ -69,12 +69,10 @@
       "company": "DaVita Inc",
       "symbol": "DVA",
       "date": "2025-10-29",
-      "bmo_amc": "5:00 P.M.",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "5:00 p.m. ",
-      "ir_source_url": "https://investors.davita.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "GE HealthCare Technologies Inc",
@@ -163,17 +161,17 @@
   "count": 17,
   "missingPublic": [],
   "tickerCount": 54,
-  "generatedAt": "2025-10-20T09:50:10Z",
+  "generatedAt": "2025-10-20T12:57:15Z",
   "irCompanies": [
     "Bio-Techne Corp",
-    "Centene Corp",
-    "DaVita Inc"
+    "Centene Corp"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",
     "CVS Health Corp",
     "Cardinal Health Inc",
     "Cigna",
+    "DaVita Inc",
     "Edwards Lifesciences Corp",
     "Eli Lilly and Co",
     "GE HealthCare Technologies Inc",

@@ -127,15 +127,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Targa Resources",
-      "symbol": "TRGP",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "APA",
       "symbol": "APA",
       "date": "2025-11-05",
@@ -235,6 +226,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Targa Resources",
+      "symbol": "TRGP",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Texas Pacific Land",
       "symbol": "TPL",
       "date": "2025-11-05",
@@ -319,8 +319,8 @@
       "company": "MP Materials",
       "symbol": "MP",
       "date": "2025-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -355,8 +355,8 @@
       "company": "TC Energy",
       "symbol": "TRP",
       "date": "2025-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -409,7 +409,7 @@
   "count": 45,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-10-20T09:50:19Z",
+  "generatedAt": "2025-10-20T12:57:24Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",

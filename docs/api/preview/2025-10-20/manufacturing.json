@@ -12,6 +12,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Old Dominion Freight Line Inc",
+      "symbol": "ODFL",
+      "date": "2025-10-20",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://ir.odfl.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Steel Dynamics",
       "symbol": "STLD",
       "date": "2025-10-20",
@@ -270,13 +281,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-20T09:49:59Z",
+  "generatedAt": "2025-10-20T12:57:06Z",
   "irCompanies": [
     "Bombardier",
     "Honeywell",
+    "Old Dominion Freight Line Inc",
     "Parker-Hannifin Corp",
     "Southwest Airlines Co"
   ],

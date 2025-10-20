@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2025-10-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "W. R. Berkley Corp",
       "symbol": "WRB",
       "date": "2025-10-20",
@@ -109,14 +120,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-20T09:50:00Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-20T12:57:06Z",
+  "irCompanies": [
+    "Huntington Bancshares"
+  ],
   "fallbackCompanies": [
     "Blackstone",
     "CME Group Inc",

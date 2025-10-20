@@ -46,11 +46,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Kyndryl",
+      "symbol": "KD",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2025-11-04",
       "bmo_amc": "2:00PM PDT",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "2:00pm PDT",
       "ir_source_url": "https://investors.livenationentertainment.com/",
@@ -194,15 +203,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Kyndryl",
-      "symbol": "KD",
-      "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Lucid",
       "symbol": "LCID",
       "date": "2025-11-05",
@@ -289,8 +289,8 @@
       "company": "Datadog",
       "symbol": "DDOG",
       "date": "2025-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -313,15 +313,6 @@
       "ir_time_label": "10:30 am ET",
       "ir_source_url": "https://investor.gendigital.com/overview/default.aspx",
       "source": "investor_relations"
-    },
-    {
-      "company": "Motorola",
-      "symbol": "MSI",
-      "date": "2025-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     },
     {
       "company": "News Corp",
@@ -347,16 +338,16 @@
       "company": "Trade Desk",
       "symbol": "TTD",
       "date": "2025-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 38,
+  "count": 37,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-20T09:50:19Z",
+  "generatedAt": "2025-10-20T12:57:24Z",
   "irCompanies": [
     "Gen Digital",
     "Live Nation Entertainment",
@@ -383,7 +374,6 @@
     "Lyft",
     "Match Group",
     "Microchip Tech",
-    "Motorola",
     "News Corp",
     "PTC",
     "Palantir",
