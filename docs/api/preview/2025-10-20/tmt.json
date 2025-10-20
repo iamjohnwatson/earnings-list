@@ -1,13 +1,24 @@
 {
   "records": [
     {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2025-10-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-10-20",
-      "bmo_amc": "11:28 AM ET",
+      "bmo_amc": "2:31 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:28 AM ET",
+      "ir_time_label": "2:31 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -164,14 +175,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-20T15:48:50Z",
+  "generatedAt": "2025-10-20T18:53:16Z",
   "irCompanies": [
     "AT&T",
     "Intel",
     "Lam Research",
+    "Live Nation Entertainment",
     "Rogers Communications",
     "Take-Two Interactive"
   ],
