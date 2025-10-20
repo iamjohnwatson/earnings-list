@@ -1,6 +1,68 @@
 {
   "records": [
     {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2025-11-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lowe\u2019s Cos Inc",
+      "symbol": "LOW",
+      "date": "2025-11-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "TJX Cos Inc",
+      "symbol": "TJX",
+      "date": "2025-11-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2025-11-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ross Stores",
+      "symbol": "ROST",
+      "date": "2025-11-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Walmart Inc",
+      "symbol": "WMT",
+      "date": "2025-11-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2025-11-18",
@@ -29,16 +91,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2025-11-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     },
     {
       "company": "Xpeng",
@@ -111,66 +163,14 @@
       "sector": "TMT"
     },
     {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
       "date": "2025-11-18",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Lowe\u2019s Cos Inc",
-      "symbol": "LOW",
-      "date": "2025-11-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "TJX Cos Inc",
-      "symbol": "TJX",
-      "date": "2025-11-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Target Corp",
-      "symbol": "TGT",
-      "date": "2025-11-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ross Stores",
-      "symbol": "ROST",
-      "date": "2025-11-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Walmart Inc",
-      "symbol": "WMT",
-      "date": "2025-11-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     }
   ],
   "count": 17,
@@ -179,7 +179,7 @@
     "CPPIB"
   ],
   "tickerCount": 564,
-  "generatedAt": "2025-10-20T06:55:02Z",
+  "generatedAt": "2025-10-20T09:50:38Z",
   "irCompanies": [
     "Home Depot Inc"
   ],
