@@ -13,9 +13,9 @@
       "company": "3M Co",
       "symbol": "MMM",
       "date": "2025-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": null,
       "ir_source_url": "https://investors.3m.com/",
       "source": "investor_relations"
@@ -33,9 +33,9 @@
       "company": "Lockheed Martin",
       "symbol": "LMT",
       "date": "2025-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -51,9 +51,9 @@
       "company": "Pentair PLC",
       "symbol": "PNR",
       "date": "2025-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -69,9 +69,9 @@
       "company": "RTX",
       "symbol": "RTX",
       "date": "2025-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -264,7 +264,7 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-21T12:57:25Z",
+  "generatedAt": "2025-10-21T15:49:33Z",
   "irCompanies": [
     "3M Co",
     "Honeywell",

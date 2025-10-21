@@ -1,240 +1,86 @@
 {
   "records": [
     {
-      "company": "W. R. Berkley Corp",
-      "symbol": "WRB",
-      "date": "2025-10-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Coca-Cola Co",
+      "symbol": "KO",
+      "date": "2025-10-21",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.coca-colacompany.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Mattel",
+      "symbol": "MAT",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Consumer"
     },
     {
-      "company": "Zions Bancorporation",
-      "symbol": "ZION",
-      "date": "2025-10-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Capital One Financial",
-      "symbol": "COF",
-      "date": "2025-10-21",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Chubb",
-      "symbol": "CB",
-      "date": "2025-10-21",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Nasdaq",
-      "symbol": "NDAQ",
+      "company": "Philip Morris International",
+      "symbol": "PM",
       "date": "2025-10-21",
       "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Consumer"
     },
     {
-      "company": "CME Group Inc",
-      "symbol": "CME",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Globe Life",
-      "symbol": "GL",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Moody's Corporation",
-      "symbol": "MCO",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Northern Trust",
-      "symbol": "NTRS",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Raymond James",
-      "symbol": "RJF",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Blackstone",
-      "symbol": "BX",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Lazard",
-      "symbol": "LAZ",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Danaher Corp",
-      "symbol": "DHR",
-      "date": "2025-10-21",
-      "bmo_amc": "8:00AM",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:00am",
-      "ir_source_url": "https://investors.danaher.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Elevance Health Inc",
-      "symbol": "ELV",
-      "date": "2025-10-21",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-10-21",
-      "bmo_amc": "5:48 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:48 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Quest Diagnostics Inc",
-      "symbol": "DGX",
-      "date": "2025-10-21",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Molina Healthcare Inc",
-      "symbol": "MOH",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Thermo Fisher Scientific Inc",
-      "symbol": "TMO",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Healthpeak Properties",
-      "symbol": "DOC",
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
       "date": "2025-10-23",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
+      "company": "Hasbro Inc",
+      "symbol": "HAS",
       "date": "2025-10-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
+      "date": "2025-10-23",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "West Pharmaceutical Services Inc",
-      "symbol": "WST",
+      "company": "Tractor Supply Co",
+      "symbol": "TSCO",
       "date": "2025-10-23",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "HCA Healthcare Inc",
-      "symbol": "HCA",
+      "company": "Procter & Gamble",
+      "symbol": "PG",
       "date": "2025-10-24",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
       "company": "EQT Corp",
@@ -380,9 +226,9 @@
       "company": "3M Co",
       "symbol": "MMM",
       "date": "2025-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": null,
       "ir_source_url": "https://investors.3m.com/",
       "source": "investor_relations",
@@ -402,9 +248,9 @@
       "company": "Lockheed Martin",
       "symbol": "LMT",
       "date": "2025-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
     },
@@ -422,9 +268,9 @@
       "company": "Pentair PLC",
       "symbol": "PNR",
       "date": "2025-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
     },
@@ -442,9 +288,9 @@
       "company": "RTX",
       "symbol": "RTX",
       "date": "2025-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Manufacturing"
     },
@@ -668,10 +514,22 @@
       "company": "Omnicom",
       "symbol": "OMC",
       "date": "2025-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-10-21",
+      "bmo_amc": "11:23 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:23 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -823,108 +681,276 @@
       "sector": "TMT"
     },
     {
-      "company": "Coca-Cola Co",
-      "symbol": "KO",
+      "company": "Danaher Corp",
+      "symbol": "DHR",
       "date": "2025-10-21",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "8:00AM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "8:30 am ET",
-      "ir_source_url": "https://investors.coca-colacompany.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Mattel",
-      "symbol": "MAT",
-      "date": "2025-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": "8:00am",
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     },
     {
-      "company": "Philip Morris International",
-      "symbol": "PM",
+      "company": "Elevance Health Inc",
+      "symbol": "ELV",
       "date": "2025-10-21",
       "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Deckers Outdoors",
-      "symbol": "DECK",
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-10-21",
+      "bmo_amc": "10:46 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:46 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Quest Diagnostics Inc",
+      "symbol": "DGX",
+      "date": "2025-10-21",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Molina Healthcare Inc",
+      "symbol": "MOH",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Thermo Fisher Scientific Inc",
+      "symbol": "TMO",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Healthpeak Properties",
+      "symbol": "DOC",
       "date": "2025-10-23",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Hasbro Inc",
-      "symbol": "HAS",
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
       "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2025-10-23",
-      "bmo_amc": "TBD",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Tractor Supply Co",
-      "symbol": "TSCO",
+      "company": "West Pharmaceutical Services Inc",
+      "symbol": "WST",
       "date": "2025-10-23",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Procter & Gamble",
-      "symbol": "PG",
+      "company": "HCA Healthcare Inc",
+      "symbol": "HCA",
       "date": "2025-10-24",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
+    },
+    {
+      "company": "W. R. Berkley Corp",
+      "symbol": "WRB",
+      "date": "2025-10-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Zions Bancorporation",
+      "symbol": "ZION",
+      "date": "2025-10-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Capital One Financial",
+      "symbol": "COF",
+      "date": "2025-10-21",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Chubb",
+      "symbol": "CB",
+      "date": "2025-10-21",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Global Payments",
+      "symbol": "GPN",
+      "date": "2025-10-21",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EDT",
+      "ir_source_url": "https://investors.globalpayments.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Nasdaq",
+      "symbol": "NDAQ",
+      "date": "2025-10-21",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "CME Group Inc",
+      "symbol": "CME",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Globe Life",
+      "symbol": "GL",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Moody's Corporation",
+      "symbol": "MCO",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Northern Trust",
+      "symbol": "NTRS",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Raymond James",
+      "symbol": "RJF",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Blackstone",
+      "symbol": "BX",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Lazard",
+      "symbol": "LAZ",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
-  "count": 88,
+  "count": 90,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 564,
-  "generatedAt": "2025-10-21T12:57:25Z",
+  "generatedAt": "2025-10-21T15:49:34Z",
   "irCompanies": [
     "3M Co",
     "AT&T",
     "Boston Scientific Corp",
     "Coca-Cola Co",
     "Danaher Corp",
+    "Global Payments",
     "Honeywell",
     "Intel",
     "Lam Research",
     "Merck",
     "Parker-Hannifin Corp",
     "Rogers Communications",
-    "Southwest Airlines Co"
+    "Southwest Airlines Co",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Alaska Air",
