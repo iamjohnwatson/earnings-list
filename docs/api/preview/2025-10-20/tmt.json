@@ -1,6 +1,28 @@
 {
   "records": [
     {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2025-10-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2025-10-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.micron.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2025-10-21",
@@ -22,10 +44,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-10-21",
-      "bmo_amc": "2:26 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:26 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -164,14 +186,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-21T18:52:20Z",
+  "generatedAt": "2025-10-21T21:47:09Z",
   "irCompanies": [
     "AT&T",
     "Intel",
     "Lam Research",
+    "Live Nation Entertainment",
+    "Micron",
     "Rogers Communications",
     "Take-Two Interactive"
   ],

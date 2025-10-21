@@ -21,6 +21,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Axon Enterprise Inc",
+      "symbol": "AXON",
+      "date": "2025-10-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.axon.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "GE Aerospace",
       "symbol": "GE",
       "date": "2025-10-21",
@@ -28,6 +39,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2025-10-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lockheed Martin",
@@ -261,13 +283,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-21T18:52:20Z",
+  "generatedAt": "2025-10-21T21:47:09Z",
   "irCompanies": [
     "3M Co",
+    "Axon Enterprise Inc",
     "Honeywell",
+    "Lennar Corp",
     "Parker-Hannifin Corp",
     "Southwest Airlines Co"
   ],

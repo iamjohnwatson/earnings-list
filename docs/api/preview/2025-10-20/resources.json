@@ -19,6 +19,17 @@
       "source": "aggregator"
     },
     {
+      "company": "XPLR Infrastructure (previously NEP)",
+      "symbol": "XPLR",
+      "date": "2025-10-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.investor.xplrinfrastructure.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "First Energy",
       "symbol": "FE",
       "date": "2025-10-22",
@@ -118,11 +129,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-10-21T18:52:20Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-21T21:47:09Z",
+  "irCompanies": [
+    "XPLR Infrastructure (previously NEP)"
+  ],
   "fallbackCompanies": [
     "Baker Hughes",
     "CenterPoint Energy",
