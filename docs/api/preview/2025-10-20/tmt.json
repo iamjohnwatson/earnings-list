@@ -1,34 +1,12 @@
 {
   "records": [
     {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2025-10-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-10-20",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2025-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -44,9 +22,9 @@
       "company": "Texas Instruments",
       "symbol": "TXN",
       "date": "2025-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -175,17 +153,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-20T21:47:17Z",
+  "generatedAt": "2025-10-21T01:22:59Z",
   "irCompanies": [
     "AT&T",
     "Intel",
     "Lam Research",
-    "Live Nation Entertainment",
-    "Rogers Communications",
-    "Take-Two Interactive"
+    "Rogers Communications"
   ],
   "fallbackCompanies": [
     "Amphenol",

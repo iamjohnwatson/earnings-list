@@ -58,10 +58,12 @@
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "2:00PM PDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "2:00pm PDT",
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Match Group",
@@ -325,10 +327,12 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Trade Desk",
@@ -343,11 +347,13 @@
   "count": 37,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-20T21:47:34Z",
+  "generatedAt": "2025-10-21T01:23:18Z",
   "irCompanies": [
     "Gen Digital",
+    "Live Nation Entertainment",
     "NYT",
-    "Rivian"
+    "Rivian",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -364,7 +370,6 @@
     "IAC",
     "Iron Mountain",
     "Kyndryl",
-    "Live Nation Entertainment",
     "Lucid",
     "Lyft",
     "Match Group",
@@ -380,7 +385,6 @@
     "Shopify",
     "Snap",
     "Spotify",
-    "Take-Two Interactive",
     "Trade Desk",
     "Trimble",
     "Uber"

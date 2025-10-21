@@ -131,6 +131,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2025-11-06",
+      "bmo_amc": "8:00 A.M",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 a.m",
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Camden Property Trust",
       "symbol": "CPT",
       "date": "2025-11-06",
@@ -185,11 +196,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-20T21:47:35Z",
+  "generatedAt": "2025-10-21T01:23:18Z",
   "irCompanies": [
+    "Bombardier",
     "Emerson Electric Co",
     "Johnson Controls International PLC"
   ],
