@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Onsemi",
+      "symbol": "ON",
+      "date": "2025-11-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Palantir",
       "symbol": "PLTR",
       "date": "2025-11-03",
@@ -344,10 +353,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 37,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-21T09:49:35Z",
+  "generatedAt": "2025-10-21T12:57:43Z",
   "irCompanies": [
     "Gen Digital",
     "Live Nation Entertainment",
@@ -375,6 +384,7 @@
     "Match Group",
     "Microchip Tech",
     "News Corp",
+    "Onsemi",
     "PTC",
     "Palantir",
     "Paycom",

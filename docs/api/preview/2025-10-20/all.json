@@ -1,181 +1,133 @@
 {
   "records": [
     {
-      "company": "Netflix",
-      "symbol": "NFLX",
+      "company": "W. R. Berkley Corp",
+      "symbol": "WRB",
+      "date": "2025-10-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Zions Bancorporation",
+      "symbol": "ZION",
+      "date": "2025-10-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Capital One Financial",
+      "symbol": "COF",
       "date": "2025-10-21",
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Omnicom",
-      "symbol": "OMC",
-      "date": "2025-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Texas Instruments",
-      "symbol": "TXN",
+      "company": "Chubb",
+      "symbol": "CB",
       "date": "2025-10-21",
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "AT&T",
-      "symbol": "T",
-      "date": "2025-10-22",
-      "bmo_amc": "08:30 AM\n                    ET",
+      "company": "Nasdaq",
+      "symbol": "NDAQ",
+      "date": "2025-10-21",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "08:30 AM\n                    ET",
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
-      "company": "Amphenol",
-      "symbol": "APH",
+      "company": "CME Group Inc",
+      "symbol": "CME",
       "date": "2025-10-22",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Crown Castle",
-      "symbol": "CCI",
+      "company": "Globe Life",
+      "symbol": "GL",
       "date": "2025-10-22",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "IBM",
-      "symbol": "IBM",
+      "company": "Moody's Corporation",
+      "symbol": "MCO",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Northern Trust",
+      "symbol": "NTRS",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Raymond James",
+      "symbol": "RJF",
       "date": "2025-10-22",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Lam Research",
-      "symbol": "LRCX",
-      "date": "2025-10-22",
-      "bmo_amc": "2:00 P.M.",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00 p.m. ",
-      "ir_source_url": "https://investor.lamresearch.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Tesla",
-      "symbol": "TSLA",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Digital Realty",
-      "symbol": "DLR",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Intel",
-      "symbol": "INTC",
-      "date": "2025-10-23",
-      "bmo_amc": "2:00 PM PT",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00 PM PT",
-      "ir_source_url": "https://www.intc.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Mobileye",
-      "symbol": "MBLY",
+      "company": "Blackstone",
+      "symbol": "BX",
       "date": "2025-10-23",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Rogers Communications",
-      "symbol": "RCI",
-      "date": "2025-10-23",
-      "bmo_amc": "8:00 AM",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM ",
-      "ir_source_url": "https://about.rogers.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Roper Technologies",
-      "symbol": "ROP",
+      "company": "Lazard",
+      "symbol": "LAZ",
       "date": "2025-10-23",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "T-Mobile US",
-      "symbol": "TMUS",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "VeriSign",
-      "symbol": "VRSN",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
       "company": "Danaher Corp",
       "symbol": "DHR",
       "date": "2025-10-21",
-      "bmo_amc": "8:00 A.M. ET",
+      "bmo_amc": "8:00AM",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "ir_time_label": "8:00 a.m. ET",
+      "ir_time_label": "8:00am",
       "ir_source_url": "https://investors.danaher.com/",
       "source": "investor_relations",
       "sector": "Pharma"
@@ -184,9 +136,9 @@
       "company": "Elevance Health Inc",
       "symbol": "ELV",
       "date": "2025-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Pharma"
     },
@@ -194,10 +146,10 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-10-21",
-      "bmo_amc": "5:18 AM ET",
+      "bmo_amc": "5:48 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "5:18 am ET",
+      "ir_time_label": "5:48 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
@@ -255,6 +207,16 @@
       "sector": "Pharma"
     },
     {
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
+      "date": "2025-10-23",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "West Pharmaceutical Services Inc",
       "symbol": "WST",
       "date": "2025-10-23",
@@ -275,11 +237,141 @@
       "sector": "Pharma"
     },
     {
+      "company": "EQT Corp",
+      "symbol": "EQT",
+      "date": "2025-10-21",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Halliburton",
+      "symbol": "HAL",
+      "date": "2025-10-21",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "First Energy",
+      "symbol": "FE",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "GE Vernova",
+      "symbol": "GEV",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Teck Resources",
+      "symbol": "TECK",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Baker Hughes",
+      "symbol": "BKR",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "CenterPoint Energy",
+      "symbol": "CNP",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Dow",
+      "symbol": "DOW",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Freeport McMoRan",
+      "symbol": "FCX",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Newmont Corp",
+      "symbol": "NEM",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "PG&E Corp",
+      "symbol": "PCG",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Valero Energy Corp",
+      "symbol": "VLO",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Steel Dynamics",
       "symbol": "STLD",
       "date": "2025-10-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -291,16 +383,18 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.3m.com/",
+      "source": "investor_relations",
       "sector": "Manufacturing"
     },
     {
       "company": "GE Aerospace",
       "symbol": "GE",
       "date": "2025-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Manufacturing"
     },
@@ -318,9 +412,9 @@
       "company": "Northrop Grumman Corp",
       "symbol": "NOC",
       "date": "2025-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Manufacturing"
     },
@@ -338,9 +432,9 @@
       "company": "Pultegroup Inc",
       "symbol": "PHM",
       "date": "2025-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Manufacturing"
     },
@@ -561,12 +655,180 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2025-10-21",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Omnicom",
+      "symbol": "OMC",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Texas Instruments",
+      "symbol": "TXN",
+      "date": "2025-10-21",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2025-10-22",
+      "bmo_amc": "08:30 AM\n                    ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "08:30 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Amphenol",
+      "symbol": "APH",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Crown Castle",
+      "symbol": "CCI",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "IBM",
+      "symbol": "IBM",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Lam Research",
+      "symbol": "LRCX",
+      "date": "2025-10-22",
+      "bmo_amc": "2:00 P.M.",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00 p.m. ",
+      "ir_source_url": "https://investor.lamresearch.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Tesla",
+      "symbol": "TSLA",
+      "date": "2025-10-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Digital Realty",
+      "symbol": "DLR",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Intel",
+      "symbol": "INTC",
+      "date": "2025-10-23",
+      "bmo_amc": "2:00 PM PT",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00 PM PT",
+      "ir_source_url": "https://www.intc.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Mobileye",
+      "symbol": "MBLY",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Rogers Communications",
+      "symbol": "RCI",
+      "date": "2025-10-23",
+      "bmo_amc": "8:00 AM",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM ",
+      "ir_source_url": "https://about.rogers.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Roper Technologies",
+      "symbol": "ROP",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "T-Mobile US",
+      "symbol": "TMUS",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "VeriSign",
+      "symbol": "VRSN",
+      "date": "2025-10-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2025-10-21",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investors.coca-colacompany.com/",
       "source": "investor_relations",
@@ -586,9 +848,9 @@
       "company": "Philip Morris International",
       "symbol": "PM",
       "date": "2025-10-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator",
       "sector": "Consumer"
     },
@@ -641,266 +903,17 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "W. R. Berkley Corp",
-      "symbol": "WRB",
-      "date": "2025-10-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Zions Bancorporation",
-      "symbol": "ZION",
-      "date": "2025-10-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Capital One Financial",
-      "symbol": "COF",
-      "date": "2025-10-21",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Chubb",
-      "symbol": "CB",
-      "date": "2025-10-21",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Nasdaq",
-      "symbol": "NDAQ",
-      "date": "2025-10-21",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "CME Group Inc",
-      "symbol": "CME",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Globe Life",
-      "symbol": "GL",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Moody's Corporation",
-      "symbol": "MCO",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Northern Trust",
-      "symbol": "NTRS",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Raymond James",
-      "symbol": "RJF",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Blackstone",
-      "symbol": "BX",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Lazard",
-      "symbol": "LAZ",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "EQT Corp",
-      "symbol": "EQT",
-      "date": "2025-10-21",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Halliburton",
-      "symbol": "HAL",
-      "date": "2025-10-21",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "First Energy",
-      "symbol": "FE",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "GE Vernova",
-      "symbol": "GEV",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Teck Resources",
-      "symbol": "TECK",
-      "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Baker Hughes",
-      "symbol": "BKR",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "CenterPoint Energy",
-      "symbol": "CNP",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Dow",
-      "symbol": "DOW",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Freeport McMoRan",
-      "symbol": "FCX",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Newmont Corp",
-      "symbol": "NEM",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "PG&E Corp",
-      "symbol": "PCG",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Valero Energy Corp",
-      "symbol": "VLO",
-      "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     }
   ],
-  "count": 87,
+  "count": 88,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 564,
-  "generatedAt": "2025-10-21T09:49:18Z",
+  "generatedAt": "2025-10-21T12:57:25Z",
   "irCompanies": [
+    "3M Co",
     "AT&T",
     "Boston Scientific Corp",
     "Coca-Cola Co",
@@ -914,7 +927,6 @@
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
-    "3M Co",
     "Alaska Air",
     "American Airlines Group Inc",
     "Amphenol",
@@ -945,6 +957,7 @@
     "Hilton Worldwide Holdings Inc",
     "IBM",
     "Illinois Tool Works Inc",
+    "Intuitive Surgical Inc",
     "Keurig Dr. Pepper",
     "Kinder Morgan",
     "Las Vegas Sands Corp",
