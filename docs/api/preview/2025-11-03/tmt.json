@@ -28,6 +28,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Qorvo",
+      "symbol": "QRVO",
+      "date": "2025-11-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "SBA Communications",
       "symbol": "SBAC",
       "date": "2025-11-03",
@@ -49,8 +58,8 @@
       "company": "Gartner",
       "symbol": "IT",
       "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -102,15 +111,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Qorvo",
-      "symbol": "QRVO",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Rivian",
       "symbol": "RIVN",
       "date": "2025-11-04",
@@ -127,6 +127,15 @@
       "date": "2025-11-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Skyworks Solutions",
+      "symbol": "SWKS",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -353,10 +362,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 38,
+  "count": 39,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-22T09:50:20Z",
+  "generatedAt": "2025-10-22T12:57:53Z",
   "irCompanies": [
     "Gen Digital",
     "Live Nation Entertainment",
@@ -393,6 +402,7 @@
     "Qualcomm",
     "SBA Communications",
     "Shopify",
+    "Skyworks Solutions",
     "Snap",
     "Spotify",
     "Trade Desk",

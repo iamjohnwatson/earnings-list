@@ -22,8 +22,8 @@
       "company": "Capital One Financial",
       "symbol": "COF",
       "date": "2025-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,8 +31,8 @@
       "company": "Chubb",
       "symbol": "CB",
       "date": "2025-10-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +40,8 @@
       "company": "Nasdaq",
       "symbol": "NDAQ",
       "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -91,6 +91,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2025-10-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Blackstone",
       "symbol": "BX",
       "date": "2025-10-23",
@@ -109,14 +120,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-22T09:50:00Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-22T12:57:23Z",
+  "irCompanies": [
+    "Truist Financial"
+  ],
   "fallbackCompanies": [
     "Blackstone",
     "CME Group Inc",
