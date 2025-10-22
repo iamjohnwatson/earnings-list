@@ -105,7 +105,7 @@
       "date": "2025-10-22",
       "bmo_amc": "6:45AM EDT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "6:45am EDT",
       "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
       "source": "investor_relations"
@@ -177,12 +177,10 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2025-10-23",
-      "bmo_amc": "8:30 A.M. ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Norfolk Southern Corp",
@@ -242,9 +240,8 @@
   "count": 26,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-22T15:47:32Z",
+  "generatedAt": "2025-10-22T18:55:37Z",
   "irCompanies": [
-    "Honeywell",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
@@ -256,6 +253,7 @@
     "GE Aerospace",
     "General Dynamics Corp",
     "Hilton Worldwide Holdings Inc",
+    "Honeywell",
     "Illinois Tool Works Inc",
     "Las Vegas Sands Corp",
     "Lockheed Martin",
