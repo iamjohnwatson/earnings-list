@@ -46,13 +46,24 @@
       "source": "aggregator"
     },
     {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2025-10-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-10-22",
-      "bmo_amc": "2:35 PM ET",
+      "bmo_amc": "3:41 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:35 pm ET",
+      "ir_time_label": "3:41 pm ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
     },
@@ -113,11 +124,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 54,
-  "generatedAt": "2025-10-22T18:55:36Z",
+  "generatedAt": "2025-10-22T21:46:21Z",
   "irCompanies": [
+    "Centene Corp",
     "Merck",
     "Novavax"
   ],
