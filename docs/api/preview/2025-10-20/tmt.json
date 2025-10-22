@@ -31,10 +31,10 @@
       "company": "AT&T",
       "symbol": "T",
       "date": "2025-10-22",
-      "bmo_amc": "08:30 AM\n                    ET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "08:30 AM\n                    ET",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": null,
       "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
       "source": "investor_relations"
     },
@@ -42,9 +42,9 @@
       "company": "Amphenol",
       "symbol": "APH",
       "date": "2025-10-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -88,6 +88,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-10-22",
+      "bmo_amc": "11:24 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:24 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Tesla",
       "symbol": "TSLA",
       "date": "2025-10-22",
@@ -95,6 +106,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Workday",
+      "symbol": "WDAY",
+      "date": "2025-10-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.workday.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Digital Realty",
@@ -164,16 +186,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-22T12:57:23Z",
+  "generatedAt": "2025-10-22T15:47:33Z",
   "irCompanies": [
     "AT&T",
     "Applied Digital",
     "Intel",
     "Lam Research",
-    "Rogers Communications"
+    "Rogers Communications",
+    "Take-Two Interactive",
+    "Workday"
   ],
   "fallbackCompanies": [
     "Amphenol",

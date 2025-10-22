@@ -183,10 +183,12 @@
       "company": "Parker-Hannifin Corp",
       "symbol": "PH",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "11:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "11:00 am EDT",
+      "ir_source_url": "https://investors.parker.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Rockwell Automation Inc",
@@ -219,12 +221,13 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-22T12:57:52Z",
+  "generatedAt": "2025-10-22T15:47:52Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "Bombardier",
     "Emerson Electric Co",
-    "Johnson Controls International PLC"
+    "Johnson Controls International PLC",
+    "Parker-Hannifin Corp"
   ],
   "fallbackCompanies": [
     "Air Lease",
@@ -240,7 +243,6 @@
     "Leidos Holdings Inc",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",
-    "Parker-Hannifin Corp",
     "Realty Income Corp",
     "Rockwell Automation Inc",
     "Stanley Black & Decker",

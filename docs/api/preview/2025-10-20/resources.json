@@ -31,9 +31,9 @@
       "company": "GE Vernova",
       "symbol": "GEV",
       "date": "2025-10-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -49,9 +49,9 @@
       "company": "Teck Resources",
       "symbol": "TECK",
       "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -121,7 +121,7 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-10-22T12:57:23Z",
+  "generatedAt": "2025-10-22T15:47:33Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Baker Hughes",

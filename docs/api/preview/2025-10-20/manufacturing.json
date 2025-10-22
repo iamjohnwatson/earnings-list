@@ -76,9 +76,9 @@
       "company": "Hilton Worldwide Holdings Inc",
       "symbol": "HLT",
       "date": "2025-10-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -94,21 +94,10 @@
       "company": "Packaging Corp of America",
       "symbol": "PKG",
       "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
-    },
-    {
-      "company": "Parker-Hannifin Corp",
-      "symbol": "PH",
-      "date": "2025-10-22",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EDT",
-      "ir_source_url": "https://investors.parker.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Southwest Airlines Co",
@@ -125,9 +114,9 @@
       "company": "Teledyne Technologies Inc",
       "symbol": "TDY",
       "date": "2025-10-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -143,9 +132,9 @@
       "company": "Wabtec",
       "symbol": "WAB",
       "date": "2025-10-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -250,13 +239,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 26,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-22T12:57:37Z",
+  "generatedAt": "2025-10-22T15:47:32Z",
   "irCompanies": [
     "Honeywell",
-    "Parker-Hannifin Corp",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
