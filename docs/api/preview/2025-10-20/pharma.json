@@ -4,49 +4,36 @@
       "company": "Danaher Corp",
       "symbol": "DHR",
       "date": "2025-10-21",
-      "bmo_amc": "8:00AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00am",
-      "ir_source_url": "https://investors.danaher.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Elevance Health Inc",
       "symbol": "ELV",
       "date": "2025-10-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-10-21",
-      "bmo_amc": "4:57 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:57 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Quest Diagnostics Inc",
       "symbol": "DGX",
       "date": "2025-10-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Boston Scientific Corp",
       "symbol": "BSX",
       "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://investors.bostonscientific.com/",
       "source": "investor_relations"
@@ -64,9 +51,9 @@
       "company": "Thermo Fisher Scientific Inc",
       "symbol": "TMO",
       "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -82,9 +69,9 @@
       "company": "Intuitive Surgical Inc",
       "symbol": "ISRG",
       "date": "2025-10-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -106,16 +93,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 54,
-  "generatedAt": "2025-10-21T21:47:09Z",
+  "generatedAt": "2025-10-22T01:24:58Z",
   "irCompanies": [
-    "Boston Scientific Corp",
-    "Danaher Corp",
-    "Merck"
+    "Boston Scientific Corp"
   ],
   "fallbackCompanies": [
+    "Danaher Corp",
     "Elevance Health Inc",
     "HCA Healthcare Inc",
     "Healthpeak Properties",

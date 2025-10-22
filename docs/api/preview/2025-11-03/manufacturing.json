@@ -19,6 +19,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Axon Enterprise Inc",
+      "symbol": "AXON",
+      "date": "2025-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.axon.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
       "date": "2025-11-04",
@@ -205,11 +216,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-21T21:47:27Z",
+  "generatedAt": "2025-10-22T01:25:15Z",
   "irCompanies": [
+    "Axon Enterprise Inc",
     "Bombardier",
     "Emerson Electric Co",
     "Johnson Controls International PLC"

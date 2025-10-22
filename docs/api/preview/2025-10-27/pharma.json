@@ -157,17 +157,32 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Danaher Corp",
+      "symbol": "DHR",
+      "date": "2025-10-31",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 54,
-  "generatedAt": "2025-10-21T21:47:18Z",
+  "generatedAt": "2025-10-22T01:25:06Z",
   "irCompanies": [
     "Bio-Techne Corp",
     "Centene Corp",
-    "DaVita Inc"
+    "DaVita Inc",
+    "Danaher Corp",
+    "Merck"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",
@@ -180,7 +195,6 @@
     "Gilead",
     "IQVIA Holdings Inc",
     "Labcorp Holdings Inc",
-    "Merck",
     "Regeneron Pharmaceuticals",
     "Tenet Healthcare",
     "UnitedHealth Group"

@@ -13,43 +13,19 @@
       "company": "3M Co",
       "symbol": "MMM",
       "date": "2025-10-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.3m.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Axon Enterprise Inc",
-      "symbol": "AXON",
-      "date": "2025-10-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.axon.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "GE Aerospace",
       "symbol": "GE",
       "date": "2025-10-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2025-10-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Lockheed Martin",
@@ -64,9 +40,9 @@
       "company": "Northrop Grumman Corp",
       "symbol": "NOC",
       "date": "2025-10-21",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -82,36 +58,36 @@
       "company": "Pultegroup Inc",
       "symbol": "PHM",
       "date": "2025-10-21",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "RTX",
-      "symbol": "RTX",
-      "date": "2025-10-21",
-      "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Hilton Worldwide Holdings Inc",
-      "symbol": "HLT",
-      "date": "2025-10-22",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
+      "company": "RTX",
+      "symbol": "RTX",
+      "date": "2025-10-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Hilton Worldwide Holdings Inc",
+      "symbol": "HLT",
+      "date": "2025-10-22",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator"
+    },
+    {
       "company": "Las Vegas Sands Corp",
       "symbol": "LVS",
       "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -147,27 +123,27 @@
       "company": "Teledyne Technologies Inc",
       "symbol": "TDY",
       "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "United Rentals Inc",
       "symbol": "URI",
       "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Wabtec",
       "symbol": "WAB",
       "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -210,12 +186,10 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2025-10-23",
-      "bmo_amc": "8:30 A.M. ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Norfolk Southern Corp",
@@ -283,19 +257,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 30,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-21T21:47:09Z",
+  "generatedAt": "2025-10-22T01:24:57Z",
   "irCompanies": [
-    "3M Co",
-    "Axon Enterprise Inc",
-    "Honeywell",
-    "Lennar Corp",
     "Parker-Hannifin Corp",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
+    "3M Co",
     "Alaska Air",
     "American Airlines Group Inc",
     "Dover Corp",
@@ -303,6 +274,7 @@
     "GE Aerospace",
     "General Dynamics Corp",
     "Hilton Worldwide Holdings Inc",
+    "Honeywell",
     "Illinois Tool Works Inc",
     "Las Vegas Sands Corp",
     "Lockheed Martin",

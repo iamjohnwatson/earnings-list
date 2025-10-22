@@ -30,6 +30,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Global Payments",
+      "symbol": "GPN",
+      "date": "2025-11-04",
+      "bmo_amc": "8:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM ET",
+      "ir_source_url": "https://investors.globalpayments.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Jack Henry and Associates",
       "symbol": "JKHY",
       "date": "2025-11-04",
@@ -142,16 +153,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-21T21:47:28Z",
+  "generatedAt": "2025-10-22T01:25:15Z",
   "irCompanies": [
     "Apollo",
     "Bank of America",
+    "Global Payments",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
