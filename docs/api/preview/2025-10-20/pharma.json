@@ -39,6 +39,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-10-22",
+      "bmo_amc": "2:03 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:03 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Molina Healthcare Inc",
       "symbol": "MOH",
       "date": "2025-10-22",
@@ -93,12 +104,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 54,
-  "generatedAt": "2025-10-22T04:16:26Z",
+  "generatedAt": "2025-10-22T06:53:57Z",
   "irCompanies": [
-    "Boston Scientific Corp"
+    "Boston Scientific Corp",
+    "Merck"
   ],
   "fallbackCompanies": [
     "Danaher Corp",
