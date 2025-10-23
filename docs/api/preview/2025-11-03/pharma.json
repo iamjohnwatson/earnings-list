@@ -121,8 +121,8 @@
       "company": "STERIS plc",
       "symbol": "STE",
       "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -197,7 +197,7 @@
   "count": 21,
   "missingPublic": [],
   "tickerCount": 54,
-  "generatedAt": "2025-10-23T09:50:14Z",
+  "generatedAt": "2025-10-23T12:58:01Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Solventum Corp"
