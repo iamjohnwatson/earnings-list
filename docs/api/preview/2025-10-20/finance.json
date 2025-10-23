@@ -91,6 +91,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2025-10-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Blackstone",
       "symbol": "BX",
       "date": "2025-10-23",
@@ -100,6 +111,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2025-10-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Lazard",
       "symbol": "LAZ",
       "date": "2025-10-23",
@@ -107,16 +129,31 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Synchrony Financial",
+      "symbol": "SYF",
+      "date": "2025-10-23",
+      "bmo_amc": "4:05 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 PM EDT",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 12,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-23T18:52:36Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-23T21:46:20Z",
+  "irCompanies": [
+    "Bank of America",
+    "Huntington Bancshares",
+    "Synchrony Financial"
+  ],
   "fallbackCompanies": [
     "Blackstone",
     "CME Group Inc",

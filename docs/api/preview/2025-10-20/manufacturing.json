@@ -145,12 +145,23 @@
       "source": "aggregator"
     },
     {
+      "company": "Air Canada",
+      "symbol": "ACDVF",
+      "date": "2025-10-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.aircanada.com/media/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Alaska Air",
       "symbol": "ALK",
       "date": "2025-10-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -175,9 +186,9 @@
       "company": "Ford Motor Co",
       "symbol": "F",
       "date": "2025-10-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -195,9 +206,9 @@
       "company": "Norfolk Southern Corp",
       "symbol": "NSC",
       "date": "2025-10-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -215,9 +226,9 @@
       "company": "Pool Corp",
       "symbol": "POOL",
       "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -235,9 +246,9 @@
       "company": "Textron Inc",
       "symbol": "TXT",
       "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -268,11 +279,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-23T18:52:38Z",
+  "generatedAt": "2025-10-23T21:46:20Z",
   "irCompanies": [
+    "Air Canada",
     "Honeywell",
     "Old Dominion Freight Line Inc",
     "Southwest Airlines Co"

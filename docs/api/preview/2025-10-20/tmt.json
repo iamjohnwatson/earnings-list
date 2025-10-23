@@ -85,9 +85,9 @@
       "company": "Digital Realty",
       "symbol": "DLR",
       "date": "2025-10-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -96,7 +96,7 @@
       "date": "2025-10-23",
       "bmo_amc": "2:00 PM PT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "ir_time_label": "2:00 PM PT",
       "ir_source_url": "https://www.intc.com/",
       "source": "investor_relations"
@@ -154,10 +154,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-10-23",
-      "bmo_amc": "2:30 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:30 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -165,16 +165,16 @@
       "company": "VeriSign",
       "symbol": "VRSN",
       "date": "2025-10-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
   "count": 18,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-23T18:52:38Z",
+  "generatedAt": "2025-10-23T21:46:20Z",
   "irCompanies": [
     "Intel",
     "Live Nation Entertainment",
