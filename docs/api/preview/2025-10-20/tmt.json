@@ -31,12 +31,10 @@
       "company": "AT&T",
       "symbol": "T",
       "date": "2025-10-22",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Amphenol",
@@ -48,83 +46,48 @@
       "source": "aggregator"
     },
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2025-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.applieddigital.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Crown Castle",
       "symbol": "CCI",
       "date": "2025-10-22",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "IBM",
       "symbol": "IBM",
       "date": "2025-10-22",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Lam Research",
       "symbol": "LRCX",
       "date": "2025-10-22",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.lamresearch.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-10-22",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Tesla",
       "symbol": "TSLA",
       "date": "2025-10-22",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Workday",
-      "symbol": "WDAY",
-      "date": "2025-10-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.workday.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Digital Realty",
       "symbol": "DLR",
       "date": "2025-10-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -133,7 +96,7 @@
       "date": "2025-10-23",
       "bmo_amc": "2:00 PM PT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "2:00 PM PT",
       "ir_source_url": "https://www.intc.com/",
       "source": "investor_relations"
@@ -153,7 +116,7 @@
       "date": "2025-10-23",
       "bmo_amc": "8:00 AM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:00 AM ",
       "ir_source_url": "https://about.rogers.com/investor-relations/",
       "source": "investor_relations"
@@ -162,48 +125,45 @@
       "company": "Roper Technologies",
       "symbol": "ROP",
       "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "T-Mobile US",
       "symbol": "TMUS",
       "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "VeriSign",
       "symbol": "VRSN",
       "date": "2025-10-23",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-22T21:46:20Z",
+  "generatedAt": "2025-10-23T01:23:47Z",
   "irCompanies": [
-    "AT&T",
-    "Applied Digital",
     "Intel",
-    "Lam Research",
-    "Rogers Communications",
-    "Take-Two Interactive",
-    "Workday"
+    "Rogers Communications"
   ],
   "fallbackCompanies": [
+    "AT&T",
     "Amphenol",
     "Crown Castle",
     "Digital Realty",
     "IBM",
+    "Lam Research",
     "Mobileye",
     "Netflix",
     "Omnicom",
