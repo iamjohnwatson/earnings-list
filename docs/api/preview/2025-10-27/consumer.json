@@ -47,7 +47,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.sysco.com/",
+      "source": "investor_relations"
     },
     {
       "company": "VF Corp",
@@ -219,12 +221,13 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 74,
-  "generatedAt": "2025-10-23T15:48:46Z",
+  "generatedAt": "2025-10-23T18:52:47Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Estee Lauder",
     "Keurig Dr. Pepper",
-    "Royal Caribbean Group"
+    "Royal Caribbean Group",
+    "Sysco Corp"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
@@ -244,7 +247,6 @@
     "Regency Centers Corp",
     "Rollins Inc",
     "Starbucks Corp",
-    "Sysco Corp",
     "VF Corp"
   ],
   "week": {
