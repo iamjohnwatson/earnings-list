@@ -145,23 +145,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Air Canada",
-      "symbol": "ACDVF",
-      "date": "2025-10-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.aircanada.com/media/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Alaska Air",
       "symbol": "ALK",
       "date": "2025-10-23",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -177,9 +166,9 @@
       "company": "Dover Corp",
       "symbol": "DOV",
       "date": "2025-10-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -195,12 +184,10 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2025-10-23",
-      "bmo_amc": "8:30 A.M. ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Norfolk Southern Corp",
@@ -212,43 +199,21 @@
       "source": "aggregator"
     },
     {
-      "company": "Old Dominion Freight Line Inc",
-      "symbol": "ODFL",
-      "date": "2025-10-23",
-      "bmo_amc": "10:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am ET",
-      "ir_source_url": "https://ir.odfl.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Pool Corp",
       "symbol": "POOL",
       "date": "2025-10-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2025-10-23",
-      "bmo_amc": "10:00 AM EDT",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EDT",
-      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Textron Inc",
       "symbol": "TXT",
       "date": "2025-10-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -264,31 +229,26 @@
       "company": "General Dynamics Corp",
       "symbol": "GD",
       "date": "2025-10-24",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Illinois Tool Works Inc",
       "symbol": "ITW",
       "date": "2025-10-24",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 30,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-23T21:46:20Z",
-  "irCompanies": [
-    "Air Canada",
-    "Honeywell",
-    "Old Dominion Freight Line Inc",
-    "Southwest Airlines Co"
-  ],
+  "generatedAt": "2025-10-24T01:19:40Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "3M Co",
     "Alaska Air",
@@ -298,6 +258,7 @@
     "GE Aerospace",
     "General Dynamics Corp",
     "Hilton Worldwide Holdings Inc",
+    "Honeywell",
     "Illinois Tool Works Inc",
     "Las Vegas Sands Corp",
     "Lockheed Martin",

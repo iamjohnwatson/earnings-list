@@ -73,42 +73,29 @@
       "source": "aggregator"
     },
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-10-23",
-      "bmo_amc": "5:05 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:05 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
-    },
-    {
       "company": "West Pharmaceutical Services Inc",
       "symbol": "WST",
       "date": "2025-10-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "HCA Healthcare Inc",
       "symbol": "HCA",
       "date": "2025-10-24",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 54,
-  "generatedAt": "2025-10-23T21:46:20Z",
-  "irCompanies": [
-    "Merck"
-  ],
+  "generatedAt": "2025-10-24T01:19:40Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Boston Scientific Corp",
     "Danaher Corp",

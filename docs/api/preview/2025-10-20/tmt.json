@@ -94,23 +94,10 @@
       "company": "Intel",
       "symbol": "INTC",
       "date": "2025-10-23",
-      "bmo_amc": "2:00 PM PT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "2:00 PM PT",
-      "ir_source_url": "https://www.intc.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2025-10-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mobileye",
@@ -128,38 +115,25 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://about.rogers.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Roper Technologies",
       "symbol": "ROP",
       "date": "2025-10-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "T-Mobile US",
       "symbol": "TMUS",
       "date": "2025-10-23",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-10-23",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "VeriSign",
@@ -171,26 +145,23 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-23T21:46:20Z",
-  "irCompanies": [
-    "Intel",
-    "Live Nation Entertainment",
-    "Rogers Communications",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2025-10-24T01:19:41Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "AT&T",
     "Amphenol",
     "Crown Castle",
     "Digital Realty",
     "IBM",
+    "Intel",
     "Lam Research",
     "Mobileye",
     "Netflix",
     "Omnicom",
+    "Rogers Communications",
     "Roper Technologies",
     "T-Mobile US",
     "Tesla",
