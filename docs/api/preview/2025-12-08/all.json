@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2025-12-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Autozone Inc",
       "symbol": "AZO",
       "date": "2025-12-09",
@@ -19,16 +29,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Costco Wholesale Corp",
-      "symbol": "COST",
-      "date": "2025-12-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     },
     {
       "company": "C3.ai",
@@ -87,7 +87,7 @@
     "CPPIB"
   ],
   "tickerCount": 564,
-  "generatedAt": "2025-10-24T01:20:45Z",
+  "generatedAt": "2025-10-24T04:05:54Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",
