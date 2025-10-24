@@ -76,8 +76,8 @@
       "company": "West Pharmaceutical Services Inc",
       "symbol": "WST",
       "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -89,13 +89,26 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
       "source": "aggregator"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-10-24",
+      "bmo_amc": "1:40 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:40 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 54,
-  "generatedAt": "2025-10-24T04:04:47Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-24T06:52:42Z",
+  "irCompanies": [
+    "Merck"
+  ],
   "fallbackCompanies": [
     "Boston Scientific Corp",
     "Danaher Corp",
