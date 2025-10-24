@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2025-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Zoom",
       "symbol": "ZM",
       "date": "2025-11-24",
@@ -109,16 +119,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2025-11-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     }
   ],
   "count": 12,
@@ -126,8 +126,8 @@
     "CDPQ",
     "CPPIB"
   ],
-  "tickerCount": 564,
-  "generatedAt": "2025-10-24T06:53:28Z",
+  "tickerCount": 565,
+  "generatedAt": "2025-10-24T12:58:08Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Agilent",
