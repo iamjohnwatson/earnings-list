@@ -10,15 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2025-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Tower Semiconductor",
       "symbol": "TSEM",
       "date": "2025-11-10",
@@ -39,15 +30,6 @@
     {
       "company": "Sea Limited",
       "symbol": "SE",
-      "date": "2025-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Skyworks Solutions",
-      "symbol": "SWKS",
       "date": "2025-11-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -113,10 +95,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-17T15:47:59Z",
+  "generatedAt": "2025-10-24T06:53:09Z",
   "irCompanies": [
     "Disney",
     "Tencent Music"
@@ -128,9 +110,7 @@
     "GlobalFoundries",
     "Grab",
     "JD.com",
-    "Live Nation Entertainment",
     "Sea Limited",
-    "Skyworks Solutions",
     "Tower Semiconductor"
   ],
   "week": {

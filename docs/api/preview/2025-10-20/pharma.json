@@ -4,19 +4,26 @@
       "company": "Danaher Corp",
       "symbol": "DHR",
       "date": "2025-10-21",
-      "bmo_amc": "8:00 A.M. ET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 a.m. ET",
-      "ir_source_url": "https://investors.danaher.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Elevance Health Inc",
       "symbol": "ELV",
       "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
+      "date": "2025-10-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -24,8 +31,8 @@
       "company": "Quest Diagnostics Inc",
       "symbol": "DGX",
       "date": "2025-10-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -33,19 +40,17 @@
       "company": "Boston Scientific Corp",
       "symbol": "BSX",
       "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Molina Healthcare Inc",
       "symbol": "MOH",
       "date": "2025-10-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -53,8 +58,8 @@
       "company": "Thermo Fisher Scientific Inc",
       "symbol": "TMO",
       "date": "2025-10-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -71,8 +76,8 @@
       "company": "West Pharmaceutical Services Inc",
       "symbol": "WST",
       "date": "2025-10-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -80,24 +85,37 @@
       "company": "HCA Healthcare Inc",
       "symbol": "HCA",
       "date": "2025-10-24",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-10-24",
+      "bmo_amc": "1:40 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:40 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     }
   ],
-  "count": 9,
+  "count": 11,
   "missingPublic": [],
-  "tickerCount": 48,
-  "generatedAt": "2025-10-17T15:47:34Z",
+  "tickerCount": 54,
+  "generatedAt": "2025-10-24T06:52:42Z",
   "irCompanies": [
-    "Boston Scientific Corp",
-    "Danaher Corp"
+    "Merck"
   ],
   "fallbackCompanies": [
+    "Boston Scientific Corp",
+    "Danaher Corp",
     "Elevance Health Inc",
     "HCA Healthcare Inc",
     "Healthpeak Properties",
+    "Intuitive Surgical Inc",
     "Molina Healthcare Inc",
     "Quest Diagnostics Inc",
     "Thermo Fisher Scientific Inc",

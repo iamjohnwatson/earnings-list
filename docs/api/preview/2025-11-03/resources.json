@@ -82,15 +82,6 @@
       "source": "aggregator"
     },
     {
-      "company": "DuPont",
-      "symbol": "DD",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Eversource Energy",
       "symbol": "ES",
       "date": "2025-11-04",
@@ -127,11 +118,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Targa Resources",
-      "symbol": "TRGP",
+      "company": "Suncor Energy",
+      "symbol": "SU",
       "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -235,6 +226,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Targa Resources",
+      "symbol": "TRGP",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Texas Pacific Land",
       "symbol": "TPL",
       "date": "2025-11-05",
@@ -292,8 +292,17 @@
       "company": "Consolidated Edison",
       "symbol": "ED",
       "date": "2025-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "DuPont",
+      "symbol": "DD",
+      "date": "2025-11-06",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -319,8 +328,8 @@
       "company": "MP Materials",
       "symbol": "MP",
       "date": "2025-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -355,8 +364,8 @@
       "company": "TC Energy",
       "symbol": "TRP",
       "date": "2025-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -406,10 +415,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 45,
+  "count": 46,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-10-17T15:47:50Z",
+  "generatedAt": "2025-10-24T06:53:00Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
@@ -452,6 +461,7 @@
     "Pinnacle West",
     "Public Service Enterprise Co",
     "Sempra",
+    "Suncor Energy",
     "TC Energy",
     "Targa Resources",
     "Texas Pacific Land",

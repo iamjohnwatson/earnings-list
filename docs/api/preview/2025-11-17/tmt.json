@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Baidu",
+      "symbol": "BIDU",
+      "date": "2025-11-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Xpeng",
       "symbol": "XPEV",
       "date": "2025-11-18",
@@ -37,15 +46,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Baidu",
-      "symbol": "BIDU",
-      "date": "2025-11-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2025-11-20",
@@ -67,7 +67,7 @@
   "count": 7,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-17T15:48:08Z",
+  "generatedAt": "2025-10-24T06:53:18Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alibaba",

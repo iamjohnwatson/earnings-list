@@ -111,15 +111,6 @@
       "source": "aggregator"
     },
     {
-      "company": "NVR Inc",
-      "symbol": "NVR",
-      "date": "2025-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "UPS",
       "symbol": "UPS",
       "date": "2025-10-28",
@@ -235,10 +226,12 @@
       "company": "MGM Resorts International",
       "symbol": "MGM",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "02:00 PM PST",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "02:00 PM PST",
+      "ir_source_url": "https://investors.mgmresorts.com/investors/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -297,6 +290,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2025-10-29",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "AMETEK Inc",
       "symbol": "AME",
       "date": "2025-10-30",
@@ -320,15 +324,6 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Eaton Corporation PLC",
-      "symbol": "ETN",
-      "date": "2025-10-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -447,17 +442,19 @@
       "source": "investor_relations"
     }
   ],
-  "count": 48,
+  "count": 47,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-17T15:47:42Z",
+  "generatedAt": "2025-10-24T06:52:51Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
+    "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
     "Quanta Services Inc",
     "UPS",
+    "Veralto Corp",
     "WW Grainger Inc"
   ],
   "fallbackCompanies": [
@@ -474,7 +471,6 @@
     "Caesars Entertainment Inc",
     "Carrier Global Corp",
     "Caterpillar",
-    "Eaton Corporation PLC",
     "Equity Residential",
     "Essex Property Trust Inc",
     "Extra Space Storage Inc",
@@ -487,9 +483,7 @@
     "Invitation Homes Inc",
     "JetBlue",
     "L3Harris Technologies Inc",
-    "MGM Resorts International",
     "Mid-America Apartment Communities Inc",
-    "NVR Inc",
     "Nucor Corp",
     "Otis Worldwide Corp",
     "Peloton",
