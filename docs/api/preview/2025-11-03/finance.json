@@ -151,19 +151,31 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2025-11-07",
+      "bmo_amc": "10:35 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:35 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-24T21:47:42Z",
+  "generatedAt": "2025-10-25T01:22:50Z",
   "irCompanies": [
     "Apollo",
     "Bank of America",
     "Global Payments",
+    "PNC Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [

@@ -143,38 +143,13 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2025-10-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-10-24",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
     }
   ],
-  "count": 18,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-24T21:47:25Z",
-  "irCompanies": [
-    "Live Nation Entertainment",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2025-10-25T01:22:36Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "AT&T",
     "Amphenol",
