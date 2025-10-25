@@ -1,6 +1,186 @@
 {
   "records": [
     {
+      "company": "Apollo",
+      "symbol": "APO",
+      "date": "2025-11-04",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Assurant Inc",
+      "symbol": "AIZ",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Global Payments",
+      "symbol": "GPN",
+      "date": "2025-11-04",
+      "bmo_amc": "8:00 AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM ET",
+      "ir_source_url": "https://investors.globalpayments.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Jack Henry and Associates",
+      "symbol": "JKHY",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "TPG",
+      "symbol": "TPG",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Allstate Corp",
+      "symbol": "ALL",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2025-11-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Carlyle",
+      "symbol": "CG",
+      "date": "2025-11-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Fair Issac Corp",
+      "symbol": "FICO",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Fidelity National Information Services",
+      "symbol": "FIS",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "MetLife",
+      "symbol": "MET",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Robinhood",
+      "symbol": "HOOD",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Sun Life",
+      "symbol": "SLF",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2025-11-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Franklin Templeton",
+      "symbol": "BEN",
+      "date": "2025-11-07",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "KKR",
+      "symbol": "KKR",
+      "date": "2025-11-07",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2025-11-07",
+      "bmo_amc": "10:35 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:35 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Hims and Hers",
       "symbol": "HIMS",
       "date": "2025-11-03",
@@ -639,236 +819,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Air Lease",
-      "symbol": "AL",
-      "date": "2025-11-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Realty Income Corp",
-      "symbol": "O",
-      "date": "2025-11-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Axon Enterprise Inc",
-      "symbol": "AXON",
-      "date": "2025-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.axon.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Eaton Corporation PLC",
-      "symbol": "ETN",
-      "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Expeditors International of Washington Inc",
-      "symbol": "EXPD",
-      "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Frontier Holdings",
-      "symbol": "ULCC",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Harley Davidson",
-      "symbol": "HOG",
-      "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Leidos Holdings Inc",
-      "symbol": "LDOS",
-      "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Marriott International Inc",
-      "symbol": "MAR",
-      "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Martin Marietta Materials Inc",
-      "symbol": "MLM",
-      "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Stanley Black & Decker",
-      "symbol": "SWK",
-      "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Emerson Electric Co",
-      "symbol": "EMR",
-      "date": "2025-11-05",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://ir.emerson.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Host Hotels & Resorts Inc",
-      "symbol": "HST",
-      "date": "2025-11-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Johnson Controls International PLC",
-      "symbol": "JCI",
-      "date": "2025-11-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.johnsoncontrols.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Airbnb Inc",
-      "symbol": "ABNB",
-      "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-11-06",
-      "bmo_amc": "8:00 A.M",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 a.m",
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Camden Property Trust",
-      "symbol": "CPT",
-      "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Expedia Group Inc",
-      "symbol": "EXPE",
-      "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Parker-Hannifin Corp",
-      "symbol": "PH",
-      "date": "2025-11-06",
-      "bmo_amc": "11:00 AM EDT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00 am EDT",
-      "ir_source_url": "https://investors.parker.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Rockwell Automation Inc",
-      "symbol": "ROK",
-      "date": "2025-11-06",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2025-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Wynn Resorts Ltd",
-      "symbol": "WYNN",
-      "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Clorox Co",
       "symbol": "CLX",
       "date": "2025-11-03",
@@ -1463,184 +1413,234 @@
       "sector": "Resources"
     },
     {
-      "company": "Apollo",
-      "symbol": "APO",
-      "date": "2025-11-04",
-      "bmo_amc": "8:30 AM EDT",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
-      "ir_source_url": "https://ir.apollo.com?source=redirect",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Assurant Inc",
-      "symbol": "AIZ",
-      "date": "2025-11-04",
+      "company": "Air Lease",
+      "symbol": "AL",
+      "date": "2025-11-03",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Global Payments",
-      "symbol": "GPN",
-      "date": "2025-11-04",
-      "bmo_amc": "8:00 AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM ET",
-      "ir_source_url": "https://investors.globalpayments.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Jack Henry and Associates",
-      "symbol": "JKHY",
-      "date": "2025-11-04",
+      "company": "Realty Income Corp",
+      "symbol": "O",
+      "date": "2025-11-03",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "TPG",
-      "symbol": "TPG",
+      "company": "Axon Enterprise Inc",
+      "symbol": "AXON",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.axon.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Eaton Corporation PLC",
+      "symbol": "ETN",
       "date": "2025-11-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Allstate Corp",
-      "symbol": "ALL",
-      "date": "2025-11-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "Expeditors International of Washington Inc",
+      "symbol": "EXPD",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Carlyle",
-      "symbol": "CG",
-      "date": "2025-11-05",
+      "company": "Frontier Holdings",
+      "symbol": "ULCC",
+      "date": "2025-11-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Fair Issac Corp",
-      "symbol": "FICO",
-      "date": "2025-11-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Fidelity National Information Services",
-      "symbol": "FIS",
-      "date": "2025-11-05",
+      "company": "Harley Davidson",
+      "symbol": "HOG",
+      "date": "2025-11-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "MetLife",
-      "symbol": "MET",
+      "company": "Leidos Holdings Inc",
+      "symbol": "LDOS",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Marriott International Inc",
+      "symbol": "MAR",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Martin Marietta Materials Inc",
+      "symbol": "MLM",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Stanley Black & Decker",
+      "symbol": "SWK",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Emerson Electric Co",
+      "symbol": "EMR",
+      "date": "2025-11-05",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://ir.emerson.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Host Hotels & Resorts Inc",
+      "symbol": "HST",
       "date": "2025-11-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Robinhood",
-      "symbol": "HOOD",
+      "company": "Johnson Controls International PLC",
+      "symbol": "JCI",
       "date": "2025-11-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Sun Life",
-      "symbol": "SLF",
-      "date": "2025-11-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Wells Fargo",
-      "symbol": "WFC",
-      "date": "2025-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "ir_source_url": "https://investors.johnsoncontrols.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Franklin Templeton",
-      "symbol": "BEN",
-      "date": "2025-11-07",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Airbnb Inc",
+      "symbol": "ABNB",
+      "date": "2025-11-06",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "KKR",
-      "symbol": "KKR",
-      "date": "2025-11-07",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2025-11-07",
-      "bmo_amc": "10:35 AM EDT",
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2025-11-06",
+      "bmo_amc": "8:00 A.M",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:35 am EDT",
-      "ir_source_url": "https://investor.pnc.com/",
+      "ir_time_label": "8:00 a.m",
+      "ir_source_url": "https://bombardier.com/en/investors",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Camden Property Trust",
+      "symbol": "CPT",
+      "date": "2025-11-06",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Expedia Group Inc",
+      "symbol": "EXPE",
+      "date": "2025-11-06",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Parker-Hannifin Corp",
+      "symbol": "PH",
+      "date": "2025-11-06",
+      "bmo_amc": "11:00 AM EDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00 am EDT",
+      "ir_source_url": "https://investors.parker.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Rockwell Automation Inc",
+      "symbol": "ROK",
+      "date": "2025-11-06",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
+      "date": "2025-11-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Wynn Resorts Ltd",
+      "symbol": "WYNN",
+      "date": "2025-11-06",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 160,
@@ -1649,7 +1649,7 @@
     "CPPIB"
   ],
   "tickerCount": 565,
-  "generatedAt": "2025-10-25T09:47:03Z",
+  "generatedAt": "2025-10-25T12:54:57Z",
   "irCompanies": [
     "AT&T",
     "Apollo",
