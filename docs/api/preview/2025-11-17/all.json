@@ -1,34 +1,14 @@
 {
   "records": [
     {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
       "date": "2025-11-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2025-11-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Jacobs Solutions Inc",
-      "symbol": "J",
-      "date": "2025-11-20",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
       "company": "Home Depot Inc",
@@ -93,14 +73,34 @@
       "sector": "Consumer"
     },
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
       "date": "2025-11-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2025-11-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Jacobs Solutions Inc",
+      "symbol": "J",
+      "date": "2025-11-20",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
       "company": "Baidu",
@@ -179,7 +179,7 @@
     "CPPIB"
   ],
   "tickerCount": 565,
-  "generatedAt": "2025-10-25T18:51:27Z",
+  "generatedAt": "2025-10-25T21:46:41Z",
   "irCompanies": [
     "Home Depot Inc"
   ],
