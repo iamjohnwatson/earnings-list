@@ -1,74 +1,34 @@
 {
   "records": [
     {
-      "company": "Baidu",
-      "symbol": "BIDU",
-      "date": "2025-11-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Xpeng",
-      "symbol": "XPEV",
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
       "date": "2025-11-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Manufacturing"
     },
     {
-      "company": "NVIDIA",
-      "symbol": "NVDA",
-      "date": "2025-11-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Palo Alto",
-      "symbol": "PANW",
-      "date": "2025-11-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Snowflake",
-      "symbol": "SNOW",
-      "date": "2025-11-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Intuit",
-      "symbol": "INTU",
+      "company": "Deere",
+      "symbol": "DE",
       "date": "2025-11-20",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Alibaba",
-      "symbol": "BABA",
-      "date": "2025-11-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Jacobs Solutions Inc",
+      "symbol": "J",
+      "date": "2025-11-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Manufacturing"
     },
     {
       "company": "Home Depot Inc",
@@ -143,34 +103,74 @@
       "sector": "Pharma"
     },
     {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
+      "company": "Baidu",
+      "symbol": "BIDU",
+      "date": "2025-11-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Xpeng",
+      "symbol": "XPEV",
       "date": "2025-11-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "TMT"
     },
     {
-      "company": "Deere",
-      "symbol": "DE",
+      "company": "NVIDIA",
+      "symbol": "NVDA",
+      "date": "2025-11-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Palo Alto",
+      "symbol": "PANW",
+      "date": "2025-11-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Snowflake",
+      "symbol": "SNOW",
+      "date": "2025-11-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
       "date": "2025-11-20",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "TMT"
     },
     {
-      "company": "Jacobs Solutions Inc",
-      "symbol": "J",
-      "date": "2025-11-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Alibaba",
+      "symbol": "BABA",
+      "date": "2025-11-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "TMT"
     }
   ],
   "count": 17,
@@ -179,7 +179,7 @@
     "CPPIB"
   ],
   "tickerCount": 565,
-  "generatedAt": "2025-10-25T15:47:39Z",
+  "generatedAt": "2025-10-25T18:51:27Z",
   "irCompanies": [
     "Home Depot Inc"
   ],
