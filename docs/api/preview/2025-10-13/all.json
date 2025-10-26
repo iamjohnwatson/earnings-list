@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2025-10-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2025-10-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
-      "date": "2025-10-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Domino\u2019s Pizza Inc",
       "symbol": "DPZ",
       "date": "2025-10-14",
@@ -89,6 +59,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2025-10-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "BlackRock Inc",
@@ -339,6 +319,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2025-10-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
+      "date": "2025-10-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     }
   ],
   "count": 34,
@@ -347,7 +347,7 @@
     "CPPIB"
   ],
   "tickerCount": 565,
-  "generatedAt": "2025-10-26T18:50:14Z",
+  "generatedAt": "2025-10-26T21:47:13Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",
