@@ -146,7 +146,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Danaher Corp",
@@ -163,11 +165,12 @@
   "count": 17,
   "missingPublic": [],
   "tickerCount": 54,
-  "generatedAt": "2025-10-26T21:47:28Z",
+  "generatedAt": "2025-10-27T01:29:17Z",
   "irCompanies": [
     "Centene Corp",
     "DaVita Inc",
-    "Danaher Corp"
+    "Danaher Corp",
+    "Merck"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",
@@ -180,7 +183,6 @@
     "Gilead",
     "IQVIA Holdings Inc",
     "Labcorp Holdings Inc",
-    "Merck",
     "Regeneron Pharmaceuticals",
     "Tenet Healthcare",
     "UnitedHealth Group"
