@@ -22,10 +22,10 @@
       "company": "Cincinnati Financial",
       "symbol": "CINF",
       "date": "2025-10-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "11:00AM",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": null,
+      "ir_time_label": "11:00am",
       "ir_source_url": "https://investors.cinfin.com/",
       "source": "investor_relations"
     },
@@ -36,7 +36,9 @@
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.thehartford.com/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Huntington Bancshares",
@@ -242,12 +244,13 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-27T18:52:49Z",
+  "generatedAt": "2025-10-27T21:47:17Z",
   "irCompanies": [
     "Aon",
     "Arch Capital Group",
     "Cincinnati Financial",
     "Fiserv",
+    "Hartford Financial Services",
     "Huntington Bancshares"
   ],
   "fallbackCompanies": [
@@ -258,7 +261,6 @@
     "Cboe Global Markets",
     "Coinbase",
     "Everest",
-    "Hartford Financial Services",
     "Intercontinental Exchange",
     "Invesco",
     "Lincoln National Corporation",
