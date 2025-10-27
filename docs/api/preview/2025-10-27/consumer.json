@@ -41,6 +41,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2025-10-28",
+      "bmo_amc": "9:00 AM EDT",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EDT",
+      "ir_source_url": "https://investors.smithfieldfoods.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Sysco Corp",
       "symbol": "SYY",
       "date": "2025-10-28",
@@ -122,15 +133,6 @@
       "date": "2025-10-30",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Amcor PLC",
-      "symbol": "AMCR",
-      "date": "2025-10-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -220,18 +222,18 @@
   ],
   "count": 23,
   "missingPublic": [],
-  "tickerCount": 74,
-  "generatedAt": "2025-10-24T06:52:51Z",
+  "tickerCount": 75,
+  "generatedAt": "2025-10-27T09:52:38Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Estee Lauder",
     "Keurig Dr. Pepper",
     "Royal Caribbean Group",
+    "Smithfield Foods",
     "Sysco Corp"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
-    "Amcor PLC",
     "Church & Dwight",
     "Colgate-Palmolive",
     "Etsy Inc",

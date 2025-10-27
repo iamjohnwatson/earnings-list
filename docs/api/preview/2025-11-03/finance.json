@@ -82,8 +82,8 @@
       "company": "Fair Issac Corp",
       "symbol": "FICO",
       "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -151,19 +151,31 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2025-11-07",
+      "bmo_amc": "10:35 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:35 am EDT",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-24T06:53:00Z",
+  "generatedAt": "2025-10-27T09:52:47Z",
   "irCompanies": [
     "Apollo",
     "Bank of America",
     "Global Payments",
+    "PNC Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
