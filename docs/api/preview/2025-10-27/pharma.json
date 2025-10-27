@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-10-27",
+      "bmo_amc": "12:48 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:48 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Revvity",
+      "symbol": "RVTY",
+      "date": "2025-10-27",
+      "bmo_amc": "TAS",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "TAS",
+      "source": "aggregator"
+    },
+    {
       "company": "IQVIA Holdings Inc",
       "symbol": "IQV",
       "date": "2025-10-28",
@@ -146,9 +166,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Danaher Corp",
@@ -162,10 +180,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 17,
+  "count": 19,
   "missingPublic": [],
-  "tickerCount": 54,
-  "generatedAt": "2025-10-27T09:52:38Z",
+  "tickerCount": 55,
+  "generatedAt": "2025-10-27T12:57:32Z",
   "irCompanies": [
     "Centene Corp",
     "DaVita Inc",
@@ -183,7 +201,9 @@
     "Gilead",
     "IQVIA Holdings Inc",
     "Labcorp Holdings Inc",
+    "Merck",
     "Regeneron Pharmaceuticals",
+    "Revvity",
     "Tenet Healthcare",
     "UnitedHealth Group"
   ],

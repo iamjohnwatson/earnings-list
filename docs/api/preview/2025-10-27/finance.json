@@ -39,6 +39,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2025-10-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Principal Financial Group",
       "symbol": "PFG",
       "date": "2025-10-27",
@@ -225,18 +236,19 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 25,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-27T09:52:37Z",
+  "generatedAt": "2025-10-27T12:57:33Z",
   "irCompanies": [
     "Aon",
     "Arch Capital Group",
     "Cincinnati Financial",
-    "Fiserv"
+    "Fiserv",
+    "Huntington Bancshares"
   ],
   "fallbackCompanies": [
     "Ameriprise Financial Inc",
