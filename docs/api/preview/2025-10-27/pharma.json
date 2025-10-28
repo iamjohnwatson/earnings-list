@@ -13,9 +13,9 @@
       "company": "IQVIA Holdings Inc",
       "symbol": "IQV",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -31,10 +31,10 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-10-28",
-      "bmo_amc": "7:25 AM ET",
+      "bmo_amc": "5:33 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "7:25 am ET",
+      "ir_time_label": "5:33 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
     },
@@ -42,9 +42,9 @@
       "company": "Regeneron Pharmaceuticals",
       "symbol": "REGN",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -60,9 +60,9 @@
       "company": "UnitedHealth Group",
       "symbol": "UNH",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -183,7 +183,7 @@
   "count": 19,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-10-28T12:56:41Z",
+  "generatedAt": "2025-10-28T15:49:10Z",
   "irCompanies": [
     "Centene Corp",
     "DaVita Inc",

@@ -89,18 +89,18 @@
       "company": "MSCI Inc",
       "symbol": "MSCI",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "PayPal Holdings",
       "symbol": "PYPL",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -240,7 +240,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-28T12:56:41Z",
+  "generatedAt": "2025-10-28T15:49:11Z",
   "irCompanies": [
     "Aon",
     "Arch Capital Group",
