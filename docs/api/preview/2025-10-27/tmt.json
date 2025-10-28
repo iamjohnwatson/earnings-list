@@ -107,10 +107,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-10-28",
-      "bmo_amc": "2:30 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:30 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -118,10 +118,12 @@
       "company": "Teradyne",
       "symbol": "TER",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "8:30 AM EDT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://investors.teradyne.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Zebra Technologies",
@@ -227,17 +229,6 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2025-10-29",
-      "bmo_amc": "8:30 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
-      "ir_source_url": "https://investors.teradyne.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Tyler Tech",
@@ -419,10 +410,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 44,
+  "count": 43,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-28T18:53:58Z",
+  "generatedAt": "2025-10-28T21:47:44Z",
   "irCompanies": [
     "Equinix",
     "Fox Corp",
@@ -464,7 +455,6 @@
     "Roku",
     "Seagate",
     "ServiceNow",
-    "Teradyne",
     "Tyler Tech",
     "Western Digital",
     "Wolfspeed",
