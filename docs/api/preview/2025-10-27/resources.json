@@ -13,9 +13,9 @@
       "company": "Edison International",
       "symbol": "EIX",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -31,18 +31,18 @@
       "company": "Expand Energy",
       "symbol": "EXE",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "NextEra Energy",
       "symbol": "NEE",
       "date": "2025-10-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -58,18 +58,18 @@
       "company": "PPG Industries",
       "symbol": "PPG",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Sherwin-Williams",
       "symbol": "SHW",
       "date": "2025-10-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -283,7 +283,7 @@
   "count": 31,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-10-28T09:49:19Z",
+  "generatedAt": "2025-10-28T12:56:41Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",

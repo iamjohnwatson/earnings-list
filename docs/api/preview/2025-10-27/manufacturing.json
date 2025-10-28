@@ -4,8 +4,8 @@
       "company": "Alexandria Real Estate Equities Inc",
       "symbol": "ARE",
       "date": "2025-10-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,8 @@
       "company": "Nucor Corp",
       "symbol": "NUE",
       "date": "2025-10-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +22,8 @@
       "company": "Waste Management Inc",
       "symbol": "WM",
       "date": "2025-10-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -49,9 +49,9 @@
       "company": "Boston Properties",
       "symbol": "BXP",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -67,9 +67,9 @@
       "company": "Carrier Global Corp",
       "symbol": "CARR",
       "date": "2025-10-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -78,7 +78,7 @@
       "date": "2025-10-28",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investor.drhorton.com/",
       "source": "investor_relations"
@@ -87,9 +87,9 @@
       "company": "Equity Residential",
       "symbol": "EQR",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -111,12 +111,23 @@
       "source": "aggregator"
     },
     {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2025-10-28",
+      "bmo_amc": "10:00 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EDT",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "UPS",
       "symbol": "UPS",
       "date": "2025-10-28",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": "8:30 AM ET",
       "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations"
@@ -125,9 +136,9 @@
       "company": "Veralto Corp",
       "symbol": "VLTO",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -433,10 +444,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 46,
+  "count": 47,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-28T09:49:19Z",
+  "generatedAt": "2025-10-28T12:56:41Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
@@ -444,6 +455,7 @@
     "Magna International",
     "Old Dominion Freight Line Inc",
     "Quanta Services Inc",
+    "Southwest Airlines Co",
     "UPS",
     "Veralto Corp",
     "WW Grainger Inc"

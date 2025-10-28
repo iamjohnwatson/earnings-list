@@ -22,9 +22,9 @@
       "company": "Regency Centers Corp",
       "symbol": "REG",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -33,7 +33,7 @@
       "date": "2025-10-28",
       "bmo_amc": "10:00AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": "10:00AM ET",
       "ir_source_url": "https://www.rclinvestor.com/",
       "source": "investor_relations"
@@ -221,7 +221,7 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-10-28T09:49:19Z",
+  "generatedAt": "2025-10-28T12:56:40Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Estee Lauder",
