@@ -93,6 +93,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2025-10-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Hubbell Inc",
       "symbol": "HUBB",
       "date": "2025-10-28",
@@ -136,9 +147,9 @@
       "company": "Veralto Corp",
       "symbol": "VLTO",
       "date": "2025-10-28",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -444,13 +455,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 47,
+  "count": 48,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-28T15:49:11Z",
+  "generatedAt": "2025-10-28T18:53:57Z",
   "irCompanies": [
     "DR Horton Inc",
     "Fortive Corp",
+    "Honeywell",
     "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",
