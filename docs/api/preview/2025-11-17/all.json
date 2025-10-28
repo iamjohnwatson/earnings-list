@@ -63,6 +63,16 @@
       "sector": "Consumer"
     },
     {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2025-11-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Keysight Technologies Inc",
       "symbol": "KEYS",
       "date": "2025-11-18",
@@ -91,16 +101,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2025-11-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     },
     {
       "company": "Baidu",
@@ -179,7 +179,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-10-28T01:22:13Z",
+  "generatedAt": "2025-10-28T04:14:19Z",
   "irCompanies": [
     "Home Depot Inc"
   ],
