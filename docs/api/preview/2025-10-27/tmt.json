@@ -4,69 +4,36 @@
       "company": "Cadence",
       "symbol": "CDNS",
       "date": "2025-10-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "F5",
       "symbol": "FFIV",
       "date": "2025-10-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2025-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "NXP Semiconductors",
       "symbol": "NXPI",
       "date": "2025-10-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-10-27",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Verizon",
-      "symbol": "VZ",
-      "date": "2025-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations"
     },
     {
       "company": "American Tower",
       "symbol": "AMT",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -82,18 +49,18 @@
       "company": "Corning",
       "symbol": "GLW",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Electronic Arts",
       "symbol": "EA",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -109,9 +76,9 @@
       "company": "Seagate",
       "symbol": "STX",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -255,7 +222,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Wolfspeed",
@@ -417,19 +386,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 44,
+  "count": 41,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-27T21:47:17Z",
+  "generatedAt": "2025-10-28T01:21:46Z",
   "irCompanies": [
     "Equinix",
     "Fox Corp",
     "GoDaddy",
     "KLA Corp",
-    "Live Nation Entertainment",
     "Microsoft",
     "SiriusXM",
-    "Take-Two Interactive",
     "Teradyne",
     "Verizon"
   ],
@@ -463,7 +430,6 @@
     "ServiceNow",
     "Teradyne",
     "Tyler Tech",
-    "Verizon",
     "Western Digital",
     "Wolfspeed",
     "Zebra Technologies",

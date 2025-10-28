@@ -1,23 +1,12 @@
 {
   "records": [
     {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2025-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Mondelez International",
       "symbol": "MDLZ",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -35,7 +24,7 @@
       "date": "2025-10-28",
       "bmo_amc": "10:00AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "10:00AM ET",
       "ir_source_url": "https://www.rclinvestor.com/",
       "source": "investor_relations"
@@ -55,9 +44,9 @@
       "company": "Sysco Corp",
       "symbol": "SYY",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://investors.sysco.com/",
       "source": "investor_relations"
@@ -220,14 +209,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-10-27T21:47:17Z",
+  "generatedAt": "2025-10-28T01:21:46Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Estee Lauder",
-    "Keurig Dr. Pepper",
     "Royal Caribbean Group",
     "Smithfield Foods",
     "Sysco Corp"

@@ -4,60 +4,45 @@
       "company": "Arch Capital Group",
       "symbol": "ACGL",
       "date": "2025-10-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Brown & Brown",
       "symbol": "BRO",
       "date": "2025-10-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Cincinnati Financial",
       "symbol": "CINF",
       "date": "2025-10-27",
-      "bmo_amc": "11:00AM",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "11:00am",
-      "ir_source_url": "https://investors.cinfin.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Hartford Financial Services",
       "symbol": "HIG",
       "date": "2025-10-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.thehartford.com/overview/default.aspx",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2025-10-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Principal Financial Group",
       "symbol": "PFG",
       "date": "2025-10-27",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -69,6 +54,17 @@
       "yahoo_time_label": null,
       "ir_time_label": "10:00 AM ET",
       "ir_source_url": "https://ir.archgroup.com/overview/default.aspx",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2025-10-28",
+      "bmo_amc": "11:00AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00am",
+      "ir_source_url": "https://investors.cinfin.com/",
       "source": "investor_relations"
     },
     {
@@ -84,27 +80,27 @@
       "company": "MSCI Inc",
       "symbol": "MSCI",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "PayPal Holdings",
       "symbol": "PYPL",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Visa",
       "symbol": "V",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -244,14 +240,12 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-27T21:47:17Z",
+  "generatedAt": "2025-10-28T01:21:46Z",
   "irCompanies": [
     "Aon",
     "Arch Capital Group",
     "Cincinnati Financial",
-    "Fiserv",
-    "Hartford Financial Services",
-    "Huntington Bancshares"
+    "Fiserv"
   ],
   "fallbackCompanies": [
     "Ameriprise Financial Inc",
@@ -259,8 +253,10 @@
     "Arthur J. Gallagher",
     "Brown & Brown",
     "Cboe Global Markets",
+    "Cincinnati Financial",
     "Coinbase",
     "Everest",
+    "Hartford Financial Services",
     "Intercontinental Exchange",
     "Invesco",
     "Lincoln National Corporation",
