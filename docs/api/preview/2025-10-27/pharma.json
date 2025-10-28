@@ -4,8 +4,8 @@
       "company": "Revvity",
       "symbol": "RVTY",
       "date": "2025-10-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,10 +31,10 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-10-28",
-      "bmo_amc": "1:38 AM ET",
+      "bmo_amc": "4:49 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:38 am ET",
+      "ir_time_label": "4:49 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
     },
@@ -183,7 +183,7 @@
   "count": 19,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-10-28T06:54:55Z",
+  "generatedAt": "2025-10-28T09:49:18Z",
   "irCompanies": [
     "Centene Corp",
     "DaVita Inc",

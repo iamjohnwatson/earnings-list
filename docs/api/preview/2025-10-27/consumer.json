@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
+      "date": "2025-10-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Mondelez International",
       "symbol": "MDLZ",
       "date": "2025-10-28",
@@ -209,10 +218,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-10-28T06:54:55Z",
+  "generatedAt": "2025-10-28T09:49:19Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Estee Lauder",
@@ -229,6 +238,7 @@
     "Hershey Co",
     "International Paper Co",
     "Kellanova",
+    "Keurig Dr. Pepper",
     "Kimberly Clark Corp",
     "Kimco Realty Corp",
     "Kraft Heinz Co",
