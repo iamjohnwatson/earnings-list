@@ -55,28 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Arch Capital Group",
-      "symbol": "ACGL",
-      "date": "2025-10-28",
-      "bmo_amc": "10:00 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 AM ET",
-      "ir_source_url": "https://ir.archgroup.com/overview/default.aspx",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Cincinnati Financial",
-      "symbol": "CINF",
-      "date": "2025-10-28",
-      "bmo_amc": "11:00AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00am",
-      "ir_source_url": "https://investors.cinfin.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Invesco",
       "symbol": "IVZ",
       "date": "2025-10-28",
@@ -89,30 +67,19 @@
       "company": "MSCI Inc",
       "symbol": "MSCI",
       "date": "2025-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "PayPal Holdings",
       "symbol": "PYPL",
       "date": "2025-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2025-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Visa",
@@ -129,7 +96,7 @@
       "date": "2025-10-29",
       "bmo_amc": "7:00 AM CT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "7:00 AM CT",
       "ir_source_url": "https://investors.fiserv.com/",
       "source": "investor_relations"
@@ -245,19 +212,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 23,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-28T21:47:43Z",
+  "generatedAt": "2025-10-29T01:25:39Z",
   "irCompanies": [
     "Aon",
-    "Arch Capital Group",
-    "Cincinnati Financial",
-    "Fiserv",
-    "Truist Financial"
+    "Fiserv"
   ],
   "fallbackCompanies": [
     "Ameriprise Financial Inc",

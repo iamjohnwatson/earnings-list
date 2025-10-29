@@ -19,17 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2025-10-28",
-      "bmo_amc": "9:00 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EDT",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Regency Centers Corp",
       "symbol": "REG",
       "date": "2025-10-28",
@@ -42,23 +31,10 @@
       "company": "Royal Caribbean Group",
       "symbol": "RCL",
       "date": "2025-10-28",
-      "bmo_amc": "10:00AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "10:00AM ET",
-      "ir_source_url": "https://www.rclinvestor.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Smithfield Foods",
-      "symbol": "SFD",
-      "date": "2025-10-28",
-      "bmo_amc": "4:30 AM EDT",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 am EDT",
-      "ir_source_url": "https://investors.smithfieldfoods.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Sysco Corp",
@@ -67,9 +43,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.sysco.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "VF Corp",
@@ -131,9 +105,9 @@
       "company": "Starbucks Corp",
       "symbol": "SBUX",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -229,17 +203,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-10-28T21:47:43Z",
+  "generatedAt": "2025-10-29T01:25:38Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
-    "Estee Lauder",
-    "Norwegian Cruise Line",
-    "Royal Caribbean Group",
-    "Smithfield Foods",
-    "Sysco Corp"
+    "Estee Lauder"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
@@ -258,7 +228,9 @@
     "Mondelez International",
     "Regency Centers Corp",
     "Rollins Inc",
+    "Royal Caribbean Group",
     "Starbucks Corp",
+    "Sysco Corp",
     "VF Corp"
   ],
   "week": {

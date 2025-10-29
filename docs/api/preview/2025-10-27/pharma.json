@@ -13,9 +13,9 @@
       "company": "IQVIA Holdings Inc",
       "symbol": "IQV",
       "date": "2025-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -28,23 +28,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-10-28",
-      "bmo_amc": "1:28 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:28 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Regeneron Pharmaceuticals",
       "symbol": "REGN",
       "date": "2025-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -60,18 +49,18 @@
       "company": "UnitedHealth Group",
       "symbol": "UNH",
       "date": "2025-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "CVS Health Corp",
       "symbol": "CVS",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -166,7 +155,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Danaher Corp",
@@ -180,10 +171,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 19,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-10-28T21:47:44Z",
+  "generatedAt": "2025-10-29T01:25:39Z",
   "irCompanies": [
     "Centene Corp",
     "DaVita Inc",
@@ -201,7 +192,6 @@
     "Gilead",
     "IQVIA Holdings Inc",
     "Labcorp Holdings Inc",
-    "Merck",
     "Regeneron Pharmaceuticals",
     "Revvity",
     "Tenet Healthcare",

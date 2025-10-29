@@ -31,36 +31,36 @@
       "company": "American Tower",
       "symbol": "AMT",
       "date": "2025-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "CoStar Group",
       "symbol": "CSGP",
       "date": "2025-10-28",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Corning",
       "symbol": "GLW",
       "date": "2025-10-28",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Electronic Arts",
       "symbol": "EA",
       "date": "2025-10-28",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -73,57 +73,22 @@
       "source": "aggregator"
     },
     {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2025-10-28",
-      "bmo_amc": "8:35 AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:35 AM EDT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2025-10-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Seagate",
       "symbol": "STX",
       "date": "2025-10-28",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-10-28",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Teradyne",
       "symbol": "TER",
       "date": "2025-10-28",
-      "bmo_amc": "8:30 AM EDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EDT",
-      "ir_source_url": "https://investors.teradyne.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Zebra Technologies",
@@ -138,18 +103,18 @@
       "company": "ADP",
       "symbol": "ADP",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Alphabet Inc",
       "symbol": "GOOGL",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -176,7 +141,7 @@
       "date": "2025-10-29",
       "bmo_amc": "5:30 PM ET",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "5:30 PM ET",
       "ir_source_url": "https://investor.equinix.com/",
       "source": "investor_relations"
@@ -196,7 +161,7 @@
       "date": "2025-10-29",
       "bmo_amc": "2:00 PM PDT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "2:00 pm PDT",
       "ir_source_url": "https://ir.kla.com/",
       "source": "investor_relations"
@@ -205,18 +170,18 @@
       "company": "Meta",
       "symbol": "META",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Microsoft",
       "symbol": "MSFT",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": null,
       "ir_source_url": "https://www.microsoft.com/en-us/investor/default",
       "source": "investor_relations"
@@ -225,10 +190,21 @@
       "company": "ServiceNow",
       "symbol": "NOW",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Teradyne",
+      "symbol": "TER",
+      "date": "2025-10-29",
+      "bmo_amc": "8:30 AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EDT",
+      "ir_source_url": "https://investors.teradyne.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Tyler Tech",
@@ -243,9 +219,9 @@
       "company": "Verizon",
       "symbol": "VZ",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://www.verizon.com/about/investors",
       "source": "investor_relations"
@@ -410,20 +386,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 43,
+  "count": 41,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-28T21:47:44Z",
+  "generatedAt": "2025-10-29T01:25:39Z",
   "irCompanies": [
     "Equinix",
     "Fox Corp",
     "GoDaddy",
-    "Intuit",
     "KLA Corp",
-    "Live Nation Entertainment",
     "Microsoft",
     "SiriusXM",
-    "Take-Two Interactive",
     "Teradyne",
     "Verizon"
   ],
@@ -455,6 +428,7 @@
     "Roku",
     "Seagate",
     "ServiceNow",
+    "Teradyne",
     "Tyler Tech",
     "Western Digital",
     "Wolfspeed",
