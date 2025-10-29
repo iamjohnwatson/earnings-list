@@ -175,9 +175,9 @@
       "company": "Extra Space Storage Inc",
       "symbol": "EXR",
       "date": "2025-10-29",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -242,10 +242,10 @@
       "company": "Old Dominion Freight Line Inc",
       "symbol": "ODFL",
       "date": "2025-10-29",
-      "bmo_amc": "10:00 AM ET",
+      "bmo_amc": "7:00 AM EDT",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 am ET",
+      "ir_time_label": "7:00 AM EDT",
       "ir_source_url": "https://ir.odfl.com/",
       "source": "investor_relations"
     },
@@ -253,9 +253,9 @@
       "company": "Otis Worldwide Corp",
       "symbol": "OTIS",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -432,7 +432,7 @@
   "count": 46,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-29T12:57:11Z",
+  "generatedAt": "2025-10-29T15:49:44Z",
   "irCompanies": [
     "Fortive Corp",
     "MGM Resorts International",

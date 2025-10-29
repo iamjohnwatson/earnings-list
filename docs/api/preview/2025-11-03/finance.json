@@ -59,17 +59,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Carlyle",
       "symbol": "CG",
       "date": "2025-11-05",
@@ -164,16 +153,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 17,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-29T12:57:21Z",
+  "generatedAt": "2025-10-29T15:49:53Z",
   "irCompanies": [
     "Apollo",
-    "Bank of America",
     "Global Payments",
     "PNC Financial",
     "Wells Fargo"
