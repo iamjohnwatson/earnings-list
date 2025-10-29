@@ -13,8 +13,8 @@
       "company": "Mondelez International",
       "symbol": "MDLZ",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +22,8 @@
       "company": "Regency Centers Corp",
       "symbol": "REG",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,8 +31,17 @@
       "company": "Royal Caribbean Group",
       "symbol": "RCL",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2025-10-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +49,8 @@
       "company": "Sysco Corp",
       "symbol": "SYY",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -49,8 +58,8 @@
       "company": "VF Corp",
       "symbol": "VFC",
       "date": "2025-10-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -60,7 +69,7 @@
       "date": "2025-10-29",
       "bmo_amc": "4:30 PM",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "4:30 PM ",
       "ir_source_url": "https://ir.chipotle.com/",
       "source": "investor_relations"
@@ -72,7 +81,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.etsy.com/home/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Kraft Heinz Co",
@@ -203,19 +214,19 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-10-29T09:49:52Z",
+  "generatedAt": "2025-10-29T12:57:11Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
-    "Estee Lauder"
+    "Estee Lauder",
+    "Etsy Inc"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
     "Church & Dwight",
     "Colgate-Palmolive",
-    "Etsy Inc",
     "Federal Realty Investment Trust",
     "Hershey Co",
     "International Paper Co",
@@ -229,6 +240,7 @@
     "Regency Centers Corp",
     "Rollins Inc",
     "Royal Caribbean Group",
+    "Smithfield Foods",
     "Starbucks Corp",
     "Sysco Corp",
     "VF Corp"

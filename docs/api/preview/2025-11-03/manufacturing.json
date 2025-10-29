@@ -48,15 +48,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Frontier Holdings",
-      "symbol": "ULCC",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Harley Davidson",
       "symbol": "HOG",
       "date": "2025-11-04",
@@ -111,6 +102,15 @@
       "ir_time_label": "8:30 am EST",
       "ir_source_url": "https://ir.emerson.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Frontier Holdings",
+      "symbol": "ULCC",
+      "date": "2025-11-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Host Hotels & Resorts Inc",
@@ -221,7 +221,7 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-29T09:50:01Z",
+  "generatedAt": "2025-10-29T12:57:21Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "Bombardier",
