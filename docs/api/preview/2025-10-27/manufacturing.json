@@ -219,13 +219,24 @@
       "source": "aggregator"
     },
     {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2025-10-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "MGM Resorts International",
       "symbol": "MGM",
       "date": "2025-10-29",
-      "bmo_amc": "02:00 PM PST",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "02:00 PM PST",
+      "ir_time_label": null,
       "ir_source_url": "https://investors.mgmresorts.com/investors/overview/default.aspx",
       "source": "investor_relations"
     },
@@ -429,12 +440,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 46,
+  "count": 47,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-29T18:54:19Z",
+  "generatedAt": "2025-10-29T21:46:58Z",
   "irCompanies": [
     "Fortive Corp",
+    "Lennar Corp",
     "MGM Resorts International",
     "Magna International",
     "Old Dominion Freight Line Inc",

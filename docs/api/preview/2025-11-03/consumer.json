@@ -22,12 +22,10 @@
       "company": "Ball Corp",
       "symbol": "BALL",
       "date": "2025-11-04",
-      "bmo_amc": "11:00 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "11:00 AM ET",
-      "ir_source_url": "https://investors.ball.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "International Flavours & Fragrances",
@@ -125,13 +123,13 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-10-29T18:54:29Z",
+  "generatedAt": "2025-10-29T21:47:08Z",
   "irCompanies": [
-    "Ball Corp",
     "Norwegian Cruise Line"
   ],
   "fallbackCompanies": [
     "Amcor PLC",
+    "Ball Corp",
     "Clorox Co",
     "DoorDash",
     "International Flavours & Fragrances",

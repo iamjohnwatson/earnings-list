@@ -102,6 +102,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2025-10-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2025-10-29",
@@ -121,6 +132,17 @@
       "yahoo_time_label": "TAS",
       "ir_time_label": "7:01 AM EDT",
       "ir_source_url": "https://investors.fiserv.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2025-10-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations"
     },
     {
@@ -234,18 +256,20 @@
       "source": "aggregator"
     }
   ],
-  "count": 25,
+  "count": 27,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-29T18:54:19Z",
+  "generatedAt": "2025-10-29T21:46:59Z",
   "irCompanies": [
     "Aon",
     "Bank of America",
+    "Citigroup",
     "Citizens Financial",
-    "Fiserv"
+    "Fiserv",
+    "Huntington Bancshares"
   ],
   "fallbackCompanies": [
     "Ameriprise Financial Inc",
