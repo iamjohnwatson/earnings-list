@@ -124,7 +124,9 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.altria.com/investors/at-a-glance",
+      "source": "investor_relations"
     },
     {
       "company": "Estee Lauder",
@@ -213,12 +215,12 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-10-30T09:50:25Z",
+  "generatedAt": "2025-10-30T12:57:17Z",
   "irCompanies": [
+    "Altria Group Inc",
     "Estee Lauder"
   ],
   "fallbackCompanies": [
-    "Altria Group Inc",
     "Chipotle Mexican Grill",
     "Church & Dwight",
     "Colgate-Palmolive",

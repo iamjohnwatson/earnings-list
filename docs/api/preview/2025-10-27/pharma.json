@@ -130,9 +130,9 @@
       "company": "Eli Lilly and Co",
       "symbol": "LLY",
       "date": "2025-10-30",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -148,11 +148,22 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-10-30",
-      "bmo_amc": "2:38 AM ET",
+      "bmo_amc": "8:41 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "2:38 am ET",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": "8:41 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Novavax",
+      "symbol": "NVAX",
+      "date": "2025-10-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.novavax.com/",
       "source": "investor_relations"
     },
     {
@@ -167,13 +178,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-10-30T09:50:25Z",
+  "generatedAt": "2025-10-30T12:57:18Z",
   "irCompanies": [
     "Danaher Corp",
-    "Merck"
+    "Merck",
+    "Novavax"
   ],
   "fallbackCompanies": [
     "Bristol Myers-Squibb",
