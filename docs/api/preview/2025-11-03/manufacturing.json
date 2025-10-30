@@ -174,12 +174,10 @@
       "company": "Parker-Hannifin Corp",
       "symbol": "PH",
       "date": "2025-11-06",
-      "bmo_amc": "11:00 AM EDT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "11:00 am EDT",
-      "ir_source_url": "https://investors.parker.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Peloton",
@@ -221,13 +219,12 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-30T18:52:48Z",
+  "generatedAt": "2025-10-30T21:47:02Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "Bombardier",
     "Emerson Electric Co",
-    "Johnson Controls International PLC",
-    "Parker-Hannifin Corp"
+    "Johnson Controls International PLC"
   ],
   "fallbackCompanies": [
     "Air Lease",
@@ -242,6 +239,7 @@
     "Leidos Holdings Inc",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",
+    "Parker-Hannifin Corp",
     "Peloton",
     "Realty Income Corp",
     "Rockwell Automation Inc",

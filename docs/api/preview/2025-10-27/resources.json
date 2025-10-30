@@ -130,9 +130,9 @@
       "company": "Cheniere Energy",
       "symbol": "LNG",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -184,9 +184,9 @@
       "company": "WEC Energy Group Inc",
       "symbol": "WEC",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -202,9 +202,9 @@
       "company": "Xcel Energy Inc",
       "symbol": "XEL",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -283,7 +283,7 @@
   "count": 31,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-10-30T18:52:39Z",
+  "generatedAt": "2025-10-30T21:46:53Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",

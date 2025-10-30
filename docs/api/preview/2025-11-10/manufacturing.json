@@ -1,10 +1,24 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2025-11-11",
+      "bmo_amc": "8:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EST",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-30T18:52:57Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-30T21:47:11Z",
+  "irCompanies": [
+    "Honeywell"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2025-11-10",
