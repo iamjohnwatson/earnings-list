@@ -64,26 +64,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Ball Corp",
-      "symbol": "BALL",
-      "date": "2025-10-29",
-      "bmo_amc": "4:30 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm EDT",
-      "ir_source_url": "https://investors.ball.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Chipotle Mexican Grill",
       "symbol": "CMG",
       "date": "2025-10-29",
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.chipotle.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Etsy Inc",
@@ -92,9 +79,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.etsy.com/home/default.aspx",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Kraft Heinz Co",
@@ -225,20 +210,19 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-10-29T21:46:58Z",
+  "generatedAt": "2025-10-30T01:25:37Z",
   "irCompanies": [
-    "Ball Corp",
-    "Chipotle Mexican Grill",
-    "Estee Lauder",
-    "Etsy Inc"
+    "Estee Lauder"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
+    "Chipotle Mexican Grill",
     "Church & Dwight",
     "Colgate-Palmolive",
+    "Etsy Inc",
     "Federal Realty Investment Trust",
     "Hershey Co",
     "International Paper Co",

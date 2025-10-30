@@ -70,9 +70,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "DaVita Inc",
@@ -81,9 +79,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.davita.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "GE HealthCare Technologies Inc",
@@ -93,17 +89,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-10-29",
-      "bmo_amc": "5:12 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:12 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
     },
     {
       "company": "Bristol Myers-Squibb",
@@ -166,7 +151,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Danaher Corp",
@@ -180,13 +167,11 @@
       "source": "investor_relations"
     }
   ],
-  "count": 19,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-10-29T21:46:58Z",
+  "generatedAt": "2025-10-30T01:25:38Z",
   "irCompanies": [
-    "Centene Corp",
-    "DaVita Inc",
     "Danaher Corp",
     "Merck"
   ],
@@ -194,14 +179,15 @@
     "Bristol Myers-Squibb",
     "CVS Health Corp",
     "Cardinal Health Inc",
+    "Centene Corp",
     "Cigna",
+    "DaVita Inc",
     "Edwards Lifesciences Corp",
     "Eli Lilly and Co",
     "GE HealthCare Technologies Inc",
     "Gilead",
     "IQVIA Holdings Inc",
     "Labcorp Holdings Inc",
-    "Merck",
     "Regeneron Pharmaceuticals",
     "Revvity",
     "Tenet Healthcare",

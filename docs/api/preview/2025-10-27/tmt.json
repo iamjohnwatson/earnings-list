@@ -139,12 +139,10 @@
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2025-10-29",
-      "bmo_amc": "5:30 PM ET",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "5:30 PM ET",
-      "ir_source_url": "https://investor.equinix.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Garmin",
@@ -159,12 +157,10 @@
       "company": "KLA Corp",
       "symbol": "KLAC",
       "date": "2025-10-29",
-      "bmo_amc": "2:00 PM PT",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "2:00 PM PT",
-      "ir_source_url": "https://ir.kla.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Meta",
@@ -182,9 +178,7 @@
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://www.microsoft.com/en-us/investor/default",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "ServiceNow",
@@ -194,28 +188,6 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-10-29",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2025-10-29",
-      "bmo_amc": "5:00 PM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:00 pm EDT",
-      "ir_source_url": "https://investors.teradyne.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Tyler Tech",
@@ -230,12 +202,10 @@
       "company": "Verizon",
       "symbol": "VZ",
       "date": "2025-10-29",
-      "bmo_amc": "08:30 AM ET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
-      "ir_time_label": "08:30 AM ET",
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Wolfspeed",
@@ -245,17 +215,6 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Workday",
-      "symbol": "WDAY",
-      "date": "2025-10-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.workday.com/",
-      "source": "investor_relations"
     },
     {
       "company": "eBay",
@@ -270,18 +229,18 @@
       "company": "Amazon",
       "symbol": "AMZN",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Apple",
       "symbol": "AAPL",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -297,9 +256,9 @@
       "company": "Comcast",
       "symbol": "CMCSA",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -346,9 +305,9 @@
       "company": "Motorola",
       "symbol": "MSI",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -364,9 +323,9 @@
       "company": "Roblox",
       "symbol": "RBLX",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -408,21 +367,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 43,
+  "count": 40,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-29T21:46:59Z",
+  "generatedAt": "2025-10-30T01:25:37Z",
   "irCompanies": [
-    "Equinix",
     "Fox Corp",
     "GoDaddy",
-    "KLA Corp",
-    "Microsoft",
-    "SiriusXM",
-    "Take-Two Interactive",
-    "Teradyne",
-    "Verizon",
-    "Workday"
+    "SiriusXM"
   ],
   "fallbackCompanies": [
     "ADP",
@@ -439,11 +391,14 @@
     "Corning",
     "Dayforce",
     "Electronic Arts",
+    "Equinix",
     "F5",
     "Garmin",
     "Interpublic Group of Companies",
+    "KLA Corp",
     "Lumen Tech",
     "Meta",
+    "Microsoft",
     "Monolithic Power",
     "Motorola",
     "NXP Semiconductors",
@@ -454,6 +409,7 @@
     "ServiceNow",
     "Teradyne",
     "Tyler Tech",
+    "Verizon",
     "Western Digital",
     "Wolfspeed",
     "Zebra Technologies",

@@ -10,16 +10,28 @@
       "ir_time_label": "8:55 AM ET",
       "ir_source_url": "https://www.jpmorganchase.com/ir",
       "source": "investor_relations"
+    },
+    {
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2026-01-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-29T21:48:48Z",
+  "generatedAt": "2025-10-30T01:27:15Z",
   "irCompanies": [
+    "Citigroup",
     "JPMorgan"
   ],
   "fallbackCompanies": [],
