@@ -98,12 +98,10 @@
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2025-11-04",
-      "bmo_amc": "2:00PM PDT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "2:00pm PDT",
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Match Group",
@@ -407,13 +405,12 @@
   "count": 43,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-30T15:48:48Z",
+  "generatedAt": "2025-10-30T18:52:48Z",
   "irCompanies": [
     "AT&T",
     "Gen Digital",
     "KLA Corp",
     "Lam Research",
-    "Live Nation Entertainment",
     "NYT",
     "Qualcomm",
     "Rivian"
@@ -433,6 +430,7 @@
     "IAC",
     "Iron Mountain",
     "Kyndryl",
+    "Live Nation Entertainment",
     "Lucid",
     "Lyft",
     "Match Group",
