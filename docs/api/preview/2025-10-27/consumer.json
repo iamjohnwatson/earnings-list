@@ -67,9 +67,9 @@
       "company": "Chipotle Mexican Grill",
       "symbol": "CMG",
       "date": "2025-10-29",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -112,18 +112,18 @@
       "company": "Starbucks Corp",
       "symbol": "SBUX",
       "date": "2025-10-29",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Altria Group Inc",
       "symbol": "MO",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -213,7 +213,7 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-10-30T01:25:37Z",
+  "generatedAt": "2025-10-30T04:16:08Z",
   "irCompanies": [
     "Estee Lauder"
   ],

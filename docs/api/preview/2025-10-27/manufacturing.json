@@ -247,27 +247,27 @@
       "company": "Otis Worldwide Corp",
       "symbol": "OTIS",
       "date": "2025-10-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Public Storage",
       "symbol": "PSA",
       "date": "2025-10-29",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "TE Connectivity Ltd",
       "symbol": "TEL",
       "date": "2025-10-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -310,9 +310,9 @@
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -366,9 +366,9 @@
       "company": "Trane Technologies PLC",
       "symbol": "TT",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -415,7 +415,7 @@
   "count": 45,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-10-30T01:25:38Z",
+  "generatedAt": "2025-10-30T04:16:09Z",
   "irCompanies": [
     "Magna International",
     "Quanta Services Inc",

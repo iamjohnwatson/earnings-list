@@ -58,9 +58,9 @@
       "company": "CVS Health Corp",
       "symbol": "CVS",
       "date": "2025-10-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -94,9 +94,9 @@
       "company": "Bristol Myers-Squibb",
       "symbol": "BMY",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -112,9 +112,9 @@
       "company": "Cigna",
       "symbol": "CI",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -130,27 +130,27 @@
       "company": "Eli Lilly and Co",
       "symbol": "LLY",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Gilead",
       "symbol": "GILD",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
@@ -170,7 +170,7 @@
   "count": 18,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-10-30T01:25:38Z",
+  "generatedAt": "2025-10-30T04:16:08Z",
   "irCompanies": [
     "Danaher Corp",
     "Merck"

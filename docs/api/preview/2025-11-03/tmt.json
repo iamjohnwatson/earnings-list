@@ -243,6 +243,17 @@
       "source": "aggregator"
     },
     {
+      "company": "KLA Corp",
+      "symbol": "KLAC",
+      "date": "2025-11-05",
+      "bmo_amc": "12:00 PM PDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:00 pm PDT",
+      "ir_source_url": "https://ir.kla.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Lucid",
       "symbol": "LCID",
       "date": "2025-11-05",
@@ -395,13 +406,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 42,
+  "count": 43,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-30T01:25:47Z",
+  "generatedAt": "2025-10-30T04:16:19Z",
   "irCompanies": [
     "AT&T",
     "Gen Digital",
+    "KLA Corp",
     "Lam Research",
     "Live Nation Entertainment",
     "NYT",
