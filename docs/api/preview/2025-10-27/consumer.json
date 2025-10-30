@@ -67,8 +67,8 @@
       "company": "Chipotle Mexican Grill",
       "symbol": "CMG",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -76,8 +76,8 @@
       "company": "Etsy Inc",
       "symbol": "ETSY",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,8 +85,8 @@
       "company": "Kraft Heinz Co",
       "symbol": "KHC",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,8 +94,8 @@
       "company": "Masco Corp",
       "symbol": "MAS",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +103,8 @@
       "company": "Rollins Inc",
       "symbol": "ROL",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -112,8 +112,8 @@
       "company": "Starbucks Corp",
       "symbol": "SBUX",
       "date": "2025-10-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -121,9 +121,9 @@
       "company": "Altria Group Inc",
       "symbol": "MO",
       "date": "2025-10-30",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.altria.com/investors/at-a-glance",
       "source": "investor_relations"
@@ -215,7 +215,7 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-10-30T12:57:17Z",
+  "generatedAt": "2025-10-30T15:48:39Z",
   "irCompanies": [
     "Altria Group Inc",
     "Estee Lauder"
