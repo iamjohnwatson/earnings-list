@@ -130,9 +130,9 @@
       "company": "Cheniere Energy",
       "symbol": "LNG",
       "date": "2025-10-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -184,9 +184,9 @@
       "company": "WEC Energy Group Inc",
       "symbol": "WEC",
       "date": "2025-10-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -202,9 +202,9 @@
       "company": "Xcel Energy Inc",
       "symbol": "XEL",
       "date": "2025-10-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -220,70 +220,70 @@
       "company": "Cenovus Energy",
       "symbol": "CVE",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Chevron",
       "symbol": "CVX",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Dominion Energy Inc",
       "symbol": "D",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Exxon Mobil",
       "symbol": "XOM",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Imperial Oil",
       "symbol": "IMO",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Linde",
       "symbol": "LIN",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "LyondellBasell",
       "symbol": "LYB",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
   "count": 31,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-10-30T21:46:53Z",
+  "generatedAt": "2025-10-31T01:23:02Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",

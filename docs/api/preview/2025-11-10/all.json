@@ -1,6 +1,28 @@
 {
   "records": [
     {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2025-11-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Novavax",
+      "symbol": "NVAX",
+      "date": "2025-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "CoreWeave",
       "symbol": "CRWV",
       "date": "2025-11-10",
@@ -125,26 +147,16 @@
       "sector": "Consumer"
     },
     {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2025-11-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "Estee Lauder",
+      "symbol": "EL",
+      "date": "2025-11-13",
+      "bmo_amc": "09:00AM ET",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
+      "ir_time_label": "09:00AM ET",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
       "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Novavax",
-      "symbol": "NVAX",
-      "date": "2025-11-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
       "company": "Occidental Petroleum",
@@ -189,15 +201,16 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-10-30T21:47:11Z",
+  "generatedAt": "2025-10-31T01:23:21Z",
   "irCompanies": [
     "Disney",
+    "Estee Lauder",
     "Honeywell",
     "Manulife",
     "Tencent Music"

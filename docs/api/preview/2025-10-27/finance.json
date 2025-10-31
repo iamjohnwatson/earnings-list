@@ -121,9 +121,9 @@
       "company": "Arthur J. Gallagher",
       "symbol": "AJG",
       "date": "2025-10-30",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -166,9 +166,9 @@
       "company": "S&P Global Inc",
       "symbol": "SPGI",
       "date": "2025-10-30",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -186,7 +186,7 @@
       "date": "2025-10-31",
       "bmo_amc": "7:30AM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "7:30am",
       "ir_source_url": "https://ir.aon.com/",
       "source": "investor_relations"
@@ -195,18 +195,18 @@
       "company": "Cboe Global Markets",
       "symbol": "CBOE",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "T. Rowe Price Group",
       "symbol": "TROW",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
@@ -216,7 +216,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-30T21:46:53Z",
+  "generatedAt": "2025-10-31T01:23:02Z",
   "irCompanies": [
     "Aon"
   ],

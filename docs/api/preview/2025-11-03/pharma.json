@@ -176,6 +176,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Novavax",
+      "symbol": "NVAX",
+      "date": "2025-11-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.novavax.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Solventum Corp",
       "symbol": "SOLV",
       "date": "2025-11-06",
@@ -196,13 +207,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-10-30T21:47:02Z",
+  "generatedAt": "2025-10-31T01:23:11Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Bio-Techne Corp",
+    "Novavax",
     "Solventum Corp"
   ],
   "fallbackCompanies": [
