@@ -16,7 +16,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.idexx.com/en/about-idexx/investors/",
+      "source": "investor_relations"
     },
     {
       "company": "Vertex Pharmaceuticals Inc",
@@ -210,10 +212,11 @@
   "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-10-31T15:47:53Z",
+  "generatedAt": "2025-10-31T18:53:28Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Bio-Techne Corp",
+    "IDEXX Laboratories Inc",
     "Novavax",
     "Solventum Corp"
   ],
@@ -225,7 +228,6 @@
     "Dentsply Sirona",
     "Henry Schein Inc",
     "Hims and Hers",
-    "IDEXX Laboratories Inc",
     "Insulet",
     "Kenvue",
     "Mckesson Corp",

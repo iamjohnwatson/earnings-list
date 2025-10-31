@@ -51,12 +51,10 @@
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2025-11-04",
-      "bmo_amc": "8:00 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am ET",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Yum Brands",
@@ -125,10 +123,9 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-10-31T15:47:54Z",
+  "generatedAt": "2025-10-31T18:53:29Z",
   "irCompanies": [
-    "Ball Corp",
-    "Norwegian Cruise Line"
+    "Ball Corp"
   ],
   "fallbackCompanies": [
     "Amcor PLC",
@@ -138,6 +135,7 @@
     "McDonald\u2019s Corp",
     "Molson Coors Beverage Co",
     "Monster Beverage",
+    "Norwegian Cruise Line",
     "Ralph Lauren Corp",
     "Simon Property Group",
     "Tapestry Inc",
