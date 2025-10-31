@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2025-12-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Nordson Corp",
-      "symbol": "NDSN",
-      "date": "2025-12-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "C3.ai",
       "symbol": "AI",
       "date": "2025-12-08",
@@ -71,6 +51,26 @@
       "sector": "TMT"
     },
     {
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2025-12-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
+      "date": "2025-12-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Costco Wholesale Corp",
       "symbol": "COST",
       "date": "2025-12-11",
@@ -87,7 +87,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-10-31T09:50:25Z",
+  "generatedAt": "2025-10-31T12:58:09Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",

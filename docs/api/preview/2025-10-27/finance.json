@@ -112,8 +112,8 @@
       "company": "Ameriprise Financial Inc",
       "symbol": "AMP",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -121,8 +121,8 @@
       "company": "Arthur J. Gallagher",
       "symbol": "AJG",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -130,8 +130,8 @@
       "company": "Coinbase",
       "symbol": "COIN",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -139,8 +139,8 @@
       "company": "Intercontinental Exchange",
       "symbol": "ICE",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -148,8 +148,8 @@
       "company": "Lincoln National Corporation",
       "symbol": "LNC",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -157,8 +157,8 @@
       "company": "Mastercard",
       "symbol": "MA",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -166,8 +166,8 @@
       "company": "S&P Global Inc",
       "symbol": "SPGI",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -175,8 +175,8 @@
       "company": "Willis Tower Watson",
       "symbol": "WTW",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -186,7 +186,7 @@
       "date": "2025-10-31",
       "bmo_amc": "7:30AM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": "7:30am",
       "ir_source_url": "https://ir.aon.com/",
       "source": "investor_relations"
@@ -195,18 +195,18 @@
       "company": "Cboe Global Markets",
       "symbol": "CBOE",
       "date": "2025-10-31",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "T. Rowe Price Group",
       "symbol": "TROW",
       "date": "2025-10-31",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
@@ -216,7 +216,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-31T09:49:29Z",
+  "generatedAt": "2025-10-31T12:57:17Z",
   "irCompanies": [
     "Aon"
   ],
