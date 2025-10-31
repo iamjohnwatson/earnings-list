@@ -64,8 +64,26 @@
       "source": "aggregator"
     },
     {
+      "company": "Qorvo",
+      "symbol": "QRVO",
+      "date": "2025-10-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Seagate",
       "symbol": "STX",
+      "date": "2025-10-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Skyworks Solutions",
+      "symbol": "SWKS",
       "date": "2025-10-28",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -346,17 +364,30 @@
       "company": "Charter Communications",
       "symbol": "CHTR",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-10-31",
+      "bmo_amc": "11:22 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:22 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     }
   ],
-  "count": 39,
+  "count": 42,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-10-31T12:57:17Z",
-  "irCompanies": [],
+  "generatedAt": "2025-10-31T15:47:44Z",
+  "irCompanies": [
+    "Take-Two Interactive"
+  ],
   "fallbackCompanies": [
     "ADP",
     "Alphabet Inc",
@@ -384,12 +415,14 @@
     "Monolithic Power",
     "Motorola",
     "NXP Semiconductors",
+    "Qorvo",
     "Reddit",
     "Roblox",
     "Roku",
     "Seagate",
     "ServiceNow",
     "SiriusXM",
+    "Skyworks Solutions",
     "Teradyne",
     "Tyler Tech",
     "Verizon",

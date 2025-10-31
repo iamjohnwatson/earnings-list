@@ -186,7 +186,7 @@
       "date": "2025-10-31",
       "bmo_amc": "7:30AM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "ir_time_label": "7:30am",
       "ir_source_url": "https://ir.aon.com/",
       "source": "investor_relations"
@@ -201,24 +201,36 @@
       "source": "aggregator"
     },
     {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2025-10-31",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations"
+    },
+    {
       "company": "T. Rowe Price Group",
       "symbol": "TROW",
       "date": "2025-10-31",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 24,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-31T12:57:17Z",
+  "generatedAt": "2025-10-31T15:47:44Z",
   "irCompanies": [
-    "Aon"
+    "Aon",
+    "Citizens Financial"
   ],
   "fallbackCompanies": [
     "Ameriprise Financial Inc",
