@@ -148,8 +148,8 @@
       "company": "First Solar",
       "symbol": "FSLR",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -193,8 +193,8 @@
       "company": "Weyerhaeuser",
       "symbol": "WY",
       "date": "2025-10-30",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -274,7 +274,7 @@
   "count": 30,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-11-01T01:27:47Z",
+  "generatedAt": "2025-11-01T04:15:49Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
