@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2025-11-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2025-11-11",
@@ -25,16 +13,16 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2025-11-11",
-      "bmo_amc": "8:00 AM EST",
-      "nasdaq_time_label": null,
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2025-11-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EST",
-      "ir_source_url": "https://investor.honeywell.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
       "company": "Instacart",
@@ -191,17 +179,16 @@
       "sector": "Resources"
     }
   ],
-  "count": 18,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-01T12:54:29Z",
+  "generatedAt": "2025-11-01T15:47:20Z",
   "irCompanies": [
     "Disney",
     "Fortive Corp",
-    "Honeywell",
     "Manulife",
     "Tencent Music"
   ],
