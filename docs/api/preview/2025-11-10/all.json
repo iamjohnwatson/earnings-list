@@ -105,6 +105,18 @@
       "sector": "TMT"
     },
     {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2025-11-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Occidental Petroleum",
       "symbol": "OXY",
       "date": "2025-11-10",
@@ -155,27 +167,41 @@
       "sector": "Consumer"
     },
     {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2025-11-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "Fortive Corp",
+      "symbol": "FTV",
+      "date": "2025-11-11",
+      "bmo_amc": "4:05 PM CDT",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
+      "ir_time_label": "4:05 pm CDT",
+      "ir_source_url": "https://investors.fortive.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2025-11-11",
+      "bmo_amc": "8:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EST",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 16,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-10-31T21:47:53Z",
+  "generatedAt": "2025-11-01T01:28:05Z",
   "irCompanies": [
     "Disney",
+    "Fortive Corp",
+    "Honeywell",
     "Manulife",
     "Tencent Music"
   ],

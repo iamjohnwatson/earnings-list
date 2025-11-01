@@ -121,8 +121,8 @@
       "company": "Arthur J. Gallagher",
       "symbol": "AJG",
       "date": "2025-10-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -130,8 +130,8 @@
       "company": "Coinbase",
       "symbol": "COIN",
       "date": "2025-10-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -184,12 +184,10 @@
       "company": "Aon",
       "symbol": "AON",
       "date": "2025-10-31",
-      "bmo_amc": "7:30AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "7:30am",
-      "ir_source_url": "https://ir.aon.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Cboe Global Markets",
@@ -201,39 +199,26 @@
       "source": "aggregator"
     },
     {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2025-10-31",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations"
-    },
-    {
       "company": "T. Rowe Price Group",
       "symbol": "TROW",
       "date": "2025-10-31",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 23,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-10-31T21:47:33Z",
-  "irCompanies": [
-    "Aon",
-    "Citizens Financial"
-  ],
+  "generatedAt": "2025-11-01T01:27:47Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Ameriprise Financial Inc",
+    "Aon",
     "Arch Capital Group",
     "Arthur J. Gallagher",
     "Brown & Brown",
