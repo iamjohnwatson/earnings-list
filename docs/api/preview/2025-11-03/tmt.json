@@ -57,6 +57,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2025-11-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Arista Networks",
       "symbol": "ANET",
       "date": "2025-11-04",
@@ -415,10 +426,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 44,
+  "count": 45,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-03T06:55:56Z",
+  "generatedAt": "2025-11-03T09:51:26Z",
   "irCompanies": [
     "AT&T",
     "Gen Digital",
@@ -428,7 +439,8 @@
     "NYT",
     "Qualcomm",
     "Rivian",
-    "Take-Two Interactive"
+    "Take-Two Interactive",
+    "Verizon"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
