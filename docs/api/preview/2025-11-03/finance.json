@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Fiserv",
+      "symbol": "FI",
+      "date": "2025-11-03",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EST",
+      "ir_source_url": "https://investors.fiserv.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Apollo",
       "symbol": "APO",
       "date": "2025-11-04",
@@ -156,24 +167,25 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2025-11-07",
-      "bmo_amc": "10:35 AM EDT",
+      "bmo_amc": "10:35 AM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:35 am EDT",
+      "ir_time_label": "10:35 am EST",
       "ir_source_url": "https://investor.pnc.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-11-03T12:58:43Z",
+  "generatedAt": "2025-11-03T15:49:04Z",
   "irCompanies": [
     "Apollo",
     "Bank of America",
+    "Fiserv",
     "Global Payments",
     "PNC Financial",
     "Wells Fargo"
