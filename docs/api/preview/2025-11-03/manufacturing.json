@@ -21,6 +21,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2025-11-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Realty Income Corp",
       "symbol": "O",
       "date": "2025-11-03",
@@ -240,15 +251,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 25,
+  "count": 26,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-03T18:52:29Z",
+  "generatedAt": "2025-11-03T21:47:20Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "Bombardier",
     "Emerson Electric Co",
     "Johnson Controls International PLC",
+    "Lennar Corp",
     "Parker-Hannifin Corp",
     "UPS",
     "Veralto Corp"

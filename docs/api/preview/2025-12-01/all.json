@@ -1,56 +1,6 @@
 {
   "records": [
     {
-      "company": "Zscaler",
-      "symbol": "ZS",
-      "date": "2025-12-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2025-12-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Salesforce",
-      "symbol": "CRM",
-      "date": "2025-12-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "SentinelOne",
-      "symbol": "S",
-      "date": "2025-12-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2025-12-01",
@@ -66,10 +16,12 @@
       "company": "Scotiabank",
       "symbol": "BNS",
       "date": "2025-12-02",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:15 A.M. ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "8:15 a.m. ET",
+      "ir_source_url": "https://www.scotiabank.com/ca/en/about/investors-shareholders.html",
+      "source": "investor_relations",
       "sector": "Finance"
     },
     {
@@ -121,6 +73,56 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "Zscaler",
+      "symbol": "ZS",
+      "date": "2025-12-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Marvell",
+      "symbol": "MRVL",
+      "date": "2025-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Salesforce",
+      "symbol": "CRM",
+      "date": "2025-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "SentinelOne",
+      "symbol": "S",
+      "date": "2025-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "Campbell Soup Co",
@@ -211,8 +213,9 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-03T18:53:08Z",
+  "generatedAt": "2025-11-03T21:47:56Z",
   "irCompanies": [
+    "Scotiabank",
     "Truist Financial",
     "Ulta Beauty"
   ],
@@ -231,7 +234,6 @@
     "Marvell",
     "Royal Bank of Canada",
     "Salesforce",
-    "Scotiabank",
     "SentinelOne",
     "TD Bank",
     "Zscaler"
