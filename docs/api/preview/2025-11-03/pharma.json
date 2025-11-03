@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2025-11-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Hims and Hers",
       "symbol": "HIMS",
       "date": "2025-11-03",
@@ -24,10 +35,10 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-11-03",
-      "bmo_amc": "3:24 AM ET",
+      "bmo_amc": "4:34 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "3:24 am ET",
+      "ir_time_label": "4:34 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
     },
@@ -220,13 +231,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-11-03T09:51:26Z",
+  "generatedAt": "2025-11-03T12:58:42Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Bio-Techne Corp",
+    "Centene Corp",
     "IDEXX Laboratories Inc",
     "Merck",
     "Novavax",

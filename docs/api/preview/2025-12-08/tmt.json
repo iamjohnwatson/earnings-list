@@ -37,6 +37,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Synopsys",
+      "symbol": "SNPS",
+      "date": "2025-12-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Broadcom",
       "symbol": "AVGO",
       "date": "2025-12-11",
@@ -46,17 +55,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-03T09:52:12Z",
+  "generatedAt": "2025-11-03T12:59:28Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",
     "Broadcom",
     "C3.ai",
     "GameStop",
-    "Oracle"
+    "Oracle",
+    "Synopsys"
   ],
   "week": {
     "id": "2025-12-08",
