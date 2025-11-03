@@ -1,0 +1,35 @@
+{
+  "records": [
+    {
+      "company": "Comerica Inc",
+      "symbol": "CMA",
+      "date": "2026-01-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.comerica.com/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
+  "missingPublic": [
+    "CDPQ",
+    "CPPIB"
+  ],
+  "tickerCount": 85,
+  "generatedAt": "2025-11-03T06:58:10Z",
+  "irCompanies": [
+    "Comerica Inc"
+  ],
+  "fallbackCompanies": [],
+  "week": {
+    "id": "2026-01-19",
+    "start_date": "2026-01-19",
+    "end_date": "2026-01-23",
+    "label": "Week of Jan 19 to Jan 23"
+  },
+  "sector": "Finance",
+  "sectorSlug": "finance",
+  "downloadPath": "downloads/2026-01-19/earnings_finance_2026-01-19.csv"
+}
