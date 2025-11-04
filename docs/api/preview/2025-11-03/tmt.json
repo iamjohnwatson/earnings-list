@@ -258,9 +258,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.nytco.com/investors/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "PTC",
@@ -389,13 +387,12 @@
   "count": 41,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-04T06:55:00Z",
+  "generatedAt": "2025-11-04T09:50:45Z",
   "irCompanies": [
     "Gen Digital",
     "KLA Corp",
     "Lam Research",
     "Live Nation Entertainment",
-    "NYT",
     "Qualcomm",
     "Rivian",
     "Take-Two Interactive"
@@ -420,6 +417,7 @@
     "Lyft",
     "Match Group",
     "Microchip Tech",
+    "NYT",
     "News Corp",
     "Onsemi",
     "PTC",
