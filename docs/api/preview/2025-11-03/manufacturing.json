@@ -95,6 +95,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2025-11-04",
+      "bmo_amc": "10:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EST",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Stanley Black & Decker",
       "symbol": "SWK",
       "date": "2025-11-04",
@@ -209,16 +220,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-04T18:52:43Z",
+  "generatedAt": "2025-11-04T21:48:11Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "Bombardier",
     "Emerson Electric Co",
     "Johnson Controls International PLC",
-    "Parker-Hannifin Corp"
+    "Parker-Hannifin Corp",
+    "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
     "Air Lease",
