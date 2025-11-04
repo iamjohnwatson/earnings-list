@@ -4,8 +4,8 @@
       "company": "Hims and Hers",
       "symbol": "HIMS",
       "date": "2025-11-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,17 @@
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2025-11-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Kenvue",
+      "symbol": "KVUE",
+      "date": "2025-11-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +31,8 @@
       "company": "Vertex Pharmaceuticals Inc",
       "symbol": "VRTX",
       "date": "2025-11-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -46,6 +55,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2025-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Henry Schein Inc",
       "symbol": "HSIC",
       "date": "2025-11-04",
@@ -58,11 +78,22 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-11-04",
-      "bmo_amc": "4:31 AM ET",
+      "bmo_amc": "6:57 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:31 am ET",
+      "ir_time_label": "6:57 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Novavax",
+      "symbol": "NVAX",
+      "date": "2025-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.novavax.com/",
       "source": "investor_relations"
     },
     {
@@ -178,24 +209,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Kenvue",
-      "symbol": "KVUE",
-      "date": "2025-11-06",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Novavax",
       "symbol": "NVAX",
       "date": "2025-11-06",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.novavax.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Solventum Corp",
@@ -218,13 +238,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-11-04T09:50:45Z",
+  "generatedAt": "2025-11-04T12:58:16Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Bio-Techne Corp",
+    "Centene Corp",
     "Merck",
     "Novavax",
     "Solventum Corp"
@@ -241,6 +262,7 @@
     "Insulet",
     "Kenvue",
     "Mckesson Corp",
+    "Novavax",
     "Pfizer Inc",
     "STERIS plc",
     "Vertex Pharmaceuticals Inc",

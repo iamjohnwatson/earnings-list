@@ -1,11 +1,23 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2025-11-24",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-04T09:51:10Z",
+  "generatedAt": "2025-11-04T12:58:42Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Keysight Technologies Inc"
+  ],
   "week": {
     "id": "2025-11-24",
     "start_date": "2025-11-24",

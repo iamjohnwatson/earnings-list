@@ -4,8 +4,8 @@
       "company": "Corterra Energy",
       "symbol": "CTRA",
       "date": "2025-11-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,8 @@
       "company": "Diamondback Energy",
       "symbol": "FANG",
       "date": "2025-11-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +22,8 @@
       "company": "Eastman Chemical",
       "symbol": "EMN",
       "date": "2025-11-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,8 +31,8 @@
       "company": "Pinnacle West",
       "symbol": "PNW",
       "date": "2025-11-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +40,8 @@
       "company": "Public Service Enterprise Co",
       "symbol": "PEG",
       "date": "2025-11-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -49,8 +49,8 @@
       "company": "Williams Co",
       "symbol": "WMB",
       "date": "2025-11-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -106,6 +106,15 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
+      "source": "aggregator"
+    },
+    {
+      "company": "Mosaic",
+      "symbol": "MOS",
+      "date": "2025-11-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -415,10 +424,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 46,
+  "count": 47,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-11-04T09:50:46Z",
+  "generatedAt": "2025-11-04T12:58:16Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
@@ -452,6 +461,7 @@
     "Hawaiian Electric",
     "MP Materials",
     "Marathon Petroleum",
+    "Mosaic",
     "NRG Energy",
     "New Fortress Energy",
     "NuScale Power",

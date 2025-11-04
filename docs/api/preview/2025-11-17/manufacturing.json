@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
-      "date": "2025-11-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Deere",
       "symbol": "DE",
       "date": "2025-11-20",
@@ -28,15 +19,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-04T09:51:02Z",
+  "generatedAt": "2025-11-04T12:58:34Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Deere",
-    "Jacobs Solutions Inc",
-    "Keysight Technologies Inc"
+    "Jacobs Solutions Inc"
   ],
   "week": {
     "id": "2025-11-17",

@@ -4,8 +4,8 @@
       "company": "Air Lease",
       "symbol": "AL",
       "date": "2025-11-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,8 @@
       "company": "Realty Income Corp",
       "symbol": "O",
       "date": "2025-11-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -27,6 +27,17 @@
       "yahoo_time_label": "AMC",
       "ir_time_label": null,
       "ir_source_url": "https://investor.axon.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2025-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://bombardier.com/en/investors",
       "source": "investor_relations"
     },
     {
@@ -142,17 +153,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-11-06",
-      "bmo_amc": "8:00 A.M",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 a.m",
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Camden Property Trust",
       "symbol": "CPT",
       "date": "2025-11-06",
@@ -200,15 +200,6 @@
       "source": "aggregator"
     },
     {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2025-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Wynn Resorts Ltd",
       "symbol": "WYNN",
       "date": "2025-11-06",
@@ -218,10 +209,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-04T09:50:46Z",
+  "generatedAt": "2025-11-04T12:58:16Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "Bombardier",
@@ -246,7 +237,6 @@
     "Realty Income Corp",
     "Rockwell Automation Inc",
     "Stanley Black & Decker",
-    "TransDigm Group Inc",
     "Wynn Resorts Ltd"
   ],
   "week": {
