@@ -4,18 +4,18 @@
       "company": "Clorox Co",
       "symbol": "CLX",
       "date": "2025-11-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Simon Property Group",
       "symbol": "SPG",
       "date": "2025-11-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -62,9 +62,9 @@
       "company": "Yum Brands",
       "symbol": "YUM",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -125,7 +125,7 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-03T21:47:19Z",
+  "generatedAt": "2025-11-04T01:23:22Z",
   "irCompanies": [
     "Ball Corp",
     "Norwegian Cruise Line"

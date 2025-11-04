@@ -10,65 +10,21 @@
       "source": "aggregator"
     },
     {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2025-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Realty Income Corp",
       "symbol": "O",
       "date": "2025-11-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2025-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Veralto Corp",
-      "symbol": "VLTO",
-      "date": "2025-11-03",
-      "bmo_amc": "8:30AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.veralto.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Axon Enterprise Inc",
       "symbol": "AXON",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": null,
       "ir_source_url": "https://investor.axon.com/",
       "source": "investor_relations"
@@ -77,9 +33,9 @@
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -113,9 +69,9 @@
       "company": "Marriott International Inc",
       "symbol": "MAR",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -186,6 +142,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2025-11-06",
+      "bmo_amc": "8:00 A.M",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 a.m",
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Camden Property Trust",
       "symbol": "CPT",
       "date": "2025-11-06",
@@ -251,19 +218,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-03T21:47:20Z",
+  "generatedAt": "2025-11-04T01:23:21Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "Bombardier",
     "Emerson Electric Co",
     "Johnson Controls International PLC",
-    "Lennar Corp",
-    "Parker-Hannifin Corp",
-    "UPS",
-    "Veralto Corp"
+    "Parker-Hannifin Corp"
   ],
   "fallbackCompanies": [
     "Air Lease",

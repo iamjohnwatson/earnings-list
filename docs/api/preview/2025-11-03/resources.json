@@ -4,18 +4,18 @@
       "company": "Corterra Energy",
       "symbol": "CTRA",
       "date": "2025-11-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Diamondback Energy",
       "symbol": "FANG",
       "date": "2025-11-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -49,9 +49,9 @@
       "company": "Williams Co",
       "symbol": "WMB",
       "date": "2025-11-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -76,9 +76,9 @@
       "company": "Corteva",
       "symbol": "CTVA",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -94,18 +94,18 @@
       "company": "Exelon Corp",
       "symbol": "EXC",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Marathon Petroleum",
       "symbol": "MPC",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -121,9 +121,9 @@
       "company": "Suncor Energy",
       "symbol": "SU",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -418,7 +418,7 @@
   "count": 46,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-11-03T21:47:19Z",
+  "generatedAt": "2025-11-04T01:23:22Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",

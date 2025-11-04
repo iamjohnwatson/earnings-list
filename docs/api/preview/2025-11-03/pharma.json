@@ -1,23 +1,12 @@
 {
   "records": [
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2025-11-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Hims and Hers",
       "symbol": "HIMS",
       "date": "2025-11-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -27,46 +16,33 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.idexx.com/en/about-idexx/investors/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-11-03",
-      "bmo_amc": "3:48 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:48 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Vertex Pharmaceuticals Inc",
       "symbol": "VRTX",
       "date": "2025-11-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Aflac Inc",
       "symbol": "AFL",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Amgen Inc",
       "symbol": "AMGN",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -82,9 +58,9 @@
       "company": "Pfizer Inc",
       "symbol": "PFE",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -100,9 +76,9 @@
       "company": "Zoetis",
       "symbol": "ZTS",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -231,16 +207,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-11-03T21:47:20Z",
+  "generatedAt": "2025-11-04T01:23:21Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Bio-Techne Corp",
-    "Centene Corp",
-    "IDEXX Laboratories Inc",
-    "Merck",
     "Novavax",
     "Solventum Corp"
   ],
@@ -252,6 +225,7 @@
     "Dentsply Sirona",
     "Henry Schein Inc",
     "Hims and Hers",
+    "IDEXX Laboratories Inc",
     "Insulet",
     "Kenvue",
     "Mckesson Corp",
