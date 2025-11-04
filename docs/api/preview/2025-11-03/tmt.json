@@ -46,12 +46,23 @@
       "source": "aggregator"
     },
     {
+      "company": "Equinix",
+      "symbol": "EQIX",
+      "date": "2025-11-04",
+      "bmo_amc": "5:30 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:30 pm EST",
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Gartner",
       "symbol": "IT",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -89,7 +100,7 @@
       "date": "2025-11-04",
       "bmo_amc": "2:00PM PST",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "2:00pm PST",
       "ir_source_url": "https://investors.livenationentertainment.com/",
       "source": "investor_relations"
@@ -107,9 +118,9 @@
       "company": "Pinterest",
       "symbol": "PINS",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -127,37 +138,59 @@
       "company": "Shopify",
       "symbol": "SHOP",
       "date": "2025-11-04",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Spotify",
       "symbol": "SPOT",
       "date": "2025-11-04",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Super Micro",
       "symbol": "SMCI",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-11-04",
+      "bmo_amc": "10:26 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:26 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Uber",
       "symbol": "UBER",
       "date": "2025-11-04",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Workday",
+      "symbol": "WDAY",
+      "date": "2025-11-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.workday.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Arm Holdings",
@@ -367,12 +400,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-06",
-      "bmo_amc": "4:00 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Trade Desk",
@@ -384,18 +415,20 @@
       "source": "aggregator"
     }
   ],
-  "count": 41,
+  "count": 44,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-04T12:58:16Z",
+  "generatedAt": "2025-11-04T15:50:21Z",
   "irCompanies": [
+    "Equinix",
     "Gen Digital",
     "KLA Corp",
     "Lam Research",
     "Live Nation Entertainment",
     "Qualcomm",
     "Rivian",
-    "Take-Two Interactive"
+    "Take-Two Interactive",
+    "Workday"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -429,6 +462,7 @@
     "Snap",
     "Spotify",
     "Super Micro",
+    "Take-Two Interactive",
     "Trade Desk",
     "Trimble",
     "Uber"

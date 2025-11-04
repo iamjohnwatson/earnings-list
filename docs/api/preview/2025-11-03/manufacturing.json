@@ -44,9 +44,9 @@
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
       "date": "2025-11-04",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -71,18 +71,18 @@
       "company": "Leidos Holdings Inc",
       "symbol": "LDOS",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Marriott International Inc",
       "symbol": "MAR",
       "date": "2025-11-04",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -212,7 +212,7 @@
   "count": 22,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-04T12:58:16Z",
+  "generatedAt": "2025-11-04T15:50:21Z",
   "irCompanies": [
     "Axon Enterprise Inc",
     "Bombardier",
