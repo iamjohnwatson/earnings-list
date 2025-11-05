@@ -41,7 +41,7 @@
       "symbol": "AFL",
       "date": "2025-11-04",
       "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
@@ -50,7 +50,7 @@
       "symbol": "AMGN",
       "date": "2025-11-04",
       "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
@@ -58,8 +58,8 @@
       "company": "Henry Schein Inc",
       "symbol": "HSIC",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -67,8 +67,8 @@
       "company": "Pfizer Inc",
       "symbol": "PFE",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -77,7 +77,7 @@
       "symbol": "WAT",
       "date": "2025-11-04",
       "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
@@ -85,8 +85,8 @@
       "company": "Zoetis",
       "symbol": "ZTS",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -132,10 +132,10 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-11-05",
-      "bmo_amc": "2:18 AM ET",
+      "bmo_amc": "6:22 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "2:18 am ET",
+      "ir_time_label": "6:22 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
     },
@@ -221,7 +221,7 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-11-05T09:50:38Z",
+  "generatedAt": "2025-11-05T12:58:30Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Bio-Techne Corp",

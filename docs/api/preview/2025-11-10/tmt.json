@@ -10,20 +10,20 @@
       "source": "aggregator"
     },
     {
-      "company": "Grab",
-      "symbol": "GRAB",
-      "date": "2025-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Tower Semiconductor",
       "symbol": "TSEM",
       "date": "2025-11-10",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Interpublic Group of Companies",
+      "symbol": "IPG",
+      "date": "2025-11-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +40,8 @@
       "company": "Cisco Systems",
       "symbol": "CSCO",
       "date": "2025-11-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -98,7 +98,7 @@
   "count": 10,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-05T09:50:47Z",
+  "generatedAt": "2025-11-05T12:58:39Z",
   "irCompanies": [
     "Disney",
     "Tencent Music"
@@ -108,7 +108,7 @@
     "Cisco Systems",
     "CoreWeave",
     "GlobalFoundries",
-    "Grab",
+    "Interpublic Group of Companies",
     "JD.com",
     "Sea Limited",
     "Tower Semiconductor"

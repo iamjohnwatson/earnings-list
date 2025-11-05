@@ -58,8 +58,8 @@
       "company": "AES Corp",
       "symbol": "AES",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -67,8 +67,8 @@
       "company": "Archer-Daniels-Midland",
       "symbol": "ADM",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -77,7 +77,7 @@
       "symbol": "CTVA",
       "date": "2025-11-04",
       "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
@@ -86,7 +86,7 @@
       "symbol": "ES",
       "date": "2025-11-04",
       "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
@@ -94,8 +94,8 @@
       "company": "Exelon Corp",
       "symbol": "EXC",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -104,7 +104,7 @@
       "symbol": "MPC",
       "date": "2025-11-04",
       "bmo_amc": "TAS",
-      "nasdaq_time_label": "time-pre-market",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
@@ -112,8 +112,8 @@
       "company": "Mosaic",
       "symbol": "MOS",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -121,8 +121,8 @@
       "company": "Ovintiv",
       "symbol": "OVV",
       "date": "2025-11-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -131,7 +131,7 @@
       "symbol": "SU",
       "date": "2025-11-04",
       "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
@@ -427,7 +427,7 @@
   "count": 47,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-11-05T09:50:37Z",
+  "generatedAt": "2025-11-05T12:58:30Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
