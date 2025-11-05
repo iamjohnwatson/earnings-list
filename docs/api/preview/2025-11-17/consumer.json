@@ -7,7 +7,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lowe\u2019s Cos Inc",
@@ -58,10 +60,11 @@
   "count": 6,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-04T21:48:30Z",
-  "irCompanies": [],
+  "generatedAt": "2025-11-05T01:27:16Z",
+  "irCompanies": [
+    "Home Depot Inc"
+  ],
   "fallbackCompanies": [
-    "Home Depot Inc",
     "Lowe\u2019s Cos Inc",
     "Ross Stores",
     "TJX Cos Inc",

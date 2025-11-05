@@ -25,20 +25,7 @@
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.axon.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Eaton Corporation PLC",
@@ -93,17 +80,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2025-11-04",
-      "bmo_amc": "10:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EST",
-      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Stanley Black & Decker",
@@ -164,6 +140,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2025-11-06",
+      "bmo_amc": "8:00 A.M",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 a.m",
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Camden Property Trust",
       "symbol": "CPT",
       "date": "2025-11-06",
@@ -220,21 +207,20 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-04T21:48:11Z",
+  "generatedAt": "2025-11-05T01:26:57Z",
   "irCompanies": [
-    "Axon Enterprise Inc",
     "Bombardier",
     "Emerson Electric Co",
     "Johnson Controls International PLC",
-    "Parker-Hannifin Corp",
-    "Southwest Airlines Co"
+    "Parker-Hannifin Corp"
   ],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
+    "Axon Enterprise Inc",
     "Camden Property Trust",
     "Eaton Corporation PLC",
     "Expedia Group Inc",

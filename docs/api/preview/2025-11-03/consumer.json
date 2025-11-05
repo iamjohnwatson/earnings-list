@@ -22,23 +22,10 @@
       "company": "Ball Corp",
       "symbol": "BALL",
       "date": "2025-11-04",
-      "bmo_amc": "6:00 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "6:00 am EST",
-      "ir_source_url": "https://investors.ball.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "International Flavours & Fragrances",
@@ -62,12 +49,10 @@
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2025-11-04",
-      "bmo_amc": "8:00 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am EST",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Yum Brands",
@@ -133,23 +118,21 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-04T21:48:12Z",
-  "irCompanies": [
-    "Ball Corp",
-    "Home Depot Inc",
-    "Norwegian Cruise Line"
-  ],
+  "generatedAt": "2025-11-05T01:26:57Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Amcor PLC",
+    "Ball Corp",
     "Clorox Co",
     "DoorDash",
     "International Flavours & Fragrances",
     "McDonald\u2019s Corp",
     "Molson Coors Beverage Co",
     "Monster Beverage",
+    "Norwegian Cruise Line",
     "Ralph Lauren Corp",
     "Simon Property Group",
     "Tapestry Inc",

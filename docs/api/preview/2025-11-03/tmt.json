@@ -46,17 +46,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Equinix",
-      "symbol": "EQIX",
-      "date": "2025-11-04",
-      "bmo_amc": "5:30 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:30 pm EST",
-      "ir_source_url": "https://investor.equinix.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Gartner",
       "symbol": "IT",
       "date": "2025-11-04",
@@ -84,37 +73,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Lam Research",
-      "symbol": "LRCX",
-      "date": "2025-11-04",
-      "bmo_amc": "9:30AM PST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:30am PST",
-      "ir_source_url": "https://investor.lamresearch.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2025-11-04",
-      "bmo_amc": "2:00PM PST",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "2:00pm PST",
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.marvell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Match Group",
@@ -141,9 +106,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://rivian.com/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Shopify",
@@ -173,17 +136,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-11-04",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Uber",
       "symbol": "UBER",
       "date": "2025-11-04",
@@ -191,17 +143,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Workday",
-      "symbol": "WDAY",
-      "date": "2025-11-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.workday.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Arm Holdings",
@@ -275,6 +216,17 @@
       "yahoo_time_label": null,
       "ir_time_label": "12:00 pm PST",
       "ir_source_url": "https://ir.kla.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2025-11-05",
+      "bmo_amc": "10:00AM PST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00am PST",
+      "ir_source_url": "https://investors.livenationentertainment.com/",
       "source": "investor_relations"
     },
     {
@@ -411,10 +363,12 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Trade Desk",
@@ -426,21 +380,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 45,
+  "count": 41,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-04T21:48:12Z",
+  "generatedAt": "2025-11-05T01:26:57Z",
   "irCompanies": [
-    "Equinix",
     "Gen Digital",
     "KLA Corp",
-    "Lam Research",
     "Live Nation Entertainment",
-    "Marvell",
     "Qualcomm",
-    "Rivian",
-    "Take-Two Interactive",
-    "Workday"
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -458,6 +407,7 @@
     "Interpublic Group of Companies",
     "Iron Mountain",
     "Kyndryl",
+    "Live Nation Entertainment",
     "Lucid",
     "Lyft",
     "Match Group",
@@ -469,12 +419,12 @@
     "Palantir",
     "Paycom",
     "Pinterest",
+    "Rivian",
     "SBA Communications",
     "Shopify",
     "Snap",
     "Spotify",
     "Super Micro",
-    "Take-Two Interactive",
     "Trade Desk",
     "Trimble",
     "Uber"
