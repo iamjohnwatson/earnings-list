@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "company": "Instacart",
-      "symbol": "CART",
-      "date": "2025-11-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Tyson Foods",
-      "symbol": "TSN",
-      "date": "2025-11-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Manulife",
       "symbol": "MFC",
       "date": "2025-11-12",
@@ -177,6 +157,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Instacart",
+      "symbol": "CART",
+      "date": "2025-11-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tyson Foods",
+      "symbol": "TSN",
+      "date": "2025-11-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 17,
@@ -185,7 +185,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-05T01:27:07Z",
+  "generatedAt": "2025-11-05T04:18:10Z",
   "irCompanies": [
     "Disney",
     "Fortive Corp",
