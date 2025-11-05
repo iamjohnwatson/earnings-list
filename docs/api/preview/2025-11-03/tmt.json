@@ -295,6 +295,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-11-05",
+      "bmo_amc": "10:24 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:24 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Trimble",
       "symbol": "TRMB",
       "date": "2025-11-05",
@@ -363,12 +374,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-06",
-      "bmo_amc": "4:00 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Trade Desk",
@@ -380,10 +389,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 41,
+  "count": 42,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-05T12:58:29Z",
+  "generatedAt": "2025-11-05T15:50:35Z",
   "irCompanies": [
     "Gen Digital",
     "KLA Corp",
@@ -425,6 +434,7 @@
     "Snap",
     "Spotify",
     "Super Micro",
+    "Take-Two Interactive",
     "Trade Desk",
     "Trimble",
     "Uber"

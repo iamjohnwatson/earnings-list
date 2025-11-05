@@ -10,17 +10,29 @@
       "ir_time_label": null,
       "ir_source_url": "https://www.manulife.com/en/investors/index.html",
       "source": "investor_relations"
+    },
+    {
+      "company": "Synchrony Financial",
+      "symbol": "SYF",
+      "date": "2025-11-12",
+      "bmo_amc": "10:10 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:10 AM EST",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-11-05T12:58:39Z",
+  "generatedAt": "2025-11-05T15:50:42Z",
   "irCompanies": [
-    "Manulife"
+    "Manulife",
+    "Synchrony Financial"
   ],
   "fallbackCompanies": [],
   "week": {
