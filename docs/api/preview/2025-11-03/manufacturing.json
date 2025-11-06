@@ -22,9 +22,9 @@
       "company": "Axon Enterprise Inc",
       "symbol": "AXON",
       "date": "2025-11-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -58,9 +58,9 @@
       "company": "Leidos Holdings Inc",
       "symbol": "LDOS",
       "date": "2025-11-04",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -91,26 +91,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Emerson Electric Co",
       "symbol": "EMR",
       "date": "2025-11-05",
-      "bmo_amc": "6:55 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "6:55 AM EST",
-      "ir_source_url": "https://ir.emerson.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Frontier Holdings",
@@ -137,29 +124,27 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.johnsoncontrols.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2025-11-05",
-      "bmo_amc": "10:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EST",
-      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Airbnb Inc",
       "symbol": "ABNB",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2025-11-06",
+      "bmo_amc": "8:00 A.M",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 a.m",
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Camden Property Trust",
@@ -185,7 +170,7 @@
       "date": "2025-11-06",
       "bmo_amc": "11:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "11:00 am ET",
       "ir_source_url": "https://investors.parker.com/",
       "source": "investor_relations"
@@ -203,9 +188,9 @@
       "company": "Rockwell Automation Inc",
       "symbol": "ROK",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -218,16 +203,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-05T21:47:37Z",
+  "generatedAt": "2025-11-06T01:24:07Z",
   "irCompanies": [
     "Bombardier",
-    "Emerson Electric Co",
-    "Johnson Controls International PLC",
-    "Parker-Hannifin Corp",
-    "Southwest Airlines Co"
+    "Parker-Hannifin Corp"
   ],
   "fallbackCompanies": [
     "Air Lease",
@@ -235,11 +217,13 @@
     "Axon Enterprise Inc",
     "Camden Property Trust",
     "Eaton Corporation PLC",
+    "Emerson Electric Co",
     "Expedia Group Inc",
     "Expeditors International of Washington Inc",
     "Frontier Holdings",
     "Harley Davidson",
     "Host Hotels & Resorts Inc",
+    "Johnson Controls International PLC",
     "Leidos Holdings Inc",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",

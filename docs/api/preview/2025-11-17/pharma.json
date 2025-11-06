@@ -15,22 +15,23 @@
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2025-11-18",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "5:45 AM CST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "5:45 AM CST",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-11-05T21:47:57Z",
+  "generatedAt": "2025-11-06T01:24:26Z",
   "irCompanies": [
-    "Boston Scientific Corp"
-  ],
-  "fallbackCompanies": [
+    "Boston Scientific Corp",
     "Medtronic PLC"
   ],
+  "fallbackCompanies": [],
   "week": {
     "id": "2025-11-17",
     "start_date": "2025-11-17",

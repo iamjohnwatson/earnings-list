@@ -40,18 +40,18 @@
       "company": "Arista Networks",
       "symbol": "ANET",
       "date": "2025-11-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Gartner",
       "symbol": "IT",
       "date": "2025-11-04",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -76,9 +76,9 @@
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2025-11-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -94,9 +94,9 @@
       "company": "Pinterest",
       "symbol": "PINS",
       "date": "2025-11-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -130,9 +130,9 @@
       "company": "Super Micro",
       "symbol": "SMCI",
       "date": "2025-11-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -208,28 +208,6 @@
       "source": "aggregator"
     },
     {
-      "company": "KLA Corp",
-      "symbol": "KLAC",
-      "date": "2025-11-05",
-      "bmo_amc": "12:00 PM PST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "12:00 pm PST",
-      "ir_source_url": "https://ir.kla.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2025-11-05",
-      "bmo_amc": "10:00AM PST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00am PST",
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Lucid",
       "symbol": "LCID",
       "date": "2025-11-05",
@@ -278,12 +256,10 @@
       "company": "Qualcomm",
       "symbol": "QCOM",
       "date": "2025-11-05",
-      "bmo_amc": "1:45 PM PT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "1:45 PM PT",
-      "ir_source_url": "https://investor.qualcomm.com/overview/default.aspx",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Snap",
@@ -293,17 +269,6 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-11-05",
-      "bmo_amc": "4:15 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:15 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
     },
     {
       "company": "Trimble",
@@ -327,9 +292,9 @@
       "company": "Datadog",
       "symbol": "DDOG",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -356,9 +321,9 @@
       "company": "Microchip Tech",
       "symbol": "MCHP",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -374,10 +339,12 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:15 PM ET",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
+      "yahoo_time_label": "AMC",
+      "ir_time_label": "4:15 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Trade Desk",
@@ -389,15 +356,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 42,
+  "count": 39,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-05T21:47:37Z",
+  "generatedAt": "2025-11-06T01:24:06Z",
   "irCompanies": [
     "Gen Digital",
-    "KLA Corp",
-    "Live Nation Entertainment",
-    "Qualcomm",
     "Take-Two Interactive"
   ],
   "fallbackCompanies": [
@@ -428,13 +392,13 @@
     "Palantir",
     "Paycom",
     "Pinterest",
+    "Qualcomm",
     "Rivian",
     "SBA Communications",
     "Shopify",
     "Snap",
     "Spotify",
     "Super Micro",
-    "Take-Two Interactive",
     "Trade Desk",
     "Trimble",
     "Uber"
