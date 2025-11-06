@@ -81,9 +81,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://thewaltdisneycompany.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "JD.com",
@@ -98,15 +96,15 @@
   "count": 10,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-06T15:52:09Z",
+  "generatedAt": "2025-11-06T18:53:42Z",
   "irCompanies": [
-    "Disney",
     "Tencent Music"
   ],
   "fallbackCompanies": [
     "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
+    "Disney",
     "GlobalFoundries",
     "Interpublic Group of Companies",
     "JD.com",

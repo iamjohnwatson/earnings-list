@@ -298,6 +298,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Disney",
+      "symbol": "DIS",
+      "date": "2025-11-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://thewaltdisneycompany.com/investor-relations/",
+      "source": "investor_relations"
+    },
+    {
       "company": "EPAM",
       "symbol": "EPAM",
       "date": "2025-11-06",
@@ -312,7 +323,7 @@
       "date": "2025-11-06",
       "bmo_amc": "10:30 AM ET",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "10:30 am ET",
       "ir_source_url": "https://investor.gendigital.com/overview/default.aspx",
       "source": "investor_relations"
@@ -350,10 +361,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-06",
-      "bmo_amc": "10:28 AM ET",
+      "bmo_amc": "1:28 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "10:28 AM ET",
+      "ir_time_label": "1:28 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -378,11 +389,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 41,
+  "count": 42,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-06T15:52:00Z",
+  "generatedAt": "2025-11-06T18:53:34Z",
   "irCompanies": [
+    "Disney",
     "Gen Digital",
     "Intuit",
     "Take-Two Interactive",
