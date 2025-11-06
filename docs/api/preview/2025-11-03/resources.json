@@ -265,9 +265,9 @@
       "company": "Alliant Energy",
       "symbol": "LNT",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -292,9 +292,9 @@
       "company": "ConocoPhillips",
       "symbol": "COP",
       "date": "2025-11-06",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -346,9 +346,9 @@
       "company": "NRG Energy",
       "symbol": "NRG",
       "date": "2025-11-06",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -373,18 +373,18 @@
       "company": "TC Energy",
       "symbol": "TRP",
       "date": "2025-11-06",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Vistra Corp",
       "symbol": "VST",
       "date": "2025-11-06",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -427,7 +427,7 @@
   "count": 47,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-11-06T12:57:37Z",
+  "generatedAt": "2025-11-06T15:51:59Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",

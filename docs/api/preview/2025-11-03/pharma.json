@@ -148,11 +148,22 @@
       "company": "Becton Dickinson and Co",
       "symbol": "BDX",
       "date": "2025-11-06",
-      "bmo_amc": "8:00 AM ET",
+      "bmo_amc": "6:30 AM EST",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:00 AM ET",
+      "yahoo_time_label": null,
+      "ir_time_label": "6:30 AM EST",
       "ir_source_url": "https://investors.bd.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2025-11-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
       "source": "investor_relations"
     },
     {
@@ -171,16 +182,18 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.insulet.com/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-11-06",
-      "bmo_amc": "6:35 AM ET",
+      "bmo_amc": "10:34 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "6:35 am ET",
+      "ir_time_label": "10:34 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
     },
@@ -216,12 +229,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-11-06T12:57:37Z",
+  "generatedAt": "2025-11-06T15:51:59Z",
   "irCompanies": [
     "Becton Dickinson and Co",
+    "Centene Corp",
+    "Insulet",
     "Merck",
     "Novavax",
     "Solventum Corp"
@@ -236,7 +251,6 @@
     "Henry Schein Inc",
     "Hims and Hers",
     "IDEXX Laboratories Inc",
-    "Insulet",
     "Kenvue",
     "Mckesson Corp",
     "Pfizer Inc",

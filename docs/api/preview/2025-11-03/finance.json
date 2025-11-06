@@ -109,6 +109,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Fiserv",
+      "symbol": "FI",
+      "date": "2025-11-06",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EST",
+      "ir_source_url": "https://investors.fiserv.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2025-11-06",
@@ -149,14 +160,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-11-06T12:57:37Z",
+  "generatedAt": "2025-11-06T15:51:59Z",
   "irCompanies": [
+    "Fiserv",
     "PNC Financial",
     "Wells Fargo"
   ],

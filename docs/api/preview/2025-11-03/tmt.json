@@ -292,9 +292,9 @@
       "company": "Datadog",
       "symbol": "DDOG",
       "date": "2025-11-06",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -315,6 +315,17 @@
       "yahoo_time_label": null,
       "ir_time_label": "10:30 am ET",
       "ir_source_url": "https://investor.gendigital.com/overview/default.aspx",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2025-11-06",
+      "bmo_amc": "9:41 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:41 AM EST",
+      "ir_source_url": "https://investors.intuit.com/",
       "source": "investor_relations"
     },
     {
@@ -339,10 +350,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-06",
-      "bmo_amc": "4:15 PM ET",
+      "bmo_amc": "10:28 AM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "4:15 PM ET",
+      "ir_time_label": "10:28 AM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -350,19 +361,32 @@
       "company": "Trade Desk",
       "symbol": "TTD",
       "date": "2025-11-06",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Workday",
+      "symbol": "WDAY",
+      "date": "2025-11-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.workday.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 39,
+  "count": 41,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-06T12:57:37Z",
+  "generatedAt": "2025-11-06T15:52:00Z",
   "irCompanies": [
     "Gen Digital",
-    "Take-Two Interactive"
+    "Intuit",
+    "Take-Two Interactive",
+    "Workday"
   ],
   "fallbackCompanies": [
     "Akamai Technologies",
