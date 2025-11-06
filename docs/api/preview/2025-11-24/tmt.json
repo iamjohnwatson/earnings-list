@@ -28,15 +28,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Crowdstrike",
-      "symbol": "CRWD",
-      "date": "2025-11-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Dell",
       "symbol": "DELL",
       "date": "2025-11-25",
@@ -49,8 +40,8 @@
       "company": "HP Inc",
       "symbol": "HPQ",
       "date": "2025-11-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -75,17 +66,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 8,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-06T09:50:47Z",
+  "generatedAt": "2025-11-06T12:58:04Z",
   "irCompanies": [
     "Workday"
   ],
   "fallbackCompanies": [
     "Analog Devices",
     "Autodesk",
-    "Crowdstrike",
     "Dell",
     "HP Inc",
     "VinFast",
