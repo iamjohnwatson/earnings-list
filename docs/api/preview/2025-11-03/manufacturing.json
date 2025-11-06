@@ -194,6 +194,17 @@
       "source": "aggregator"
     },
     {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2025-11-06",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Wynn Resorts Ltd",
       "symbol": "WYNN",
       "date": "2025-11-06",
@@ -203,13 +214,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-06T18:53:33Z",
+  "generatedAt": "2025-11-06T21:48:47Z",
   "irCompanies": [
     "Bombardier",
-    "Parker-Hannifin Corp"
+    "Parker-Hannifin Corp",
+    "UPS"
   ],
   "fallbackCompanies": [
     "Air Lease",
