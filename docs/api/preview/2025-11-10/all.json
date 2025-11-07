@@ -1,70 +1,6 @@
 {
   "records": [
     {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2025-11-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Synchrony Financial",
-      "symbol": "SYF",
-      "date": "2025-11-12",
-      "bmo_amc": "10:10 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:10 AM EST",
-      "ir_source_url": "https://investors.synchrony.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Instacart",
-      "symbol": "CART",
-      "date": "2025-11-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Tyson Foods",
-      "symbol": "TSN",
-      "date": "2025-11-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Occidental Petroleum",
-      "symbol": "OXY",
-      "date": "2025-11-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2025-11-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2025-11-11",
@@ -109,6 +45,70 @@
       "ir_source_url": "https://investors.solventum.com/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "Occidental Petroleum",
+      "symbol": "OXY",
+      "date": "2025-11-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2025-11-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Instacart",
+      "symbol": "CART",
+      "date": "2025-11-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tyson Foods",
+      "symbol": "TSN",
+      "date": "2025-11-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2025-11-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Synchrony Financial",
+      "symbol": "SYF",
+      "date": "2025-11-12",
+      "bmo_amc": "10:10 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:10 AM EST",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
       "company": "CoreWeave",
@@ -221,7 +221,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-07T18:52:45Z",
+  "generatedAt": "2025-11-07T21:45:54Z",
   "irCompanies": [
     "Disney",
     "Fortive Corp",
