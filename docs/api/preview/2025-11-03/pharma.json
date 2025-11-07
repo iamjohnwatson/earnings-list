@@ -148,23 +148,10 @@
       "company": "Becton Dickinson and Co",
       "symbol": "BDX",
       "date": "2025-11-06",
-      "bmo_amc": "6:30 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "6:30 AM EST",
-      "ir_source_url": "https://investors.bd.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2025-11-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Dentsply Sirona",
@@ -182,20 +169,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.insulet.com/overview/default.aspx",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-11-06",
-      "bmo_amc": "2:10 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:10 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Novavax",
@@ -204,20 +178,16 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.novavax.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Solventum Corp",
       "symbol": "SOLV",
       "date": "2025-11-06",
-      "bmo_amc": "4:30 PM EST",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 pm EST",
-      "ir_source_url": "https://investors.solventum.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Viatris",
@@ -229,21 +199,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-11-06T21:48:47Z",
-  "irCompanies": [
-    "Becton Dickinson and Co",
-    "Centene Corp",
-    "Insulet",
-    "Merck",
-    "Novavax",
-    "Solventum Corp"
-  ],
+  "generatedAt": "2025-11-07T01:25:04Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
+    "Becton Dickinson and Co",
     "Bio-Techne Corp",
     "Cencora Inc",
     "Charles River Labs",
@@ -251,10 +215,13 @@
     "Henry Schein Inc",
     "Hims and Hers",
     "IDEXX Laboratories Inc",
+    "Insulet",
     "Kenvue",
     "Mckesson Corp",
+    "Novavax",
     "Pfizer Inc",
     "STERIS plc",
+    "Solventum Corp",
     "Vertex Pharmaceuticals Inc",
     "Viatris",
     "Waters Corp",

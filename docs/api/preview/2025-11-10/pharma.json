@@ -1,10 +1,24 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2025-11-12",
+      "bmo_amc": "11:20 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:20 am EST",
+      "ir_source_url": "https://investors.solventum.com/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-11-06T21:48:55Z",
-  "irCompanies": [],
+  "generatedAt": "2025-11-07T01:25:15Z",
+  "irCompanies": [
+    "Solventum Corp"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2025-11-10",

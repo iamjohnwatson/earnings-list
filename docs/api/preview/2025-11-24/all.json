@@ -31,16 +31,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
-      "date": "2025-11-24",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Zoom",
       "symbol": "ZM",
       "date": "2025-11-24",
@@ -107,7 +97,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.workday.com/",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -119,6 +111,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2025-11-24",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 12,
@@ -127,8 +129,10 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-06T21:49:14Z",
-  "irCompanies": [],
+  "generatedAt": "2025-11-07T01:25:34Z",
+  "irCompanies": [
+    "Workday"
+  ],
   "fallbackCompanies": [
     "Agilent",
     "Analog Devices",
@@ -140,7 +144,6 @@
     "J.M. Smucker Co",
     "Keysight Technologies Inc",
     "VinFast",
-    "Workday",
     "Zoom"
   ],
   "week": {

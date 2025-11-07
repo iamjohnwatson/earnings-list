@@ -130,21 +130,10 @@
       "company": "Airbnb Inc",
       "symbol": "ABNB",
       "date": "2025-11-06",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-11-06",
-      "bmo_amc": "8:00 A.M",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 a.m",
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Camden Property Trust",
@@ -159,21 +148,19 @@
       "company": "Expedia Group Inc",
       "symbol": "EXPE",
       "date": "2025-11-06",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Parker-Hannifin Corp",
       "symbol": "PH",
       "date": "2025-11-06",
-      "bmo_amc": "7:30 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "7:30 am EST",
-      "ir_source_url": "https://investors.parker.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Peloton",
@@ -194,17 +181,6 @@
       "source": "aggregator"
     },
     {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2025-11-06",
-      "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am ET",
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Wynn Resorts Ltd",
       "symbol": "WYNN",
       "date": "2025-11-06",
@@ -214,15 +190,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 21,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-06T21:48:47Z",
-  "irCompanies": [
-    "Bombardier",
-    "Parker-Hannifin Corp",
-    "UPS"
-  ],
+  "generatedAt": "2025-11-07T01:25:05Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
@@ -239,6 +211,7 @@
     "Leidos Holdings Inc",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",
+    "Parker-Hannifin Corp",
     "Peloton",
     "Realty Income Corp",
     "Rockwell Automation Inc",
