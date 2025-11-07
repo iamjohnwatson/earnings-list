@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2025-12-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "General Mills",
       "symbol": "GIS",
       "date": "2025-12-17",
@@ -121,6 +111,16 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2025-12-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Verizon",
       "symbol": "VZ",
       "date": "2025-12-16",
@@ -179,7 +179,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-07T12:57:38Z",
+  "generatedAt": "2025-11-07T15:49:35Z",
   "irCompanies": [
     "Verizon"
   ],
