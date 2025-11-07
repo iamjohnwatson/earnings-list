@@ -39,6 +39,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Bath & Body Works",
+      "symbol": "BBWI",
+      "date": "2025-11-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2025-11-20",
@@ -57,14 +66,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-07T09:49:35Z",
+  "generatedAt": "2025-11-07T12:56:59Z",
   "irCompanies": [
     "Home Depot Inc"
   ],
   "fallbackCompanies": [
+    "Bath & Body Works",
     "Lowe\u2019s Cos Inc",
     "Ross Stores",
     "TJX Cos Inc",

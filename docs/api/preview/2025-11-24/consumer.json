@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Bath & Body Works",
-      "symbol": "BBWI",
-      "date": "2025-11-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Best Buy Co Inc",
       "symbol": "BBY",
       "date": "2025-11-25",
@@ -28,13 +19,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-07T09:49:44Z",
+  "generatedAt": "2025-11-07T12:57:08Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "Bath & Body Works",
     "Best Buy Co Inc",
     "J.M. Smucker Co"
   ],

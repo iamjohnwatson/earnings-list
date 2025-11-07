@@ -87,6 +87,16 @@
       "sector": "Consumer"
     },
     {
+      "company": "Bath & Body Works",
+      "symbol": "BBWI",
+      "date": "2025-11-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2025-11-20",
@@ -169,13 +179,13 @@
       "sector": "TMT"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-07T09:49:35Z",
+  "generatedAt": "2025-11-07T12:56:59Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Home Depot Inc",
@@ -185,6 +195,7 @@
   "fallbackCompanies": [
     "Alibaba",
     "Baidu",
+    "Bath & Body Works",
     "Deere",
     "Jacobs Solutions Inc",
     "Lowe\u2019s Cos Inc",
