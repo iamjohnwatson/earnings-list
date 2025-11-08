@@ -400,8 +400,8 @@
       "company": "Constellation Energy",
       "symbol": "CEG",
       "date": "2025-11-07",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -418,8 +418,8 @@
       "company": "Enbridge",
       "symbol": "ENB",
       "date": "2025-11-07",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -436,7 +436,7 @@
   "count": 48,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-11-08T12:55:33Z",
+  "generatedAt": "2025-11-08T15:48:28Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
