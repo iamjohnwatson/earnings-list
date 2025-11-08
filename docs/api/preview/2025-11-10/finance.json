@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Fiserv",
+      "symbol": "FI",
+      "date": "2025-11-12",
+      "bmo_amc": "12:25 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:25 PM EST",
+      "ir_source_url": "https://investors.fiserv.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Manulife",
       "symbol": "MFC",
       "date": "2025-11-12",
@@ -23,14 +34,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-11-07T21:45:54Z",
+  "generatedAt": "2025-11-08T01:22:34Z",
   "irCompanies": [
+    "Fiserv",
     "Manulife",
     "Synchrony Financial"
   ],
