@@ -12,17 +12,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2025-11-11",
-      "bmo_amc": "8:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EST",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "TransDigm Group Inc",
       "symbol": "TDG",
       "date": "2025-11-12",
@@ -32,13 +21,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-09T06:51:16Z",
+  "generatedAt": "2025-11-09T09:46:39Z",
   "irCompanies": [
-    "Fortive Corp",
-    "Honeywell"
+    "Fortive Corp"
   ],
   "fallbackCompanies": [
     "TransDigm Group Inc"
