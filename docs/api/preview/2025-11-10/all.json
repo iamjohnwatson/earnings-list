@@ -1,6 +1,108 @@
 {
   "records": [
     {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2025-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Fortive Corp",
+      "symbol": "FTV",
+      "date": "2025-11-11",
+      "bmo_amc": "4:05 PM CST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 pm CST",
+      "ir_source_url": "https://investors.fortive.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2025-11-11",
+      "bmo_amc": "8:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EST",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
+      "date": "2025-11-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Instacart",
+      "symbol": "CART",
+      "date": "2025-11-10",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2025-11-10",
+      "bmo_amc": "7:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:00 AM EST",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tyson Foods",
+      "symbol": "TSN",
+      "date": "2025-11-10",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-11-10",
+      "bmo_amc": "7:33 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:33 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2025-11-12",
+      "bmo_amc": "11:20 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:20 am EST",
+      "ir_source_url": "https://investors.solventum.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Fiserv",
       "symbol": "FI",
       "date": "2025-11-12",
@@ -141,50 +243,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Instacart",
-      "symbol": "CART",
-      "date": "2025-11-10",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Tyson Foods",
-      "symbol": "TSN",
-      "date": "2025-11-10",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-11-10",
-      "bmo_amc": "2:18 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:18 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Solventum Corp",
-      "symbol": "SOLV",
-      "date": "2025-11-12",
-      "bmo_amc": "11:20 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:20 am EST",
-      "ir_source_url": "https://investors.solventum.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "Occidental Petroleum",
       "symbol": "OXY",
       "date": "2025-11-10",
@@ -203,43 +261,24 @@
       "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2025-11-11",
-      "bmo_amc": "4:05 PM CST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:05 pm CST",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2025-11-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
-  "count": 21,
+  "count": 24,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-10T09:51:18Z",
+  "generatedAt": "2025-11-10T12:56:30Z",
   "irCompanies": [
     "Disney",
     "Fiserv",
     "Fortive Corp",
+    "Honeywell",
+    "Lennar Corp",
     "Manulife",
     "Merck",
+    "Norwegian Cruise Line",
     "Solventum Corp",
     "Synchrony Financial",
     "Tencent Music"

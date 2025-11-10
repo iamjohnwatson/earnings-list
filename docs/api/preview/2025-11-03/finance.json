@@ -55,15 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Carlyle",
-      "symbol": "CG",
-      "date": "2025-11-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Fair Issac Corp",
       "symbol": "FICO",
       "date": "2025-11-05",
@@ -109,6 +100,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Carlyle",
+      "symbol": "CG",
+      "date": "2025-11-07",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Franklin Templeton",
       "symbol": "BEN",
       "date": "2025-11-07",
@@ -133,7 +133,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-11-10T09:51:09Z",
+  "generatedAt": "2025-11-10T12:56:20Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
