@@ -1,34 +1,14 @@
 {
   "records": [
     {
-      "company": "Best Buy Co Inc",
-      "symbol": "BBY",
-      "date": "2025-11-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
-      "date": "2025-11-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
+      "company": "Agilent",
+      "symbol": "A",
       "date": "2025-11-24",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
       "company": "Zoom",
@@ -111,14 +91,34 @@
       "sector": "TMT"
     },
     {
-      "company": "Agilent",
-      "symbol": "A",
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
       "date": "2025-11-24",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2025-11-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2025-11-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 12,
@@ -127,7 +127,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-10T15:49:19Z",
+  "generatedAt": "2025-11-10T18:53:14Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Agilent",
