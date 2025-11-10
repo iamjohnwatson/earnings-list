@@ -4,27 +4,27 @@
       "company": "CoreWeave",
       "symbol": "CRWV",
       "date": "2025-11-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Tower Semiconductor",
       "symbol": "TSEM",
       "date": "2025-11-10",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Interpublic Group of Companies",
       "symbol": "IPG",
       "date": "2025-11-11",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -98,7 +98,7 @@
   "count": 10,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-09T21:45:13Z",
+  "generatedAt": "2025-11-10T01:28:00Z",
   "irCompanies": [
     "Disney",
     "Tencent Music"
