@@ -4,19 +4,19 @@
       "company": "Instacart",
       "symbol": "CART",
       "date": "2025-11-10",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Norwegian Cruise Line",
       "symbol": "NCLH",
       "date": "2025-11-10",
-      "bmo_amc": "7:00 AM EST",
+      "bmo_amc": "9:00 AM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "7:00 AM EST",
+      "ir_time_label": "9:00 AM EST",
       "ir_source_url": "https://www.nclhltd.com/investors",
       "source": "investor_relations"
     },
@@ -24,16 +24,16 @@
       "company": "Tyson Foods",
       "symbol": "TSN",
       "date": "2025-11-10",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
   "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-10T12:56:29Z",
+  "generatedAt": "2025-11-10T15:48:59Z",
   "irCompanies": [
     "Norwegian Cruise Line"
   ],

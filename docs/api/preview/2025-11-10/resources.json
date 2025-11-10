@@ -8,25 +8,15 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2025-11-10",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-11-10T12:56:30Z",
+  "generatedAt": "2025-11-10T15:49:01Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "Occidental Petroleum",
-    "Venture Global"
+    "Occidental Petroleum"
   ],
   "week": {
     "id": "2025-11-10",
