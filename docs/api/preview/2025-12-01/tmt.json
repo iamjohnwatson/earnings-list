@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "C3.ai",
+      "symbol": "AI",
+      "date": "2025-12-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Salesforce",
       "symbol": "CRM",
       "date": "2025-12-03",
@@ -55,12 +64,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-11T09:49:44Z",
+  "generatedAt": "2025-11-11T12:57:04Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "C3.ai",
     "Crowdstrike",
     "HPE",
     "Marvell",

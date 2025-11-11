@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "C3.ai",
-      "symbol": "AI",
-      "date": "2025-12-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Oracle",
       "symbol": "ORCL",
       "date": "2025-12-08",
@@ -55,15 +46,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-11T09:49:53Z",
+  "generatedAt": "2025-11-11T12:57:14Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",
     "Broadcom",
-    "C3.ai",
     "GameStop",
     "Oracle",
     "Synopsys"
