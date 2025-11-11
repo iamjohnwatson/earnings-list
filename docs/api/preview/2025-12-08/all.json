@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2025-12-09",
+      "bmo_amc": "12:20 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:20 PM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2025-12-09",
@@ -103,14 +115,15 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-10T21:47:58Z",
+  "generatedAt": "2025-11-11T01:25:50Z",
   "irCompanies": [
+    "JPMorgan",
     "Wells Fargo"
   ],
   "fallbackCompanies": [

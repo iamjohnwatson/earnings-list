@@ -61,7 +61,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.workday.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Zscaler",
@@ -76,15 +78,16 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-10T21:47:39Z",
-  "irCompanies": [],
+  "generatedAt": "2025-11-11T01:25:33Z",
+  "irCompanies": [
+    "Workday"
+  ],
   "fallbackCompanies": [
     "Analog Devices",
     "Autodesk",
     "Dell",
     "HP Inc",
     "VinFast",
-    "Workday",
     "Zoom",
     "Zscaler"
   ],
