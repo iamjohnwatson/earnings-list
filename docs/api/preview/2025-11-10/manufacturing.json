@@ -4,10 +4,10 @@
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2025-11-11",
-      "bmo_amc": "4:05 PM CST",
+      "bmo_amc": "7:30AM EDT",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:05 pm CST",
+      "ir_time_label": "7:30am EDT",
       "ir_source_url": "https://investors.fortive.com/",
       "source": "investor_relations"
     },
@@ -23,6 +23,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Parker-Hannifin Corp",
+      "symbol": "PH",
+      "date": "2025-11-11",
+      "bmo_amc": "7:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30 am EST",
+      "ir_source_url": "https://investors.parker.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "TransDigm Group Inc",
       "symbol": "TDG",
       "date": "2025-11-12",
@@ -32,13 +43,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-11T12:56:36Z",
+  "generatedAt": "2025-11-11T15:48:29Z",
   "irCompanies": [
     "Fortive Corp",
-    "Honeywell"
+    "Honeywell",
+    "Parker-Hannifin Corp"
   ],
   "fallbackCompanies": [
     "TransDigm Group Inc"

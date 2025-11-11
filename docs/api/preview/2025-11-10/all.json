@@ -1,42 +1,6 @@
 {
   "records": [
     {
-      "company": "Fiserv",
-      "symbol": "FI",
-      "date": "2025-11-12",
-      "bmo_amc": "12:25 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "12:25 PM EST",
-      "ir_source_url": "https://investors.fiserv.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Manulife",
-      "symbol": "MFC",
-      "date": "2025-11-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Synchrony Financial",
-      "symbol": "SYF",
-      "date": "2025-11-12",
-      "bmo_amc": "10:10 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:10 AM EST",
-      "ir_source_url": "https://investors.synchrony.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Occidental Petroleum",
       "symbol": "OXY",
       "date": "2025-11-10",
@@ -67,13 +31,33 @@
       "sector": "Resources"
     },
     {
+      "company": "Instacart",
+      "symbol": "CART",
+      "date": "2025-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tyson Foods",
+      "symbol": "TSN",
+      "date": "2025-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-11-11",
-      "bmo_amc": "7:11 AM ET",
+      "bmo_amc": "9:51 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "7:11 am ET",
+      "ir_time_label": "9:51 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
@@ -91,42 +75,18 @@
       "sector": "Pharma"
     },
     {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2025-11-11",
-      "bmo_amc": "4:05 PM CST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:05 pm CST",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2025-11-11",
-      "bmo_amc": "8:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EST",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2025-11-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "CoreWeave",
       "symbol": "CRWV",
+      "date": "2025-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Interpublic Group of Companies",
+      "symbol": "IPG",
       "date": "2025-11-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -158,10 +118,22 @@
       "company": "Sea Limited",
       "symbol": "SE",
       "date": "2025-11-11",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-11-11",
+      "bmo_amc": "10:26 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:26 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -229,33 +201,95 @@
       "sector": "TMT"
     },
     {
-      "company": "Instacart",
-      "symbol": "CART",
-      "date": "2025-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Fiserv",
+      "symbol": "FI",
+      "date": "2025-11-12",
+      "bmo_amc": "12:25 PM EST",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": "12:25 PM EST",
+      "ir_source_url": "https://investors.fiserv.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
-      "company": "Tyson Foods",
-      "symbol": "TSN",
-      "date": "2025-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2025-11-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Synchrony Financial",
+      "symbol": "SYF",
+      "date": "2025-11-12",
+      "bmo_amc": "10:10 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:10 AM EST",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Fortive Corp",
+      "symbol": "FTV",
+      "date": "2025-11-11",
+      "bmo_amc": "7:30AM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30am EDT",
+      "ir_source_url": "https://investors.fortive.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2025-11-11",
+      "bmo_amc": "8:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EST",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Parker-Hannifin Corp",
+      "symbol": "PH",
+      "date": "2025-11-11",
+      "bmo_amc": "7:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30 am EST",
+      "ir_source_url": "https://investors.parker.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
+      "date": "2025-11-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
     }
   ],
-  "count": 23,
+  "count": 26,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-11T12:56:37Z",
+  "generatedAt": "2025-11-11T15:48:29Z",
   "irCompanies": [
     "Disney",
     "Fiserv",
@@ -263,8 +297,10 @@
     "Honeywell",
     "Manulife",
     "Merck",
+    "Parker-Hannifin Corp",
     "Solventum Corp",
     "Synchrony Financial",
+    "Take-Two Interactive",
     "Tencent Music"
   ],
   "fallbackCompanies": [
