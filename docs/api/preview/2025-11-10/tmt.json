@@ -28,8 +28,8 @@
       "source": "aggregator"
     },
     {
-      "company": "Interpublic Group of Companies",
-      "symbol": "IPG",
+      "company": "Sea Limited",
+      "symbol": "SE",
       "date": "2025-11-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -37,13 +37,15 @@
       "source": "aggregator"
     },
     {
-      "company": "Sea Limited",
-      "symbol": "SE",
-      "date": "2025-11-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Alibaba",
+      "symbol": "BABA",
+      "date": "2025-11-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
+      "source": "investor_relations"
     },
     {
       "company": "Cisco Systems",
@@ -67,9 +69,9 @@
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2025-11-12",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://ir.tencentmusic.com/",
       "source": "investor_relations"
@@ -107,8 +109,9 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-12T09:51:08Z",
+  "generatedAt": "2025-11-12T12:57:07Z",
   "irCompanies": [
+    "Alibaba",
     "Disney",
     "Tencent Music"
   ],
