@@ -46,41 +46,30 @@
       "source": "aggregator"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-11-11",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Cisco Systems",
       "symbol": "CSCO",
       "date": "2025-11-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "GlobalFoundries",
       "symbol": "GFS",
       "date": "2025-11-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2025-11-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://ir.tencentmusic.com/",
       "source": "investor_relations"
@@ -115,13 +104,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-11T21:47:17Z",
+  "generatedAt": "2025-11-12T01:23:55Z",
   "irCompanies": [
     "Disney",
-    "Take-Two Interactive",
     "Tencent Music"
   ],
   "fallbackCompanies": [

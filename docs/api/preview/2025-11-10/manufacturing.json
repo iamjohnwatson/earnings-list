@@ -1,57 +1,20 @@
 {
   "records": [
     {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2025-11-11",
-      "bmo_amc": "7:30AM EDT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "7:30am EDT",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Old Dominion Freight Line Inc",
-      "symbol": "ODFL",
-      "date": "2025-11-11",
-      "bmo_amc": "10:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EST",
-      "ir_source_url": "https://ir.odfl.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Parker-Hannifin Corp",
-      "symbol": "PH",
-      "date": "2025-11-11",
-      "bmo_amc": "7:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "7:30 am EST",
-      "ir_source_url": "https://investors.parker.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "TransDigm Group Inc",
       "symbol": "TDG",
       "date": "2025-11-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-11T21:47:17Z",
-  "irCompanies": [
-    "Fortive Corp",
-    "Old Dominion Freight Line Inc",
-    "Parker-Hannifin Corp"
-  ],
+  "generatedAt": "2025-11-12T01:23:55Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "TransDigm Group Inc"
   ],
