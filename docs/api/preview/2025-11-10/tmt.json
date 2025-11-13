@@ -76,11 +76,22 @@
       "company": "Disney",
       "symbol": "DIS",
       "date": "2025-11-13",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://thewaltdisneycompany.com/investor-relations/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2025-11-13",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EST",
+      "ir_source_url": "https://investors.intuit.com/",
       "source": "investor_relations"
     },
     {
@@ -91,14 +102,27 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-11-13",
+      "bmo_amc": "10:23 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:23 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     }
   ],
-  "count": 10,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-13T12:57:59Z",
+  "generatedAt": "2025-11-13T15:49:42Z",
   "irCompanies": [
-    "Disney"
+    "Disney",
+    "Intuit",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Applied Materials",
