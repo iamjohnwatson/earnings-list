@@ -37,23 +37,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Alibaba",
-      "symbol": "BABA",
-      "date": "2025-11-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
-      "source": "investor_relations"
-    },
-    {
       "company": "Cisco Systems",
       "symbol": "CSCO",
       "date": "2025-11-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -66,54 +55,30 @@
       "source": "aggregator"
     },
     {
-      "company": "KLA Corp",
-      "symbol": "KLAC",
-      "date": "2025-11-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.kla.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-11-12",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2025-11-12",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.tencentmusic.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Applied Materials",
       "symbol": "AMAT",
       "date": "2025-11-13",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Disney",
       "symbol": "DIS",
       "date": "2025-11-13",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://thewaltdisneycompany.com/investor-relations/",
       "source": "investor_relations"
@@ -122,22 +87,18 @@
       "company": "JD.com",
       "symbol": "JD",
       "date": "2025-11-13",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-12T21:46:59Z",
+  "generatedAt": "2025-11-13T01:23:43Z",
   "irCompanies": [
-    "Alibaba",
-    "Disney",
-    "KLA Corp",
-    "Take-Two Interactive",
-    "Tencent Music"
+    "Disney"
   ],
   "fallbackCompanies": [
     "Applied Materials",
@@ -147,6 +108,7 @@
     "Interpublic Group of Companies",
     "JD.com",
     "Sea Limited",
+    "Tencent Music",
     "Tower Semiconductor"
   ],
   "week": {

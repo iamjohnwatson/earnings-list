@@ -1,52 +1,39 @@
 {
   "records": [
     {
-      "company": "Fiserv",
-      "symbol": "FI",
+      "company": "Manulife",
+      "symbol": "MFC",
       "date": "2025-11-12",
-      "bmo_amc": "12:25 PM EST",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "12:25 PM EST",
-      "ir_source_url": "https://investors.fiserv.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Manulife",
       "symbol": "MFC",
-      "date": "2025-11-12",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Synchrony Financial",
-      "symbol": "SYF",
-      "date": "2025-11-12",
-      "bmo_amc": "10:10 AM EST",
+      "date": "2025-11-13",
+      "bmo_amc": "8:00 A.M",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:10 AM EST",
-      "ir_source_url": "https://investors.synchrony.com/",
+      "ir_time_label": "8:00 a.m",
+      "ir_source_url": "https://www.manulife.com/en/investors/index.html",
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-11-12T21:46:59Z",
+  "generatedAt": "2025-11-13T01:23:44Z",
   "irCompanies": [
-    "Fiserv",
-    "Manulife",
-    "Synchrony Financial"
+    "Manulife"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Manulife"
+  ],
   "week": {
     "id": "2025-11-10",
     "start_date": "2025-11-10",

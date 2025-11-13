@@ -21,6 +21,18 @@
       "sector": "TMT"
     },
     {
+      "company": "Alibaba",
+      "symbol": "BABA",
+      "date": "2025-11-25",
+      "bmo_amc": "8:30 PM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 PM",
+      "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Analog Devices",
       "symbol": "ADI",
       "date": "2025-11-25",
@@ -123,14 +135,15 @@
       "sector": "Consumer"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-12T21:47:19Z",
+  "generatedAt": "2025-11-13T01:24:01Z",
   "irCompanies": [
+    "Alibaba",
     "Workday"
   ],
   "fallbackCompanies": [
