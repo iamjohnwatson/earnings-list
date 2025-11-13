@@ -72,20 +72,22 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 8,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-13T09:49:38Z",
+  "generatedAt": "2025-11-13T12:58:26Z",
   "irCompanies": [
+    "HPE",
     "KLA Corp"
   ],
   "fallbackCompanies": [
     "C3.ai",
     "Crowdstrike",
-    "HPE",
     "Marvell",
     "Salesforce",
     "SentinelOne",
