@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2025-12-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Oracle",
       "symbol": "ORCL",
       "date": "2025-12-08",
@@ -93,16 +103,6 @@
       "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
       "source": "investor_relations",
       "sector": "Finance"
-    },
-    {
-      "company": "Costco Wholesale Corp",
-      "symbol": "COST",
-      "date": "2025-12-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
   "count": 10,
@@ -111,7 +111,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-13T15:50:21Z",
+  "generatedAt": "2025-11-13T18:52:28Z",
   "irCompanies": [
     "JPMorgan",
     "Wells Fargo"
