@@ -1,24 +1,34 @@
 {
   "records": [
     {
-      "company": "Instacart",
-      "symbol": "CART",
+      "company": "Occidental Petroleum",
+      "symbol": "OXY",
       "date": "2025-11-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Resources"
     },
     {
-      "company": "Tyson Foods",
-      "symbol": "TSN",
+      "company": "Venture Global",
+      "symbol": "VG",
       "date": "2025-11-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Resources"
+    },
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2025-11-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "TransDigm Group Inc",
@@ -51,36 +61,6 @@
       "ir_source_url": "https://www.manulife.com/en/investors/index.html",
       "source": "investor_relations",
       "sector": "Finance"
-    },
-    {
-      "company": "Occidental Petroleum",
-      "symbol": "OXY",
-      "date": "2025-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2025-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2025-11-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     },
     {
       "company": "CoreWeave",
@@ -183,6 +163,26 @@
       "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Instacart",
+      "symbol": "CART",
+      "date": "2025-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tyson Foods",
+      "symbol": "TSN",
+      "date": "2025-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 18,
@@ -191,7 +191,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-13T04:18:54Z",
+  "generatedAt": "2025-11-13T06:53:13Z",
   "irCompanies": [
     "Disney",
     "Manulife"
