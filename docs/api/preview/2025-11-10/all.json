@@ -1,46 +1,16 @@
 {
   "records": [
     {
-      "company": "Instacart",
-      "symbol": "CART",
-      "date": "2025-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Tyson Foods",
-      "symbol": "TSN",
-      "date": "2025-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
+      "company": "Merck",
+      "symbol": "MRK",
       "date": "2025-11-14",
-      "bmo_amc": "9:00 AM EST",
+      "bmo_amc": "12:48 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EST",
-      "ir_source_url": "https://www.nclhltd.com/investors",
+      "ir_time_label": "12:48 pm ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2025-11-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
       "company": "Manulife",
@@ -50,6 +20,18 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2025-11-14",
+      "bmo_amc": "11:00AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00am",
+      "ir_source_url": "https://investors.cinfin.com/",
+      "source": "investor_relations",
       "sector": "Finance"
     },
     {
@@ -65,16 +47,16 @@
       "sector": "Finance"
     },
     {
-      "company": "Merck",
-      "symbol": "MRK",
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
       "date": "2025-11-14",
-      "bmo_amc": "10:31 AM ET",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:31 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Finance"
     },
     {
       "company": "CoreWeave",
@@ -204,13 +186,55 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-14",
-      "bmo_amc": "10:27 AM ET",
+      "bmo_amc": "1:31 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:27 AM ET",
+      "ir_time_label": "1:31 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
+      "date": "2025-11-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Instacart",
+      "symbol": "CART",
+      "date": "2025-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tyson Foods",
+      "symbol": "TSN",
+      "date": "2025-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2025-11-14",
+      "bmo_amc": "9:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EST",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
       "company": "Occidental Petroleum",
@@ -233,16 +257,18 @@
       "sector": "Resources"
     }
   ],
-  "count": 22,
+  "count": 24,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-14T15:48:26Z",
+  "generatedAt": "2025-11-14T18:52:06Z",
   "irCompanies": [
+    "Cincinnati Financial",
     "Fiserv",
     "Fox Corp",
+    "Huntington Bancshares",
     "Intuit",
     "Merck",
     "Norwegian Cruise Line",
