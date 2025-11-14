@@ -17,26 +17,13 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Walmart Inc",
-      "symbol": "WMT",
-      "date": "2025-11-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://stock.walmart.com/",
-      "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-13T21:47:51Z",
-  "irCompanies": [
-    "Walmart Inc"
-  ],
+  "generatedAt": "2025-11-14T01:23:32Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Instacart",
     "Tyson Foods"

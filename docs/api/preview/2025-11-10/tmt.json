@@ -67,9 +67,9 @@
       "company": "Applied Materials",
       "symbol": "AMAT",
       "date": "2025-11-13",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -79,40 +79,16 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://thewaltdisneycompany.com/investor-relations/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2025-11-13",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM EST",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "JD.com",
       "symbol": "JD",
       "date": "2025-11-13",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-11-13",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Fox Corp",
@@ -126,20 +102,18 @@
       "source": "investor_relations"
     }
   ],
-  "count": 13,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-13T21:47:51Z",
+  "generatedAt": "2025-11-14T01:23:31Z",
   "irCompanies": [
-    "Disney",
-    "Fox Corp",
-    "Intuit",
-    "Take-Two Interactive"
+    "Fox Corp"
   ],
   "fallbackCompanies": [
     "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
+    "Disney",
     "GlobalFoundries",
     "Interpublic Group of Companies",
     "JD.com",
