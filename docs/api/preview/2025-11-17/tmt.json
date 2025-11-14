@@ -40,23 +40,20 @@
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2025-11-20",
-      "bmo_amc": "1:30 PM PT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "1:30 PM PT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
   "count": 5,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-14T06:54:18Z",
-  "irCompanies": [
-    "Intuit"
-  ],
+  "generatedAt": "2025-11-14T09:48:26Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Baidu",
+    "Intuit",
     "NVIDIA",
     "Palo Alto",
     "Xpeng"

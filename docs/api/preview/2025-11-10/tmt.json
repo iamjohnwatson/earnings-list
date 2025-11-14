@@ -100,14 +100,26 @@
       "ir_time_label": "10:00 AM PST",
       "ir_source_url": "https://investor.foxcorporation.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2025-11-14",
+      "bmo_amc": "3:27 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "3:27 AM EST",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-14T06:54:09Z",
+  "generatedAt": "2025-11-14T09:48:17Z",
   "irCompanies": [
-    "Fox Corp"
+    "Fox Corp",
+    "Intuit"
   ],
   "fallbackCompanies": [
     "Applied Materials",
