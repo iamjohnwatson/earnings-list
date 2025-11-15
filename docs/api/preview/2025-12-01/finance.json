@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Fiserv",
+      "symbol": "FI",
+      "date": "2025-12-01",
+      "bmo_amc": "12:11 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:11 PM EST",
+      "ir_source_url": "https://investors.fiserv.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2025-12-01",
@@ -59,14 +70,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-11-14T21:46:54Z",
+  "generatedAt": "2025-11-15T01:22:47Z",
   "irCompanies": [
+    "Fiserv",
     "Scotiabank",
     "Truist Financial"
   ],

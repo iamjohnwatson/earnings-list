@@ -48,6 +48,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
+      "date": "2025-11-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.etsy.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2025-11-20",
@@ -68,11 +79,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-14T21:46:35Z",
+  "generatedAt": "2025-11-15T01:22:32Z",
   "irCompanies": [
+    "Etsy Inc",
     "Home Depot Inc",
     "Walmart Inc"
   ],
