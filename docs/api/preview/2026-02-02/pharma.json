@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-02-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.idexx.com/en/about-idexx/investors/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
+  "missingPublic": [],
+  "tickerCount": 55,
+  "generatedAt": "2025-11-17T06:55:42Z",
+  "irCompanies": [
+    "IDEXX Laboratories Inc"
+  ],
+  "fallbackCompanies": [],
+  "week": {
+    "id": "2026-02-02",
+    "start_date": "2026-02-02",
+    "end_date": "2026-02-06",
+    "label": "Week of Feb 2 to Feb 6"
+  },
+  "sector": "Pharma",
+  "sectorSlug": "pharma",
+  "downloadPath": "downloads/2026-02-02/earnings_pharma_2026-02-02.csv"
+}
