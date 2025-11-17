@@ -21,17 +21,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Estee Lauder",
-      "symbol": "EL",
-      "date": "2025-12-02",
-      "bmo_amc": "08:00AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "08:00AM ET",
-      "ir_source_url": "https://www.elcompanies.com/en/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Dollar Tree",
       "symbol": "DLTR",
       "date": "2025-12-03",
@@ -97,13 +86,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 10,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-17T15:49:31Z",
+  "generatedAt": "2025-11-17T18:51:29Z",
   "irCompanies": [
     "Coca-Cola Co",
-    "Estee Lauder",
     "Ulta Beauty"
   ],
   "fallbackCompanies": [
