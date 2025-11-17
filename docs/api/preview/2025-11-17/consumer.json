@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2025-11-17",
+      "bmo_amc": "9:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EST",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2025-11-18",
@@ -79,13 +90,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-17T12:56:47Z",
+  "generatedAt": "2025-11-17T15:49:11Z",
   "irCompanies": [
     "Etsy Inc",
     "Home Depot Inc",
+    "Norwegian Cruise Line",
     "Walmart Inc"
   ],
   "fallbackCompanies": [
