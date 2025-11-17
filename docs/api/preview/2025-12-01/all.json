@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2025-12-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2025-12-02",
@@ -83,16 +93,6 @@
       "ir_source_url": "https://investors.hpe.com/",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2025-12-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     },
     {
       "company": "Campbell Soup Co",
@@ -283,7 +283,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-16T21:45:35Z",
+  "generatedAt": "2025-11-17T01:26:14Z",
   "irCompanies": [
     "Estee Lauder",
     "Fiserv",
