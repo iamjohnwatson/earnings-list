@@ -1,14 +1,26 @@
 {
   "records": [
     {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
+      "company": "Jacobs Solutions Inc",
+      "symbol": "J",
       "date": "2025-11-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Magna International",
+      "symbol": "MGA",
+      "date": "2025-11-20",
+      "bmo_amc": "1:10 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:10 PM ET",
+      "ir_source_url": "https://www.magna.com/company/investors",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     },
     {
       "company": "Home Depot Inc",
@@ -97,6 +109,42 @@
       "sector": "Consumer"
     },
     {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-11-17",
+      "bmo_amc": "4:36 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:36 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2025-11-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2025-11-18",
+      "bmo_amc": "5:45 AM CST",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:45 AM CST",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Xpeng",
       "symbol": "XPEV",
       "date": "2025-11-17",
@@ -149,62 +197,14 @@
       "sector": "TMT"
     },
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-11-17",
-      "bmo_amc": "2:18 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:18 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2025-11-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2025-11-18",
-      "bmo_amc": "5:45 AM CST",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CST",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Jacobs Solutions Inc",
-      "symbol": "J",
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
       "date": "2025-11-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Magna International",
-      "symbol": "MGA",
-      "date": "2025-11-20",
-      "bmo_amc": "1:10 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:10 PM ET",
-      "ir_source_url": "https://www.magna.com/company/investors",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Resources"
     }
   ],
   "count": 19,
@@ -213,7 +213,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-17T09:52:40Z",
+  "generatedAt": "2025-11-17T12:56:48Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Etsy Inc",
