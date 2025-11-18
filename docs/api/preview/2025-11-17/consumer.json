@@ -4,11 +4,22 @@
       "company": "Home Depot Inc",
       "symbol": "HD",
       "date": "2025-11-18",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2025-11-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.target.com/investors",
       "source": "investor_relations"
     },
     {
@@ -79,13 +90,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-18T12:58:09Z",
+  "generatedAt": "2025-11-18T15:49:22Z",
   "irCompanies": [
     "Etsy Inc",
     "Home Depot Inc",
+    "Target Corp",
     "Walmart Inc"
   ],
   "fallbackCompanies": [

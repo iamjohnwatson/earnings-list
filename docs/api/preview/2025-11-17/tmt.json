@@ -13,10 +13,21 @@
       "company": "Baidu",
       "symbol": "BIDU",
       "date": "2025-11-18",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2025-11-18",
+      "bmo_amc": "8:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EST",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations"
     },
     {
       "company": "SiriusXM",
@@ -27,6 +38,17 @@
       "yahoo_time_label": null,
       "ir_time_label": "12:00 pm EST",
       "ir_source_url": "https://investor.siriusxm.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-11-18",
+      "bmo_amc": "10:20 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:20 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
     {
@@ -51,24 +73,24 @@
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2025-11-20",
-      "bmo_amc": "1:30 PM PT",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "1:30 PM PT",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-18T12:58:08Z",
+  "generatedAt": "2025-11-18T15:49:23Z",
   "irCompanies": [
     "Intuit",
-    "SiriusXM"
+    "SiriusXM",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Baidu",
+    "Intuit",
     "NVIDIA",
     "Palo Alto",
     "Xpeng"
