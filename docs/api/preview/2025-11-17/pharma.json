@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-11-17",
-      "bmo_amc": "10:43 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:43 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Boston Scientific Corp",
       "symbol": "BSX",
       "date": "2025-11-18",
@@ -28,16 +17,27 @@
       "date": "2025-11-18",
       "bmo_amc": "5:45 AM CST",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "5:45 AM CST",
       "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-11-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
     }
   ],
   "count": 3,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-11-17T21:47:45Z",
+  "generatedAt": "2025-11-18T01:23:23Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Medtronic PLC",

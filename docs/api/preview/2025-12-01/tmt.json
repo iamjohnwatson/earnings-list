@@ -13,10 +13,12 @@
       "company": "Marvell",
       "symbol": "MRVL",
       "date": "2025-12-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:45 PM EST",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:45 pm EST",
+      "ir_source_url": "https://investor.marvell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "C3.ai",
@@ -80,15 +82,15 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-17T21:48:05Z",
+  "generatedAt": "2025-11-18T01:23:41Z",
   "irCompanies": [
     "HPE",
-    "KLA Corp"
+    "KLA Corp",
+    "Marvell"
   ],
   "fallbackCompanies": [
     "C3.ai",
     "Crowdstrike",
-    "Marvell",
     "Salesforce",
     "SentinelOne",
     "Snowflake"
