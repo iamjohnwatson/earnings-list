@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2025-12-09",
+      "bmo_amc": "10:40 AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:40 AM ",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations"
+    },
+    {
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2025-12-09",
@@ -23,14 +34,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-11-18T18:52:51Z",
+  "generatedAt": "2025-11-19T01:24:25Z",
   "irCompanies": [
+    "Citizens Financial",
     "JPMorgan",
     "Wells Fargo"
   ],
