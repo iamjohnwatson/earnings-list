@@ -72,9 +72,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.workday.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Zscaler",
@@ -89,10 +87,9 @@
   "count": 9,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-19T06:53:07Z",
+  "generatedAt": "2025-11-19T09:49:22Z",
   "irCompanies": [
-    "Alibaba",
-    "Workday"
+    "Alibaba"
   ],
   "fallbackCompanies": [
     "Analog Devices",
@@ -100,6 +97,7 @@
     "Dell",
     "HP Inc",
     "VinFast",
+    "Workday",
     "Zoom",
     "Zscaler"
   ],

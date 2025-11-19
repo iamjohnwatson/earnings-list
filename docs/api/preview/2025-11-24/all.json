@@ -31,26 +31,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
-      "date": "2025-11-24",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2025-11-26",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Zoom",
       "symbol": "ZM",
       "date": "2025-11-24",
@@ -129,9 +109,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.workday.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -143,6 +121,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2025-11-24",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2025-11-26",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 14,
@@ -151,10 +149,9 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-19T06:53:07Z",
+  "generatedAt": "2025-11-19T09:49:22Z",
   "irCompanies": [
-    "Alibaba",
-    "Workday"
+    "Alibaba"
   ],
   "fallbackCompanies": [
     "Agilent",
@@ -167,6 +164,7 @@
     "J.M. Smucker Co",
     "Keysight Technologies Inc",
     "VinFast",
+    "Workday",
     "Zoom",
     "Zscaler"
   ],
