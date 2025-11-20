@@ -7,7 +7,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.micron.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Accenture",
@@ -40,12 +42,13 @@
   "count": 4,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-19T21:46:20Z",
-  "irCompanies": [],
+  "generatedAt": "2025-11-20T01:24:36Z",
+  "irCompanies": [
+    "Micron"
+  ],
   "fallbackCompanies": [
     "Accenture",
     "BlackBerry",
-    "Micron",
     "Paychex"
   ],
   "week": {

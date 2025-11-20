@@ -13,21 +13,10 @@
       "company": "Lowe\u2019s Cos Inc",
       "symbol": "LOW",
       "date": "2025-11-19",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "source": "aggregator"
-    },
-    {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2025-11-19",
-      "bmo_amc": "11:31 AM EST",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:31 AM EST",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "TJX Cos Inc",
@@ -42,20 +31,18 @@
       "company": "Target Corp",
       "symbol": "TGT",
       "date": "2025-11-19",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://corporate.target.com/investors",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Bath & Body Works",
       "symbol": "BBWI",
       "date": "2025-11-20",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -73,9 +60,9 @@
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2025-11-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -84,20 +71,18 @@
       "date": "2025-11-20",
       "bmo_amc": "7:00 A.M. US",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "7:00 a.m. US",
       "ir_source_url": "https://stock.walmart.com/",
       "source": "investor_relations"
     }
   ],
-  "count": 9,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-19T21:45:41Z",
+  "generatedAt": "2025-11-20T01:23:56Z",
   "irCompanies": [
     "Etsy Inc",
-    "Norwegian Cruise Line",
-    "Target Corp",
     "Walmart Inc"
   ],
   "fallbackCompanies": [
@@ -105,7 +90,8 @@
     "Home Depot Inc",
     "Lowe\u2019s Cos Inc",
     "Ross Stores",
-    "TJX Cos Inc"
+    "TJX Cos Inc",
+    "Target Corp"
   ],
   "week": {
     "id": "2025-11-17",
