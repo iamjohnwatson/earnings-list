@@ -21,6 +21,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2025-11-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Magna International",
       "symbol": "MGA",
       "date": "2025-11-20",
@@ -43,12 +54,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-20T18:52:39Z",
+  "generatedAt": "2025-11-20T21:47:23Z",
   "irCompanies": [
     "Bombardier",
+    "Lennar Corp",
     "Magna International",
     "Southwest Airlines Co"
   ],

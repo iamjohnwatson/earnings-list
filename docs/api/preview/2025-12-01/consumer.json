@@ -92,19 +92,16 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
   "count": 10,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-20T18:52:59Z",
+  "generatedAt": "2025-11-20T21:47:42Z",
   "irCompanies": [
     "Coca-Cola Co",
-    "Smithfield Foods",
-    "Ulta Beauty"
+    "Smithfield Foods"
   ],
   "fallbackCompanies": [
     "Brown-Forman Corp",
@@ -113,7 +110,8 @@
     "Dollar Tree",
     "Hormel Foods",
     "Kroger Co",
-    "Lululemon Athletica"
+    "Lululemon Athletica",
+    "Ulta Beauty"
   ],
   "week": {
     "id": "2025-12-01",
