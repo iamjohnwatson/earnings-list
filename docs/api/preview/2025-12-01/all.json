@@ -1,6 +1,28 @@
 {
   "records": [
     {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2025-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2025-12-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Fiserv",
       "symbol": "FI",
       "date": "2025-12-01",
@@ -171,28 +193,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2025-12-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2025-12-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2025-12-02",
@@ -285,7 +285,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-21T01:23:56Z",
+  "generatedAt": "2025-11-21T04:15:34Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Coca-Cola Co",
