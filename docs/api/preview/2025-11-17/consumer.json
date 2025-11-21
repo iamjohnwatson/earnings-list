@@ -46,46 +46,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Etsy Inc",
-      "symbol": "ETSY",
-      "date": "2025-11-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.etsy.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2025-11-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2025-11-20",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Ulta Beauty",
-      "symbol": "ULTA",
-      "date": "2025-11-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Walmart Inc",
@@ -94,28 +61,22 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://stock.walmart.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-20T21:47:23Z",
-  "irCompanies": [
-    "Etsy Inc",
-    "Home Depot Inc",
-    "Ulta Beauty",
-    "Walmart Inc"
-  ],
+  "generatedAt": "2025-11-21T01:23:38Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Bath & Body Works",
     "Home Depot Inc",
     "Lowe\u2019s Cos Inc",
     "Ross Stores",
     "TJX Cos Inc",
-    "Target Corp"
+    "Target Corp",
+    "Walmart Inc"
   ],
   "week": {
     "id": "2025-11-17",
