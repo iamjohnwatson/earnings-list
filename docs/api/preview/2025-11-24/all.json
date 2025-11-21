@@ -21,6 +21,16 @@
       "sector": "Consumer"
     },
     {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2025-11-24",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Zoom",
       "symbol": "ZM",
       "date": "2025-11-24",
@@ -113,6 +123,16 @@
       "sector": "TMT"
     },
     {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2025-11-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Keysight Technologies Inc",
       "symbol": "KEYS",
       "date": "2025-11-24",
@@ -131,25 +151,15 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2025-11-24",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-21T09:49:40Z",
+  "generatedAt": "2025-11-21T12:56:32Z",
   "irCompanies": [
     "Alibaba"
   ],
@@ -163,6 +173,7 @@
     "HP Inc",
     "J.M. Smucker Co",
     "Keysight Technologies Inc",
+    "New Fortress Energy",
     "VinFast",
     "Workday",
     "Zoom",

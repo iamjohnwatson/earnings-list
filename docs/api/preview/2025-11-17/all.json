@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2025-11-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Xpeng",
       "symbol": "XPEV",
       "date": "2025-11-17",
@@ -54,8 +44,8 @@
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2025-11-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -64,10 +54,22 @@
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2025-11-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2025-11-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations",
       "sector": "Manufacturing"
     },
     {
@@ -114,8 +116,8 @@
       "company": "Bath & Body Works",
       "symbol": "BBWI",
       "date": "2025-11-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -124,8 +126,8 @@
       "company": "Ross Stores",
       "symbol": "ROST",
       "date": "2025-11-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -134,31 +136,46 @@
       "company": "Walmart Inc",
       "symbol": "WMT",
       "date": "2025-11-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
     },
     {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2025-11-20",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2025-11-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-11-21",
+      "bmo_amc": "6:22 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:22 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-21T09:49:31Z",
-  "irCompanies": [],
+  "generatedAt": "2025-11-21T12:56:23Z",
+  "irCompanies": [
+    "Lennar Corp",
+    "Merck"
+  ],
   "fallbackCompanies": [
     "Baidu",
     "Bath & Body Works",
@@ -168,7 +185,6 @@
     "Lowe\u2019s Cos Inc",
     "Medtronic PLC",
     "NVIDIA",
-    "New Fortress Energy",
     "Palo Alto",
     "Ross Stores",
     "TJX Cos Inc",
