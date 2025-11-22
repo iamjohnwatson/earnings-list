@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Estee Lauder",
-      "symbol": "EL",
-      "date": "2026-02-05",
-      "bmo_amc": "08:30AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "08:30AM ET",
-      "ir_source_url": "https://www.elcompanies.com/en/investors",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-02-02",
@@ -23,6 +11,18 @@
       "ir_source_url": "https://www.idexx.com/en/about-idexx/investors/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "Estee Lauder",
+      "symbol": "EL",
+      "date": "2026-02-05",
+      "bmo_amc": "08:30AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "08:30AM ET",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
   "count": 2,
@@ -31,7 +31,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-22T15:47:45Z",
+  "generatedAt": "2025-11-22T18:52:08Z",
   "irCompanies": [
     "Estee Lauder",
     "IDEXX Laboratories Inc"
