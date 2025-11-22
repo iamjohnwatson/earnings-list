@@ -1,6 +1,36 @@
 {
   "records": [
     {
+      "company": "Instacart",
+      "symbol": "CART",
+      "date": "2025-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tyson Foods",
+      "symbol": "TSN",
+      "date": "2025-11-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "TransDigm Group Inc",
+      "symbol": "TDG",
+      "date": "2025-11-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "CoreWeave",
       "symbol": "CRWV",
       "date": "2025-11-10",
@@ -101,36 +131,6 @@
       "sector": "TMT"
     },
     {
-      "company": "TransDigm Group Inc",
-      "symbol": "TDG",
-      "date": "2025-11-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Instacart",
-      "symbol": "CART",
-      "date": "2025-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Tyson Foods",
-      "symbol": "TSN",
-      "date": "2025-11-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Manulife",
       "symbol": "MFC",
       "date": "2025-11-12",
@@ -167,7 +167,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-22T01:21:43Z",
+  "generatedAt": "2025-11-22T04:09:17Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Applied Materials",
