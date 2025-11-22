@@ -1,30 +1,6 @@
 {
   "records": [
     {
-      "company": "IDEXX Laboratories Inc",
-      "symbol": "IDXX",
-      "date": "2026-02-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.idexx.com/en/about-idexx/investors/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "Estee Lauder",
       "symbol": "EL",
       "date": "2026-02-05",
@@ -35,19 +11,30 @@
       "ir_source_url": "https://www.elcompanies.com/en/investors",
       "source": "investor_relations",
       "sector": "Consumer"
+    },
+    {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-02-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.idexx.com/en/about-idexx/investors/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-22T06:52:35Z",
+  "generatedAt": "2025-11-22T09:48:40Z",
   "irCompanies": [
     "Estee Lauder",
-    "IDEXX Laboratories Inc",
-    "Merck"
+    "IDEXX Laboratories Inc"
   ],
   "fallbackCompanies": [],
   "week": {
