@@ -65,28 +65,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2025-12-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2025-12-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2025-12-02",
@@ -279,6 +257,28 @@
       "sector": "TMT"
     },
     {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2025-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2025-12-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Quanta Services Inc",
       "symbol": "PWR",
       "date": "2025-12-02",
@@ -297,7 +297,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-23T04:30:07Z",
+  "generatedAt": "2025-11-23T06:53:20Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Coca-Cola Co",
