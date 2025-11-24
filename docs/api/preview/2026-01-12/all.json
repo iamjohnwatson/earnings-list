@@ -1,6 +1,46 @@
 {
   "records": [
     {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-01-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Fastenal Co",
+      "symbol": "FAST",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-01-14",
@@ -75,24 +115,54 @@
       "sector": "Finance"
     },
     {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
-      "date": "2026-01-15",
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2026-01-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-01-13",
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-01-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
+    },
+    {
+      "company": "Regions Financial",
+      "symbol": "RF",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "State Street Corp",
+      "symbol": "STT",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
       "company": "UnitedHealth Group",
@@ -105,13 +175,13 @@
       "sector": "Pharma"
     }
   ],
-  "count": 10,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-24T09:52:22Z",
+  "generatedAt": "2025-11-24T12:58:59Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup"
@@ -119,10 +189,17 @@
   "fallbackCompanies": [
     "Applied Digital",
     "Bank of America",
+    "Citizens Financial",
+    "Fastenal Co",
+    "Huntington Bancshares",
     "J B Hunt Transport Services Inc",
     "M&T Bank Corp",
     "Morgan Stanley",
     "PNC Financial",
+    "Regions Financial",
+    "SLB",
+    "State Street Corp",
+    "Truist Financial",
     "US Bancorp",
     "UnitedHealth Group"
   ],

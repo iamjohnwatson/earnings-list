@@ -1,11 +1,23 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-11-24T09:52:21Z",
+  "generatedAt": "2025-11-24T12:58:59Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "SLB"
+  ],
   "week": {
     "id": "2026-01-12",
     "start_date": "2026-01-12",

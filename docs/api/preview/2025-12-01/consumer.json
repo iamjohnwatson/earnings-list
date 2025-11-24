@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
-      "date": "2025-12-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2025-12-02",
@@ -97,10 +88,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 10,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-24T09:51:26Z",
+  "generatedAt": "2025-11-24T12:57:56Z",
   "irCompanies": [
     "Coca-Cola Co",
     "Smithfield Foods",
@@ -108,7 +99,6 @@
   ],
   "fallbackCompanies": [
     "Brown-Forman Corp",
-    "Campbell Soup Co",
     "Dollar General",
     "Dollar Tree",
     "Hormel Foods",
