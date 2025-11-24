@@ -21,6 +21,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Teradyne",
+      "symbol": "TER",
+      "date": "2025-12-02",
+      "bmo_amc": "5:15 PM EDT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:15 pm EDT",
+      "ir_source_url": "https://investors.teradyne.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "C3.ai",
       "symbol": "AI",
       "date": "2025-12-03",
@@ -79,14 +90,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-24T15:48:56Z",
+  "generatedAt": "2025-11-24T18:54:20Z",
   "irCompanies": [
     "HPE",
     "KLA Corp",
-    "Marvell"
+    "Marvell",
+    "Teradyne"
   ],
   "fallbackCompanies": [
     "C3.ai",

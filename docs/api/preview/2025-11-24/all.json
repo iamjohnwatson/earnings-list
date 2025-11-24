@@ -1,16 +1,58 @@
 {
   "records": [
     {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
       "date": "2025-11-24",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "ir_source_url": "https://investors.etsy.com/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2025-11-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2025-11-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2025-11-24",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-11-24",
+      "bmo_amc": "7:41 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:41 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     },
     {
       "company": "Keysight Technologies Inc",
@@ -45,13 +87,37 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Apollo",
+      "symbol": "APO",
+      "date": "2025-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2025-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-24",
-      "bmo_amc": "10:27 AM ET",
+      "bmo_amc": "1:31 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:27 AM ET",
+      "ir_time_label": "1:31 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -139,38 +205,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Etsy Inc",
-      "symbol": "ETSY",
-      "date": "2025-11-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.etsy.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Best Buy Co Inc",
-      "symbol": "BBY",
-      "date": "2025-11-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
-      "date": "2025-11-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "New Fortress Energy",
       "symbol": "NFE",
       "date": "2025-11-27",
@@ -179,39 +213,18 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2025-11-24",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-11-24",
-      "bmo_amc": "10:27 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:27 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-24T15:48:48Z",
+  "generatedAt": "2025-11-24T18:54:10Z",
   "irCompanies": [
     "Alibaba",
+    "Apollo",
     "Citizens Financial",
     "Etsy Inc",
     "Lennar Corp",
