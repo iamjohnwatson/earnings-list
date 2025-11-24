@@ -107,18 +107,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
-      "date": "2025-12-02",
-      "bmo_amc": "10:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:30 am EST",
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Fiserv",
       "symbol": "FI",
       "date": "2025-12-01",
@@ -269,6 +257,30 @@
       "sector": "TMT"
     },
     {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2025-12-02",
+      "bmo_amc": "10:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:30 am EST",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2025-12-03",
+      "bmo_amc": "8:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EST",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Boston Scientific Corp",
       "symbol": "BSX",
       "date": "2025-12-02",
@@ -291,18 +303,19 @@
       "sector": "Pharma"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-24T04:29:03Z",
+  "generatedAt": "2025-11-24T06:54:10Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Coca-Cola Co",
     "Fiserv",
     "HPE",
+    "Honeywell",
     "KLA Corp",
     "Marvell",
     "Quanta Services Inc",
