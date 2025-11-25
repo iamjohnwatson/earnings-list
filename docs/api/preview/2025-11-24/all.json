@@ -1,6 +1,50 @@
 {
   "records": [
     {
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2025-11-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2025-11-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
+      "date": "2025-11-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2025-11-25",
@@ -11,48 +55,6 @@
       "ir_source_url": "https://investor.pnc.com/",
       "source": "investor_relations",
       "sector": "Finance"
-    },
-    {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
-      "date": "2025-11-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Veralto Corp",
-      "symbol": "VLTO",
-      "date": "2025-11-25",
-      "bmo_amc": "8:30AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.veralto.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2025-11-26",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2025-11-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     },
     {
       "company": "Agilent",
@@ -68,10 +70,10 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-11-25",
-      "bmo_amc": "8:44 AM ET",
+      "bmo_amc": "12:58 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:44 am ET",
+      "ir_time_label": "12:58 pm ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
@@ -142,10 +144,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-11-25",
-      "bmo_amc": "10:27 AM ET",
+      "bmo_amc": "1:25 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:27 AM ET",
+      "ir_time_label": "1:25 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -171,48 +173,46 @@
       "sector": "TMT"
     },
     {
-      "company": "Best Buy Co Inc",
-      "symbol": "BBY",
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2025-11-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2025-11-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
       "date": "2025-11-25",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2025-11-26",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2025-11-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
-      "date": "2025-11-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2025-11-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
     }
   ],
   "count": 20,
@@ -221,7 +221,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-25T15:49:03Z",
+  "generatedAt": "2025-11-25T18:53:06Z",
   "irCompanies": [
     "Alibaba",
     "Home Depot Inc",
