@@ -4,10 +4,21 @@
       "company": "Keysight Technologies Inc",
       "symbol": "KEYS",
       "date": "2025-11-24",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2025-11-25",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Deere",
@@ -19,11 +30,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-25T09:50:47Z",
-  "irCompanies": [],
+  "generatedAt": "2025-11-25T12:57:48Z",
+  "irCompanies": [
+    "Veralto Corp"
+  ],
   "fallbackCompanies": [
     "Deere",
     "Keysight Technologies Inc"
