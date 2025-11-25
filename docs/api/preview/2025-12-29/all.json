@@ -11,17 +11,30 @@
       "ir_source_url": "https://investor.comerica.com/",
       "source": "investor_relations",
       "sector": "Finance"
+    },
+    {
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
+      "date": "2026-01-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.etsy.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-24T21:47:51Z",
+  "generatedAt": "2025-11-25T01:23:27Z",
   "irCompanies": [
-    "Comerica Inc"
+    "Comerica Inc",
+    "Etsy Inc"
   ],
   "fallbackCompanies": [],
   "week": {

@@ -4,30 +4,17 @@
       "company": "Agilent",
       "symbol": "A",
       "date": "2025-11-24",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-11-24",
-      "bmo_amc": "12:21 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "12:21 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-11-24T21:47:05Z",
-  "irCompanies": [
-    "Merck"
-  ],
+  "generatedAt": "2025-11-25T01:22:41Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Agilent"
   ],

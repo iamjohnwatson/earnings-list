@@ -1,23 +1,12 @@
 {
   "records": [
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-11-24",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Zoom",
       "symbol": "ZM",
       "date": "2025-11-24",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -26,7 +15,7 @@
       "date": "2025-11-25",
       "bmo_amc": "8:30 PM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 PM",
       "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
       "source": "investor_relations"
@@ -35,64 +24,63 @@
       "company": "Analog Devices",
       "symbol": "ADI",
       "date": "2025-11-25",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Autodesk",
       "symbol": "ADSK",
       "date": "2025-11-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Dell",
       "symbol": "DELL",
       "date": "2025-11-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "HP Inc",
       "symbol": "HPQ",
       "date": "2025-11-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Workday",
       "symbol": "WDAY",
       "date": "2025-11-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Zscaler",
       "symbol": "ZS",
       "date": "2025-11-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-24T21:47:04Z",
+  "generatedAt": "2025-11-25T01:22:42Z",
   "irCompanies": [
-    "Alibaba",
-    "Take-Two Interactive"
+    "Alibaba"
   ],
   "fallbackCompanies": [
     "Analog Devices",
