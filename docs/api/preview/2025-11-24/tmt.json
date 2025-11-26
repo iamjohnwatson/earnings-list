@@ -13,12 +13,10 @@
       "company": "Alibaba",
       "symbol": "BABA",
       "date": "2025-11-25",
-      "bmo_amc": "8:30 PM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "8:30 PM",
-      "ir_source_url": "https://www.alibabagroup.com/en-US/investor-relations",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Analog Devices",
@@ -33,75 +31,60 @@
       "company": "Autodesk",
       "symbol": "ADSK",
       "date": "2025-11-25",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Dell",
       "symbol": "DELL",
       "date": "2025-11-25",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "HP Inc",
       "symbol": "HPQ",
       "date": "2025-11-25",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-11-25",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Workday",
       "symbol": "WDAY",
       "date": "2025-11-25",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.workday.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Zscaler",
       "symbol": "ZS",
       "date": "2025-11-25",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-25T21:47:15Z",
-  "irCompanies": [
-    "Alibaba",
-    "Take-Two Interactive",
-    "Workday"
-  ],
+  "generatedAt": "2025-11-26T01:23:35Z",
+  "irCompanies": [],
   "fallbackCompanies": [
+    "Alibaba",
     "Analog Devices",
     "Autodesk",
     "Dell",
     "HP Inc",
+    "Workday",
     "Zoom",
     "Zscaler"
   ],

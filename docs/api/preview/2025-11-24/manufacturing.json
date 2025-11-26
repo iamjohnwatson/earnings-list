@@ -10,33 +10,20 @@
       "source": "aggregator"
     },
     {
-      "company": "Veralto Corp",
-      "symbol": "VLTO",
-      "date": "2025-11-25",
-      "bmo_amc": "8:30AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.veralto.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Deere",
       "symbol": "DE",
       "date": "2025-11-26",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-25T21:47:15Z",
-  "irCompanies": [
-    "Veralto Corp"
-  ],
+  "generatedAt": "2025-11-26T01:23:36Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Deere",
     "Keysight Technologies Inc"

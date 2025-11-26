@@ -10,17 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2025-11-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "J.M. Smucker Co",
       "symbol": "SJM",
       "date": "2025-11-25",
@@ -28,27 +17,13 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2025-11-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
-      "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-25T21:47:15Z",
-  "irCompanies": [
-    "Home Depot Inc",
-    "Keurig Dr. Pepper"
-  ],
+  "generatedAt": "2025-11-26T01:23:36Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Best Buy Co Inc",
     "J.M. Smucker Co"
