@@ -8,13 +8,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-11-26",
+      "bmo_amc": "12:24 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:24 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-11-26T04:19:22Z",
-  "irCompanies": [],
+  "generatedAt": "2025-11-26T06:53:26Z",
+  "irCompanies": [
+    "Merck"
+  ],
   "fallbackCompanies": [
     "Agilent"
   ],
