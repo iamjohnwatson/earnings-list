@@ -13,17 +13,30 @@
       "company": "Deere",
       "symbol": "DE",
       "date": "2025-11-26",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2025-11-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-26T12:57:38Z",
-  "irCompanies": [],
+  "generatedAt": "2025-11-26T15:46:37Z",
+  "irCompanies": [
+    "Lennar Corp"
+  ],
   "fallbackCompanies": [
     "Deere",
     "Keysight Technologies Inc"
