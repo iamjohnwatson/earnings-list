@@ -8,38 +8,13 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2025-11-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-11-26",
-      "bmo_amc": "4:01 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:01 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-11-26T21:46:27Z",
-  "irCompanies": [
-    "Centene Corp",
-    "Merck"
-  ],
+  "generatedAt": "2025-11-27T01:23:02Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Agilent"
   ],
