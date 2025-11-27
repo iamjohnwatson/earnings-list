@@ -1,24 +1,24 @@
 {
   "records": [
     {
-      "company": "Agilent",
-      "symbol": "A",
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
       "date": "2025-11-24",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2025-11-27",
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2025-11-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Manufacturing"
     },
     {
       "company": "Zoom",
@@ -121,24 +121,24 @@
       "sector": "Consumer"
     },
     {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2025-11-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Agilent",
+      "symbol": "A",
       "date": "2025-11-24",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2025-11-26",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     }
   ],
   "count": 14,
@@ -147,7 +147,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-27T04:16:41Z",
+  "generatedAt": "2025-11-27T06:54:33Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Agilent",
