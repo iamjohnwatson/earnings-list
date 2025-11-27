@@ -73,17 +73,8 @@
       "company": "Kroger Co",
       "symbol": "KR",
       "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Lululemon Athletica",
-      "symbol": "LULU",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -99,10 +90,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 10,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-27T09:49:32Z",
+  "generatedAt": "2025-11-27T12:57:13Z",
   "irCompanies": [
     "Coca-Cola Co",
     "Etsy Inc",
@@ -114,8 +105,7 @@
     "Dollar General",
     "Dollar Tree",
     "Hormel Foods",
-    "Kroger Co",
-    "Lululemon Athletica"
+    "Kroger Co"
   ],
   "week": {
     "id": "2025-12-01",

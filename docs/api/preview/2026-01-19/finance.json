@@ -53,22 +53,82 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Bank of New York Mellon",
+      "symbol": "BK",
+      "date": "2026-01-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "BlackRock Inc",
+      "symbol": "BLK",
+      "date": "2026-01-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2026-01-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Goldman Sachs",
+      "symbol": "GS",
+      "date": "2026-01-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2026-01-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-01-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-11-27T09:50:29Z",
+  "generatedAt": "2025-11-27T12:58:14Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Bank of New York Mellon",
+    "BlackRock Inc",
     "Capital One Financial",
     "Charles Schwab",
+    "Citigroup",
     "Fifth Third Bancorp",
+    "Goldman Sachs",
     "Interactive Brokers",
+    "JPMorgan",
     "KeyCorp",
+    "Wells Fargo",
     "Zions Bancorporation"
   ],
   "week": {

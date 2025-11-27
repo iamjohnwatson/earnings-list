@@ -17,16 +17,26 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2025-12-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-11-27T09:49:39Z",
+  "generatedAt": "2025-11-27T12:57:22Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Campbell Soup Co",
-    "Costco Wholesale Corp"
+    "Costco Wholesale Corp",
+    "Lululemon Athletica"
   ],
   "week": {
     "id": "2025-12-08",
