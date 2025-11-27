@@ -1,6 +1,68 @@
 {
   "records": [
     {
+      "company": "Oracle",
+      "symbol": "ORCL",
+      "date": "2025-12-08",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "GameStop",
+      "symbol": "GME",
+      "date": "2025-12-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Adobe",
+      "symbol": "ADBE",
+      "date": "2025-12-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Synopsys",
+      "symbol": "SNPS",
+      "date": "2025-12-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Broadcom",
+      "symbol": "AVGO",
+      "date": "2025-12-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Rivian",
+      "symbol": "RIVN",
+      "date": "2025-12-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://rivian.com/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2025-12-09",
@@ -97,68 +159,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Oracle",
-      "symbol": "ORCL",
-      "date": "2025-12-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "GameStop",
-      "symbol": "GME",
-      "date": "2025-12-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Adobe",
-      "symbol": "ADBE",
-      "date": "2025-12-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Synopsys",
-      "symbol": "SNPS",
-      "date": "2025-12-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Broadcom",
-      "symbol": "AVGO",
-      "date": "2025-12-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Rivian",
-      "symbol": "RIVN",
-      "date": "2025-12-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://rivian.com/investors",
-      "source": "investor_relations",
-      "sector": "TMT"
     }
   ],
   "count": 15,
@@ -167,7 +167,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-27T18:52:14Z",
+  "generatedAt": "2025-11-27T21:47:07Z",
   "irCompanies": [
     "Citizens Financial",
     "JPMorgan",
