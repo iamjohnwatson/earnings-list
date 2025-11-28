@@ -21,28 +21,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2025-11-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-11-28",
-      "bmo_amc": "2:21 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:21 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "Keysight Technologies Inc",
       "symbol": "KEYS",
       "date": "2025-11-24",
@@ -63,14 +41,26 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2025-11-27",
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2025-11-24",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-11-28",
+      "bmo_amc": "6:49 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:49 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     },
     {
       "company": "Zoom",
@@ -153,13 +143,13 @@
       "sector": "TMT"
     }
   ],
-  "count": 15,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-28T09:49:01Z",
+  "generatedAt": "2025-11-28T12:56:46Z",
   "irCompanies": [
     "Merck"
   ],
@@ -174,7 +164,6 @@
     "HP Inc",
     "J.M. Smucker Co",
     "Keysight Technologies Inc",
-    "New Fortress Energy",
     "Workday",
     "Zoom",
     "Zscaler"

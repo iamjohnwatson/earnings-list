@@ -26,17 +26,57 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "American Airlines Group Inc",
+      "symbol": "AAL",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "CSX Corp",
+      "symbol": "CSX",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "GE Aerospace",
+      "symbol": "GE",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Union Pacific Corp",
+      "symbol": "UNP",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-11-28T09:50:09Z",
+  "generatedAt": "2025-11-28T12:57:55Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "3M Co",
+    "American Airlines Group Inc",
+    "CSX Corp",
     "DR Horton Inc",
-    "Prologis Inc"
+    "GE Aerospace",
+    "Prologis Inc",
+    "Union Pacific Corp"
   ],
   "week": {
     "id": "2026-01-19",
