@@ -31,16 +31,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "UnitedHealth Group",
-      "symbol": "UNH",
-      "date": "2026-01-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-01-14",
@@ -173,6 +163,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "UnitedHealth Group",
+      "symbol": "UNH",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     }
   ],
   "count": 17,
@@ -181,7 +181,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-28T15:49:23Z",
+  "generatedAt": "2025-11-28T18:52:42Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup"
