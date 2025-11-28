@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
-      "date": "2025-12-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Costco Wholesale Corp",
-      "symbol": "COST",
-      "date": "2025-12-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Lululemon Athletica",
-      "symbol": "LULU",
-      "date": "2025-12-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Autozone Inc",
       "symbol": "AZO",
       "date": "2025-12-09",
@@ -159,6 +129,36 @@
       "ir_source_url": "https://rivian.com/investors",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "Campbell Soup Co",
+      "symbol": "CPB",
+      "date": "2025-12-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2025-12-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2025-12-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 15,
@@ -167,7 +167,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-28T01:22:31Z",
+  "generatedAt": "2025-11-28T04:17:06Z",
   "irCompanies": [
     "Citizens Financial",
     "JPMorgan",
