@@ -1,84 +1,24 @@
 {
   "records": [
     {
-      "company": "3M Co",
-      "symbol": "MMM",
-      "date": "2026-01-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "DR Horton Inc",
-      "symbol": "DHI",
-      "date": "2026-01-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Prologis Inc",
-      "symbol": "PLD",
-      "date": "2026-01-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "American Airlines Group Inc",
-      "symbol": "AAL",
+      "company": "Elevance Health Inc",
+      "symbol": "ELV",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
-      "company": "CSX Corp",
-      "symbol": "CSX",
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "GE Aerospace",
-      "symbol": "GE",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Union Pacific Corp",
-      "symbol": "UNP",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Freeport McMoRan",
-      "symbol": "FCX",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
       "company": "Netflix",
@@ -109,6 +49,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Freeport McMoRan",
+      "symbol": "FCX",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "Capital One Financial",
@@ -241,34 +201,74 @@
       "sector": "Finance"
     },
     {
-      "company": "Elevance Health Inc",
-      "symbol": "ELV",
-      "date": "2026-01-22",
+      "company": "3M Co",
+      "symbol": "MMM",
+      "date": "2026-01-20",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
-      "date": "2026-01-22",
+      "company": "DR Horton Inc",
+      "symbol": "DHI",
+      "date": "2026-01-20",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-01-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "American Airlines Group Inc",
+      "symbol": "AAL",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "CSX Corp",
+      "symbol": "CSX",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "GE Aerospace",
+      "symbol": "GE",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Union Pacific Corp",
+      "symbol": "UNP",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 27,
@@ -277,7 +277,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-11-28T21:47:03Z",
+  "generatedAt": "2025-11-29T01:23:43Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "3M Co",
