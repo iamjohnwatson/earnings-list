@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-01-28",
+      "bmo_amc": "08:30 AM\n                    ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "08:30 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "UPS",
       "symbol": "UPS",
       "date": "2026-01-27",
@@ -13,14 +25,15 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-01T12:58:37Z",
+  "generatedAt": "2025-12-01T15:49:40Z",
   "irCompanies": [
+    "AT&T",
     "UPS"
   ],
   "fallbackCompanies": [],
