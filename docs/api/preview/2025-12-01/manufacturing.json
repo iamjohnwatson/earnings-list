@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2025-12-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Quanta Services Inc",
       "symbol": "PWR",
       "date": "2025-12-02",
@@ -23,11 +34,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-01T09:54:21Z",
+  "generatedAt": "2025-12-01T12:57:28Z",
   "irCompanies": [
+    "Bombardier",
     "Honeywell",
     "Quanta Services Inc"
   ],
