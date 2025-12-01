@@ -12,6 +12,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Interactive Brokers",
+      "symbol": "IBKR",
+      "date": "2025-12-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.interactivebrokers.com/ir/main.php",
+      "source": "investor_relations"
+    },
+    {
       "company": "Scotiabank",
       "symbol": "BNS",
       "date": "2025-12-02",
@@ -59,15 +70,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-01T15:48:30Z",
+  "generatedAt": "2025-12-01T18:53:35Z",
   "irCompanies": [
     "Fiserv",
+    "Interactive Brokers",
     "Scotiabank"
   ],
   "fallbackCompanies": [
