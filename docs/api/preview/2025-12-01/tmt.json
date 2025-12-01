@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2025-12-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2025-12-02",
@@ -90,11 +101,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-11-30T21:46:48Z",
+  "generatedAt": "2025-12-01T01:35:38Z",
   "irCompanies": [
+    "BlackBerry",
     "HPE",
     "KLA Corp",
     "Marvell",
