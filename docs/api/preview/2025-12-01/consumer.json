@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Chipotle Mexican Grill",
+      "symbol": "CMG",
+      "date": "2025-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.chipotle.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Coca-Cola Co",
       "symbol": "KO",
       "date": "2025-12-02",
@@ -90,11 +101,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-12-02T18:54:17Z",
+  "generatedAt": "2025-12-02T21:48:31Z",
   "irCompanies": [
+    "Chipotle Mexican Grill",
     "Coca-Cola Co",
     "Etsy Inc",
     "Smithfield Foods",

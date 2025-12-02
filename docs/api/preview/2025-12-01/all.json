@@ -26,10 +26,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-12-02",
-      "bmo_amc": "1:30 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:30 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -109,6 +109,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "Apollo",
@@ -211,18 +221,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2025-12-03",
-      "bmo_amc": "8:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EST",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2025-12-02",
@@ -238,23 +236,11 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-12-02",
-      "bmo_amc": "11:03 AM ET",
+      "bmo_amc": "1:38 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:03 am ET",
+      "ir_time_label": "1:38 pm ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Solventum Corp",
-      "symbol": "SOLV",
-      "date": "2025-12-02",
-      "bmo_amc": "10:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EST",
-      "ir_source_url": "https://investors.solventum.com/",
       "source": "investor_relations",
       "sector": "Pharma"
     },
@@ -267,6 +253,18 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "Chipotle Mexican Grill",
+      "symbol": "CMG",
+      "date": "2025-12-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.chipotle.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
       "company": "Coca-Cola Co",
@@ -365,39 +363,28 @@
       "ir_source_url": "https://www.ulta.com/investor",
       "source": "investor_relations",
       "sector": "Consumer"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     }
   ],
-  "count": 34,
+  "count": 33,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-02T18:54:17Z",
+  "generatedAt": "2025-12-02T21:48:31Z",
   "irCompanies": [
     "Apollo",
     "Centene Corp",
+    "Chipotle Mexican Grill",
     "Coca-Cola Co",
     "Etsy Inc",
     "HPE",
-    "Honeywell",
     "KLA Corp",
     "Marvell",
     "Merck",
     "Quanta Services Inc",
     "Scotiabank",
     "Smithfield Foods",
-    "Solventum Corp",
     "Synchrony Financial",
     "Take-Two Interactive",
     "Teradyne",

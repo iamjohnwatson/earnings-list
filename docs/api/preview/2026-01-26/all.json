@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-01-28",
+      "bmo_amc": "08:30 AM\n                    ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "08:30 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-01-30",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Alexandria Real Estate Equities Inc",
       "symbol": "ARE",
       "date": "2026-01-26",
@@ -51,30 +75,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "AT&T",
-      "symbol": "T",
-      "date": "2026-01-28",
-      "bmo_amc": "08:30 AM\n                    ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "08:30 AM\n                    ET",
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Verizon",
-      "symbol": "VZ",
-      "date": "2026-01-30",
-      "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM ET",
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations",
-      "sector": "TMT"
     }
   ],
   "count": 7,
@@ -83,7 +83,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-02T18:55:26Z",
+  "generatedAt": "2025-12-02T21:49:47Z",
   "irCompanies": [
     "AT&T",
     "UPS",
