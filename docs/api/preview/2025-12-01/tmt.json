@@ -21,6 +21,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-12-02",
+      "bmo_amc": "10:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:30 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Teradyne",
       "symbol": "TER",
       "date": "2025-12-02",
@@ -90,14 +101,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-02T12:59:10Z",
+  "generatedAt": "2025-12-02T15:49:24Z",
   "irCompanies": [
     "HPE",
     "KLA Corp",
     "Marvell",
+    "Take-Two Interactive",
     "Teradyne"
   ],
   "fallbackCompanies": [
