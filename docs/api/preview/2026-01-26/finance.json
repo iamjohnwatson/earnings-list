@@ -1,14 +1,36 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Brown & Brown",
+      "symbol": "BRO",
+      "date": "2026-01-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "W. R. Berkley Corp",
+      "symbol": "WRB",
+      "date": "2026-01-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-02T09:54:01Z",
+  "generatedAt": "2025-12-02T13:00:18Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Brown & Brown",
+    "W. R. Berkley Corp"
+  ],
   "week": {
     "id": "2026-01-26",
     "start_date": "2026-01-26",
