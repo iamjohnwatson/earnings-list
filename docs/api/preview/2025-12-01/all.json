@@ -4,8 +4,8 @@
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2025-12-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -14,8 +14,8 @@
       "company": "Marvell",
       "symbol": "MRVL",
       "date": "2025-12-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -83,6 +83,50 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2025-12-03",
+      "bmo_amc": "8:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EST",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-12-03",
+      "bmo_amc": "6:25 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:25 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2025-12-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "Dollar Tree",
@@ -162,8 +206,8 @@
       "company": "Scotiabank",
       "symbol": "BNS",
       "date": "2025-12-02",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -175,7 +219,9 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://www.rbc.com/investor-relations/",
+      "source": "investor_relations",
       "sector": "Finance"
     },
     {
@@ -207,50 +253,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-12-03",
-      "bmo_amc": "4:05 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:05 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2025-12-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2025-12-03",
-      "bmo_amc": "8:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EST",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     }
   ],
   "count": 24,
@@ -259,12 +261,13 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-03T09:51:57Z",
+  "generatedAt": "2025-12-03T12:57:31Z",
   "irCompanies": [
     "HPE",
     "Honeywell",
     "KLA Corp",
     "Merck",
+    "Royal Bank of Canada",
     "Smithfield Foods",
     "Ulta Beauty"
   ],
@@ -281,7 +284,6 @@
     "Kroger Co",
     "Marvell",
     "New Fortress Energy",
-    "Royal Bank of Canada",
     "Salesforce",
     "Scotiabank",
     "SentinelOne",

@@ -1,11 +1,53 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Kimberly Clark Corp",
+      "symbol": "KMB",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Starbucks Corp",
+      "symbol": "SBUX",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Sysco Corp",
+      "symbol": "SYY",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-12-03T09:53:13Z",
+  "generatedAt": "2025-12-03T12:58:50Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Kimberly Clark Corp",
+    "Royal Caribbean Group",
+    "Starbucks Corp",
+    "Sysco Corp"
+  ],
   "week": {
     "id": "2026-01-26",
     "start_date": "2026-01-26",

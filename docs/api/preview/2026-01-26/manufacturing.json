@@ -19,6 +19,69 @@
       "source": "aggregator"
     },
     {
+      "company": "Boeing",
+      "symbol": "BA",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Boston Properties",
+      "symbol": "BXP",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "JetBlue",
+      "symbol": "JBLU",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Lockheed Martin",
+      "symbol": "LMT",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "NVR Inc",
+      "symbol": "NVR",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Packaging Corp of America",
+      "symbol": "PKG",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "RTX",
+      "symbol": "RTX",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "UPS",
       "symbol": "UPS",
       "date": "2026-01-27",
@@ -30,16 +93,23 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-03T09:53:13Z",
+  "generatedAt": "2025-12-03T12:58:50Z",
   "irCompanies": [
     "UPS"
   ],
   "fallbackCompanies": [
     "Alexandria Real Estate Equities Inc",
-    "Nucor Corp"
+    "Boeing",
+    "Boston Properties",
+    "JetBlue",
+    "Lockheed Martin",
+    "NVR Inc",
+    "Nucor Corp",
+    "Packaging Corp of America",
+    "RTX"
   ],
   "week": {
     "id": "2026-01-26",

@@ -17,18 +17,48 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Chubb",
+      "symbol": "CB",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Invesco",
+      "symbol": "IVZ",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Synchrony Financial",
+      "symbol": "SYF",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-03T09:53:13Z",
+  "generatedAt": "2025-12-03T12:58:50Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Brown & Brown",
+    "Chubb",
+    "Invesco",
+    "Synchrony Financial",
     "W. R. Berkley Corp"
   ],
   "week": {
