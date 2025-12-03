@@ -101,36 +101,16 @@
       "sector": "Finance"
     },
     {
-      "company": "Merck",
-      "symbol": "MRK",
+      "company": "Honeywell",
+      "symbol": "HON",
       "date": "2025-12-03",
-      "bmo_amc": "11:13 AM ET",
+      "bmo_amc": "8:00 AM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:13 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "ir_time_label": "8:00 AM EST",
+      "ir_source_url": "https://investor.honeywell.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2025-12-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Manufacturing"
     },
     {
       "company": "Crowdstrike",
@@ -160,6 +140,18 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2025-12-03",
+      "bmo_amc": "4:01 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:01 PM EST",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -210,10 +202,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2025-12-03",
-      "bmo_amc": "1:28 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:28 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -241,6 +233,38 @@
       "sector": "TMT"
     },
     {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-12-03",
+      "bmo_amc": "3:13 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "3:13 pm ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2025-12-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Dollar Tree",
       "symbol": "DLTR",
       "date": "2025-12-03",
@@ -248,18 +272,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Smithfield Foods",
-      "symbol": "SFD",
-      "date": "2025-12-03",
-      "bmo_amc": "2:15 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:15 pm EST",
-      "ir_source_url": "https://investors.smithfieldfoods.com/",
-      "source": "investor_relations",
       "sector": "Consumer"
     },
     {
@@ -315,24 +327,25 @@
       "sector": "Consumer"
     }
   ],
-  "count": 29,
+  "count": 30,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-03T18:53:21Z",
+  "generatedAt": "2025-12-03T21:46:42Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "Citizens Financial",
     "Fiserv",
     "HPE",
+    "Honeywell",
+    "Intuit",
     "KLA Corp",
     "Merck",
     "Micron",
     "Royal Bank of Canada",
-    "Smithfield Foods",
     "Take-Two Interactive",
     "Ulta Beauty"
   ],
