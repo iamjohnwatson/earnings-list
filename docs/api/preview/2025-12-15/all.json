@@ -7,9 +7,7 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.micron.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "TMT"
     },
     {
@@ -171,10 +169,9 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-03T15:49:45Z",
+  "generatedAt": "2025-12-03T18:53:39Z",
   "irCompanies": [
-    "BlackBerry",
-    "Micron"
+    "BlackBerry"
   ],
   "fallbackCompanies": [
     "Accenture",
@@ -189,6 +186,7 @@
     "Jabil Inc",
     "Lamb Weston Holdings",
     "Lennar Corp",
+    "Micron",
     "Nike Inc",
     "Paychex"
   ],
