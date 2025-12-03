@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "3M Co",
       "symbol": "MMM",
       "date": "2026-01-20",
@@ -71,6 +81,26 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Freeport McMoRan",
+      "symbol": "FCX",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "NextEra Energy",
+      "symbol": "NEE",
+      "date": "2026-01-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-01-20",
@@ -111,34 +141,34 @@
       "sector": "TMT"
     },
     {
-      "company": "Freeport McMoRan",
-      "symbol": "FCX",
+      "company": "Elevance Health Inc",
+      "symbol": "ELV",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Pharma"
     },
     {
-      "company": "NextEra Energy",
-      "symbol": "NEE",
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "HCA Healthcare Inc",
+      "symbol": "HCA",
       "date": "2026-01-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
       "company": "Capital One Financial",
@@ -279,36 +309,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "Elevance Health Inc",
-      "symbol": "ELV",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "HCA Healthcare Inc",
-      "symbol": "HCA",
-      "date": "2026-01-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     }
   ],
   "count": 31,
@@ -317,7 +317,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-03T06:55:08Z",
+  "generatedAt": "2025-12-03T09:53:04Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "3M Co",

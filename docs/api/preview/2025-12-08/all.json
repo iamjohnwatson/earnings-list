@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2025-12-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Nordson Corp",
-      "symbol": "NDSN",
-      "date": "2025-12-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2025-12-09",
@@ -231,6 +211,26 @@
       "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations",
       "sector": "Finance"
+    },
+    {
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2025-12-09",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
+      "date": "2025-12-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 21,
@@ -239,7 +239,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-03T06:54:12Z",
+  "generatedAt": "2025-12-03T09:52:06Z",
   "irCompanies": [
     "AT&T",
     "Aon",
