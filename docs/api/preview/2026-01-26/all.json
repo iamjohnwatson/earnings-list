@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Verizon",
-      "symbol": "VZ",
-      "date": "2026-01-30",
-      "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM ET",
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Alexandria Real Estate Equities Inc",
       "symbol": "ARE",
       "date": "2026-01-26",
@@ -63,6 +51,18 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-01-30",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
   "count": 6,
@@ -71,7 +71,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-03T01:26:16Z",
+  "generatedAt": "2025-12-03T04:23:38Z",
   "irCompanies": [
     "UPS",
     "Verizon"
