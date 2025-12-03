@@ -1,14 +1,14 @@
 {
   "records": [
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-01-13",
+      "company": "UnitedHealth Group",
+      "symbol": "UNH",
+      "date": "2026-01-15",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Pharma"
     },
     {
       "company": "J B Hunt Transport Services Inc",
@@ -29,28 +29,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2026-01-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Bank of America",
-      "symbol": "BAC",
-      "date": "2026-01-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
     },
     {
       "company": "Bank of America",
@@ -153,26 +131,34 @@
       "sector": "Finance"
     },
     {
-      "company": "UnitedHealth Group",
-      "symbol": "UNH",
-      "date": "2026-01-15",
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-01-13",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "TMT"
+    },
+    {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-03T12:58:31Z",
-  "irCompanies": [
-    "Bank of America"
-  ],
+  "generatedAt": "2025-12-03T15:50:22Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Applied Digital",
     "Bank of America",

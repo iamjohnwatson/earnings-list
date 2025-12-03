@@ -10,12 +10,56 @@
       "source": "aggregator"
     },
     {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2025-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2025-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2025-12-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Fiserv",
+      "symbol": "FI",
+      "date": "2025-12-03",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EST",
+      "ir_source_url": "https://investors.fiserv.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Royal Bank of Canada",
       "symbol": "RY",
       "date": "2025-12-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.rbc.com/investor-relations/",
       "source": "investor_relations"
@@ -48,14 +92,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 9,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-03T12:57:31Z",
+  "generatedAt": "2025-12-03T15:49:25Z",
   "irCompanies": [
+    "Bank of America",
+    "Citigroup",
+    "Citizens Financial",
+    "Fiserv",
     "Royal Bank of Canada"
   ],
   "fallbackCompanies": [
