@@ -22,18 +22,18 @@
       "company": "Dollar General",
       "symbol": "DG",
       "date": "2025-12-04",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Hormel Foods",
       "symbol": "HRL",
       "date": "2025-12-04",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -60,7 +60,7 @@
   "count": 6,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-12-04T12:57:38Z",
+  "generatedAt": "2025-12-04T15:49:37Z",
   "irCompanies": [
     "Ulta Beauty"
   ],
