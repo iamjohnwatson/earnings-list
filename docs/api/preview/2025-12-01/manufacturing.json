@@ -1,10 +1,24 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-04T01:24:51Z",
-  "irCompanies": [],
+  "generatedAt": "2025-12-04T04:22:57Z",
+  "irCompanies": [
+    "Bombardier"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2025-12-01",
