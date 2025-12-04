@@ -91,16 +91,62 @@
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Alaska Air",
+      "symbol": "ALK",
+      "date": "2026-01-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Steel Dynamics",
+      "symbol": "STLD",
+      "date": "2026-01-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "TE Connectivity Ltd",
+      "symbol": "TEL",
+      "date": "2026-01-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Teledyne Technologies Inc",
+      "symbol": "TDY",
+      "date": "2026-01-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Textron Inc",
+      "symbol": "TXT",
+      "date": "2026-01-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-04T09:53:23Z",
+  "generatedAt": "2025-12-04T12:58:56Z",
   "irCompanies": [
     "UPS"
   ],
   "fallbackCompanies": [
+    "Alaska Air",
     "Alexandria Real Estate Equities Inc",
     "Boeing",
     "Boston Properties",
@@ -109,7 +155,11 @@
     "NVR Inc",
     "Nucor Corp",
     "Packaging Corp of America",
-    "RTX"
+    "RTX",
+    "Steel Dynamics",
+    "TE Connectivity Ltd",
+    "Teledyne Technologies Inc",
+    "Textron Inc"
   ],
   "week": {
     "id": "2026-01-26",
