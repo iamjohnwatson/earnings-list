@@ -1,36 +1,10 @@
 {
-  "records": [
-    {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Johnson Controls International PLC",
-      "symbol": "JCI",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.johnsoncontrols.com/",
-      "source": "investor_relations"
-    }
-  ],
-  "count": 2,
+  "records": [],
+  "count": 0,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-04T21:47:01Z",
-  "irCompanies": [
-    "Bombardier",
-    "Johnson Controls International PLC"
-  ],
+  "generatedAt": "2025-12-05T01:25:46Z",
+  "irCompanies": [],
   "fallbackCompanies": [],
   "week": {
     "id": "2025-12-01",

@@ -28,6 +28,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-01-21",
+      "bmo_amc": "4:30PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30pm EST",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "American Airlines Group Inc",
       "symbol": "AAL",
       "date": "2026-01-22",
@@ -64,11 +75,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-04T21:48:07Z",
-  "irCompanies": [],
+  "generatedAt": "2025-12-05T01:26:46Z",
+  "irCompanies": [
+    "Prologis Inc"
+  ],
   "fallbackCompanies": [
     "3M Co",
     "American Airlines Group Inc",

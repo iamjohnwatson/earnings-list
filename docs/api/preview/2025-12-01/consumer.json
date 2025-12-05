@@ -49,27 +49,24 @@
       "company": "Ulta Beauty",
       "symbol": "ULTA",
       "date": "2025-12-04",
-      "bmo_amc": "4:30 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:30 pm ET",
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 6,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-12-04T21:47:02Z",
-  "irCompanies": [
-    "Ulta Beauty"
-  ],
+  "generatedAt": "2025-12-05T01:25:45Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Brown-Forman Corp",
     "Dollar General",
     "Dollar Tree",
     "Hormel Foods",
-    "Kroger Co"
+    "Kroger Co",
+    "Ulta Beauty"
   ],
   "week": {
     "id": "2025-12-01",
