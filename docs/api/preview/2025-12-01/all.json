@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2025-12-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-12-05",
-      "bmo_amc": "4:23 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:23 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "Scotiabank",
       "symbol": "BNS",
       "date": "2025-12-02",
@@ -71,6 +49,40 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2025-12-05",
+      "bmo_amc": "9:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EST",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2025-12-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-12-05",
+      "bmo_amc": "9:54 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:54 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     },
     {
       "company": "Crowdstrike",
@@ -143,6 +155,30 @@
       "sector": "TMT"
     },
     {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2025-12-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.paychex.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-12-05",
+      "bmo_amc": "10:23 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:23 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Dollar Tree",
       "symbol": "DLTR",
       "date": "2025-12-03",
@@ -203,15 +239,18 @@
       "sector": "Consumer"
     }
   ],
-  "count": 20,
+  "count": 23,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-05T12:57:47Z",
+  "generatedAt": "2025-12-05T15:48:49Z",
   "irCompanies": [
-    "Merck"
+    "Merck",
+    "PNC Financial",
+    "Paychex",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Bank of Montreal",
