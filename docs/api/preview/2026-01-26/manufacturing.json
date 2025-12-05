@@ -136,30 +136,130 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "A O Smith Corp",
+      "symbol": "AOS",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Caterpillar",
+      "symbol": "CAT",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Dover Corp",
+      "symbol": "DOV",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "L3Harris Technologies Inc",
+      "symbol": "LHX",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Northrop Grumman Corp",
+      "symbol": "NOC",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Parker-Hannifin Corp",
+      "symbol": "PH",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Pultegroup Inc",
+      "symbol": "PHM",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Trane Technologies PLC",
+      "symbol": "TT",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-05T09:50:41Z",
+  "generatedAt": "2025-12-05T12:59:03Z",
   "irCompanies": [
     "UPS"
   ],
   "fallbackCompanies": [
+    "A O Smith Corp",
     "Alaska Air",
     "Alexandria Real Estate Equities Inc",
     "Boeing",
     "Boston Properties",
+    "Caterpillar",
+    "Dover Corp",
     "JetBlue",
+    "L3Harris Technologies Inc",
     "Lockheed Martin",
     "NVR Inc",
+    "Northrop Grumman Corp",
     "Nucor Corp",
     "Packaging Corp of America",
+    "Parker-Hannifin Corp",
+    "Pultegroup Inc",
     "RTX",
+    "Southwest Airlines Co",
     "Steel Dynamics",
     "TE Connectivity Ltd",
     "Teledyne Technologies Inc",
-    "Textron Inc"
+    "Textron Inc",
+    "Trane Technologies PLC",
+    "UPS"
   ],
   "week": {
     "id": "2026-01-26",

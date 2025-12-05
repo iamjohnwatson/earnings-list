@@ -1,11 +1,20 @@
 {
   "records": [
     {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2025-12-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Jabil Inc",
       "symbol": "JBL",
       "date": "2025-12-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -14,7 +23,7 @@
       "symbol": "LEN",
       "date": "2025-12-17",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.lennar.com/",
@@ -39,17 +48,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-05T09:49:44Z",
+  "generatedAt": "2025-12-05T12:58:05Z",
   "irCompanies": [
     "Lennar Corp"
   ],
   "fallbackCompanies": [
     "Carmax Inc",
     "FedEx",
-    "Jabil Inc"
+    "Jabil Inc",
+    "Lennar Corp"
   ],
   "week": {
     "id": "2025-12-15",
