@@ -1,58 +1,6 @@
 {
   "records": [
     {
-      "company": "F5",
-      "symbol": "FFIV",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Qorvo",
-      "symbol": "QRVO",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "AT&T",
-      "symbol": "T",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Amphenol",
-      "symbol": "APH",
-      "date": "2026-01-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Verizon",
-      "symbol": "VZ",
-      "date": "2026-01-30",
-      "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM ET",
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Brown & Brown",
       "symbol": "BRO",
       "date": "2026-01-26",
@@ -111,6 +59,86 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "GE Vernova",
+      "symbol": "GEV",
+      "date": "2026-01-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Halliburton",
+      "symbol": "HAL",
+      "date": "2026-01-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2026-01-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Kimberly Clark Corp",
+      "symbol": "KMB",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Starbucks Corp",
+      "symbol": "SBUX",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Sysco Corp",
+      "symbol": "SYY",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Procter & Gamble",
+      "symbol": "PG",
+      "date": "2026-01-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Alexandria Real Estate Equities Inc",
@@ -265,86 +293,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "GE Vernova",
-      "symbol": "GEV",
-      "date": "2026-01-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Halliburton",
-      "symbol": "HAL",
-      "date": "2026-01-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-01-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Kimberly Clark Corp",
-      "symbol": "KMB",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Royal Caribbean Group",
-      "symbol": "RCL",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Starbucks Corp",
-      "symbol": "SBUX",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Sysco Corp",
-      "symbol": "SYY",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Procter & Gamble",
-      "symbol": "PG",
-      "date": "2026-01-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Abbott Laboratories",
       "symbol": "ABT",
       "date": "2026-01-28",
@@ -363,6 +311,58 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "F5",
+      "symbol": "FFIV",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Qorvo",
+      "symbol": "QRVO",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Amphenol",
+      "symbol": "APH",
+      "date": "2026-01-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-01-30",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
   "count": 36,
@@ -371,7 +371,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-05T01:26:54Z",
+  "generatedAt": "2025-12-05T04:23:30Z",
   "irCompanies": [
     "UPS",
     "Verizon"
