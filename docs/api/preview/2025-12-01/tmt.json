@@ -62,38 +62,13 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2025-12-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.paychex.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-12-05",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
     }
   ],
-  "count": 9,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-05T21:47:36Z",
-  "irCompanies": [
-    "Paychex",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2025-12-06T01:22:33Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "C3.ai",
     "Crowdstrike",

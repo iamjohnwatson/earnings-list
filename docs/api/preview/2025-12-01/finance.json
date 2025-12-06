@@ -44,29 +44,16 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2025-12-05",
-      "bmo_amc": "9:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EST",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-05T21:47:36Z",
-  "irCompanies": [
-    "PNC Financial"
-  ],
+  "generatedAt": "2025-12-06T01:22:33Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Bank of Montreal",
     "CIBC",
