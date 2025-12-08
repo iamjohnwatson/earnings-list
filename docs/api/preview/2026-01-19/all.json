@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-01-20",
@@ -49,6 +39,36 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Freeport McMoRan",
+      "symbol": "FCX",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "NextEra Energy",
+      "symbol": "NEE",
+      "date": "2026-01-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2026-01-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "Capital One Financial",
@@ -191,34 +211,14 @@
       "sector": "Finance"
     },
     {
-      "company": "Freeport McMoRan",
-      "symbol": "FCX",
+      "company": "McCormick & Co",
+      "symbol": "MKC",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "NextEra Energy",
-      "symbol": "NEE",
-      "date": "2026-01-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2026-01-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Consumer"
     },
     {
       "company": "3M Co",
@@ -248,6 +248,18 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-01-21",
+      "bmo_amc": "12:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:00 PM ET",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations",
       "sector": "Manufacturing"
     },
     {
@@ -321,14 +333,16 @@
       "sector": "Pharma"
     }
   ],
-  "count": 32,
+  "count": 33,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-07T21:46:12Z",
-  "irCompanies": [],
+  "generatedAt": "2025-12-08T01:27:23Z",
+  "irCompanies": [
+    "Prologis Inc"
+  ],
   "fallbackCompanies": [
     "3M Co",
     "American Airlines Group Inc",
