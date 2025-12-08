@@ -5,32 +5,21 @@
       "symbol": "STZ",
       "date": "2026-01-07",
       "bmo_amc": "4:30 PM EST",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "4:30 PM EST",
       "ir_source_url": "https://ir.cbrands.com/",
       "source": "investor_relations"
-    },
-    {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-01-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-12-08T09:55:21Z",
+  "generatedAt": "2025-12-08T12:57:50Z",
   "irCompanies": [
     "Constellation Brands"
   ],
-  "fallbackCompanies": [
-    "Constellation Brands"
-  ],
+  "fallbackCompanies": [],
   "week": {
     "id": "2026-01-05",
     "start_date": "2026-01-05",

@@ -53,12 +53,21 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Revvity",
+      "symbol": "RVTY",
+      "date": "2026-01-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-12-08T09:55:48Z",
+  "generatedAt": "2025-12-08T12:58:18Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",
@@ -66,6 +75,7 @@
     "Cigna",
     "Johnson & Johnson",
     "Quest Diagnostics Inc",
+    "Revvity",
     "Thermo Fisher Scientific Inc"
   ],
   "week": {

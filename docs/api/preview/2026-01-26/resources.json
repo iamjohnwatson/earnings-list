@@ -89,21 +89,71 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Chevron",
+      "symbol": "CVX",
+      "date": "2026-01-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Exxon Mobil",
+      "symbol": "XOM",
+      "date": "2026-01-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Imperial Oil",
+      "symbol": "IMO",
+      "date": "2026-01-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "LyondellBasell",
+      "symbol": "LYB",
+      "date": "2026-01-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Phillips 66",
+      "symbol": "PSX",
+      "date": "2026-01-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-12-08T09:55:48Z",
+  "generatedAt": "2025-12-08T12:58:18Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Baker Hughes",
+    "Chevron",
     "Dow",
     "Eastman Chemical",
+    "Exxon Mobil",
     "GE Vernova",
     "Halliburton",
+    "Imperial Oil",
     "Kinder Morgan",
+    "LyondellBasell",
     "PPG Industries",
+    "Phillips 66",
     "Sherwin-Williams",
     "Valero Energy Corp",
     "Weyerhaeuser"
