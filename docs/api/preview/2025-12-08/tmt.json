@@ -4,10 +4,10 @@
       "company": "AT&T",
       "symbol": "T",
       "date": "2025-12-09",
-      "bmo_amc": "08:15 AM\n                    ET",
+      "bmo_amc": "08:30 AM\n                    ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "08:15 AM\n                    ET",
+      "ir_time_label": "08:30 AM\n                    ET",
       "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
       "source": "investor_relations"
     },
@@ -19,6 +19,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-12-09",
+      "bmo_amc": "10:23 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:23 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Adobe",
@@ -38,17 +49,6 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2025-12-10",
-      "bmo_amc": "11:00 AM PST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00 am PST",
-      "ir_source_url": "https://investor.marvell.com/",
       "source": "investor_relations"
     },
     {
@@ -104,13 +104,13 @@
   "count": 10,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-09T12:57:32Z",
+  "generatedAt": "2025-12-09T15:49:29Z",
   "irCompanies": [
     "AT&T",
     "HPE",
-    "Marvell",
     "Paychex",
-    "Rivian"
+    "Rivian",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Adobe",
