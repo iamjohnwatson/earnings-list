@@ -1,25 +1,36 @@
 {
   "records": [
     {
+      "company": "Healthpeak Properties",
+      "symbol": "DOC",
+      "date": "2026-02-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-02-02",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.idexx.com/en/about-idexx/investors/",
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-12-09T09:52:43Z",
+  "generatedAt": "2025-12-09T12:58:53Z",
   "irCompanies": [
     "IDEXX Laboratories Inc"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Healthpeak Properties"
+  ],
   "week": {
     "id": "2026-02-02",
     "start_date": "2026-02-02",

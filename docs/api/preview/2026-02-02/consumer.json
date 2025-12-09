@@ -1,6 +1,24 @@
 {
   "records": [
     {
+      "company": "Clorox Co",
+      "symbol": "CLX",
+      "date": "2026-02-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Tyson Foods",
+      "symbol": "TSN",
+      "date": "2026-02-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Chipotle Mexican Grill",
       "symbol": "CMG",
       "date": "2026-02-03",
@@ -23,15 +41,18 @@
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-12-09T09:52:44Z",
+  "generatedAt": "2025-12-09T12:58:52Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Estee Lauder"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Clorox Co",
+    "Tyson Foods"
+  ],
   "week": {
     "id": "2026-02-02",
     "start_date": "2026-02-02",
