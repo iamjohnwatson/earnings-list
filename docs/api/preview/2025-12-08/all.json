@@ -1,12 +1,42 @@
 {
   "records": [
     {
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2025-12-09",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
+      "date": "2025-12-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2025-12-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2025-12-09",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator",
       "sector": "Consumer"
     },
@@ -55,72 +85,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-12-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2025-12-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Nordson Corp",
-      "symbol": "NDSN",
-      "date": "2025-12-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2025-12-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2025-12-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2025-12-08",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Citigroup",
       "symbol": "C",
       "date": "2025-12-09",
@@ -129,6 +93,18 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2025-12-09",
+      "bmo_amc": "10:40 AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:40 AM ",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
       "source": "investor_relations",
       "sector": "Finance"
     },
@@ -217,16 +193,16 @@
       "sector": "Finance"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-12-08",
-      "bmo_amc": "4:00 PM ET",
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2025-12-10",
+      "bmo_amc": "10:00 AM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
+      "ir_time_label": "10:00 am EST",
+      "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
       "company": "AT&T",
@@ -244,9 +220,9 @@
       "company": "GameStop",
       "symbol": "GME",
       "date": "2025-12-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -337,33 +313,20 @@
       "ir_source_url": "https://rivian.com/investors",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-12-08",
-      "bmo_amc": "2:22 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:22 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
     }
   ],
-  "count": 31,
+  "count": 28,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-08T21:47:08Z",
+  "generatedAt": "2025-12-09T01:25:58Z",
   "irCompanies": [
     "AT&T",
     "Aon",
     "Apollo",
     "Bank of America",
-    "Bombardier",
     "Citigroup",
     "Citizens Financial",
     "Etsy Inc",
@@ -371,13 +334,11 @@
     "Huntington Bancshares",
     "JPMorgan",
     "Marvell",
-    "Merck",
     "PNC Financial",
     "Paychex",
     "Rivian",
     "Smithfield Foods",
     "Synchrony Financial",
-    "Take-Two Interactive",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
