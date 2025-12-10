@@ -45,16 +45,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Everest",
-      "symbol": "EG",
-      "date": "2026-02-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Healthpeak Properties",
       "symbol": "DOC",
       "date": "2026-02-02",
@@ -87,6 +77,16 @@
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "Everest",
+      "symbol": "EG",
+      "date": "2026-02-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
       "company": "Equity Residential",
@@ -135,7 +135,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-10T01:28:21Z",
+  "generatedAt": "2025-12-10T04:30:16Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Estee Lauder",
