@@ -12,6 +12,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2026-01-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-01-14",
@@ -115,14 +126,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-09T21:46:27Z",
+  "generatedAt": "2025-12-10T01:27:53Z",
   "irCompanies": [
+    "Citigroup",
     "JPMorgan",
     "PNC Financial",
     "Wells Fargo"

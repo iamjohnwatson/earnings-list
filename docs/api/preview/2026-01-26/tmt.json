@@ -22,10 +22,12 @@
       "company": "AT&T",
       "symbol": "T",
       "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "08:30 AM\n                    ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "08:30 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations"
     },
     {
       "company": "Amphenol",
@@ -150,12 +152,12 @@
   "count": 16,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-09T21:46:45Z",
+  "generatedAt": "2025-12-10T01:28:12Z",
   "irCompanies": [
+    "AT&T",
     "Verizon"
   ],
   "fallbackCompanies": [
-    "AT&T",
     "Amphenol",
     "Apple",
     "Atlassian",

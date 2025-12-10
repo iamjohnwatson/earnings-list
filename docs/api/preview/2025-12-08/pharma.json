@@ -1,36 +1,10 @@
 {
-  "records": [
-    {
-      "company": "Danaher Corp",
-      "symbol": "DHR",
-      "date": "2025-12-09",
-      "bmo_amc": "11:00AM GMT",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00am GMT",
-      "ir_source_url": "https://investors.danaher.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-12-09",
-      "bmo_amc": "2:16 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:16 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
-    }
-  ],
-  "count": 2,
+  "records": [],
+  "count": 0,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-12-09T21:45:41Z",
-  "irCompanies": [
-    "Danaher Corp",
-    "Merck"
-  ],
+  "generatedAt": "2025-12-10T01:27:06Z",
+  "irCompanies": [],
   "fallbackCompanies": [],
   "week": {
     "id": "2025-12-08",
