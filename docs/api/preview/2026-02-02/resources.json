@@ -1,11 +1,73 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Archer-Daniels-Midland",
+      "symbol": "ADM",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Atmos Energy",
+      "symbol": "ATO",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Enphase Energy",
+      "symbol": "ENPH",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "FMC",
+      "symbol": "FMC",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Marathon Petroleum",
+      "symbol": "MPC",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "WEC Energy Group Inc",
+      "symbol": "WEC",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-12-10T09:54:15Z",
+  "generatedAt": "2025-12-10T12:59:48Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Archer-Daniels-Midland",
+    "Atmos Energy",
+    "Enphase Energy",
+    "FMC",
+    "Marathon Petroleum",
+    "WEC Energy Group Inc"
+  ],
   "week": {
     "id": "2026-02-02",
     "start_date": "2026-02-02",

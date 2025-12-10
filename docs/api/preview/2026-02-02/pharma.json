@@ -19,17 +19,67 @@
       "ir_time_label": null,
       "ir_source_url": "https://www.idexx.com/en/about-idexx/investors/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Amgen Inc",
+      "symbol": "AMGN",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Pfizer Inc",
+      "symbol": "PFE",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "symbol": "REGN",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-12-10T09:54:15Z",
+  "generatedAt": "2025-12-10T12:59:47Z",
   "irCompanies": [
     "IDEXX Laboratories Inc"
   ],
   "fallbackCompanies": [
-    "Healthpeak Properties"
+    "Amgen Inc",
+    "Centene Corp",
+    "Healthpeak Properties",
+    "Merck",
+    "Pfizer Inc",
+    "Regeneron Pharmaceuticals"
   ],
   "week": {
     "id": "2026-02-02",
