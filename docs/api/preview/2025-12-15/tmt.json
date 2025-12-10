@@ -35,23 +35,25 @@
       "company": "Paychex",
       "symbol": "PAYX",
       "date": "2025-12-19",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:30 AM ET",
+      "ir_source_url": "https://investor.paychex.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 4,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-10T06:54:25Z",
+  "generatedAt": "2025-12-10T09:53:02Z",
   "irCompanies": [
     "BlackBerry",
-    "Micron"
+    "Micron",
+    "Paychex"
   ],
   "fallbackCompanies": [
-    "Accenture",
-    "Paychex"
+    "Accenture"
   ],
   "week": {
     "id": "2025-12-15",
