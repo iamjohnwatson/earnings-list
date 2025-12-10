@@ -89,16 +89,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Equity Residential",
-      "symbol": "EQR",
-      "date": "2026-02-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Kyndryl",
       "symbol": "KD",
       "date": "2026-02-02",
@@ -127,6 +117,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Equity Residential",
+      "symbol": "EQR",
+      "date": "2026-02-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 12,
@@ -135,7 +135,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-10T04:30:16Z",
+  "generatedAt": "2025-12-10T06:55:33Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Estee Lauder",
