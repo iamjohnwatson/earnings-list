@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-01-13",
@@ -149,24 +139,14 @@
       "sector": "Finance"
     },
     {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
-      "date": "2026-01-15",
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-01-13",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Fastenal Co",
-      "symbol": "FAST",
-      "date": "2026-01-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "TMT"
     },
     {
       "company": "UnitedHealth Group",
@@ -177,15 +157,25 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 17,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-10T12:59:18Z",
+  "generatedAt": "2025-12-10T15:51:17Z",
   "irCompanies": [
     "Citigroup",
     "JPMorgan",
@@ -196,7 +186,6 @@
     "Applied Digital",
     "Bank of America",
     "Citizens Financial",
-    "Fastenal Co",
     "Huntington Bancshares",
     "J B Hunt Transport Services Inc",
     "M&T Bank Corp",
