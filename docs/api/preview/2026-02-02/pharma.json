@@ -45,7 +45,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Pfizer Inc",
@@ -69,15 +71,15 @@
   "count": 7,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-12-10T21:49:57Z",
+  "generatedAt": "2025-12-11T01:28:49Z",
   "irCompanies": [
-    "IDEXX Laboratories Inc"
+    "IDEXX Laboratories Inc",
+    "Merck"
   ],
   "fallbackCompanies": [
     "Amgen Inc",
     "Centene Corp",
     "Healthpeak Properties",
-    "Merck",
     "Pfizer Inc",
     "Regeneron Pharmaceuticals"
   ],

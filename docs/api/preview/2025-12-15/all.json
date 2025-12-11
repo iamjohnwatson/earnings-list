@@ -1,6 +1,116 @@
 {
   "records": [
     {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2025-12-16",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Jabil Inc",
+      "symbol": "JBL",
+      "date": "2025-12-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2025-12-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Carmax Inc",
+      "symbol": "KMX",
+      "date": "2025-12-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2025-12-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2025-12-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.micron.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2025-12-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2025-12-18",
+      "bmo_amc": "5:30PM ET",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:30pm ET",
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2025-12-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2025-12-19",
+      "bmo_amc": "9:30 AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "9:30 AM ET",
+      "ir_source_url": "https://investor.paychex.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "General Mills",
       "symbol": "GIS",
       "date": "2025-12-17",
@@ -71,104 +181,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2025-12-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.micron.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2025-12-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2025-12-18",
-      "bmo_amc": "5:30PM ET",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:30pm ET",
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2025-12-19",
-      "bmo_amc": "9:30 AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "9:30 AM ET",
-      "ir_source_url": "https://investor.paychex.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2025-12-16",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Jabil Inc",
-      "symbol": "JBL",
-      "date": "2025-12-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2025-12-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Carmax Inc",
-      "symbol": "KMX",
-      "date": "2025-12-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "FedEx",
-      "symbol": "FDX",
-      "date": "2025-12-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2025-12-18",
@@ -179,15 +191,16 @@
       "sector": "Finance"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-10T21:48:53Z",
+  "generatedAt": "2025-12-11T01:27:44Z",
   "irCompanies": [
     "BlackBerry",
+    "HPE",
     "Lennar Corp",
     "Micron",
     "Paychex"
