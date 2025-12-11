@@ -75,6 +75,18 @@
       "sector": "TMT"
     },
     {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-12-11",
+      "bmo_amc": "3:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "3:30 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2025-12-09",
@@ -133,18 +145,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-12-11",
-      "bmo_amc": "1:10 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:10 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
     }
   ],
   "count": 14,
@@ -153,7 +153,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-11T06:54:31Z",
+  "generatedAt": "2025-12-11T09:53:41Z",
   "irCompanies": [
     "Merck",
     "Rivian",
