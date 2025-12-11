@@ -53,19 +53,49 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Bunge",
+      "symbol": "BG",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Corteva",
+      "symbol": "CTVA",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Suncor Energy",
+      "symbol": "SU",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-12-11T09:54:55Z",
+  "generatedAt": "2025-12-11T12:59:55Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Archer-Daniels-Midland",
     "Atmos Energy",
+    "Bunge",
+    "Corteva",
     "Enphase Energy",
     "FMC",
     "Marathon Petroleum",
+    "Suncor Energy",
     "WEC Energy Group Inc"
   ],
   "week": {

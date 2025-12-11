@@ -93,6 +93,15 @@
       "source": "aggregator"
     },
     {
+      "company": "VF Corp",
+      "symbol": "VFC",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Estee Lauder",
       "symbol": "EL",
       "date": "2026-02-05",
@@ -104,10 +113,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-12-11T09:54:55Z",
+  "generatedAt": "2025-12-11T12:59:56Z",
   "irCompanies": [
     "Chipotle Mexican Grill",
     "Estee Lauder"
@@ -121,7 +130,8 @@
     "Mondelez International",
     "PepsiCo Inc",
     "Simon Property Group",
-    "Tyson Foods"
+    "Tyson Foods",
+    "VF Corp"
   ],
   "week": {
     "id": "2026-02-02",
