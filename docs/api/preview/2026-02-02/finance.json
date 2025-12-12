@@ -152,15 +152,42 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Intercontinental Exchange",
+      "symbol": "ICE",
+      "date": "2026-02-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Lincoln National Corporation",
+      "symbol": "LNC",
+      "date": "2026-02-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Principal Financial Group",
+      "symbol": "PFG",
+      "date": "2026-02-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-12T09:52:59Z",
+  "generatedAt": "2025-12-12T12:57:44Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
@@ -169,12 +196,15 @@
     "Everest",
     "Fair Issac Corp",
     "Globe Life",
+    "Intercontinental Exchange",
     "Jack Henry and Associates",
     "KKR",
+    "Lincoln National Corporation",
     "MSCI Inc",
     "MetLife",
     "Nasdaq",
     "PayPal Holdings",
+    "Principal Financial Group",
     "Progressive Corporation",
     "Prudential Financial",
     "Raymond James",
