@@ -13,45 +13,30 @@
       "company": "Costco Wholesale Corp",
       "symbol": "COST",
       "date": "2025-12-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Lululemon Athletica",
       "symbol": "LULU",
       "date": "2025-12-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://corporate.lululemon.com/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2025-12-11",
-      "bmo_amc": "9:00 AM EST",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EST",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-12-11T21:50:03Z",
-  "irCompanies": [
-    "Lululemon Athletica",
-    "Norwegian Cruise Line"
-  ],
+  "generatedAt": "2025-12-12T01:27:35Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Campbell Soup Co",
-    "Costco Wholesale Corp"
+    "Costco Wholesale Corp",
+    "Lululemon Athletica"
   ],
   "week": {
     "id": "2025-12-08",

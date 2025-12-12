@@ -40,42 +40,17 @@
       "company": "Broadcom",
       "symbol": "AVGO",
       "date": "2025-12-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Rivian",
-      "symbol": "RIVN",
-      "date": "2025-12-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://rivian.com/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-12-11",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
     }
   ],
-  "count": 7,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-11T21:50:04Z",
-  "irCompanies": [
-    "Rivian",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2025-12-12T01:27:35Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",
     "Broadcom",
