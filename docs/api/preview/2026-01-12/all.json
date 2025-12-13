@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "UnitedHealth Group",
-      "symbol": "UNH",
-      "date": "2026-01-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-01-13",
@@ -21,14 +11,14 @@
       "sector": "TMT"
     },
     {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
+      "company": "UnitedHealth Group",
+      "symbol": "UNH",
       "date": "2026-01-15",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
       "company": "JPMorgan",
@@ -179,6 +169,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 17,
@@ -187,7 +187,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-13T04:19:57Z",
+  "generatedAt": "2025-12-13T06:53:38Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
