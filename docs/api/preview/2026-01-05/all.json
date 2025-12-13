@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-01-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Constellation Brands",
       "symbol": "STZ",
       "date": "2026-01-07",
@@ -21,6 +11,16 @@
       "ir_source_url": "https://ir.cbrands.com/",
       "source": "investor_relations",
       "sector": "Consumer"
+    },
+    {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-01-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 2,
@@ -29,7 +29,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-13T12:55:41Z",
+  "generatedAt": "2025-12-13T15:46:45Z",
   "irCompanies": [
     "Constellation Brands"
   ],
