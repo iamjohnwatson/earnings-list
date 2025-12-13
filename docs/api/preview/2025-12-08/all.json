@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-12-12",
-      "bmo_amc": "4:18 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:18 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "Campbell Soup Co",
       "symbol": "CPB",
       "date": "2025-12-09",
@@ -41,38 +29,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2025-12-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Nordson Corp",
-      "symbol": "NDSN",
-      "date": "2025-12-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-12-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
     },
     {
       "company": "GameStop",
@@ -125,69 +81,34 @@
       "sector": "TMT"
     },
     {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2025-12-12",
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2025-12-09",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.marvell.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-12-12",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2025-12-12",
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
+      "date": "2025-12-10",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2025-12-12",
-      "bmo_amc": "9:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EST",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 16,
+  "count": 10,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-12T21:46:45Z",
-  "irCompanies": [
-    "Bombardier",
-    "Huntington Bancshares",
-    "Marvell",
-    "Merck",
-    "PNC Financial",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2025-12-13T01:23:12Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",
     "Autozone Inc",

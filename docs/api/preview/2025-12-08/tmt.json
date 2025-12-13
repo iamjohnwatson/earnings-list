@@ -44,38 +44,13 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2025-12-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.marvell.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-12-12",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
     }
   ],
-  "count": 7,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-12T21:46:45Z",
-  "irCompanies": [
-    "Marvell",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2025-12-13T01:23:12Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",
     "Broadcom",
