@@ -179,20 +179,30 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Cboe Global Markets",
+      "symbol": "CBOE",
+      "date": "2026-02-06",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-15T12:59:50Z",
+  "generatedAt": "2025-12-15T15:52:54Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
     "Ameriprise Financial Inc",
     "Apollo",
+    "Cboe Global Markets",
     "Everest",
     "Fair Issac Corp",
     "Globe Life",
