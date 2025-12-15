@@ -45,7 +45,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Pfizer Inc",
@@ -204,9 +206,10 @@
   "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-12-14T21:47:26Z",
+  "generatedAt": "2025-12-15T01:31:28Z",
   "irCompanies": [
-    "IDEXX Laboratories Inc"
+    "IDEXX Laboratories Inc",
+    "Merck"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
@@ -224,7 +227,6 @@
     "Kenvue",
     "Labcorp Holdings Inc",
     "Mckesson Corp",
-    "Merck",
     "Molina Healthcare Inc",
     "Pfizer Inc",
     "Regeneron Pharmaceuticals",
