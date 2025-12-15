@@ -1,11 +1,20 @@
 {
   "records": [
     {
+      "company": "Bank of New York Mellon",
+      "symbol": "BK",
+      "date": "2026-01-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-01-13",
       "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:30 AM ET",
       "ir_source_url": "https://www.jpmorganchase.com/ir",
@@ -26,8 +35,8 @@
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-01-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.citigroup.com/global/investors",
@@ -137,13 +146,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-15T09:57:43Z",
+  "generatedAt": "2025-12-15T12:59:23Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -153,6 +162,7 @@
   ],
   "fallbackCompanies": [
     "Bank of America",
+    "Bank of New York Mellon",
     "Citizens Financial",
     "Huntington Bancshares",
     "M&T Bank Corp",
