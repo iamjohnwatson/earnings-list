@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-01-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Elevance Health Inc",
       "symbol": "ELV",
       "date": "2026-01-22",
@@ -28,15 +37,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-12-16T09:53:56Z",
+  "generatedAt": "2025-12-16T12:58:40Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Elevance Health Inc",
     "HCA Healthcare Inc",
-    "Intuitive Surgical Inc"
+    "Intuitive Surgical Inc",
+    "Johnson & Johnson"
   ],
   "week": {
     "id": "2026-01-19",

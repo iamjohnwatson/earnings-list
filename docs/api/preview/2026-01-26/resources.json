@@ -10,15 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Halliburton",
-      "symbol": "HAL",
-      "date": "2026-01-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Kinder Morgan",
       "symbol": "KMI",
       "date": "2026-01-28",
@@ -136,10 +127,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-12-16T09:54:04Z",
+  "generatedAt": "2025-12-16T12:58:49Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Baker Hughes",
@@ -148,7 +139,6 @@
     "Eastman Chemical",
     "Exxon Mobil",
     "GE Vernova",
-    "Halliburton",
     "Imperial Oil",
     "Kinder Morgan",
     "LyondellBasell",

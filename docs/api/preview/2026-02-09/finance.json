@@ -1,14 +1,46 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Arch Capital Group",
+      "symbol": "ACGL",
+      "date": "2026-02-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Carlyle",
+      "symbol": "CG",
+      "date": "2026-02-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2026-02-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-16T09:54:22Z",
+  "generatedAt": "2025-12-16T12:59:07Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Arch Capital Group",
+    "Carlyle",
+    "Cincinnati Financial"
+  ],
   "week": {
     "id": "2026-02-09",
     "start_date": "2026-02-09",
