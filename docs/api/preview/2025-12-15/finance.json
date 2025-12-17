@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2025-12-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2025-12-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2025-12-18",
@@ -32,17 +10,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-16T21:48:18Z",
-  "irCompanies": [
-    "Huntington Bancshares",
-    "Truist Financial"
-  ],
+  "generatedAt": "2025-12-17T01:22:26Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "FactSet Research"
   ],

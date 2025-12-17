@@ -1,64 +1,31 @@
 {
   "records": [
     {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2025-12-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Lennar Corp",
       "symbol": "LEN",
       "date": "2025-12-16",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2025-12-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Veralto Corp",
-      "symbol": "VLTO",
-      "date": "2025-12-16",
-      "bmo_amc": "8:30AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.veralto.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Jabil Inc",
       "symbol": "JBL",
       "date": "2025-12-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Lennar Corp",
       "symbol": "LEN",
       "date": "2025-12-17",
-      "bmo_amc": "TBD",
+      "bmo_amc": "11:00 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
+      "ir_time_label": "11:00 AM ET",
       "ir_source_url": "https://investors.lennar.com/",
       "source": "investor_relations"
     },
@@ -81,15 +48,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-16T21:48:19Z",
+  "generatedAt": "2025-12-17T01:22:26Z",
   "irCompanies": [
-    "Bombardier",
-    "Lennar Corp",
-    "MGM Resorts International",
-    "Veralto Corp"
+    "Lennar Corp"
   ],
   "fallbackCompanies": [
     "Carmax Inc",

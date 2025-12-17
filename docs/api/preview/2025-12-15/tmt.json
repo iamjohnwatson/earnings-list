@@ -1,23 +1,12 @@
 {
   "records": [
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-12-16",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2025-12-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": null,
       "ir_source_url": "https://investors.micron.com/",
       "source": "investor_relations"
@@ -65,16 +54,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 6,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-16T21:48:19Z",
+  "generatedAt": "2025-12-17T01:22:26Z",
   "irCompanies": [
     "BlackBerry",
     "HPE",
     "Micron",
-    "Paychex",
-    "Take-Two Interactive"
+    "Paychex"
   ],
   "fallbackCompanies": [
     "Accenture"
