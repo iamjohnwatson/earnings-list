@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Etsy Inc",
-      "symbol": "ETSY",
-      "date": "2026-01-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.etsy.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "Comerica Inc",
       "symbol": "CMA",
       "date": "2026-01-01",
@@ -23,6 +11,18 @@
       "ir_source_url": "https://investor.comerica.com/",
       "source": "investor_relations",
       "sector": "Finance"
+    },
+    {
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
+      "date": "2026-01-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.etsy.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
   "count": 2,
@@ -31,7 +31,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-17T06:54:05Z",
+  "generatedAt": "2025-12-17T09:54:40Z",
   "irCompanies": [
     "Comerica Inc",
     "Etsy Inc"

@@ -31,6 +31,26 @@
       "sector": "Finance"
     },
     {
+      "company": "McDonald\u2019s Corp",
+      "symbol": "MCD",
+      "date": "2026-02-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Rockwell Automation Inc",
+      "symbol": "ROK",
+      "date": "2026-02-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Vertex Pharmaceuticals Inc",
       "symbol": "VRTX",
       "date": "2026-02-09",
@@ -69,26 +89,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "Rockwell Automation Inc",
-      "symbol": "ROK",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "McDonald\u2019s Corp",
-      "symbol": "MCD",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
   "count": 9,
@@ -97,7 +97,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-17T06:54:59Z",
+  "generatedAt": "2025-12-17T09:55:32Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Arch Capital Group",
