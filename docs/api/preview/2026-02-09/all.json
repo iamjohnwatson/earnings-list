@@ -71,44 +71,74 @@
       "sector": "Pharma"
     },
     {
-      "company": "Rockwell Automation Inc",
-      "symbol": "ROK",
+      "company": "Arch Capital Group",
+      "symbol": "ACGL",
       "date": "2026-02-09",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
-      "company": "Carrier Global Corp",
-      "symbol": "CARR",
+      "company": "Carlyle",
+      "symbol": "CG",
+      "date": "2026-02-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2026-02-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Assurant Inc",
+      "symbol": "AIZ",
       "date": "2026-02-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
-      "company": "Leidos Holdings Inc",
-      "symbol": "LDOS",
+      "company": "Fidelity National Information Services",
+      "symbol": "FIS",
       "date": "2026-02-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
-      "company": "Marriott International Inc",
-      "symbol": "MAR",
+      "company": "S&P Global Inc",
+      "symbol": "SPGI",
       "date": "2026-02-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
+    },
+    {
+      "company": "TPG",
+      "symbol": "TPG",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     },
     {
       "company": "CoreWeave",
@@ -231,74 +261,44 @@
       "sector": "Consumer"
     },
     {
-      "company": "Arch Capital Group",
-      "symbol": "ACGL",
+      "company": "Rockwell Automation Inc",
+      "symbol": "ROK",
       "date": "2026-02-09",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Carlyle",
-      "symbol": "CG",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Cincinnati Financial",
-      "symbol": "CINF",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Assurant Inc",
-      "symbol": "AIZ",
+      "company": "Carrier Global Corp",
+      "symbol": "CARR",
       "date": "2026-02-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Fidelity National Information Services",
-      "symbol": "FIS",
+      "company": "Leidos Holdings Inc",
+      "symbol": "LDOS",
       "date": "2026-02-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "S&P Global Inc",
-      "symbol": "SPGI",
+      "company": "Marriott International Inc",
+      "symbol": "MAR",
       "date": "2026-02-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "TPG",
-      "symbol": "TPG",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     }
   ],
   "count": 30,
@@ -307,7 +307,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-17T15:50:53Z",
+  "generatedAt": "2025-12-17T18:55:39Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Arch Capital Group",
