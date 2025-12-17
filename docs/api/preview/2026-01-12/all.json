@@ -27,7 +27,7 @@
       "symbol": "BAC",
       "date": "2026-01-14",
       "bmo_amc": "3:00 PM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "3:00 pm ET",
       "ir_source_url": "https://investor.bankofamerica.com/",
@@ -59,11 +59,11 @@
       "sector": "Finance"
     },
     {
-      "company": "Bank of America",
-      "symbol": "BAC",
+      "company": "Goldman Sachs",
+      "symbol": "GS",
       "date": "2026-01-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -72,8 +72,8 @@
       "company": "Morgan Stanley",
       "symbol": "MS",
       "date": "2026-01-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -134,8 +134,8 @@
       "company": "Regions Financial",
       "symbol": "RF",
       "date": "2026-01-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -161,16 +161,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "J B Hunt Transport Services Inc",
       "symbol": "JBHT",
       "date": "2026-01-15",
@@ -179,6 +169,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-01-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
   "count": 17,
@@ -187,7 +187,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-17T09:54:57Z",
+  "generatedAt": "2025-12-17T12:57:58Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -197,9 +197,9 @@
   ],
   "fallbackCompanies": [
     "Applied Digital",
-    "Bank of America",
     "Bank of New York Mellon",
     "Citizens Financial",
+    "Goldman Sachs",
     "Huntington Bancshares",
     "J B Hunt Transport Services Inc",
     "M&T Bank Corp",

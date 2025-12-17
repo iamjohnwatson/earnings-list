@@ -1,11 +1,53 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "DuPont",
+      "symbol": "DD",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Ecolab",
+      "symbol": "ECL",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Energy Transfer",
+      "symbol": "ET",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Eversource Energy",
+      "symbol": "ES",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-12-17T09:55:32Z",
+  "generatedAt": "2025-12-17T12:58:38Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "DuPont",
+    "Ecolab",
+    "Energy Transfer",
+    "Eversource Energy"
+  ],
   "week": {
     "id": "2026-02-09",
     "start_date": "2026-02-09",
