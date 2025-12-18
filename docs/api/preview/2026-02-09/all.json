@@ -71,36 +71,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Vertex Pharmaceuticals Inc",
-      "symbol": "VRTX",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Edwards Lifesciences Corp",
-      "symbol": "EW",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Gilead",
-      "symbol": "GILD",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Rockwell Automation Inc",
       "symbol": "ROK",
       "date": "2026-02-09",
@@ -179,6 +149,36 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Vertex Pharmaceuticals Inc",
+      "symbol": "VRTX",
+      "date": "2026-02-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Edwards Lifesciences Corp",
+      "symbol": "EW",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Gilead",
+      "symbol": "GILD",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
       "company": "DuPont",
@@ -307,7 +307,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-18T09:55:48Z",
+  "generatedAt": "2025-12-18T12:58:36Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Arch Capital Group",

@@ -1,44 +1,44 @@
 {
   "records": [
     {
-      "company": "Halliburton",
-      "symbol": "HAL",
-      "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "TMT"
     },
     {
-      "company": "Freeport McMoRan",
-      "symbol": "FCX",
+      "company": "Seagate",
+      "symbol": "STX",
+      "date": "2026-01-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Texas Instruments",
+      "symbol": "TXN",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "TMT"
     },
     {
-      "company": "NextEra Energy",
-      "symbol": "NEE",
+      "company": "Verizon",
+      "symbol": "VZ",
       "date": "2026-01-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2026-01-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
+      "sector": "TMT"
     },
     {
       "company": "Capital One Financial",
@@ -141,44 +141,44 @@
       "sector": "Finance"
     },
     {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-01-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "Halliburton",
+      "symbol": "HAL",
+      "date": "2026-01-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Resources"
     },
     {
-      "company": "Seagate",
-      "symbol": "STX",
-      "date": "2026-01-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Texas Instruments",
-      "symbol": "TXN",
+      "company": "Freeport McMoRan",
+      "symbol": "FCX",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Resources"
     },
     {
-      "company": "Verizon",
-      "symbol": "VZ",
+      "company": "NextEra Energy",
+      "symbol": "NEE",
       "date": "2026-01-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Resources"
+    },
+    {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2026-01-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "Fastenal Co",
@@ -263,6 +263,16 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2026-01-21",
@@ -301,16 +311,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
-    },
-    {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
   "count": 31,
@@ -319,7 +319,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-18T09:55:22Z",
+  "generatedAt": "2025-12-18T12:58:09Z",
   "irCompanies": [
     "Prologis Inc"
   ],

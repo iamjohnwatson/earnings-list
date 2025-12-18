@@ -1,11 +1,89 @@
 {
   "records": [
     {
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2025-12-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2025-12-18",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2025-12-18",
+      "bmo_amc": "5:30PM ET",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "TNS",
+      "ir_time_label": "5:30pm ET",
+      "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2025-12-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2025-12-19",
+      "bmo_amc": "9:30 AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "9:30 AM ET",
+      "ir_source_url": "https://investor.paychex.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-12-18",
+      "bmo_amc": "5:51 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:51 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2025-12-18",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "General Mills",
       "symbol": "GIS",
       "date": "2025-12-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -28,6 +106,30 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
       "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
+      "date": "2025-12-18",
+      "bmo_amc": "7:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:00 am EST",
+      "ir_source_url": "https://investors.etsy.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2025-12-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.lululemon.com/investors",
+      "source": "investor_relations",
       "sector": "Consumer"
     },
     {
@@ -81,28 +183,6 @@
       "sector": "Resources"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2025-12-18",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-12-18",
-      "bmo_amc": "1:37 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:37 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "Lennar Corp",
       "symbol": "LEN",
       "date": "2025-12-16",
@@ -116,8 +196,8 @@
       "company": "Jabil Inc",
       "symbol": "JBL",
       "date": "2025-12-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -141,74 +221,20 @@
       "yahoo_time_label": "AMC",
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2025-12-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Accenture",
-      "symbol": "ACN",
-      "date": "2025-12-18",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2025-12-18",
-      "bmo_amc": "5:30PM ET",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "TNS",
-      "ir_time_label": "5:30pm ET",
-      "ir_source_url": "https://investors.blackberry.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2025-12-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Paychex",
-      "symbol": "PAYX",
-      "date": "2025-12-19",
-      "bmo_amc": "9:30 AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "9:30 AM ET",
-      "ir_source_url": "https://investor.paychex.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
     }
   ],
-  "count": 19,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-18T09:54:37Z",
+  "generatedAt": "2025-12-18T12:57:23Z",
   "irCompanies": [
     "BlackBerry",
+    "Etsy Inc",
     "HPE",
+    "Lululemon Athletica",
     "Merck",
     "Paychex"
   ],
