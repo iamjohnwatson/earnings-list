@@ -13,18 +13,18 @@
       "company": "Cintas Corp",
       "symbol": "CTAS",
       "date": "2025-12-18",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Darden Restaurants",
       "symbol": "DRI",
       "date": "2025-12-18",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -89,7 +89,7 @@
   "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-12-18T12:57:23Z",
+  "generatedAt": "2025-12-18T15:49:26Z",
   "irCompanies": [
     "Etsy Inc",
     "Lululemon Athletica"

@@ -1,6 +1,46 @@
 {
   "records": [
     {
+      "company": "Halliburton",
+      "symbol": "HAL",
+      "date": "2026-01-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Freeport McMoRan",
+      "symbol": "FCX",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "NextEra Energy",
+      "symbol": "NEE",
+      "date": "2026-01-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2026-01-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-01-20",
@@ -39,6 +79,46 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-01-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Elevance Health Inc",
+      "symbol": "ELV",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "HCA Healthcare Inc",
+      "symbol": "HCA",
+      "date": "2026-01-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
       "company": "Capital One Financial",
@@ -141,46 +221,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Halliburton",
-      "symbol": "HAL",
-      "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Freeport McMoRan",
-      "symbol": "FCX",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "NextEra Energy",
-      "symbol": "NEE",
-      "date": "2026-01-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2026-01-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Fastenal Co",
       "symbol": "FAST",
       "date": "2026-01-19",
@@ -204,10 +244,12 @@
       "company": "DR Horton Inc",
       "symbol": "DHI",
       "date": "2026-01-20",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "8:30 am ET",
+      "ir_source_url": "https://investor.drhorton.com/",
+      "source": "investor_relations",
       "sector": "Manufacturing"
     },
     {
@@ -271,46 +313,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Elevance Health Inc",
-      "symbol": "ELV",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "HCA Healthcare Inc",
-      "symbol": "HCA",
-      "date": "2026-01-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     }
   ],
   "count": 31,
@@ -319,8 +321,9 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-18T12:58:09Z",
+  "generatedAt": "2025-12-18T15:50:11Z",
   "irCompanies": [
+    "DR Horton Inc",
     "Prologis Inc"
   ],
   "fallbackCompanies": [
@@ -331,7 +334,6 @@
     "CSX Corp",
     "Capital One Financial",
     "Charles Schwab",
-    "DR Horton Inc",
     "Elevance Health Inc",
     "Fastenal Co",
     "Fifth Third Bancorp",

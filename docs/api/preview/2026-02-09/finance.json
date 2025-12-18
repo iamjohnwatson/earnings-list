@@ -62,15 +62,33 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Robinhood",
+      "symbol": "HOOD",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Sun Life",
+      "symbol": "SLF",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 9,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-18T12:58:35Z",
+  "generatedAt": "2025-12-18T15:50:37Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Arch Capital Group",
@@ -78,7 +96,9 @@
     "Carlyle",
     "Cincinnati Financial",
     "Fidelity National Information Services",
+    "Robinhood",
     "S&P Global Inc",
+    "Sun Life",
     "TPG"
   ],
   "week": {

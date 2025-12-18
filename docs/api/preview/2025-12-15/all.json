@@ -1,6 +1,92 @@
 {
   "records": [
     {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-12-18",
+      "bmo_amc": "10:01 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:01 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2025-12-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Morgan Stanley",
+      "symbol": "MS",
+      "date": "2025-12-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2025-12-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2025-12-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Jabil Inc",
+      "symbol": "JBL",
+      "date": "2025-12-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Carmax Inc",
+      "symbol": "KMX",
+      "date": "2025-12-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "FedEx",
+      "symbol": "FDX",
+      "date": "2025-12-18",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Micron",
       "symbol": "MU",
       "date": "2025-12-17",
@@ -14,9 +100,9 @@
       "company": "Accenture",
       "symbol": "ACN",
       "date": "2025-12-18",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
     },
@@ -29,6 +115,30 @@
       "yahoo_time_label": "TNS",
       "ir_time_label": "5:30pm ET",
       "ir_source_url": "https://investors.blackberry.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2025-12-18",
+      "bmo_amc": "9:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:30 AM EST",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-12-18",
+      "bmo_amc": "10:25 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:25 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
     },
@@ -57,28 +167,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-12-18",
-      "bmo_amc": "5:51 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:51 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2025-12-18",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "General Mills",
       "symbol": "GIS",
       "date": "2025-12-17",
@@ -92,9 +180,9 @@
       "company": "Cintas Corp",
       "symbol": "CTAS",
       "date": "2025-12-18",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
     },
@@ -102,9 +190,9 @@
       "company": "Darden Restaurants",
       "symbol": "DRI",
       "date": "2025-12-18",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
     },
@@ -181,62 +269,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2025-12-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Jabil Inc",
-      "symbol": "JBL",
-      "date": "2025-12-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Carmax Inc",
-      "symbol": "KMX",
-      "date": "2025-12-18",
-      "bmo_amc": "BMO",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "FedEx",
-      "symbol": "FDX",
-      "date": "2025-12-18",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
-  "count": 21,
+  "count": 25,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-18T12:57:23Z",
+  "generatedAt": "2025-12-18T15:49:26Z",
   "irCompanies": [
     "BlackBerry",
     "Etsy Inc",
     "HPE",
+    "Intuit",
     "Lululemon Athletica",
     "Merck",
-    "Paychex"
+    "Morgan Stanley",
+    "Paychex",
+    "Take-Two Interactive",
+    "Truist Financial"
   ],
   "fallbackCompanies": [
     "Accenture",
