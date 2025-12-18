@@ -1,84 +1,96 @@
 {
   "records": [
     {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-01-21",
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Fastenal Co",
+      "symbol": "FAST",
+      "date": "2026-01-19",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Elevance Health Inc",
-      "symbol": "ELV",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "HCA Healthcare Inc",
-      "symbol": "HCA",
-      "date": "2026-01-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-01-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Seagate",
-      "symbol": "STX",
+      "company": "3M Co",
+      "symbol": "MMM",
       "date": "2026-01-20",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Texas Instruments",
-      "symbol": "TXN",
+      "company": "DR Horton Inc",
+      "symbol": "DHI",
+      "date": "2026-01-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Prologis Inc",
+      "symbol": "PLD",
+      "date": "2026-01-21",
+      "bmo_amc": "12:00 PM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "12:00 PM ET",
+      "ir_source_url": "https://ir.prologis.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "American Airlines Group Inc",
+      "symbol": "AAL",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Verizon",
-      "symbol": "VZ",
-      "date": "2026-01-23",
+      "company": "CSX Corp",
+      "symbol": "CSX",
+      "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "GE Aerospace",
+      "symbol": "GE",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Union Pacific Corp",
+      "symbol": "UNP",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "Capital One Financial",
@@ -221,96 +233,84 @@
       "sector": "Resources"
     },
     {
-      "company": "Fastenal Co",
-      "symbol": "FAST",
-      "date": "2026-01-19",
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Seagate",
+      "symbol": "STX",
+      "date": "2026-01-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Texas Instruments",
+      "symbol": "TXN",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-01-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-01-21",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
-      "company": "3M Co",
-      "symbol": "MMM",
-      "date": "2026-01-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "DR Horton Inc",
-      "symbol": "DHI",
-      "date": "2026-01-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Prologis Inc",
-      "symbol": "PLD",
-      "date": "2026-01-21",
-      "bmo_amc": "12:00 PM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "12:00 PM ET",
-      "ir_source_url": "https://ir.prologis.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "American Airlines Group Inc",
-      "symbol": "AAL",
+      "company": "Elevance Health Inc",
+      "symbol": "ELV",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
-      "company": "CSX Corp",
-      "symbol": "CSX",
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
-      "company": "GE Aerospace",
-      "symbol": "GE",
-      "date": "2026-01-22",
+      "company": "HCA Healthcare Inc",
+      "symbol": "HCA",
+      "date": "2026-01-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Union Pacific Corp",
-      "symbol": "UNP",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     }
   ],
   "count": 31,
@@ -319,7 +319,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-18T04:27:31Z",
+  "generatedAt": "2025-12-18T06:54:11Z",
   "irCompanies": [
     "Prologis Inc"
   ],
