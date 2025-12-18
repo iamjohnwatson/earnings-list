@@ -1,36 +1,23 @@
 {
   "records": [
     {
-      "company": "Fiserv",
-      "symbol": "FI",
-      "date": "2025-12-17",
-      "bmo_amc": "3:31 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:31 PM EST",
-      "ir_source_url": "https://investors.fiserv.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "FactSet Research",
       "symbol": "FDS",
       "date": "2025-12-18",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-17T21:48:02Z",
-  "irCompanies": [
-    "Fiserv"
-  ],
+  "generatedAt": "2025-12-18T01:22:24Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "FactSet Research"
   ],

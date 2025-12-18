@@ -19,6 +19,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Danaher Corp",
+      "symbol": "DHR",
+      "date": "2026-01-28",
+      "bmo_amc": "8:00 A.M. ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 a.m. ET",
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Cardinal Health Inc",
       "symbol": "CAH",
       "date": "2026-01-29",
@@ -64,11 +75,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-12-17T21:48:58Z",
-  "irCompanies": [],
+  "generatedAt": "2025-12-18T01:23:22Z",
+  "irCompanies": [
+    "Danaher Corp"
+  ],
   "fallbackCompanies": [
     "Abbott Laboratories",
     "Cardinal Health Inc",
