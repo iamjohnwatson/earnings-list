@@ -109,6 +109,15 @@
       "source": "aggregator"
     },
     {
+      "company": "T-Mobile US",
+      "symbol": "TMUS",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Trade Desk",
       "symbol": "TTD",
       "date": "2026-02-11",
@@ -208,10 +217,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-19T12:58:57Z",
+  "generatedAt": "2025-12-19T15:49:10Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Applied Materials",
@@ -233,6 +242,7 @@
     "Reddit",
     "Roku",
     "Shopify",
+    "T-Mobile US",
     "Tower Semiconductor",
     "Trade Desk",
     "Tyler Tech",

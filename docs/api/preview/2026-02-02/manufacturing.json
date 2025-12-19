@@ -193,8 +193,8 @@
       "company": "Stanley Black & Decker",
       "symbol": "SWK",
       "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -210,15 +210,6 @@
     {
       "company": "United Rentals Inc",
       "symbol": "URI",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Waste Management Inc",
-      "symbol": "WM",
       "date": "2026-02-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -325,10 +316,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 36,
+  "count": 35,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-19T12:58:48Z",
+  "generatedAt": "2025-12-19T15:49:01Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AMETEK Inc",
@@ -365,8 +356,7 @@
     "TransDigm Group Inc",
     "UDR INC",
     "United Rentals Inc",
-    "Veralto Corp",
-    "Waste Management Inc"
+    "Veralto Corp"
   ],
   "week": {
     "id": "2026-02-02",

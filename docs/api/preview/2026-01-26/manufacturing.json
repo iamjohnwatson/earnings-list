@@ -64,6 +64,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Northrop Grumman Corp",
+      "symbol": "NOC",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Packaging Corp of America",
       "symbol": "PKG",
       "date": "2026-01-27",
@@ -138,6 +147,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Waste Management Inc",
+      "symbol": "WM",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "A O Smith Corp",
       "symbol": "AOS",
       "date": "2026-01-29",
@@ -167,15 +185,6 @@
     {
       "company": "L3Harris Technologies Inc",
       "symbol": "LHX",
-      "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Northrop Grumman Corp",
-      "symbol": "NOC",
       "date": "2026-01-29",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -246,10 +255,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-19T12:58:39Z",
+  "generatedAt": "2025-12-19T15:48:52Z",
   "irCompanies": [
     "UPS"
   ],
@@ -279,7 +288,8 @@
     "Textron Inc",
     "Trane Technologies PLC",
     "UPS",
-    "WW Grainger Inc"
+    "WW Grainger Inc",
+    "Waste Management Inc"
   ],
   "week": {
     "id": "2026-01-26",
