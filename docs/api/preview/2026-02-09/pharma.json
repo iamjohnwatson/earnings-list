@@ -53,20 +53,60 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "DaVita Inc",
+      "symbol": "DVA",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "GE HealthCare Technologies Inc",
+      "symbol": "GEHC",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "West Pharmaceutical Services Inc",
+      "symbol": "WST",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Zoetis",
+      "symbol": "ZTS",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-12-19T09:54:19Z",
+  "generatedAt": "2025-12-19T12:58:57Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "CVS Health Corp",
+    "DaVita Inc",
     "Edwards Lifesciences Corp",
+    "GE HealthCare Technologies Inc",
     "Gilead",
     "Tenet Healthcare",
     "Vertex Pharmaceuticals Inc",
-    "Waters Corp"
+    "Waters Corp",
+    "West Pharmaceutical Services Inc",
+    "Zoetis"
   ],
   "week": {
     "id": "2026-02-09",

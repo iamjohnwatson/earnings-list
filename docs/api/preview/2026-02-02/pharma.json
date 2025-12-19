@@ -45,7 +45,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Pfizer Inc",
@@ -141,8 +143,8 @@
       "company": "Bristol Myers-Squibb",
       "symbol": "BMY",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -195,9 +197,10 @@
   "count": 21,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-12-19T09:54:11Z",
+  "generatedAt": "2025-12-19T12:58:47Z",
   "irCompanies": [
-    "IDEXX Laboratories Inc"
+    "IDEXX Laboratories Inc",
+    "Merck"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
@@ -214,7 +217,6 @@
     "Kenvue",
     "Labcorp Holdings Inc",
     "Mckesson Corp",
-    "Merck",
     "Molina Healthcare Inc",
     "Pfizer Inc",
     "Regeneron Pharmaceuticals",

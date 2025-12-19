@@ -13,8 +13,8 @@
       "company": "Accenture",
       "symbol": "ACN",
       "date": "2025-12-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +22,8 @@
       "company": "BlackBerry",
       "symbol": "BB",
       "date": "2025-12-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -53,7 +53,7 @@
   "count": 5,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-19T09:53:09Z",
+  "generatedAt": "2025-12-19T12:57:45Z",
   "irCompanies": [
     "HPE",
     "Paychex"

@@ -125,28 +125,118 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Applied Materials",
+      "symbol": "AMAT",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Datadog",
+      "symbol": "DDOG",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Digital Realty",
+      "symbol": "DLR",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "GoDaddy",
+      "symbol": "GDDY",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Iron Mountain",
+      "symbol": "IRM",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Motorola",
+      "symbol": "MSI",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Palo Alto",
+      "symbol": "PANW",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Roku",
+      "symbol": "ROKU",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Zebra Technologies",
+      "symbol": "ZBRA",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-19T09:54:19Z",
+  "generatedAt": "2025-12-19T12:58:57Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
+    "Datadog",
+    "Digital Realty",
     "Equinix",
     "Freshworks",
     "GlobalFoundries",
+    "GoDaddy",
     "IAC",
+    "Iron Mountain",
     "Lyft",
+    "Motorola",
     "Onsemi",
+    "Palo Alto",
     "Paycom",
     "Reddit",
+    "Roku",
     "Shopify",
     "Tower Semiconductor",
     "Trade Desk",
-    "Tyler Tech"
+    "Tyler Tech",
+    "Zebra Technologies"
   ],
   "week": {
     "id": "2026-02-09",

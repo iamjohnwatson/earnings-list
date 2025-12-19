@@ -71,22 +71,92 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Air Lease",
+      "symbol": "AL",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Airbnb Inc",
+      "symbol": "ABNB",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Howmet Aerospace",
+      "symbol": "HWM",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Ingersoll Rand Inc",
+      "symbol": "IR",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Republic Services Inc",
+      "symbol": "RSG",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Wynn Resorts Ltd",
+      "symbol": "WYNN",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-19T09:54:19Z",
+  "generatedAt": "2025-12-19T12:58:56Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Air Lease",
+    "Airbnb Inc",
     "Carrier Global Corp",
+    "Deere",
     "Generac Holdings Inc",
+    "Howmet Aerospace",
+    "Ingersoll Rand Inc",
     "Leidos Holdings Inc",
     "MGM Resorts International",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",
+    "Republic Services Inc",
     "Rockwell Automation Inc",
-    "Wabtec"
+    "Wabtec",
+    "Wynn Resorts Ltd"
   ],
   "week": {
     "id": "2026-02-09",
