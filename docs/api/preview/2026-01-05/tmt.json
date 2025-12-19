@@ -1,10 +1,24 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-01-07",
+      "bmo_amc": "5:00 P.M.",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "5:00 p.m. ",
+      "ir_source_url": "https://ir.applieddigital.com/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-18T21:47:26Z",
-  "irCompanies": [],
+  "generatedAt": "2025-12-19T01:28:17Z",
+  "irCompanies": [
+    "Applied Digital"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-01-05",
