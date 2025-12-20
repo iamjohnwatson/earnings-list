@@ -1,10 +1,24 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-19T21:46:42Z",
-  "irCompanies": [],
+  "generatedAt": "2025-12-20T01:23:41Z",
+  "irCompanies": [
+    "HPE"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-01-12",
