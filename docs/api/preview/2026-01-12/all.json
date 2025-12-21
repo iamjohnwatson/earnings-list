@@ -161,6 +161,16 @@
       "sector": "Finance"
     },
     {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-01-16",
@@ -171,16 +181,6 @@
       "ir_source_url": "https://investors.hpe.com/",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
-      "date": "2026-01-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
   "count": 17,
@@ -189,7 +189,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-21T04:33:25Z",
+  "generatedAt": "2025-12-21T06:52:40Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
