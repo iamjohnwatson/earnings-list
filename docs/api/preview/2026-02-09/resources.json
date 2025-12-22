@@ -121,8 +121,8 @@
       "company": "PBF Energy",
       "symbol": "PBF",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -143,12 +143,30 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Enbridge",
+      "symbol": "ENB",
+      "date": "2026-02-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "TC Energy",
+      "symbol": "TRP",
+      "date": "2026-02-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-12-22T09:55:40Z",
+  "generatedAt": "2025-12-22T12:59:18Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -159,6 +177,7 @@
     "DuPont",
     "Duke Energy",
     "Ecolab",
+    "Enbridge",
     "Energy Transfer",
     "Eversource Energy",
     "Exelon Corp",
@@ -166,6 +185,7 @@
     "PBF Energy",
     "PG&E Corp",
     "PPL Corp",
+    "TC Energy",
     "Williams Co"
   ],
   "week": {

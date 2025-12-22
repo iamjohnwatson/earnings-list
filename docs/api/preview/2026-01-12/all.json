@@ -156,8 +156,8 @@
       "company": "State Street Corp",
       "symbol": "STT",
       "date": "2026-01-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -173,6 +173,16 @@
       "sector": "Finance"
     },
     {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-01-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "J B Hunt Transport Services Inc",
       "symbol": "JBHT",
       "date": "2026-01-15",
@@ -183,13 +193,13 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-22T09:55:06Z",
+  "generatedAt": "2025-12-22T12:58:40Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -201,6 +211,7 @@
   "fallbackCompanies": [
     "Bank of New York Mellon",
     "Citizens Financial",
+    "Delta Air",
     "Goldman Sachs",
     "Huntington Bancshares",
     "J B Hunt Transport Services Inc",

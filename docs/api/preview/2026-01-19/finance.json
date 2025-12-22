@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Capital One Financial",
-      "symbol": "COF",
-      "date": "2026-01-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Charles Schwab",
       "symbol": "SCHW",
       "date": "2026-01-20",
@@ -73,6 +64,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Capital One Financial",
+      "symbol": "COF",
+      "date": "2026-01-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Northern Trust",
       "symbol": "NTRS",
       "date": "2026-01-22",
@@ -80,27 +80,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "American Express",
-      "symbol": "AXP",
-      "date": "2026-01-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 9,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-22T09:55:13Z",
+  "generatedAt": "2025-12-22T12:58:49Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "American Express",
     "BlackRock Inc",
     "Capital One Financial",
     "Charles Schwab",

@@ -1,14 +1,16 @@
 {
   "records": [
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-01-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-01-07",
+      "bmo_amc": "5:00 P.M.",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": "5:00 p.m. ",
+      "ir_source_url": "https://ir.applieddigital.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "Constellation Brands",
@@ -21,34 +23,20 @@
       "ir_source_url": "https://ir.cbrands.com/",
       "source": "investor_relations",
       "sector": "Consumer"
-    },
-    {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-01-07",
-      "bmo_amc": "5:00 P.M.",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:00 p.m. ",
-      "ir_source_url": "https://ir.applieddigital.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-22T09:54:57Z",
+  "generatedAt": "2025-12-22T12:58:30Z",
   "irCompanies": [
     "Applied Digital",
     "Constellation Brands"
   ],
-  "fallbackCompanies": [
-    "Delta Air"
-  ],
+  "fallbackCompanies": [],
   "week": {
     "id": "2026-01-05",
     "start_date": "2026-01-05",
