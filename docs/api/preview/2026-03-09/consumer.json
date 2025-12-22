@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2026-03-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
+  "missingPublic": [],
+  "tickerCount": 75,
+  "generatedAt": "2025-12-22T06:56:51Z",
+  "irCompanies": [
+    "Ulta Beauty"
+  ],
+  "fallbackCompanies": [],
+  "week": {
+    "id": "2026-03-09",
+    "start_date": "2026-03-09",
+    "end_date": "2026-03-13",
+    "label": "Week of Mar 9 to Mar 13"
+  },
+  "sector": "Consumer",
+  "sectorSlug": "consumer",
+  "downloadPath": "downloads/2026-03-09/earnings_consumer_2026-03-09.csv"
+}
