@@ -1,14 +1,16 @@
 {
   "records": [
     {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
-      "date": "2026-01-15",
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-01-16",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "Bank of New York Mellon",
@@ -171,16 +173,14 @@
       "sector": "Finance"
     },
     {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-01-16",
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-01-15",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 17,
@@ -189,7 +189,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-22T06:55:41Z",
+  "generatedAt": "2025-12-22T09:55:06Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
