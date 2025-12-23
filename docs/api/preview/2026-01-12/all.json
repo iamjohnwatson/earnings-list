@@ -13,26 +13,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-01-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
-      "date": "2026-01-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Bank of New York Mellon",
       "symbol": "BK",
       "date": "2026-01-13",
@@ -191,6 +171,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-01-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 18,
@@ -199,7 +199,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-22T21:46:39Z",
+  "generatedAt": "2025-12-23T01:28:08Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
