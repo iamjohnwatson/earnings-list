@@ -13,8 +13,8 @@
       "company": "Fifth Third Bancorp",
       "symbol": "FITB",
       "date": "2026-01-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -30,6 +30,15 @@
     {
       "company": "KeyCorp",
       "symbol": "KEY",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "US Bancorp",
+      "symbol": "USB",
       "date": "2026-01-20",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -55,15 +64,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Wells Fargo",
-      "symbol": "WFC",
-      "date": "2026-01-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Capital One Financial",
       "symbol": "COF",
       "date": "2026-01-22",
@@ -80,25 +80,35 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Comerica Inc",
+      "symbol": "CMA",
+      "date": "2026-01-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-23T09:52:07Z",
+  "generatedAt": "2025-12-23T12:57:34Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "BlackRock Inc",
     "Capital One Financial",
     "Charles Schwab",
+    "Comerica Inc",
     "Fifth Third Bancorp",
     "Interactive Brokers",
     "KeyCorp",
     "Northern Trust",
-    "Wells Fargo",
+    "US Bancorp",
     "Zions Bancorporation"
   ],
   "week": {
