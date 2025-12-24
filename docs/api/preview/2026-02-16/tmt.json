@@ -1,11 +1,53 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Arista Networks",
+      "symbol": "ANET",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Baidu",
+      "symbol": "BIDU",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Cadence",
+      "symbol": "CDNS",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "CoStar Group",
+      "symbol": "CSGP",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-24T09:52:51Z",
+  "generatedAt": "2025-12-24T12:58:14Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Arista Networks",
+    "Baidu",
+    "Cadence",
+    "CoStar Group"
+  ],
   "week": {
     "id": "2026-02-16",
     "start_date": "2026-02-16",

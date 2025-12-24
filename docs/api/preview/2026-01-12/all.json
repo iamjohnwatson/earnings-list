@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Delta Air",
       "symbol": "DAL",
       "date": "2026-01-13",
@@ -19,18 +31,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-01-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
     },
     {
       "company": "Bank of New York Mellon",
@@ -121,16 +121,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-01-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2026-01-16",
@@ -171,25 +161,15 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-01-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
     }
   ],
-  "count": 17,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-24T09:52:08Z",
+  "generatedAt": "2025-12-24T12:57:30Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -203,13 +183,11 @@
     "Citizens Financial",
     "Delta Air",
     "Goldman Sachs",
-    "Huntington Bancshares",
     "J B Hunt Transport Services Inc",
     "M&T Bank Corp",
     "Morgan Stanley",
     "Regions Financial",
-    "State Street Corp",
-    "Truist Financial"
+    "State Street Corp"
   ],
   "week": {
     "id": "2026-01-12",
