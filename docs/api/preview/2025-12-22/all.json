@@ -1,42 +1,6 @@
 {
   "records": [
     {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2025-12-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2025-12-23",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2025-12-23",
-      "bmo_amc": "3:54 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:54 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "New Fortress Energy",
       "symbol": "NFE",
       "date": "2025-12-25",
@@ -45,33 +9,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2025-12-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
     }
   ],
-  "count": 5,
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-23T21:46:07Z",
-  "irCompanies": [
-    "MGM Resorts International",
-    "Merck",
-    "Take-Two Interactive",
-    "Truist Financial"
-  ],
+  "generatedAt": "2025-12-24T01:26:35Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "New Fortress Energy"
   ],
