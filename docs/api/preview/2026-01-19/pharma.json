@@ -10,15 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Elevance Health Inc",
-      "symbol": "ELV",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Intuitive Surgical Inc",
       "symbol": "ISRG",
       "date": "2026-01-22",
@@ -37,13 +28,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-12-24T12:57:39Z",
+  "generatedAt": "2025-12-24T15:48:15Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "Elevance Health Inc",
     "HCA Healthcare Inc",
     "Intuitive Surgical Inc",
     "Johnson & Johnson"

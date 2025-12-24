@@ -67,8 +67,8 @@
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-01-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://ir.truist.com/",
@@ -80,6 +80,15 @@
       "date": "2026-01-22",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-01-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -102,13 +111,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-24T12:57:39Z",
+  "generatedAt": "2025-12-24T15:48:15Z",
   "irCompanies": [
     "Truist Financial"
   ],
@@ -118,6 +127,7 @@
     "Charles Schwab",
     "Comerica Inc",
     "Fifth Third Bancorp",
+    "Huntington Bancshares",
     "Interactive Brokers",
     "KeyCorp",
     "Northern Trust",

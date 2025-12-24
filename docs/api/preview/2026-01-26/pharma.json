@@ -41,6 +41,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Elevance Health Inc",
+      "symbol": "ELV",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Cardinal Health Inc",
       "symbol": "CAH",
       "date": "2026-01-29",
@@ -86,10 +95,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-12-24T12:57:48Z",
+  "generatedAt": "2025-12-24T15:48:23Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Danaher Corp"
@@ -98,6 +107,7 @@
     "Abbott Laboratories",
     "Cardinal Health Inc",
     "Cigna",
+    "Elevance Health Inc",
     "Quest Diagnostics Inc",
     "Revvity",
     "Thermo Fisher Scientific Inc",
