@@ -8,14 +8,24 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2025-12-25T09:52:21Z",
+  "generatedAt": "2025-12-25T12:57:45Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Etsy Inc",
     "International Flavours & Fragrances"
   ],
   "week": {

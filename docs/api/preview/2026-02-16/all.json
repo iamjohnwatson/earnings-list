@@ -1,9 +1,69 @@
 {
   "records": [
     {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Vulcan Materials Co",
+      "symbol": "VMC",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "American Water Works",
+      "symbol": "AWK",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Host Hotels & Resorts Inc",
+      "symbol": "HST",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Charles River Labs",
+      "symbol": "CRL",
+      "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
@@ -21,44 +81,14 @@
       "sector": "Consumer"
     },
     {
-      "company": "Arista Networks",
-      "symbol": "ANET",
-      "date": "2026-02-17",
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
+      "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Baidu",
-      "symbol": "BIDU",
-      "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Cadence",
-      "symbol": "CDNS",
-      "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "CoStar Group",
-      "symbol": "CSGP",
-      "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
       "company": "Celanese",
@@ -121,37 +151,150 @@
       "sector": "Resources"
     },
     {
-      "company": "Vulcan Materials Co",
-      "symbol": "VMC",
+      "company": "CF Industries",
+      "symbol": "CF",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Nutrien",
+      "symbol": "NTR",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Teck Resources",
+      "symbol": "TECK",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Texas Pacific Land",
+      "symbol": "TPL",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Arista Networks",
+      "symbol": "ANET",
       "date": "2026-02-17",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "TMT"
+    },
+    {
+      "company": "Baidu",
+      "symbol": "BIDU",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Cadence",
+      "symbol": "CDNS",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "CoStar Group",
+      "symbol": "CSGP",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Analog Devices",
+      "symbol": "ADI",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Garmin",
+      "symbol": "GRMN",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Trimble",
+      "symbol": "TRMB",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
-  "count": 13,
+  "count": 26,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-25T09:52:22Z",
+  "generatedAt": "2025-12-25T12:57:45Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "American Water Works",
+    "Analog Devices",
     "Arista Networks",
     "Baidu",
+    "CF Industries",
     "Cadence",
     "Celanese",
+    "Charles River Labs",
     "CoStar Group",
     "Constellation Energy",
     "Devon Energy",
     "EQT Corp",
     "Entergy Corp",
+    "Etsy Inc",
+    "Garmin",
+    "Host Hotels & Resorts Inc",
     "International Flavours & Fragrances",
+    "Manulife",
     "Medtronic PLC",
+    "Nordson Corp",
+    "Nutrien",
     "Occidental Petroleum",
+    "Teck Resources",
+    "Texas Pacific Land",
+    "Trimble",
     "Vulcan Materials Co"
   ],
   "week": {
