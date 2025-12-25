@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "Vulcan Materials Co",
-      "symbol": "VMC",
-      "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Celanese",
       "symbol": "CE",
       "date": "2026-02-17",
@@ -81,6 +71,26 @@
       "sector": "Pharma"
     },
     {
+      "company": "Vulcan Materials Co",
+      "symbol": "VMC",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "International Flavours & Fragrances",
+      "symbol": "IFF",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Arista Networks",
       "symbol": "ANET",
       "date": "2026-02-17",
@@ -119,16 +129,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
-    },
-    {
-      "company": "International Flavours & Fragrances",
-      "symbol": "IFF",
-      "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
   "count": 13,
@@ -137,7 +137,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-25T01:28:25Z",
+  "generatedAt": "2025-12-25T04:32:49Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Arista Networks",
