@@ -9,16 +9,30 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-12-26",
+      "bmo_amc": "4:33 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:33 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-26T06:53:31Z",
-  "irCompanies": [],
+  "generatedAt": "2025-12-26T09:49:36Z",
+  "irCompanies": [
+    "Merck"
+  ],
   "fallbackCompanies": [
     "New Fortress Energy"
   ],
