@@ -4,24 +4,37 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2025-12-26",
-      "bmo_amc": "5:12 AM ET",
+      "bmo_amc": "8:56 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "5:12 am ET",
+      "ir_time_label": "8:56 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2025-12-26",
+      "bmo_amc": "10:26 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:26 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-26T12:56:38Z",
+  "generatedAt": "2025-12-26T15:47:22Z",
   "irCompanies": [
-    "Merck"
+    "Merck",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [],
   "week": {
