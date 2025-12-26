@@ -89,22 +89,122 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Alliant Energy",
+      "symbol": "LNT",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Cenovus Energy",
+      "symbol": "CVE",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "CenterPoint Energy",
+      "symbol": "CNP",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Cheniere Energy",
+      "symbol": "LNG",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Consolidated Edison",
+      "symbol": "ED",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "HF Sinclair",
+      "symbol": "DINO",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "MP Materials",
+      "symbol": "MP",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Newmont Corp",
+      "symbol": "NEM",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Southern Co",
+      "symbol": "SO",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Targa Resources",
+      "symbol": "TRGP",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-12-26T09:50:40Z",
+  "generatedAt": "2025-12-26T12:57:43Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Alliant Energy",
     "CF Industries",
     "Celanese",
+    "Cenovus Energy",
+    "CenterPoint Energy",
+    "Cheniere Energy",
+    "Consolidated Edison",
     "Constellation Energy",
     "Devon Energy",
     "EQT Corp",
     "Entergy Corp",
+    "HF Sinclair",
+    "MP Materials",
+    "Newmont Corp",
     "Nutrien",
     "Occidental Petroleum",
+    "Southern Co",
+    "Targa Resources",
     "Teck Resources",
     "Texas Pacific Land"
   ],

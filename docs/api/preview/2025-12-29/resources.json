@@ -1,11 +1,23 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-01-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-12-26T09:49:44Z",
+  "generatedAt": "2025-12-26T12:56:45Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "New Fortress Energy"
+  ],
   "week": {
     "id": "2025-12-29",
     "start_date": "2025-12-29",

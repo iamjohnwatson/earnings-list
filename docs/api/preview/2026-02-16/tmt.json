@@ -62,20 +62,80 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Akamai Technologies",
+      "symbol": "AKAM",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Alibaba",
+      "symbol": "BABA",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "EPAM",
+      "symbol": "EPAM",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Grab",
+      "symbol": "GRAB",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Rivian",
+      "symbol": "RIVN",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-26T09:50:38Z",
+  "generatedAt": "2025-12-26T12:57:43Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Akamai Technologies",
+    "Alibaba",
     "Analog Devices",
     "Arista Networks",
     "Baidu",
     "Cadence",
     "CoStar Group",
+    "EPAM",
     "Garmin",
+    "Grab",
+    "Live Nation Entertainment",
+    "Rivian",
     "Trimble"
   ],
   "week": {
