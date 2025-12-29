@@ -79,16 +79,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2026-01-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2026-01-16",
@@ -163,13 +153,13 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 15,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-29T09:56:47Z",
+  "generatedAt": "2025-12-29T12:57:56Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -180,7 +170,6 @@
   ],
   "fallbackCompanies": [
     "Bank of New York Mellon",
-    "Citizens Financial",
     "Delta Air",
     "Goldman Sachs",
     "J B Hunt Transport Services Inc",
