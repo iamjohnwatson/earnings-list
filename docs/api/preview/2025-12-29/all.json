@@ -1,16 +1,16 @@
 {
   "records": [
     {
-      "company": "Comerica Inc",
-      "symbol": "CMA",
-      "date": "2026-01-01",
-      "bmo_amc": "TBD",
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-12-29",
+      "bmo_amc": "12:05 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.comerica.com/",
+      "ir_time_label": "12:05 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
-      "sector": "Finance"
+      "sector": "Pharma"
     },
     {
       "company": "New Fortress Energy",
@@ -21,17 +21,30 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Comerica Inc",
+      "symbol": "CMA",
+      "date": "2026-01-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.comerica.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-29T04:41:51Z",
+  "generatedAt": "2025-12-29T06:56:13Z",
   "irCompanies": [
-    "Comerica Inc"
+    "Comerica Inc",
+    "Merck"
   ],
   "fallbackCompanies": [
     "New Fortress Energy"
