@@ -73,6 +73,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Spotify",
+      "symbol": "SPOT",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Cisco Systems",
       "symbol": "CSCO",
       "date": "2026-02-11",
@@ -217,10 +226,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2025-12-30T09:52:47Z",
+  "generatedAt": "2025-12-30T12:58:59Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Applied Materials",
@@ -242,6 +251,7 @@
     "Reddit",
     "Roku",
     "Shopify",
+    "Spotify",
     "T-Mobile US",
     "Tower Semiconductor",
     "Trade Desk",

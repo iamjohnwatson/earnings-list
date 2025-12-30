@@ -1,11 +1,33 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Public Storage",
+      "symbol": "PSA",
+      "date": "2026-02-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Realty Income Corp",
+      "symbol": "O",
+      "date": "2026-02-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-30T09:53:03Z",
+  "generatedAt": "2025-12-30T12:59:16Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Public Storage",
+    "Realty Income Corp"
+  ],
   "week": {
     "id": "2026-02-23",
     "start_date": "2026-02-23",
