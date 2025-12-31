@@ -21,17 +21,30 @@
       "ir_source_url": "https://investor.comerica.com/",
       "source": "investor_relations",
       "sector": "Finance"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2025-12-31",
+      "bmo_amc": "1:03 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:03 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-31T04:32:06Z",
+  "generatedAt": "2025-12-31T06:53:50Z",
   "irCompanies": [
-    "Comerica Inc"
+    "Comerica Inc",
+    "Merck"
   ],
   "fallbackCompanies": [
     "New Fortress Energy"
