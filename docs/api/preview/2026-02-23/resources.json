@@ -26,17 +26,57 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "First Solar",
+      "symbol": "FSLR",
+      "date": "2026-02-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Pinnacle West",
+      "symbol": "PNW",
+      "date": "2026-02-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Public Service Enterprise Co",
+      "symbol": "PEG",
+      "date": "2026-02-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Sempra",
+      "symbol": "SRE",
+      "date": "2026-02-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2025-12-31T09:52:38Z",
+  "generatedAt": "2025-12-31T12:57:17Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Corterra Energy",
     "Diamondback Energy",
-    "ONEOK"
+    "First Solar",
+    "ONEOK",
+    "Pinnacle West",
+    "Public Service Enterprise Co",
+    "Sempra"
   ],
   "week": {
     "id": "2026-02-23",

@@ -145,15 +145,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Raymond James",
-      "symbol": "RJF",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "T. Rowe Price Group",
       "symbol": "TROW",
       "date": "2026-02-04",
@@ -199,13 +190,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2025-12-31T09:52:12Z",
+  "generatedAt": "2025-12-31T12:56:52Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
@@ -227,7 +218,6 @@
     "Principal Financial Group",
     "Progressive Corporation",
     "Prudential Financial",
-    "Raymond James",
     "T. Rowe Price Group",
     "Willis Tower Watson"
   ],

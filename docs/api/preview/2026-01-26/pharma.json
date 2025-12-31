@@ -59,15 +59,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Cigna",
-      "symbol": "CI",
-      "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Quest Diagnostics Inc",
       "symbol": "DGX",
       "date": "2026-01-29",
@@ -95,10 +86,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2025-12-31T09:52:03Z",
+  "generatedAt": "2025-12-31T12:56:44Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Danaher Corp"
@@ -106,7 +97,6 @@
   "fallbackCompanies": [
     "Abbott Laboratories",
     "Cardinal Health Inc",
-    "Cigna",
     "Elevance Health Inc",
     "Quest Diagnostics Inc",
     "Revvity",

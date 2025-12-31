@@ -17,14 +17,64 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Axon Enterprise Inc",
+      "symbol": "AXON",
+      "date": "2026-02-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Caesars Entertainment Inc",
+      "symbol": "CZR",
+      "date": "2026-02-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Expeditors International of Washington Inc",
+      "symbol": "EXPD",
+      "date": "2026-02-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Extra Space Storage Inc",
+      "symbol": "EXR",
+      "date": "2026-02-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2026-02-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2025-12-31T09:52:38Z",
+  "generatedAt": "2025-12-31T12:57:17Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Axon Enterprise Inc",
+    "Caesars Entertainment Inc",
+    "Expeditors International of Washington Inc",
+    "Extra Space Storage Inc",
+    "Keysight Technologies Inc",
     "Public Storage",
     "Realty Income Corp"
   ],
