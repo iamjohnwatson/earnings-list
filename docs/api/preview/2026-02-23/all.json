@@ -1,14 +1,24 @@
 {
   "records": [
     {
-      "company": "Hims and Hers",
-      "symbol": "HIMS",
+      "company": "SBA Communications",
+      "symbol": "SBAC",
       "date": "2026-02-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "TMT"
+    },
+    {
+      "company": "Zoom",
+      "symbol": "ZM",
+      "date": "2026-02-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "Public Storage",
@@ -71,24 +81,14 @@
       "sector": "Consumer"
     },
     {
-      "company": "SBA Communications",
-      "symbol": "SBAC",
+      "company": "Hims and Hers",
+      "symbol": "HIMS",
       "date": "2026-02-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Zoom",
-      "symbol": "ZM",
-      "date": "2026-02-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Pharma"
     }
   ],
   "count": 9,
@@ -97,7 +97,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2025-12-31T06:55:00Z",
+  "generatedAt": "2025-12-31T09:52:38Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Corterra Energy",
