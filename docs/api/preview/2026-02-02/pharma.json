@@ -43,9 +43,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Pfizer Inc",
@@ -204,10 +202,8 @@
   "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-01T04:42:47Z",
-  "irCompanies": [
-    "Merck"
-  ],
+  "generatedAt": "2026-01-01T06:55:22Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
@@ -225,6 +221,7 @@
     "Kenvue",
     "Labcorp Holdings Inc",
     "Mckesson Corp",
+    "Merck",
     "Molina Healthcare Inc",
     "Pfizer Inc",
     "Regeneron Pharmaceuticals",
