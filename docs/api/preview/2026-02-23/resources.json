@@ -62,18 +62,68 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "APA",
+      "symbol": "APA",
+      "date": "2026-02-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Expand Energy",
+      "symbol": "EXE",
+      "date": "2026-02-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "First Energy",
+      "symbol": "FE",
+      "date": "2026-02-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "NRG Energy",
+      "symbol": "NRG",
+      "date": "2026-02-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Ovintiv",
+      "symbol": "OVV",
+      "date": "2026-02-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-01T09:52:54Z",
+  "generatedAt": "2026-01-01T12:57:59Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "APA",
     "Corterra Energy",
     "Diamondback Energy",
+    "Expand Energy",
+    "First Energy",
     "First Solar",
+    "NRG Energy",
     "ONEOK",
+    "Ovintiv",
     "Pinnacle West",
     "Public Service Enterprise Co",
     "Sempra"

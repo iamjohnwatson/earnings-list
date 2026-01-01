@@ -54,6 +54,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "BlackRock Inc",
+      "symbol": "BLK",
+      "date": "2026-01-15",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2026-01-15",
@@ -110,13 +119,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-01T09:52:03Z",
+  "generatedAt": "2026-01-01T12:57:11Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
@@ -126,6 +135,7 @@
   ],
   "fallbackCompanies": [
     "Bank of New York Mellon",
+    "BlackRock Inc",
     "Goldman Sachs",
     "M&T Bank Corp",
     "Morgan Stanley",

@@ -22,8 +22,8 @@
       "company": "Interactive Brokers",
       "symbol": "IBKR",
       "date": "2026-01-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -51,15 +51,6 @@
       "date": "2026-01-20",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "BlackRock Inc",
-      "symbol": "BLK",
-      "date": "2026-01-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -120,18 +111,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-01T09:52:11Z",
+  "generatedAt": "2026-01-01T12:57:19Z",
   "irCompanies": [
     "Truist Financial"
   ],
   "fallbackCompanies": [
-    "BlackRock Inc",
     "Capital One Financial",
     "Charles Schwab",
     "Citizens Financial",

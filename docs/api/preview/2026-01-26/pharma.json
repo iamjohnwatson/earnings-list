@@ -12,6 +12,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "HCA Healthcare Inc",
+      "symbol": "HCA",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "UnitedHealth Group",
       "symbol": "UNH",
       "date": "2026-01-27",
@@ -86,10 +95,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-01T09:52:19Z",
+  "generatedAt": "2026-01-01T12:57:28Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Danaher Corp"
@@ -98,6 +107,7 @@
     "Abbott Laboratories",
     "Cardinal Health Inc",
     "Elevance Health Inc",
+    "HCA Healthcare Inc",
     "Quest Diagnostics Inc",
     "Revvity",
     "Thermo Fisher Scientific Inc",
