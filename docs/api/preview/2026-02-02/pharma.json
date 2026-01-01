@@ -197,13 +197,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-02-06",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-01T15:48:05Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-01T18:53:58Z",
+  "irCompanies": [
+    "Centene Corp"
+  ],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
