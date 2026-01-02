@@ -108,7 +108,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.comerica.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 12,
@@ -117,15 +119,15 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-01T21:47:00Z",
+  "generatedAt": "2026-01-02T01:29:07Z",
   "irCompanies": [
+    "Comerica Inc",
     "Truist Financial"
   ],
   "fallbackCompanies": [
     "Capital One Financial",
     "Charles Schwab",
     "Citizens Financial",
-    "Comerica Inc",
     "Fifth Third Bancorp",
     "Huntington Bancshares",
     "Interactive Brokers",
