@@ -26,17 +26,57 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Dentsply Sirona",
+      "symbol": "XRAY",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Novavax",
+      "symbol": "NVAX",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Viatris",
+      "symbol": "VTRS",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-02T09:52:14Z",
+  "generatedAt": "2026-01-02T12:57:08Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Agilent",
+    "Dentsply Sirona",
     "Henry Schein Inc",
-    "Hims and Hers"
+    "Hims and Hers",
+    "Novavax",
+    "Solventum Corp",
+    "Viatris"
   ],
   "week": {
     "id": "2026-02-23",

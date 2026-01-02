@@ -1,41 +1,29 @@
 {
   "records": [
     {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-01-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-01-02",
-      "bmo_amc": "3:47 AM ET",
+      "bmo_amc": "5:14 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "3:47 am ET",
+      "ir_time_label": "5:14 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
     }
   ],
-  "count": 2,
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2026-01-02T09:51:13Z",
+  "generatedAt": "2026-01-02T12:56:01Z",
   "irCompanies": [
     "Merck"
   ],
-  "fallbackCompanies": [
-    "New Fortress Energy"
-  ],
+  "fallbackCompanies": [],
   "week": {
     "id": "2025-12-29",
     "start_date": "2025-12-29",

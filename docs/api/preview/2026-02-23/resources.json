@@ -107,26 +107,76 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "EOG Resources",
+      "symbol": "EOG",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Edison International",
+      "symbol": "EIX",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Evergy",
+      "symbol": "EVRG",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Mosaic",
+      "symbol": "MOS",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Vistra Corp",
+      "symbol": "VST",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-02T09:52:14Z",
+  "generatedAt": "2026-01-02T12:57:07Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "APA",
     "Corterra Energy",
     "Diamondback Energy",
+    "EOG Resources",
+    "Edison International",
+    "Evergy",
     "Expand Energy",
     "First Energy",
     "First Solar",
+    "Mosaic",
     "NRG Energy",
     "ONEOK",
     "Ovintiv",
     "Pinnacle West",
     "Public Service Enterprise Co",
-    "Sempra"
+    "Sempra",
+    "Vistra Corp"
   ],
   "week": {
     "id": "2026-02-23",
