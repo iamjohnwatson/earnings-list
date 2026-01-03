@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2026-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-01-16",
@@ -25,24 +13,16 @@
       "sector": "TMT"
     },
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
       "date": "2026-01-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
-      "date": "2026-01-15",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     },
     {
       "company": "Bank of New York Mellon",
@@ -173,6 +153,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-01-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 16,
@@ -181,7 +181,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2026-01-03T15:45:57Z",
+  "generatedAt": "2026-01-03T18:52:10Z",
   "irCompanies": [
     "Bank of America",
     "Boston Scientific Corp",
