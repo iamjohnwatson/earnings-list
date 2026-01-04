@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2026-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "Bank of New York Mellon",
       "symbol": "BK",
       "date": "2026-01-13",
@@ -143,6 +131,18 @@
       "sector": "Finance"
     },
     {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-01-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Delta Air",
       "symbol": "DAL",
       "date": "2026-01-13",
@@ -181,7 +181,7 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2026-01-04T18:51:31Z",
+  "generatedAt": "2026-01-04T21:45:54Z",
   "irCompanies": [
     "Bank of America",
     "Boston Scientific Corp",
