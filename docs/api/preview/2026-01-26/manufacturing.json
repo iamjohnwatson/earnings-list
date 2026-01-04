@@ -192,17 +192,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-01-29",
-      "bmo_amc": "8:30 A.M. ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "L3Harris Technologies Inc",
       "symbol": "LHX",
       "date": "2026-01-29",
@@ -268,12 +257,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-04T06:53:16Z",
+  "generatedAt": "2026-01-04T09:48:16Z",
   "irCompanies": [
-    "Honeywell",
     "Southwest Airlines Co",
     "UPS"
   ],
