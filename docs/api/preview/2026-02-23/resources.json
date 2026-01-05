@@ -152,14 +152,24 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "AES Corp",
+      "symbol": "AES",
+      "date": "2026-02-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-05T09:58:05Z",
+  "generatedAt": "2026-01-05T12:58:55Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "AES Corp",
     "APA",
     "Corterra Energy",
     "Diamondback Energy",

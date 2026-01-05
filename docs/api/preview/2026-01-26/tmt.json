@@ -39,6 +39,15 @@
       "source": "aggregator"
     },
     {
+      "company": "IBM",
+      "symbol": "IBM",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Apple",
       "symbol": "AAPL",
       "date": "2026-01-29",
@@ -149,10 +158,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2026-01-05T09:57:34Z",
+  "generatedAt": "2026-01-05T12:58:20Z",
   "irCompanies": [
     "AT&T",
     "Verizon"
@@ -165,6 +174,7 @@
     "Comcast",
     "F5",
     "Gen Digital",
+    "IBM",
     "Intel",
     "KLA Corp",
     "Mobileye",

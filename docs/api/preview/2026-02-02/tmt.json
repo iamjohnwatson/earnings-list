@@ -154,15 +154,6 @@
       "source": "aggregator"
     },
     {
-      "company": "IBM",
-      "symbol": "IBM",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Lam Research",
       "symbol": "LRCX",
       "date": "2026-02-04",
@@ -361,10 +352,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 40,
+  "count": 39,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2026-01-05T09:57:43Z",
+  "generatedAt": "2026-01-05T12:58:28Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "ADP",
@@ -379,7 +370,6 @@
     "Fortinet",
     "Fox Corp",
     "Gartner",
-    "IBM",
     "Kyndryl",
     "Lam Research",
     "Lumen Tech",

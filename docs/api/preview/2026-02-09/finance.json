@@ -28,6 +28,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Principal Financial Group",
+      "symbol": "PFG",
+      "date": "2026-02-09",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Assurant Inc",
       "symbol": "AIZ",
       "date": "2026-02-10",
@@ -46,6 +55,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Robinhood",
+      "symbol": "HOOD",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "S&P Global Inc",
       "symbol": "SPGI",
       "date": "2026-02-10",
@@ -58,15 +76,6 @@
       "company": "TPG",
       "symbol": "TPG",
       "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Robinhood",
-      "symbol": "HOOD",
-      "date": "2026-02-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
@@ -109,13 +118,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-05T09:57:50Z",
+  "generatedAt": "2026-01-05T12:58:38Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Arch Capital Group",
@@ -126,6 +135,7 @@
     "Fidelity National Information Services",
     "Global Payments",
     "Moody's Corporation",
+    "Principal Financial Group",
     "Robinhood",
     "S&P Global Inc",
     "Sun Life",

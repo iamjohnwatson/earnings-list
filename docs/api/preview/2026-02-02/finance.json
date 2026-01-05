@@ -172,15 +172,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Principal Financial Group",
-      "symbol": "PFG",
-      "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Cboe Global Markets",
       "symbol": "CBOE",
       "date": "2026-02-06",
@@ -190,13 +181,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-05T09:57:42Z",
+  "generatedAt": "2026-01-05T12:58:29Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
@@ -215,7 +206,6 @@
     "MetLife",
     "Nasdaq",
     "PayPal Holdings",
-    "Principal Financial Group",
     "Progressive Corporation",
     "Prudential Financial",
     "T. Rowe Price Group",
