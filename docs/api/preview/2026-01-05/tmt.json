@@ -1,6 +1,28 @@
 {
   "records": [
     {
+      "company": "Equinix",
+      "symbol": "EQIX",
+      "date": "2026-01-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-01-05",
+      "bmo_amc": "10:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:30 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-01-07",
@@ -12,12 +34,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2026-01-05T12:57:53Z",
+  "generatedAt": "2026-01-05T15:50:59Z",
   "irCompanies": [
-    "Applied Digital"
+    "Applied Digital",
+    "Equinix",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [],
   "week": {
