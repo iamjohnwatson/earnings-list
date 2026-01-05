@@ -1,16 +1,16 @@
 {
   "records": [
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-01-05",
-      "bmo_amc": "11:46 AM ET",
-      "nasdaq_time_label": null,
+      "company": "Constellation Brands",
+      "symbol": "STZ",
+      "date": "2026-01-07",
+      "bmo_amc": "4:30 PM EST",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "11:46 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "ir_time_label": "4:30 PM EST",
+      "ir_source_url": "https://ir.cbrands.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
       "company": "Equinix",
@@ -28,10 +28,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-01-05",
-      "bmo_amc": "1:31 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:31 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -47,6 +47,18 @@
       "ir_source_url": "https://ir.applieddigital.com/",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2026-01-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
       "company": "Citizens Financial",
@@ -85,27 +97,28 @@
       "sector": "Finance"
     },
     {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-01-07",
-      "bmo_amc": "4:30 PM EST",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-01-05",
+      "bmo_amc": "3:58 PM ET",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 PM EST",
-      "ir_source_url": "https://ir.cbrands.com/",
+      "ir_time_label": "3:58 pm ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "Pharma"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2026-01-05T18:53:53Z",
+  "generatedAt": "2026-01-05T21:47:43Z",
   "irCompanies": [
     "Applied Digital",
+    "Citigroup",
     "Citizens Financial",
     "Constellation Brands",
     "Equinix",

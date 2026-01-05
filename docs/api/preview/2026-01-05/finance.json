@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2026-01-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-01-05",
@@ -34,14 +45,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-05T18:53:53Z",
+  "generatedAt": "2026-01-05T21:47:43Z",
   "irCompanies": [
+    "Citigroup",
     "Citizens Financial",
     "Fiserv",
     "PNC Financial"

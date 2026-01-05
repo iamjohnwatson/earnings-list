@@ -38,9 +38,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.citigroup.com/global/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Wells Fargo",
@@ -123,16 +121,16 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-05T18:54:02Z",
+  "generatedAt": "2026-01-05T21:47:51Z",
   "irCompanies": [
     "Bank of America",
-    "Citigroup",
     "JPMorgan",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
     "Bank of New York Mellon",
     "BlackRock Inc",
+    "Citigroup",
     "Goldman Sachs",
     "M&T Bank Corp",
     "Morgan Stanley",
