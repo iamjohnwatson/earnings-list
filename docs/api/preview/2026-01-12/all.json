@@ -33,6 +33,18 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-01-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Bank of New York Mellon",
       "symbol": "BK",
       "date": "2026-01-13",
@@ -134,12 +146,10 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-01-16",
-      "bmo_amc": "9:00 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EST",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations",
+      "source": "aggregator",
       "sector": "Finance"
     },
     {
@@ -161,18 +171,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
-    },
-    {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2026-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
     }
   ],
   "count": 16,
@@ -181,14 +179,13 @@
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2026-01-05T15:51:07Z",
+  "generatedAt": "2026-01-05T18:54:02Z",
   "irCompanies": [
     "Bank of America",
     "Boston Scientific Corp",
     "Citigroup",
     "HPE",
     "JPMorgan",
-    "PNC Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
@@ -199,6 +196,7 @@
     "J B Hunt Transport Services Inc",
     "M&T Bank Corp",
     "Morgan Stanley",
+    "PNC Financial",
     "Regions Financial",
     "State Street Corp"
   ],
