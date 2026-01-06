@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2026-01-06",
+      "bmo_amc": "9:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EST",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Sysco Corp",
       "symbol": "SYY",
       "date": "2026-01-06",
@@ -23,12 +34,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-06T15:48:28Z",
+  "generatedAt": "2026-01-06T18:53:04Z",
   "irCompanies": [
     "Constellation Brands",
+    "Norwegian Cruise Line",
     "Sysco Corp"
   ],
   "fallbackCompanies": [],
