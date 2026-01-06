@@ -100,15 +100,6 @@
       "source": "aggregator"
     },
     {
-      "company": "ADP",
-      "symbol": "ADP",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Arm Holdings",
       "symbol": "ARM",
       "date": "2026-02-04",
@@ -244,15 +235,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Tesla",
-      "symbol": "TSLA",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Uber",
       "symbol": "UBER",
       "date": "2026-02-04",
@@ -292,8 +274,8 @@
       "company": "Fortinet",
       "symbol": "FTNT",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -346,19 +328,18 @@
       "company": "VeriSign",
       "symbol": "VRSN",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 39,
+  "count": 37,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2026-01-06T09:54:03Z",
+  "generatedAt": "2026-01-06T12:58:05Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "ADP",
     "Alphabet Inc",
     "Amazon",
     "Arm Holdings",
@@ -392,7 +373,6 @@
     "Snap",
     "Take-Two Interactive",
     "Teradyne",
-    "Tesla",
     "Uber",
     "VeriSign",
     "Western Digital",

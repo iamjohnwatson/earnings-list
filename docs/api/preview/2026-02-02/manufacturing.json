@@ -172,15 +172,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Norfolk Southern Corp",
-      "symbol": "NSC",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Old Dominion Freight Line Inc",
       "symbol": "ODFL",
       "date": "2026-02-04",
@@ -220,15 +211,6 @@
       "company": "United Rentals Inc",
       "symbol": "URI",
       "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Aptiv PLC",
-      "symbol": "APTV",
-      "date": "2026-02-05",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
@@ -316,14 +298,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 35,
+  "count": 33,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-06T09:54:03Z",
+  "generatedAt": "2026-01-06T12:58:04Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AMETEK Inc",
-    "Aptiv PLC",
     "Borgwarner Inc",
     "CH Robinson Worldwide Inc",
     "Camden Property Trust",
@@ -345,7 +326,6 @@
     "Johnson Controls International PLC",
     "Las Vegas Sands Corp",
     "Mid-America Apartment Communities Inc",
-    "Norfolk Southern Corp",
     "Old Dominion Freight Line Inc",
     "Otis Worldwide Corp",
     "Peloton",

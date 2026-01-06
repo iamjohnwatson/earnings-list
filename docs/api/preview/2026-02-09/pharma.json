@@ -64,15 +64,6 @@
       "source": "aggregator"
     },
     {
-      "company": "GE HealthCare Technologies Inc",
-      "symbol": "GEHC",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "West Pharmaceutical Services Inc",
       "symbol": "WST",
       "date": "2026-02-12",
@@ -91,16 +82,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-06T09:54:13Z",
+  "generatedAt": "2026-01-06T12:58:13Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "CVS Health Corp",
     "DaVita Inc",
     "Edwards Lifesciences Corp",
-    "GE HealthCare Technologies Inc",
     "Gilead",
     "Tenet Healthcare",
     "Vertex Pharmaceuticals Inc",

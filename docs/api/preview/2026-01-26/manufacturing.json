@@ -210,6 +210,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Norfolk Southern Corp",
+      "symbol": "NSC",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Parker-Hannifin Corp",
       "symbol": "PH",
       "date": "2026-01-29",
@@ -266,10 +275,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-06T09:53:54Z",
+  "generatedAt": "2026-01-06T12:57:56Z",
   "irCompanies": [
     "Southwest Airlines Co",
     "UPS"
@@ -288,6 +297,7 @@
     "L3Harris Technologies Inc",
     "Lockheed Martin",
     "NVR Inc",
+    "Norfolk Southern Corp",
     "Northrop Grumman Corp",
     "Nucor Corp",
     "Packaging Corp of America",
