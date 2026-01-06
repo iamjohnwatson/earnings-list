@@ -1,10 +1,24 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-01-06",
+      "bmo_amc": "3:04 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "3:04 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-06T06:55:58Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-06T09:53:26Z",
+  "irCompanies": [
+    "Merck"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-01-05",
