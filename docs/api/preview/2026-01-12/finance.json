@@ -38,7 +38,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Wells Fargo",
@@ -91,10 +93,12 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-01-16",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:00 AM EST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00 am EST",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Regions Financial",
@@ -121,20 +125,20 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-05T21:47:51Z",
+  "generatedAt": "2026-01-06T01:28:33Z",
   "irCompanies": [
     "Bank of America",
+    "Citigroup",
     "JPMorgan",
+    "PNC Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
     "Bank of New York Mellon",
     "BlackRock Inc",
-    "Citigroup",
     "Goldman Sachs",
     "M&T Bank Corp",
     "Morgan Stanley",
-    "PNC Financial",
     "Regions Financial",
     "State Street Corp"
   ],

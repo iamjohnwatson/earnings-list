@@ -1,42 +1,6 @@
 {
   "records": [
     {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-01-07",
-      "bmo_amc": "4:30 PM EST",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "4:30 PM EST",
-      "ir_source_url": "https://ir.cbrands.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Equinix",
-      "symbol": "EQIX",
-      "date": "2026-01-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.equinix.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-01-05",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-01-07",
@@ -49,83 +13,28 @@
       "sector": "TMT"
     },
     {
-      "company": "Citigroup",
-      "symbol": "C",
-      "date": "2026-01-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
+      "company": "Constellation Brands",
+      "symbol": "STZ",
+      "date": "2026-01-07",
+      "bmo_amc": "4:30 PM EST",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "ir_time_label": "4:30 PM EST",
+      "ir_source_url": "https://ir.cbrands.com/",
       "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2026-01-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Fiserv",
-      "symbol": "FI",
-      "date": "2026-01-05",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM EST",
-      "ir_source_url": "https://investors.fiserv.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "PNC Financial",
-      "symbol": "PNC",
-      "date": "2026-01-05",
-      "bmo_amc": "9:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EST",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-01-05",
-      "bmo_amc": "3:58 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:58 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "Consumer"
     }
   ],
-  "count": 9,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 566,
-  "generatedAt": "2026-01-05T21:47:43Z",
+  "generatedAt": "2026-01-06T01:28:25Z",
   "irCompanies": [
     "Applied Digital",
-    "Citigroup",
-    "Citizens Financial",
-    "Constellation Brands",
-    "Equinix",
-    "Fiserv",
-    "Merck",
-    "PNC Financial",
-    "Take-Two Interactive"
+    "Constellation Brands"
   ],
   "fallbackCompanies": [],
   "week": {

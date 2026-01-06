@@ -94,10 +94,12 @@
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2026-02-11",
-      "bmo_amc": "TBD",
+      "bmo_amc": "5:30 PM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "5:30 PM ET",
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Paycom",
@@ -229,15 +231,16 @@
   "count": 25,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2026-01-05T21:48:24Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-06T01:29:06Z",
+  "irCompanies": [
+    "Equinix"
+  ],
   "fallbackCompanies": [
     "Applied Materials",
     "Cisco Systems",
     "CoreWeave",
     "Datadog",
     "Digital Realty",
-    "Equinix",
     "Freshworks",
     "GlobalFoundries",
     "GoDaddy",

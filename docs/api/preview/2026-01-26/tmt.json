@@ -114,10 +114,12 @@
       "company": "Rogers Communications",
       "symbol": "RCI",
       "date": "2026-01-29",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:00 A.M. ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 a.m. ET",
+      "ir_source_url": "https://about.rogers.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Roper Technologies",
@@ -161,9 +163,10 @@
   "count": 17,
   "missingPublic": [],
   "tickerCount": 140,
-  "generatedAt": "2026-01-05T21:48:07Z",
+  "generatedAt": "2026-01-06T01:28:50Z",
   "irCompanies": [
     "AT&T",
+    "Rogers Communications",
     "Verizon"
   ],
   "fallbackCompanies": [
@@ -179,7 +182,6 @@
     "KLA Corp",
     "Mobileye",
     "Qorvo",
-    "Rogers Communications",
     "Roper Technologies",
     "SiriusXM"
   ],
