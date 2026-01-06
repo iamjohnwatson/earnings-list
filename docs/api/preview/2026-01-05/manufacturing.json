@@ -1,10 +1,24 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-01-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-06T12:57:31Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-06T15:48:29Z",
+  "irCompanies": [
+    "Lennar Corp"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-01-05",

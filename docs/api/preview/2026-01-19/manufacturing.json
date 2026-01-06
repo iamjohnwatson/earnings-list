@@ -41,6 +41,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "TE Connectivity Ltd",
+      "symbol": "TEL",
+      "date": "2026-01-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "American Airlines Group Inc",
       "symbol": "AAL",
       "date": "2026-01-22",
@@ -68,10 +77,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-06T12:57:48Z",
+  "generatedAt": "2026-01-06T15:48:44Z",
   "irCompanies": [
     "DR Horton Inc",
     "Prologis Inc"
@@ -81,7 +90,8 @@
     "American Airlines Group Inc",
     "CSX Corp",
     "Fastenal Co",
-    "GE Aerospace"
+    "GE Aerospace",
+    "TE Connectivity Ltd"
   ],
   "week": {
     "id": "2026-01-19",

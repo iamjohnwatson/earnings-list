@@ -1,30 +1,6 @@
 {
   "records": [
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-01-06",
-      "bmo_amc": "5:17 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "5:17 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Constellation Brands",
-      "symbol": "STZ",
-      "date": "2026-01-07",
-      "bmo_amc": "4:30 PM EST",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "4:30 PM EST",
-      "ir_source_url": "https://ir.cbrands.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2026-01-06",
@@ -33,6 +9,30 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Marvell",
+      "symbol": "MRVL",
+      "date": "2026-01-06",
+      "bmo_amc": "9:00 AM PST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am PST",
+      "ir_source_url": "https://investor.marvell.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-01-06",
+      "bmo_amc": "10:27 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:27 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
     },
@@ -47,20 +47,124 @@
       "ir_source_url": "https://ir.applieddigital.com/",
       "source": "investor_relations",
       "sector": "TMT"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-01-06",
+      "bmo_amc": "7:42 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:42 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Sysco Corp",
+      "symbol": "SYY",
+      "date": "2026-01-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.sysco.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Constellation Brands",
+      "symbol": "STZ",
+      "date": "2026-01-07",
+      "bmo_amc": "4:30 PM EST",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 PM EST",
+      "ir_source_url": "https://ir.cbrands.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Apollo",
+      "symbol": "APO",
+      "date": "2026-01-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-01-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2026-01-06",
+      "bmo_amc": "9:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EST",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Synchrony Financial",
+      "symbol": "SYF",
+      "date": "2026-01-06",
+      "bmo_amc": "8:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EST",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-01-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 4,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
-  "tickerCount": 566,
-  "generatedAt": "2026-01-06T12:57:32Z",
+  "tickerCount": 568,
+  "generatedAt": "2026-01-06T15:48:29Z",
   "irCompanies": [
+    "Apollo",
     "Applied Digital",
     "Constellation Brands",
+    "Huntington Bancshares",
+    "Lennar Corp",
     "Live Nation Entertainment",
-    "Merck"
+    "Marvell",
+    "Merck",
+    "PNC Financial",
+    "Synchrony Financial",
+    "Sysco Corp",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [],
   "week": {

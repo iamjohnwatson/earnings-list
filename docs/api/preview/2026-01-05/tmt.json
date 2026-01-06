@@ -12,6 +12,28 @@
       "source": "investor_relations"
     },
     {
+      "company": "Marvell",
+      "symbol": "MRVL",
+      "date": "2026-01-06",
+      "bmo_amc": "9:00 AM PST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am PST",
+      "ir_source_url": "https://investor.marvell.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-01-06",
+      "bmo_amc": "10:27 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:27 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-01-07",
@@ -23,13 +45,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 4,
   "missingPublic": [],
-  "tickerCount": 140,
-  "generatedAt": "2026-01-06T12:57:32Z",
+  "tickerCount": 142,
+  "generatedAt": "2026-01-06T15:48:27Z",
   "irCompanies": [
     "Applied Digital",
-    "Live Nation Entertainment"
+    "Live Nation Entertainment",
+    "Marvell",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [],
   "week": {

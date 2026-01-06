@@ -37,6 +37,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Analog Devices",
       "symbol": "ADI",
       "date": "2026-02-18",
@@ -118,10 +127,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [],
-  "tickerCount": 140,
-  "generatedAt": "2026-01-06T12:58:21Z",
+  "tickerCount": 142,
+  "generatedAt": "2026-01-06T15:49:19Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -135,6 +144,7 @@
     "Garmin",
     "Grab",
     "Live Nation Entertainment",
+    "Qnity",
     "Rivian",
     "Trimble"
   ],

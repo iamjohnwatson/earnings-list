@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Sysco Corp",
+      "symbol": "SYY",
+      "date": "2026-01-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.sysco.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Constellation Brands",
       "symbol": "STZ",
       "date": "2026-01-07",
@@ -12,12 +23,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-06T12:57:32Z",
+  "generatedAt": "2026-01-06T15:48:28Z",
   "irCompanies": [
-    "Constellation Brands"
+    "Constellation Brands",
+    "Sysco Corp"
   ],
   "fallbackCompanies": [],
   "week": {

@@ -82,6 +82,15 @@
       "source": "aggregator"
     },
     {
+      "company": "AppLovin",
+      "symbol": "APP",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Cisco Systems",
       "symbol": "CSCO",
       "date": "2026-02-11",
@@ -228,14 +237,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 25,
+  "count": 26,
   "missingPublic": [],
-  "tickerCount": 140,
-  "generatedAt": "2026-01-06T12:58:13Z",
+  "tickerCount": 142,
+  "generatedAt": "2026-01-06T15:49:10Z",
   "irCompanies": [
     "Equinix"
   ],
   "fallbackCompanies": [
+    "AppLovin",
     "Applied Materials",
     "Cisco Systems",
     "CoreWeave",

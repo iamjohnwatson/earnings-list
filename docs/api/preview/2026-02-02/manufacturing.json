@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Aptiv PLC",
+      "symbol": "APTV",
+      "date": "2026-02-02",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Equity Residential",
       "symbol": "EQR",
       "date": "2026-02-02",
@@ -298,13 +307,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 33,
+  "count": 34,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-06T12:58:04Z",
+  "generatedAt": "2026-01-06T15:49:02Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AMETEK Inc",
+    "Aptiv PLC",
     "Borgwarner Inc",
     "CH Robinson Worldwide Inc",
     "Camden Property Trust",

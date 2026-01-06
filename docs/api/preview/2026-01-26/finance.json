@@ -4,8 +4,8 @@
       "company": "Brown & Brown",
       "symbol": "BRO",
       "date": "2026-01-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -31,8 +31,8 @@
       "company": "Invesco",
       "symbol": "IVZ",
       "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -151,7 +151,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-06T12:57:56Z",
+  "generatedAt": "2026-01-06T15:48:53Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "American Express",

@@ -1,13 +1,63 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Apollo",
+      "symbol": "APO",
+      "date": "2026-01-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-01-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2026-01-06",
+      "bmo_amc": "9:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EST",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Synchrony Financial",
+      "symbol": "SYF",
+      "date": "2026-01-06",
+      "bmo_amc": "8:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM EST",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 4,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-06T12:57:32Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-06T15:48:29Z",
+  "irCompanies": [
+    "Apollo",
+    "Huntington Bancshares",
+    "PNC Financial",
+    "Synchrony Financial"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-01-05",

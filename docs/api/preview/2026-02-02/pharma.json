@@ -49,17 +49,8 @@
       "company": "Pfizer Inc",
       "symbol": "PFE",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Regeneron Pharmaceuticals",
-      "symbol": "REGN",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -219,10 +210,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 24,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-06T12:58:05Z",
+  "generatedAt": "2026-01-06T15:49:02Z",
   "irCompanies": [
     "Centene Corp"
   ],
@@ -247,7 +238,6 @@
     "Merck",
     "Molina Healthcare Inc",
     "Pfizer Inc",
-    "Regeneron Pharmaceuticals",
     "STERIS plc",
     "Zimmer Biomet Holdings Inc"
   ],

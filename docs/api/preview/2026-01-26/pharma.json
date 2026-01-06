@@ -86,6 +86,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Regeneron Pharmaceuticals",
+      "symbol": "REGN",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Revvity",
       "symbol": "RVTY",
       "date": "2026-01-30",
@@ -95,10 +104,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-06T12:57:56Z",
+  "generatedAt": "2026-01-06T15:48:53Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Danaher Corp"
@@ -109,6 +118,7 @@
     "Elevance Health Inc",
     "HCA Healthcare Inc",
     "Quest Diagnostics Inc",
+    "Regeneron Pharmaceuticals",
     "Revvity",
     "Thermo Fisher Scientific Inc",
     "UnitedHealth Group"
