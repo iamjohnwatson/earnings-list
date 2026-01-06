@@ -316,6 +316,17 @@
       "source": "aggregator"
     },
     {
+      "company": "SiriusXM",
+      "symbol": "SIRI",
+      "date": "2026-02-05",
+      "bmo_amc": "8:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM ET",
+      "ir_source_url": "https://investor.siriusxm.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-02-05",
@@ -334,11 +345,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 37,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-06T18:53:37Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-06T21:48:57Z",
+  "irCompanies": [
+    "SiriusXM"
+  ],
   "fallbackCompanies": [
     "Alphabet Inc",
     "Amazon",

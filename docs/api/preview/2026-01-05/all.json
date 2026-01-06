@@ -1,66 +1,6 @@
 {
   "records": [
     {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-01-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2026-01-06",
-      "bmo_amc": "9:00 AM PST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 am PST",
-      "ir_source_url": "https://investor.marvell.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-01-06",
-      "bmo_amc": "1:31 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "1:31 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-01-07",
-      "bmo_amc": "5:00 P.M.",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:00 p.m. ",
-      "ir_source_url": "https://ir.applieddigital.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-01-06",
-      "bmo_amc": "12:58 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "12:58 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "Lennar Corp",
       "symbol": "LEN",
       "date": "2026-01-06",
@@ -73,16 +13,16 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
+      "company": "Merck",
+      "symbol": "MRK",
       "date": "2026-01-06",
-      "bmo_amc": "9:00 AM EST",
+      "bmo_amc": "11:12 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EST",
-      "ir_source_url": "https://www.nclhltd.com/investors",
+      "ir_time_label": "11:12 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
       "company": "Sysco Corp",
@@ -155,15 +95,63 @@
       "ir_source_url": "https://investors.synchrony.com/",
       "source": "investor_relations",
       "sector": "Finance"
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2026-01-06",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Marvell",
+      "symbol": "MRVL",
+      "date": "2026-01-06",
+      "bmo_amc": "9:00 AM PST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am PST",
+      "ir_source_url": "https://investor.marvell.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-01-06",
+      "bmo_amc": "4:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-01-07",
+      "bmo_amc": "5:00 P.M.",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:00 p.m. ",
+      "ir_source_url": "https://ir.applieddigital.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
-  "count": 13,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-06T18:53:04Z",
+  "generatedAt": "2026-01-06T21:48:22Z",
   "irCompanies": [
     "Apollo",
     "Applied Digital",
@@ -173,7 +161,6 @@
     "Live Nation Entertainment",
     "Marvell",
     "Merck",
-    "Norwegian Cruise Line",
     "PNC Financial",
     "Synchrony Financial",
     "Sysco Corp",
