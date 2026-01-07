@@ -136,6 +136,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Cardinal Health Inc",
+      "symbol": "CAH",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Cigna",
       "symbol": "CI",
       "date": "2026-02-05",
@@ -210,10 +219,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 23,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-07T09:55:41Z",
+  "generatedAt": "2026-01-07T12:58:50Z",
   "irCompanies": [
     "Centene Corp"
   ],
@@ -224,6 +233,7 @@
     "Bio-Techne Corp",
     "Boston Scientific Corp",
     "Bristol Myers-Squibb",
+    "Cardinal Health Inc",
     "Cencora Inc",
     "Centene Corp",
     "Cigna",

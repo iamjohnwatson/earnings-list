@@ -109,15 +109,6 @@
       "source": "aggregator"
     },
     {
-      "company": "MSCI Inc",
-      "symbol": "MSCI",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "MetLife",
       "symbol": "MET",
       "date": "2026-02-04",
@@ -181,13 +172,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-07T09:55:42Z",
+  "generatedAt": "2026-01-07T12:58:48Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
@@ -202,7 +193,6 @@
     "Jack Henry and Associates",
     "KKR",
     "Lincoln National Corporation",
-    "MSCI Inc",
     "MetLife",
     "Nasdaq",
     "PayPal Holdings",

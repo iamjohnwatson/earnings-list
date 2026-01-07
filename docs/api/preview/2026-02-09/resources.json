@@ -13,8 +13,8 @@
       "company": "Ecolab",
       "symbol": "ECL",
       "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -48,15 +48,6 @@
     {
       "company": "Dominion Energy Inc",
       "symbol": "D",
-      "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Exelon Corp",
-      "symbol": "EXC",
       "date": "2026-02-11",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -118,6 +109,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Exelon Corp",
+      "symbol": "EXC",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "PBF Energy",
       "symbol": "PBF",
       "date": "2026-02-12",
@@ -166,7 +166,7 @@
   "count": 18,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-07T09:55:50Z",
+  "generatedAt": "2026-01-07T12:58:59Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",

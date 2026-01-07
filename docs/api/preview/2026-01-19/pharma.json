@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
+      "date": "2026-01-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Intuitive Surgical Inc",
       "symbol": "ISRG",
       "date": "2026-01-22",
@@ -19,12 +28,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-07T09:55:23Z",
+  "generatedAt": "2026-01-07T12:58:30Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Abbott Laboratories",
     "Intuitive Surgical Inc",
     "Johnson & Johnson"
   ],
