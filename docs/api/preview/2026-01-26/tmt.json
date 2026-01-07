@@ -75,6 +75,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Microsoft",
+      "symbol": "MSFT",
+      "date": "2026-01-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.microsoft.com/en-us/investor/default",
+      "source": "investor_relations"
+    },
+    {
       "company": "Tesla",
       "symbol": "TSLA",
       "date": "2026-01-28",
@@ -187,12 +198,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-07T18:53:45Z",
+  "generatedAt": "2026-01-07T21:47:42Z",
   "irCompanies": [
     "AT&T",
+    "Microsoft",
     "Rogers Communications",
     "Verizon"
   ],

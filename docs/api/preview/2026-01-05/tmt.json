@@ -12,6 +12,28 @@
       "source": "investor_relations"
     },
     {
+      "company": "Intel",
+      "symbol": "INTC",
+      "date": "2026-01-07",
+      "bmo_amc": "4:30 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 PM EST",
+      "ir_source_url": "https://www.intc.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Lam Research",
+      "symbol": "LRCX",
+      "date": "2026-01-07",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.lamresearch.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2026-01-07",
@@ -37,20 +59,22 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-01-07",
-      "bmo_amc": "1:32 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:32 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     }
   ],
-  "count": 4,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-07T18:53:17Z",
+  "generatedAt": "2026-01-07T21:47:13Z",
   "irCompanies": [
     "Applied Digital",
+    "Intel",
+    "Lam Research",
     "Live Nation Entertainment",
     "Micron",
     "Take-Two Interactive"
