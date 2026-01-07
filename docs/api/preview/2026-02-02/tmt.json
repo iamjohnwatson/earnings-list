@@ -103,12 +103,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-02-03",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Arm Holdings",
@@ -359,10 +357,9 @@
   "count": 39,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-07T12:58:50Z",
+  "generatedAt": "2026-01-07T15:50:37Z",
   "irCompanies": [
-    "SiriusXM",
-    "Take-Two Interactive"
+    "SiriusXM"
   ],
   "fallbackCompanies": [
     "Alphabet Inc",
@@ -397,6 +394,7 @@
     "ServiceNow",
     "Skyworks Solutions",
     "Snap",
+    "Take-Two Interactive",
     "Teradyne",
     "Uber",
     "VeriSign",

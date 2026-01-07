@@ -41,11 +41,20 @@
       "symbol": "SYF",
       "date": "2026-01-27",
       "bmo_amc": "8:00 AM ET",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:00 AM ET",
       "ir_source_url": "https://investors.synchrony.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "MSCI Inc",
+      "symbol": "MSCI",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Raymond James",
@@ -147,13 +156,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-07T12:58:40Z",
+  "generatedAt": "2026-01-07T15:50:28Z",
   "irCompanies": [
     "Synchrony Financial"
   ],
@@ -168,6 +177,7 @@
     "Hartford Financial Services",
     "Invesco",
     "Lazard",
+    "MSCI Inc",
     "Marsh McLennan",
     "Mastercard",
     "Raymond James",

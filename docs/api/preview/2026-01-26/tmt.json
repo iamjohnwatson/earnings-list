@@ -19,6 +19,24 @@
       "source": "aggregator"
     },
     {
+      "company": "Roper Technologies",
+      "symbol": "ROP",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Texas Instruments",
+      "symbol": "TXN",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "ADP",
       "symbol": "ADP",
       "date": "2026-01-28",
@@ -133,20 +151,11 @@
       "symbol": "RCI",
       "date": "2026-01-29",
       "bmo_amc": "8:00 A.M. ET",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:00 a.m. ET",
       "ir_source_url": "https://about.rogers.com/investor-relations/",
       "source": "investor_relations"
-    },
-    {
-      "company": "Roper Technologies",
-      "symbol": "ROP",
-      "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     },
     {
       "company": "SiriusXM",
@@ -178,10 +187,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-07T12:58:40Z",
+  "generatedAt": "2026-01-07T15:50:28Z",
   "irCompanies": [
     "AT&T",
     "Rogers Communications",
@@ -203,7 +212,8 @@
     "Qorvo",
     "Roper Technologies",
     "SiriusXM",
-    "Tesla"
+    "Tesla",
+    "Texas Instruments"
   ],
   "week": {
     "id": "2026-01-26",
