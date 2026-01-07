@@ -93,10 +93,12 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-01-16",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:00 AM EST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00 am EST",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Regions Financial",
@@ -123,11 +125,12 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-06T21:48:31Z",
+  "generatedAt": "2026-01-07T01:28:51Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "JPMorgan",
+    "PNC Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
@@ -136,7 +139,6 @@
     "Goldman Sachs",
     "M&T Bank Corp",
     "Morgan Stanley",
-    "PNC Financial",
     "Regions Financial",
     "State Street Corp"
   ],

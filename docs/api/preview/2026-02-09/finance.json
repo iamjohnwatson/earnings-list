@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Apollo",
+      "symbol": "APO",
+      "date": "2026-02-09",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://ir.apollo.com?source=redirect",
+      "source": "investor_relations"
+    },
+    {
       "company": "Arch Capital Group",
       "symbol": "ACGL",
       "date": "2026-02-09",
@@ -118,14 +129,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-06T21:49:05Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-07T01:29:29Z",
+  "irCompanies": [
+    "Apollo"
+  ],
   "fallbackCompanies": [
     "Arch Capital Group",
     "Assurant Inc",

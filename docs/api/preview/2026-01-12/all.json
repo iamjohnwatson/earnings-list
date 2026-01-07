@@ -1,36 +1,40 @@
 {
   "records": [
     {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-01-16",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-01-12",
+      "bmo_amc": "10:30AM PST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:30am PST",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-01-12",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
-      "sector": "TMT"
+      "sector": "Pharma"
     },
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
       "date": "2026-01-13",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
-      "date": "2026-01-15",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     },
     {
       "company": "Bank of New York Mellon",
@@ -134,10 +138,12 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-01-16",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:00 AM EST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "9:00 am EST",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations",
       "sector": "Finance"
     },
     {
@@ -161,37 +167,45 @@
       "sector": "Finance"
     },
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-01-12",
-      "bmo_amc": "10:30AM PST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:30am PST",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2026-01-13",
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-01-16",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
+      "ir_source_url": "https://investors.hpe.com/",
       "source": "investor_relations",
-      "sector": "Pharma"
+      "sector": "TMT"
+    },
+    {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-01-13",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-06T21:48:31Z",
+  "generatedAt": "2026-01-07T01:28:52Z",
   "irCompanies": [
     "Bank of America",
     "Boston Scientific Corp",
@@ -199,6 +213,8 @@
     "HPE",
     "JPMorgan",
     "Medtronic PLC",
+    "Merck",
+    "PNC Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
@@ -209,7 +225,6 @@
     "J B Hunt Transport Services Inc",
     "M&T Bank Corp",
     "Morgan Stanley",
-    "PNC Financial",
     "Regions Financial",
     "State Street Corp"
   ],

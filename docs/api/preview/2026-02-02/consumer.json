@@ -31,10 +31,12 @@
       "company": "Ball Corp",
       "symbol": "BALL",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
+      "bmo_amc": "4:30 PM EST",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 pm EST",
+      "ir_source_url": "https://investors.ball.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Chipotle Mexican Grill",
@@ -161,14 +163,14 @@
   "count": 17,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-06T21:48:57Z",
+  "generatedAt": "2026-01-07T01:29:20Z",
   "irCompanies": [
+    "Ball Corp",
     "Chipotle Mexican Grill",
     "Estee Lauder"
   ],
   "fallbackCompanies": [
     "Amcor PLC",
-    "Ball Corp",
     "Clorox Co",
     "Hershey Co",
     "Mattel",

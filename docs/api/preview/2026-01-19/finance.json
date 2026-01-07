@@ -89,10 +89,12 @@
       "company": "Huntington Bancshares",
       "symbol": "HBAN",
       "date": "2026-01-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:00 AM EST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00 am EST",
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Northern Trust",
@@ -121,17 +123,17 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-06T21:48:39Z",
+  "generatedAt": "2026-01-07T01:29:01Z",
   "irCompanies": [
     "Citizens Financial",
     "Comerica Inc",
+    "Huntington Bancshares",
     "Truist Financial"
   ],
   "fallbackCompanies": [
     "Capital One Financial",
     "Charles Schwab",
     "Fifth Third Bancorp",
-    "Huntington Bancshares",
     "Interactive Brokers",
     "KeyCorp",
     "Northern Trust",

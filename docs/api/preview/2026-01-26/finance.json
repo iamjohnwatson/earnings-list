@@ -40,10 +40,12 @@
       "company": "Synchrony Financial",
       "symbol": "SYF",
       "date": "2026-01-27",
-      "bmo_amc": "TBD",
+      "bmo_amc": "8:00 AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 AM ET",
+      "ir_source_url": "https://investors.synchrony.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Raymond James",
@@ -151,8 +153,10 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-06T21:48:48Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-07T01:29:11Z",
+  "irCompanies": [
+    "Synchrony Financial"
+  ],
   "fallbackCompanies": [
     "American Express",
     "Aon",
@@ -167,7 +171,6 @@
     "Marsh McLennan",
     "Mastercard",
     "Raymond James",
-    "Synchrony Financial",
     "Visa",
     "W. R. Berkley Corp"
   ],
