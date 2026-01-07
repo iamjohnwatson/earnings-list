@@ -1,16 +1,16 @@
 {
   "records": [
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
+      "company": "Merck",
+      "symbol": "MRK",
       "date": "2026-01-07",
-      "bmo_amc": "5:00 P.M.",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "5:00 p.m. ",
-      "ir_source_url": "https://ir.applieddigital.com/",
+      "bmo_amc": "3:43 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "3:43 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
-      "sector": "TMT"
+      "sector": "Pharma"
     },
     {
       "company": "Constellation Brands",
@@ -23,18 +23,31 @@
       "ir_source_url": "https://ir.cbrands.com/",
       "source": "investor_relations",
       "sector": "Consumer"
+    },
+    {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-01-07",
+      "bmo_amc": "5:00 P.M.",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "ir_time_label": "5:00 p.m. ",
+      "ir_source_url": "https://ir.applieddigital.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-07T06:54:26Z",
+  "generatedAt": "2026-01-07T09:55:05Z",
   "irCompanies": [
     "Applied Digital",
-    "Constellation Brands"
+    "Constellation Brands",
+    "Merck"
   ],
   "fallbackCompanies": [],
   "week": {
