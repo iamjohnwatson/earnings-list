@@ -58,10 +58,12 @@
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:40 AM",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:40 AM ",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Truist Financial",
@@ -121,8 +123,9 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-07T21:47:33Z",
+  "generatedAt": "2026-01-08T01:28:51Z",
   "irCompanies": [
+    "Citizens Financial",
     "Comerica Inc",
     "Huntington Bancshares",
     "Truist Financial"
@@ -130,7 +133,6 @@
   "fallbackCompanies": [
     "Capital One Financial",
     "Charles Schwab",
-    "Citizens Financial",
     "Fifth Third Bancorp",
     "Interactive Brokers",
     "KeyCorp",

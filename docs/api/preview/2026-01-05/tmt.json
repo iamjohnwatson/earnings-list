@@ -4,82 +4,20 @@
       "company": "Applied Digital",
       "symbol": "APLD",
       "date": "2026-01-07",
-      "bmo_amc": "5:00 P.M.",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "5:00 p.m. ",
-      "ir_source_url": "https://ir.applieddigital.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Intel",
-      "symbol": "INTC",
-      "date": "2026-01-07",
-      "bmo_amc": "4:30 PM EST",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 PM EST",
-      "ir_source_url": "https://www.intc.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Lam Research",
-      "symbol": "LRCX",
-      "date": "2026-01-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.lamresearch.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-01-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-01-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.micron.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-01-07",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-07T21:47:13Z",
-  "irCompanies": [
-    "Applied Digital",
-    "Intel",
-    "Lam Research",
-    "Live Nation Entertainment",
-    "Micron",
-    "Take-Two Interactive"
+  "generatedAt": "2026-01-08T01:28:32Z",
+  "irCompanies": [],
+  "fallbackCompanies": [
+    "Applied Digital"
   ],
-  "fallbackCompanies": [],
   "week": {
     "id": "2026-01-05",
     "start_date": "2026-01-05",

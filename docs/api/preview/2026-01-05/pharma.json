@@ -1,36 +1,10 @@
 {
-  "records": [
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-01-07",
-      "bmo_amc": "3:34 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "3:34 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Novavax",
-      "symbol": "NVAX",
-      "date": "2026-01-07",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.novavax.com/",
-      "source": "investor_relations"
-    }
-  ],
-  "count": 2,
+  "records": [],
+  "count": 0,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-07T21:47:13Z",
-  "irCompanies": [
-    "Merck",
-    "Novavax"
-  ],
+  "generatedAt": "2026-01-08T01:28:33Z",
+  "irCompanies": [],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-01-05",

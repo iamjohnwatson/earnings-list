@@ -127,6 +127,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Fortive Corp",
+      "symbol": "FTV",
+      "date": "2026-02-04",
+      "bmo_amc": "12:00 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:00 pm ET",
+      "ir_source_url": "https://investors.fortive.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "General Dynamics Corp",
       "symbol": "GD",
       "date": "2026-02-04",
@@ -184,10 +195,12 @@
       "company": "Old Dominion Freight Line Inc",
       "symbol": "ODFL",
       "date": "2026-02-04",
-      "bmo_amc": "TBD",
+      "bmo_amc": "10:00 AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://ir.odfl.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Otis Worldwide Corp",
@@ -307,11 +320,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 34,
+  "count": 35,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-07T21:47:52Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-08T01:29:09Z",
+  "irCompanies": [
+    "Fortive Corp",
+    "Old Dominion Freight Line Inc"
+  ],
   "fallbackCompanies": [
     "AMETEK Inc",
     "Aptiv PLC",
@@ -336,7 +352,6 @@
     "Johnson Controls International PLC",
     "Las Vegas Sands Corp",
     "Mid-America Apartment Communities Inc",
-    "Old Dominion Freight Line Inc",
     "Otis Worldwide Corp",
     "Peloton",
     "Pentair PLC",

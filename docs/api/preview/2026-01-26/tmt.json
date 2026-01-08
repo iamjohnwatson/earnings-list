@@ -75,6 +75,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Lam Research",
+      "symbol": "LRCX",
+      "date": "2026-01-28",
+      "bmo_amc": "2:00 P.M.",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00 p.m. ",
+      "ir_source_url": "https://investor.lamresearch.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Microsoft",
       "symbol": "MSFT",
       "date": "2026-01-28",
@@ -198,12 +209,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-07T21:47:42Z",
+  "generatedAt": "2026-01-08T01:29:01Z",
   "irCompanies": [
     "AT&T",
+    "Lam Research",
     "Microsoft",
     "Rogers Communications",
     "Verizon"
