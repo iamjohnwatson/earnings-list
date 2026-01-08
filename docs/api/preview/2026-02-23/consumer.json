@@ -16,7 +16,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Instacart",
@@ -103,12 +105,13 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-08T15:52:17Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-08T18:52:47Z",
+  "irCompanies": [
+    "Home Depot Inc"
+  ],
   "fallbackCompanies": [
     "Bath & Body Works",
     "Domino\u2019s Pizza Inc",
-    "Home Depot Inc",
     "Hormel Foods",
     "Instacart",
     "J.M. Smucker Co",
