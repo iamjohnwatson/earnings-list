@@ -46,15 +46,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Dominion Energy Inc",
-      "symbol": "D",
-      "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "NiSource",
       "symbol": "NI",
       "date": "2026-02-11",
@@ -163,17 +154,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-08T09:56:37Z",
+  "generatedAt": "2026-01-08T12:59:09Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
     "Albemarle",
     "Ameren",
     "DTE",
-    "Dominion Energy Inc",
     "DuPont",
     "Duke Energy",
     "Ecolab",

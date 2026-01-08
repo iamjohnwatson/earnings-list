@@ -1,23 +1,13 @@
 {
   "records": [
     {
-      "company": "Applied Digital",
-      "symbol": "APLD",
-      "date": "2026-01-07",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-01-08",
-      "bmo_amc": "1:38 AM ET",
+      "bmo_amc": "7:40 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:38 am ET",
+      "ir_time_label": "7:40 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
@@ -26,8 +16,8 @@
       "company": "Constellation Brands",
       "symbol": "STZ",
       "date": "2026-01-07",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
@@ -43,17 +33,40 @@
       "ir_source_url": "https://ir.cbrands.com/",
       "source": "investor_relations",
       "sector": "Consumer"
+    },
+    {
+      "company": "Applied Digital",
+      "symbol": "APLD",
+      "date": "2026-01-07",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "KLA Corp",
+      "symbol": "KLAC",
+      "date": "2026-01-08",
+      "bmo_amc": "2:00 PM PT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00 PM PT",
+      "ir_source_url": "https://ir.kla.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-08T09:55:59Z",
+  "generatedAt": "2026-01-08T12:58:21Z",
   "irCompanies": [
     "Constellation Brands",
+    "KLA Corp",
     "Merck"
   ],
   "fallbackCompanies": [

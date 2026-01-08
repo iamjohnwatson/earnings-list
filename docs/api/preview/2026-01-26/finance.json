@@ -13,8 +13,8 @@
       "company": "W. R. Berkley Corp",
       "symbol": "WRB",
       "date": "2026-01-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -120,6 +120,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Nasdaq",
+      "symbol": "NDAQ",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Visa",
       "symbol": "V",
       "date": "2026-01-29",
@@ -156,13 +165,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-08T09:56:22Z",
+  "generatedAt": "2026-01-08T12:58:50Z",
   "irCompanies": [
     "Synchrony Financial"
   ],
@@ -180,6 +189,7 @@
     "MSCI Inc",
     "Marsh McLennan",
     "Mastercard",
+    "Nasdaq",
     "Raymond James",
     "Visa",
     "W. R. Berkley Corp"

@@ -97,6 +97,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "ServiceNow",
+      "symbol": "NOW",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Tesla",
       "symbol": "TSLA",
       "date": "2026-01-28",
@@ -180,15 +189,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "SiriusXM",
-      "symbol": "SIRI",
-      "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Charter Communications",
       "symbol": "CHTR",
       "date": "2026-01-30",
@@ -212,7 +212,7 @@
   "count": 22,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-08T09:56:21Z",
+  "generatedAt": "2026-01-08T12:58:50Z",
   "irCompanies": [
     "AT&T",
     "Lam Research",
@@ -235,7 +235,7 @@
     "Mobileye",
     "Qorvo",
     "Roper Technologies",
-    "SiriusXM",
+    "ServiceNow",
     "Tesla",
     "Texas Instruments"
   ],

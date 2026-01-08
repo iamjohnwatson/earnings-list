@@ -31,8 +31,8 @@
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +40,8 @@
       "company": "Boston Properties",
       "symbol": "BXP",
       "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -120,6 +120,24 @@
       "source": "aggregator"
     },
     {
+      "company": "CH Robinson Worldwide Inc",
+      "symbol": "CHRW",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Otis Worldwide Corp",
+      "symbol": "OTIS",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Teledyne Technologies Inc",
       "symbol": "TDY",
       "date": "2026-01-28",
@@ -132,8 +150,8 @@
       "company": "Textron Inc",
       "symbol": "TXT",
       "date": "2026-01-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -150,8 +168,8 @@
       "company": "A O Smith Corp",
       "symbol": "AOS",
       "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -177,10 +195,12 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 A.M. ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 a.m. ET",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "L3Harris Technologies Inc",
@@ -266,11 +286,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 31,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-08T09:56:22Z",
+  "generatedAt": "2026-01-08T12:58:50Z",
   "irCompanies": [
+    "Honeywell",
     "Southwest Airlines Co",
     "UPS"
   ],
@@ -280,10 +301,10 @@
     "Alexandria Real Estate Equities Inc",
     "Boeing",
     "Boston Properties",
+    "CH Robinson Worldwide Inc",
     "Caterpillar",
     "Dover Corp",
     "Eaton Corporation PLC",
-    "Honeywell",
     "JetBlue",
     "L3Harris Technologies Inc",
     "Lockheed Martin",
@@ -291,6 +312,7 @@
     "Norfolk Southern Corp",
     "Northrop Grumman Corp",
     "Nucor Corp",
+    "Otis Worldwide Corp",
     "Packaging Corp of America",
     "Parker-Hannifin Corp",
     "Pultegroup Inc",

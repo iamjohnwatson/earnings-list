@@ -100,15 +100,6 @@
       "source": "aggregator"
     },
     {
-      "company": "CH Robinson Worldwide Inc",
-      "symbol": "CHRW",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Emerson Electric Co",
       "symbol": "EMR",
       "date": "2026-02-04",
@@ -196,20 +187,11 @@
       "symbol": "ODFL",
       "date": "2026-02-04",
       "bmo_amc": "10:00 AM ET",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "10:00 am ET",
       "ir_source_url": "https://ir.odfl.com/",
       "source": "investor_relations"
-    },
-    {
-      "company": "Otis Worldwide Corp",
-      "symbol": "OTIS",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     },
     {
       "company": "Stanley Black & Decker",
@@ -320,10 +302,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 35,
+  "count": 33,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-08T09:56:30Z",
+  "generatedAt": "2026-01-08T12:59:00Z",
   "irCompanies": [
     "Fortive Corp",
     "Old Dominion Freight Line Inc"
@@ -332,7 +314,6 @@
     "AMETEK Inc",
     "Aptiv PLC",
     "Borgwarner Inc",
-    "CH Robinson Worldwide Inc",
     "Camden Property Trust",
     "Emerson Electric Co",
     "Equity Residential",
@@ -352,7 +333,6 @@
     "Johnson Controls International PLC",
     "Las Vegas Sands Corp",
     "Mid-America Apartment Communities Inc",
-    "Otis Worldwide Corp",
     "Peloton",
     "Pentair PLC",
     "Snap-On Inc",

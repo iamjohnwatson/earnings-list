@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Everest",
-      "symbol": "EG",
-      "date": "2026-02-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Fair Issac Corp",
       "symbol": "FICO",
       "date": "2026-02-03",
@@ -21,15 +12,6 @@
     {
       "company": "Jack Henry and Associates",
       "symbol": "JKHY",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "KKR",
-      "symbol": "KKR",
       "date": "2026-02-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -49,8 +31,8 @@
       "company": "Prudential Financial",
       "symbol": "PRU",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -67,8 +49,8 @@
       "company": "Allstate Corp",
       "symbol": "ALL",
       "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -91,6 +73,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Everest",
+      "symbol": "EG",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Globe Life",
       "symbol": "GL",
       "date": "2026-02-04",
@@ -102,15 +93,6 @@
     {
       "company": "MetLife",
       "symbol": "MET",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Nasdaq",
-      "symbol": "NDAQ",
       "date": "2026-02-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -145,6 +127,15 @@
       "source": "aggregator"
     },
     {
+      "company": "KKR",
+      "symbol": "KKR",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Lincoln National Corporation",
       "symbol": "LNC",
       "date": "2026-02-05",
@@ -163,13 +154,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-08T09:56:30Z",
+  "generatedAt": "2026-01-08T12:58:59Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
@@ -184,7 +175,6 @@
     "KKR",
     "Lincoln National Corporation",
     "MetLife",
-    "Nasdaq",
     "PayPal Holdings",
     "Progressive Corporation",
     "Prudential Financial",

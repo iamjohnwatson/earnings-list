@@ -37,15 +37,6 @@
       "source": "aggregator"
     },
     {
-      "company": "GlobalFoundries",
-      "symbol": "GFS",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "IAC",
       "symbol": "IAC",
       "date": "2026-02-10",
@@ -109,6 +100,15 @@
       "ir_time_label": "5:30 PM ET",
       "ir_source_url": "https://investor.equinix.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "GlobalFoundries",
+      "symbol": "GFS",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Paycom",
@@ -231,7 +231,7 @@
   "count": 25,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-08T09:56:37Z",
+  "generatedAt": "2026-01-08T12:59:10Z",
   "irCompanies": [
     "Equinix"
   ],
