@@ -211,34 +211,14 @@
       "sector": "Resources"
     },
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Charles River Labs",
-      "symbol": "CRL",
+      "company": "Manulife",
+      "symbol": "MFC",
       "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Insulet",
-      "symbol": "PODD",
-      "date": "2026-02-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Finance"
     },
     {
       "company": "Arista Networks",
@@ -511,14 +491,34 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Manulife",
-      "symbol": "MFC",
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Charles River Labs",
+      "symbol": "CRL",
       "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Pharma"
+    },
+    {
+      "company": "Insulet",
+      "symbol": "PODD",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     }
   ],
   "count": 52,
@@ -527,7 +527,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-09T01:30:20Z",
+  "generatedAt": "2026-01-09T04:35:47Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",

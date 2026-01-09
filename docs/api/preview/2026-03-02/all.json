@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-03-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "NuScale Power",
-      "symbol": "SMR",
-      "date": "2026-03-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Autozone Inc",
       "symbol": "AZO",
       "date": "2026-03-03",
@@ -69,6 +49,26 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-03-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "NuScale Power",
+      "symbol": "SMR",
+      "date": "2026-03-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "Best Buy Co Inc",
@@ -127,7 +127,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-09T01:30:38Z",
+  "generatedAt": "2026-01-09T04:36:05Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Autozone Inc",
