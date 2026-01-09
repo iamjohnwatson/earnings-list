@@ -36,7 +36,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.cinfin.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Principal Financial Group",
@@ -135,15 +137,15 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-08T21:48:51Z",
+  "generatedAt": "2026-01-09T01:30:11Z",
   "irCompanies": [
-    "Apollo"
+    "Apollo",
+    "Cincinnati Financial"
   ],
   "fallbackCompanies": [
     "Arch Capital Group",
     "Assurant Inc",
     "Carlyle",
-    "Cincinnati Financial",
     "Coinbase",
     "Fidelity National Information Services",
     "Global Payments",

@@ -163,10 +163,12 @@
       "company": "KLA Corp",
       "symbol": "KLAC",
       "date": "2026-01-29",
-      "bmo_amc": "TBD",
+      "bmo_amc": "2:00 PM PST",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "2:00 pm PST",
+      "ir_source_url": "https://ir.kla.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Mobileye",
@@ -212,9 +214,10 @@
   "count": 22,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-08T21:48:32Z",
+  "generatedAt": "2026-01-09T01:29:53Z",
   "irCompanies": [
     "AT&T",
+    "KLA Corp",
     "Lam Research",
     "Microsoft",
     "Rogers Communications",
@@ -231,7 +234,6 @@
     "Gen Digital",
     "IBM",
     "Intel",
-    "KLA Corp",
     "Mobileye",
     "Qorvo",
     "Roper Technologies",

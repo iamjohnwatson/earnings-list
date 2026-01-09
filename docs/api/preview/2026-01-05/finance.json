@@ -1,39 +1,13 @@
 {
-  "records": [
-    {
-      "company": "Cincinnati Financial",
-      "symbol": "CINF",
-      "date": "2026-01-08",
-      "bmo_amc": "11:00AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00am",
-      "ir_source_url": "https://investors.cinfin.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Fiserv",
-      "symbol": "FI",
-      "date": "2026-01-08",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM EST",
-      "ir_source_url": "https://investors.fiserv.com/",
-      "source": "investor_relations"
-    }
-  ],
-  "count": 2,
+  "records": [],
+  "count": 0,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-08T21:48:06Z",
-  "irCompanies": [
-    "Cincinnati Financial",
-    "Fiserv"
-  ],
+  "generatedAt": "2026-01-09T01:29:26Z",
+  "irCompanies": [],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-01-05",
