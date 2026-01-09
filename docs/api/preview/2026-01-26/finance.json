@@ -141,10 +141,12 @@
       "company": "Aon",
       "symbol": "AON",
       "date": "2026-01-30",
-      "bmo_amc": "TBD",
+      "bmo_amc": "7:30AM",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "7:30am",
+      "ir_source_url": "https://ir.aon.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Franklin Templeton",
@@ -162,13 +164,13 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-09T18:53:52Z",
+  "generatedAt": "2026-01-09T21:48:22Z",
   "irCompanies": [
+    "Aon",
     "Synchrony Financial"
   ],
   "fallbackCompanies": [
     "American Express",
-    "Aon",
     "Arthur J. Gallagher",
     "Blackstone",
     "Brown & Brown",
