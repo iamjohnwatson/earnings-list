@@ -129,15 +129,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Corning",
-      "symbol": "GLW",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Dayforce",
       "symbol": "DAY",
       "date": "2026-02-04",
@@ -156,26 +147,8 @@
       "source": "aggregator"
     },
     {
-      "company": "Lam Research",
-      "symbol": "LRCX",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Meta",
       "symbol": "META",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Microsoft",
-      "symbol": "MSFT",
       "date": "2026-02-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -347,10 +320,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 38,
+  "count": 35,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-09T09:54:41Z",
+  "generatedAt": "2026-01-09T12:59:14Z",
   "irCompanies": [
     "SiriusXM",
     "Take-Two Interactive"
@@ -360,7 +333,6 @@
     "Amazon",
     "Arm Holdings",
     "Cognizant",
-    "Corning",
     "Dayforce",
     "Digital Realty",
     "Disney",
@@ -369,12 +341,10 @@
     "Fox Corp",
     "Gartner",
     "Kyndryl",
-    "Lam Research",
     "Lumen Tech",
     "Match Group",
     "Meta",
     "Microchip Tech",
-    "Microsoft",
     "Monolithic Power",
     "NXP Semiconductors",
     "NYT",

@@ -39,6 +39,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "VF Corp",
+      "symbol": "VFC",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Altria Group Inc",
       "symbol": "MO",
       "date": "2026-01-29",
@@ -93,10 +102,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-09T09:54:32Z",
+  "generatedAt": "2026-01-09T12:59:06Z",
   "irCompanies": [
     "Sysco Corp"
   ],
@@ -109,7 +118,8 @@
     "Kimberly Clark Corp",
     "Royal Caribbean Group",
     "Starbucks Corp",
-    "Tractor Supply Co"
+    "Tractor Supply Co",
+    "VF Corp"
   ],
   "week": {
     "id": "2026-01-26",

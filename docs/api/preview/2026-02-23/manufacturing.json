@@ -62,12 +62,21 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "VICI Properties Inc",
+      "symbol": "VICI",
+      "date": "2026-02-25",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-09T09:55:05Z",
+  "generatedAt": "2026-01-09T12:59:41Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Axon Enterprise Inc",
@@ -76,7 +85,8 @@
     "Invitation Homes Inc",
     "Keysight Technologies Inc",
     "Public Storage",
-    "Realty Income Corp"
+    "Realty Income Corp",
+    "VICI Properties Inc"
   ],
   "week": {
     "id": "2026-02-23",

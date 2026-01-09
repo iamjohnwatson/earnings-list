@@ -44,17 +44,37 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-09T09:55:13Z",
+  "generatedAt": "2026-01-09T12:59:49Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Best Buy Co Inc",
     "Brown-Forman Corp",
     "Campbell Soup Co",
+    "Costco Wholesale Corp",
+    "Kroger Co",
     "Ross Stores",
     "Target Corp"
   ],

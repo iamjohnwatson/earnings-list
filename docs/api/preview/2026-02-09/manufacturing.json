@@ -37,6 +37,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Borgwarner Inc",
+      "symbol": "BWA",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Generac Holdings Inc",
       "symbol": "GNRC",
       "date": "2026-02-11",
@@ -145,14 +154,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-09T09:54:50Z",
+  "generatedAt": "2026-01-09T12:59:23Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
+    "Borgwarner Inc",
     "Carrier Global Corp",
     "Deere",
     "Generac Holdings Inc",

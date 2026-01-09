@@ -13,8 +13,8 @@
       "company": "Atmos Energy",
       "symbol": "ATO",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -148,7 +148,7 @@
   "count": 16,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-09T09:54:41Z",
+  "generatedAt": "2026-01-09T12:59:15Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Products",

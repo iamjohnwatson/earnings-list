@@ -122,7 +122,7 @@
       "symbol": "FTV",
       "date": "2026-02-04",
       "bmo_amc": "12:00 PM ET",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "12:00 pm ET",
       "ir_source_url": "https://investors.fortive.com/",
@@ -221,15 +221,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Borgwarner Inc",
-      "symbol": "BWA",
-      "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Camden Property Trust",
       "symbol": "CPT",
       "date": "2026-02-05",
@@ -284,15 +275,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Fortive Corp",
-      "symbol": "FTV",
-      "date": "2026-02-06",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Frontier Holdings",
       "symbol": "ULCC",
       "date": "2026-02-06",
@@ -302,10 +284,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 33,
+  "count": 31,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-09T09:54:41Z",
+  "generatedAt": "2026-01-09T12:59:15Z",
   "irCompanies": [
     "Fortive Corp",
     "Old Dominion Freight Line Inc"
@@ -313,14 +295,12 @@
   "fallbackCompanies": [
     "AMETEK Inc",
     "Aptiv PLC",
-    "Borgwarner Inc",
     "Camden Property Trust",
     "Emerson Electric Co",
     "Equity Residential",
     "Essex Property Trust Inc",
     "Expedia Group Inc",
     "Ford Motor Co",
-    "Fortive Corp",
     "Frontier Holdings",
     "General Dynamics Corp",
     "Harley Davidson",
