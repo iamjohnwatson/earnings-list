@@ -21,18 +21,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-01-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-01-12",
@@ -185,6 +173,18 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
   "count": 17,
@@ -193,7 +193,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-11T06:53:08Z",
+  "generatedAt": "2026-01-11T09:48:19Z",
   "irCompanies": [
     "Bank of America",
     "Boston Scientific Corp",
