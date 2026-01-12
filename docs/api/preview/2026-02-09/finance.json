@@ -15,8 +15,8 @@
       "company": "Arch Capital Group",
       "symbol": "ACGL",
       "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -122,6 +122,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Lincoln National Corporation",
+      "symbol": "LNC",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Moody's Corporation",
       "symbol": "MCO",
       "date": "2026-02-12",
@@ -131,13 +140,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-12T09:58:33Z",
+  "generatedAt": "2026-01-12T12:59:36Z",
   "irCompanies": [
     "Apollo",
     "Cincinnati Financial"
@@ -149,6 +158,7 @@
     "Coinbase",
     "Fidelity National Information Services",
     "Global Payments",
+    "Lincoln National Corporation",
     "Moody's Corporation",
     "Principal Financial Group",
     "Robinhood",

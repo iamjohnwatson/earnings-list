@@ -49,8 +49,8 @@
       "company": "Federal Realty Investment Trust",
       "symbol": "FRT",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -64,15 +64,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Molson Coors Beverage Co",
-      "symbol": "TAP",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Coca-Cola Europacific",
       "symbol": "CCEP",
       "date": "2026-02-13",
@@ -82,10 +73,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-12T09:58:33Z",
+  "generatedAt": "2026-01-12T12:59:36Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Coca-Cola Co",
@@ -95,7 +86,6 @@
     "Kraft Heinz Co",
     "Masco Corp",
     "McDonald\u2019s Corp",
-    "Molson Coors Beverage Co",
     "Rollins Inc"
   ],
   "week": {

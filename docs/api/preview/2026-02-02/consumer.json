@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-02-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Tyson Foods",
       "symbol": "TSN",
       "date": "2026-02-02",
@@ -70,15 +79,6 @@
     {
       "company": "PepsiCo Inc",
       "symbol": "PEP",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
       "date": "2026-02-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -154,7 +154,7 @@
   "count": 16,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-12T09:58:24Z",
+  "generatedAt": "2026-01-12T12:59:28Z",
   "irCompanies": [
     "Ball Corp",
     "Chipotle Mexican Grill",

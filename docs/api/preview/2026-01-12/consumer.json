@@ -1,10 +1,24 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-01-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.lululemon.com/investors",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-12T09:57:58Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-12T12:59:05Z",
+  "irCompanies": [
+    "Lululemon Athletica"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-01-12",

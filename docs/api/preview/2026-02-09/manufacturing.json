@@ -59,7 +59,7 @@
       "symbol": "MGM",
       "date": "2026-02-11",
       "bmo_amc": "2:00PM",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "2:00pm",
       "ir_source_url": "https://investors.mgmresorts.com/",
@@ -129,15 +129,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Republic Services Inc",
-      "symbol": "RSG",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Wynn Resorts Ltd",
       "symbol": "WYNN",
       "date": "2026-02-12",
@@ -156,10 +147,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-12T09:58:33Z",
+  "generatedAt": "2026-01-12T12:59:36Z",
   "irCompanies": [
     "MGM Resorts International"
   ],
@@ -176,7 +167,6 @@
     "Magna International",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",
-    "Republic Services Inc",
     "Rockwell Automation Inc",
     "Wabtec",
     "Wynn Resorts Ltd"
