@@ -12,6 +12,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-01-12",
+      "bmo_amc": "10:28 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:28 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-01-16",
@@ -23,13 +34,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-12T12:59:05Z",
+  "generatedAt": "2026-01-12T15:52:22Z",
   "irCompanies": [
     "HPE",
-    "Live Nation Entertainment"
+    "Live Nation Entertainment",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [],
   "week": {

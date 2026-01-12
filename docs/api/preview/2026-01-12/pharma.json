@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Danaher Corp",
+      "symbol": "DHR",
+      "date": "2026-01-12",
+      "bmo_amc": "11:15AM PST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:15am PST",
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-01-12",
@@ -15,10 +26,10 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-01-12",
-      "bmo_amc": "3:03 AM ET",
+      "bmo_amc": "8:51 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "3:03 am ET",
+      "ir_time_label": "8:51 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
     },
@@ -34,12 +45,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-12T12:59:05Z",
+  "generatedAt": "2026-01-12T15:52:21Z",
   "irCompanies": [
     "Boston Scientific Corp",
+    "Danaher Corp",
     "Medtronic PLC",
     "Merck"
   ],
