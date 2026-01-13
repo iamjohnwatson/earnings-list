@@ -4,8 +4,8 @@
       "company": "Healthpeak Properties",
       "symbol": "DOC",
       "date": "2026-02-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -14,7 +14,7 @@
       "symbol": "IDXX",
       "date": "2026-02-02",
       "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:30 am EST",
       "ir_source_url": "https://ir.idexx.com/",
@@ -224,7 +224,7 @@
   "count": 24,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-13T09:55:54Z",
+  "generatedAt": "2026-01-13T12:59:19Z",
   "irCompanies": [
     "Centene Corp",
     "IDEXX Laboratories Inc"

@@ -89,8 +89,17 @@
       "company": "S&P Global Inc",
       "symbol": "SPGI",
       "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Manulife",
+      "symbol": "MFC",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -140,13 +149,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-13T09:56:03Z",
+  "generatedAt": "2026-01-13T12:59:28Z",
   "irCompanies": [
     "Apollo",
     "Cincinnati Financial"
@@ -159,6 +168,7 @@
     "Fidelity National Information Services",
     "Global Payments",
     "Lincoln National Corporation",
+    "Manulife",
     "Moody's Corporation",
     "Principal Financial Group",
     "Robinhood",

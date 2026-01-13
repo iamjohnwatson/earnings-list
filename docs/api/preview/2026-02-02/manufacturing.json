@@ -46,15 +46,6 @@
       "source": "aggregator"
     },
     {
-      "company": "IDEX Corp",
-      "symbol": "IEX",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2026-02-03",
@@ -147,6 +138,15 @@
       "source": "aggregator"
     },
     {
+      "company": "IDEX Corp",
+      "symbol": "IEX",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Illinois Tool Works Inc",
       "symbol": "ITW",
       "date": "2026-02-04",
@@ -159,8 +159,8 @@
       "company": "Johnson Controls International PLC",
       "symbol": "JCI",
       "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.johnsoncontrols.com/",
@@ -289,7 +289,7 @@
   "count": 31,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-13T09:55:54Z",
+  "generatedAt": "2026-01-13T12:59:18Z",
   "irCompanies": [
     "Fortive Corp",
     "Johnson Controls International PLC",

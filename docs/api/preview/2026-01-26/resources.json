@@ -40,8 +40,8 @@
       "company": "Eastman Chemical",
       "symbol": "EMN",
       "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -112,7 +112,7 @@
   "count": 12,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-13T09:55:45Z",
+  "generatedAt": "2026-01-13T12:59:09Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Chevron",

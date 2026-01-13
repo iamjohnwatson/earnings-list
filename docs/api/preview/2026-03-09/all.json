@@ -11,19 +11,31 @@
       "ir_source_url": "https://www.ulta.com/investor",
       "source": "investor_relations",
       "sector": "Consumer"
+    },
+    {
+      "company": "Oracle",
+      "symbol": "ORCL",
+      "date": "2026-03-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-13T09:56:38Z",
+  "generatedAt": "2026-01-13T13:00:07Z",
   "irCompanies": [
     "Ulta Beauty"
   ],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Oracle"
+  ],
   "week": {
     "id": "2026-03-09",
     "start_date": "2026-03-09",

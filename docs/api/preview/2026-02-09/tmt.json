@@ -210,6 +210,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Rivian",
+      "symbol": "RIVN",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Roku",
       "symbol": "ROKU",
       "date": "2026-02-12",
@@ -222,16 +231,16 @@
       "company": "Zebra Technologies",
       "symbol": "ZBRA",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 25,
+  "count": 26,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-13T09:56:03Z",
+  "generatedAt": "2026-01-13T12:59:28Z",
   "irCompanies": [
     "Equinix"
   ],
@@ -252,6 +261,7 @@
     "Palo Alto",
     "Paycom",
     "Reddit",
+    "Rivian",
     "Roku",
     "Shopify",
     "Spotify",
