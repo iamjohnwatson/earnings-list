@@ -10,14 +10,26 @@
       "ir_time_label": null,
       "ir_source_url": "https://investors.bostonscientific.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-01-13",
+      "bmo_amc": "4:05 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-13T06:55:38Z",
+  "generatedAt": "2026-01-13T09:55:27Z",
   "irCompanies": [
-    "Boston Scientific Corp"
+    "Boston Scientific Corp",
+    "Merck"
   ],
   "fallbackCompanies": [],
   "week": {
