@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Emerson Electric Co",
+      "symbol": "EMR",
+      "date": "2026-01-13",
+      "bmo_amc": "4:15 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:15 PM EST",
+      "ir_source_url": "https://ir.emerson.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Lennar Corp",
       "symbol": "LEN",
       "date": "2026-01-13",
@@ -18,6 +29,17 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://investors.lennar.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2026-01-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations"
     },
     {
@@ -30,12 +52,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-13T18:55:09Z",
+  "generatedAt": "2026-01-13T21:48:23Z",
   "irCompanies": [
-    "Lennar Corp"
+    "Emerson Electric Co",
+    "Lennar Corp",
+    "UPS"
   ],
   "fallbackCompanies": [
     "Delta Air",
