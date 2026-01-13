@@ -13,12 +13,10 @@
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-02-02",
-      "bmo_amc": "8:30 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://ir.idexx.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Amgen Inc",
@@ -224,10 +222,9 @@
   "count": 24,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-13T12:59:19Z",
+  "generatedAt": "2026-01-13T15:51:12Z",
   "irCompanies": [
-    "Centene Corp",
-    "IDEXX Laboratories Inc"
+    "Centene Corp"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
@@ -243,6 +240,7 @@
     "Eli Lilly and Co",
     "GE HealthCare Technologies Inc",
     "Healthpeak Properties",
+    "IDEXX Laboratories Inc",
     "IQVIA Holdings Inc",
     "Kenvue",
     "Labcorp Holdings Inc",

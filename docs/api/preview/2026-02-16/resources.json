@@ -4,8 +4,8 @@
       "company": "Celanese",
       "symbol": "CE",
       "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -76,8 +76,8 @@
       "company": "Nutrien",
       "symbol": "NTR",
       "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -193,7 +193,7 @@
   "count": 21,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-13T12:59:37Z",
+  "generatedAt": "2026-01-13T15:51:30Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alliant Energy",
