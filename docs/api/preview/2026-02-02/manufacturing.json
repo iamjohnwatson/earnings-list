@@ -162,7 +162,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.johnsoncontrols.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Las Vegas Sands Corp",
@@ -287,9 +289,10 @@
   "count": 31,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-12T21:48:19Z",
+  "generatedAt": "2026-01-13T01:23:34Z",
   "irCompanies": [
     "Fortive Corp",
+    "Johnson Controls International PLC",
     "Old Dominion Freight Line Inc"
   ],
   "fallbackCompanies": [
@@ -310,7 +313,6 @@
     "IDEX Corp",
     "Illinois Tool Works Inc",
     "Jacobs Solutions Inc",
-    "Johnson Controls International PLC",
     "Las Vegas Sands Corp",
     "Mid-America Apartment Communities Inc",
     "Peloton",

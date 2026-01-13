@@ -33,10 +33,12 @@
       "company": "Danaher Corp",
       "symbol": "DHR",
       "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 A.M. ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 a.m. ET",
+      "ir_source_url": "https://investors.danaher.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Elevance Health Inc",
@@ -78,12 +80,12 @@
   "count": 8,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-12T21:48:10Z",
+  "generatedAt": "2026-01-13T01:23:24Z",
   "irCompanies": [
-    "Becton Dickinson and Co"
+    "Becton Dickinson and Co",
+    "Danaher Corp"
   ],
   "fallbackCompanies": [
-    "Danaher Corp",
     "Elevance Health Inc",
     "HCA Healthcare Inc",
     "Regeneron Pharmaceuticals",

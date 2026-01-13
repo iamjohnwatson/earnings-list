@@ -4,9 +4,9 @@
       "company": "Bank of New York Mellon",
       "symbol": "BK",
       "date": "2026-01-13",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -15,7 +15,7 @@
       "date": "2026-01-13",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 AM ET",
       "ir_source_url": "https://www.jpmorganchase.com/ir",
       "source": "investor_relations"
@@ -125,7 +125,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-12T21:47:53Z",
+  "generatedAt": "2026-01-13T01:23:06Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",

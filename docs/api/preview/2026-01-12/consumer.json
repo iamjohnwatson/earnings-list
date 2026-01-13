@@ -1,36 +1,10 @@
 {
-  "records": [
-    {
-      "company": "Lululemon Athletica",
-      "symbol": "LULU",
-      "date": "2026-01-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://corporate.lululemon.com/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-01-12",
-      "bmo_amc": "9:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EST",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
-    }
-  ],
-  "count": 2,
+  "records": [],
+  "count": 0,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-12T21:47:53Z",
-  "irCompanies": [
-    "Lululemon Athletica",
-    "Norwegian Cruise Line"
-  ],
+  "generatedAt": "2026-01-13T01:23:05Z",
+  "irCompanies": [],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-01-12",
