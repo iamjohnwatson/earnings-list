@@ -88,7 +88,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Cencora Inc",
@@ -222,8 +224,9 @@
   "count": 24,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-13T15:51:12Z",
+  "generatedAt": "2026-01-13T18:55:37Z",
   "irCompanies": [
+    "Boston Scientific Corp",
     "Centene Corp"
   ],
   "fallbackCompanies": [
@@ -231,7 +234,6 @@
     "Amgen Inc",
     "Becton Dickinson and Co",
     "Bio-Techne Corp",
-    "Boston Scientific Corp",
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
     "Cencora Inc",

@@ -14,9 +14,9 @@
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-01-13",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -129,14 +129,14 @@
       "sector": "Finance"
     },
     {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
+      "company": "Bio-Techne Corp",
+      "symbol": "TECH",
       "date": "2026-01-13",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
+      "ir_source_url": "https://investors.bio-techne.com/",
       "source": "investor_relations",
       "sector": "Pharma"
     },
@@ -165,16 +165,40 @@
       "sector": "Pharma"
     },
     {
-      "company": "Coca-Cola Co",
-      "symbol": "KO",
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
       "date": "2026-01-13",
-      "bmo_amc": "10:00 AM ET",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 am ET",
-      "ir_source_url": "https://investors.coca-colacompany.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-01-13",
+      "bmo_amc": "1:33 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:33 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     },
     {
       "company": "Delta Air",
@@ -209,45 +233,34 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
+      "company": "Coca-Cola Co",
+      "symbol": "KO",
       "date": "2026-01-13",
-      "bmo_amc": "10:29 AM ET",
+      "bmo_amc": "10:00 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:29 AM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
+      "ir_time_label": "10:00 am ET",
+      "ir_source_url": "https://investors.coca-colacompany.com/",
       "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-01-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
+      "sector": "Consumer"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-13T15:50:49Z",
+  "generatedAt": "2026-01-13T18:55:10Z",
   "irCompanies": [
     "Bank of America",
-    "Boston Scientific Corp",
+    "Bio-Techne Corp",
     "Citigroup",
     "Coca-Cola Co",
     "HPE",
     "IDEXX Laboratories Inc",
     "Lennar Corp",
+    "Live Nation Entertainment",
     "Merck",
     "PNC Financial",
     "Take-Two Interactive",
