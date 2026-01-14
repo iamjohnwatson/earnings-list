@@ -14,7 +14,7 @@
       "symbol": "KO",
       "date": "2026-02-10",
       "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investors.coca-colacompany.com/",
@@ -26,6 +26,15 @@
       "date": "2026-02-10",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Mattel",
+      "symbol": "MAT",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -75,10 +84,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-14T12:58:18Z",
+  "generatedAt": "2026-01-14T15:52:16Z",
   "irCompanies": [
     "Coca-Cola Co"
   ],
@@ -88,6 +97,7 @@
     "Kimco Realty Corp",
     "Kraft Heinz Co",
     "Masco Corp",
+    "Mattel",
     "McDonald\u2019s Corp",
     "Rollins Inc"
   ],

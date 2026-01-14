@@ -1,16 +1,36 @@
 {
   "records": [
     {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-01-16",
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-01-13",
       "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2026-01-14",
+      "bmo_amc": "8:30AM",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.veralto.com/",
       "source": "investor_relations",
-      "sector": "TMT"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-01-15",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
       "company": "Bank of New York Mellon",
@@ -36,10 +56,10 @@
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-01-14",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:30 AM ET",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
       "ir_source_url": "https://investor.bankofamerica.com/",
       "source": "investor_relations",
       "sector": "Finance"
@@ -48,9 +68,9 @@
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-01-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.citigroup.com/global/investors",
       "source": "investor_relations",
@@ -60,9 +80,9 @@
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-01-14",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
       "source": "investor_relations",
@@ -141,51 +161,57 @@
       "sector": "Finance"
     },
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
-      "date": "2026-01-15",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-01-14",
-      "bmo_amc": "6:14 AM ET",
+      "bmo_amc": "8:40 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "6:14 am ET",
+      "ir_time_label": "8:40 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-01-14",
+      "bmo_amc": "10:29 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:29 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
-  "count": 16,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-14T12:57:39Z",
+  "generatedAt": "2026-01-14T15:51:38Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
     "HPE",
     "Merck",
     "PNC Financial",
+    "Take-Two Interactive",
+    "Veralto Corp",
     "Wells Fargo"
   ],
   "fallbackCompanies": [

@@ -59,6 +59,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Mattel",
+      "symbol": "MAT",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Mondelez International",
       "symbol": "MDLZ",
       "date": "2026-02-03",
@@ -142,10 +151,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-14T12:58:08Z",
+  "generatedAt": "2026-01-14T15:52:06Z",
   "irCompanies": [
     "Ball Corp",
     "Chipotle Mexican Grill",
@@ -155,6 +164,7 @@
     "Amcor PLC",
     "Clorox Co",
     "Hershey Co",
+    "Mattel",
     "Mondelez International",
     "PepsiCo Inc",
     "Philip Morris International",

@@ -93,15 +93,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Marsh McLennan",
-      "symbol": "MMC",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Mastercard",
       "symbol": "MA",
       "date": "2026-01-29",
@@ -158,13 +149,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-14T12:57:58Z",
+  "generatedAt": "2026-01-14T15:51:56Z",
   "irCompanies": [
     "Aon",
     "Synchrony Financial"
@@ -179,7 +170,6 @@
     "Invesco",
     "Lazard",
     "MSCI Inc",
-    "Marsh McLennan",
     "Mastercard",
     "Nasdaq",
     "Raymond James",

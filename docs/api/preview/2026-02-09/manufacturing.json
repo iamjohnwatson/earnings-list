@@ -19,20 +19,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Leidos Holdings Inc",
-      "symbol": "LDOS",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Marriott International Inc",
       "symbol": "MAR",
       "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -156,10 +147,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-14T12:58:18Z",
+  "generatedAt": "2026-01-14T15:52:16Z",
   "irCompanies": [
     "MGM Resorts International"
   ],
@@ -173,7 +164,6 @@
     "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Ingersoll Rand Inc",
-    "Leidos Holdings Inc",
     "Magna International",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",

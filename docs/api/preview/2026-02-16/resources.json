@@ -22,8 +22,8 @@
       "company": "Devon Energy",
       "symbol": "DVN",
       "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -33,6 +33,15 @@
       "date": "2026-02-17",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Energy Transfer",
+      "symbol": "ET",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -190,10 +199,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-14T12:58:28Z",
+  "generatedAt": "2026-01-14T15:52:26Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alliant Energy",
@@ -206,6 +215,7 @@
     "Constellation Energy",
     "Devon Energy",
     "EQT Corp",
+    "Energy Transfer",
     "Entergy Corp",
     "HF Sinclair",
     "Hawaiian Electric",

@@ -10,6 +10,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Veralto Corp",
+      "symbol": "VLTO",
+      "date": "2026-01-14",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.veralto.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "J B Hunt Transport Services Inc",
       "symbol": "JBHT",
       "date": "2026-01-15",
@@ -19,11 +30,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-14T12:57:38Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-14T15:51:37Z",
+  "irCompanies": [
+    "Veralto Corp"
+  ],
   "fallbackCompanies": [
     "Delta Air",
     "J B Hunt Transport Services Inc"

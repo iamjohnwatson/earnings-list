@@ -28,15 +28,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Energy Transfer",
-      "symbol": "ET",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Eversource Energy",
       "symbol": "ES",
       "date": "2026-02-10",
@@ -154,10 +145,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-14T12:58:19Z",
+  "generatedAt": "2026-01-14T15:52:16Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -168,7 +159,6 @@
     "Duke Energy",
     "Ecolab",
     "Enbridge",
-    "Energy Transfer",
     "Eversource Energy",
     "Exelon Corp",
     "NiSource",
