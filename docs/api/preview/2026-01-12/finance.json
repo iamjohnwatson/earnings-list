@@ -47,9 +47,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "BlackRock Inc",
@@ -123,12 +121,11 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-14T18:54:28Z",
+  "generatedAt": "2026-01-14T21:47:56Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",
-    "PNC Financial",
-    "Wells Fargo"
+    "PNC Financial"
   ],
   "fallbackCompanies": [
     "Bank of New York Mellon",
@@ -138,7 +135,8 @@
     "M&T Bank Corp",
     "Morgan Stanley",
     "Regions Financial",
-    "State Street Corp"
+    "State Street Corp",
+    "Wells Fargo"
   ],
   "week": {
     "id": "2026-01-12",
