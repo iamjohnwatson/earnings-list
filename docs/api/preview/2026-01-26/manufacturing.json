@@ -28,6 +28,15 @@
       "source": "aggregator"
     },
     {
+      "company": "American Airlines Group Inc",
+      "symbol": "AAL",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-01-27",
@@ -286,10 +295,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 31,
+  "count": 32,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-14T15:51:57Z",
+  "generatedAt": "2026-01-14T18:54:46Z",
   "irCompanies": [
     "Honeywell",
     "Southwest Airlines Co",
@@ -298,6 +307,7 @@
   "fallbackCompanies": [
     "A O Smith Corp",
     "Alexandria Real Estate Equities Inc",
+    "American Airlines Group Inc",
     "Boeing",
     "Boston Properties",
     "CH Robinson Worldwide Inc",

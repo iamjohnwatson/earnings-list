@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "NextEra Energy",
+      "symbol": "NEE",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "PPG Industries",
       "symbol": "PPG",
       "date": "2026-01-27",
@@ -109,10 +118,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-14T15:51:57Z",
+  "generatedAt": "2026-01-14T18:54:45Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Chevron",
@@ -123,6 +132,7 @@
     "Imperial Oil",
     "Kinder Morgan",
     "LyondellBasell",
+    "NextEra Energy",
     "PPG Industries",
     "Sherwin-Williams",
     "Valero Energy Corp",
