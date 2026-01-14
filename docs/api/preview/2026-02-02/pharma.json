@@ -13,10 +13,12 @@
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-02-02",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Amgen Inc",
@@ -43,7 +45,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "Pfizer Inc",
@@ -224,10 +228,12 @@
   "count": 24,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-13T21:48:50Z",
+  "generatedAt": "2026-01-14T01:31:26Z",
   "irCompanies": [
     "Boston Scientific Corp",
-    "Centene Corp"
+    "Centene Corp",
+    "IDEXX Laboratories Inc",
+    "Merck"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
@@ -242,12 +248,10 @@
     "Eli Lilly and Co",
     "GE HealthCare Technologies Inc",
     "Healthpeak Properties",
-    "IDEXX Laboratories Inc",
     "IQVIA Holdings Inc",
     "Kenvue",
     "Labcorp Holdings Inc",
     "Mckesson Corp",
-    "Merck",
     "Molina Healthcare Inc",
     "Pfizer Inc",
     "STERIS plc",

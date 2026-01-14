@@ -24,7 +24,7 @@
       "date": "2026-01-14",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 AM ET",
       "ir_source_url": "https://investor.bankofamerica.com/",
       "source": "investor_relations"
@@ -33,9 +33,9 @@
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-01-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://www.citigroup.com/global/investors",
       "source": "investor_relations"
@@ -44,9 +44,9 @@
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-01-14",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
       "source": "investor_relations"
@@ -123,7 +123,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-13T21:48:23Z",
+  "generatedAt": "2026-01-14T01:30:59Z",
   "irCompanies": [
     "Bank of America",
     "Citigroup",

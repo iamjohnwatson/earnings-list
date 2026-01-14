@@ -28,6 +28,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Emerson Electric Co",
+      "symbol": "EMR",
+      "date": "2026-02-03",
+      "bmo_amc": "4:30 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 pm EST",
+      "ir_source_url": "https://ir.emerson.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Essex Property Trust Inc",
       "symbol": "ESS",
       "date": "2026-02-03",
@@ -286,11 +297,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 31,
+  "count": 32,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-13T21:48:50Z",
+  "generatedAt": "2026-01-14T01:31:25Z",
   "irCompanies": [
+    "Emerson Electric Co",
     "Fortive Corp",
     "Johnson Controls International PLC",
     "Old Dominion Freight Line Inc"

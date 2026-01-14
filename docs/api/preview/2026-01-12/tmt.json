@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-01-13",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "HPE",
       "symbol": "HPE",
       "date": "2026-01-16",
@@ -34,14 +12,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-13T21:48:24Z",
+  "generatedAt": "2026-01-14T01:30:58Z",
   "irCompanies": [
-    "HPE",
-    "Live Nation Entertainment",
-    "Take-Two Interactive"
+    "HPE"
   ],
   "fallbackCompanies": [],
   "week": {

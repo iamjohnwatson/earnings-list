@@ -10,39 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Emerson Electric Co",
-      "symbol": "EMR",
-      "date": "2026-01-13",
-      "bmo_amc": "4:15 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:15 PM EST",
-      "ir_source_url": "https://ir.emerson.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2026-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "J B Hunt Transport Services Inc",
       "symbol": "JBHT",
       "date": "2026-01-15",
@@ -52,15 +19,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-13T21:48:23Z",
-  "irCompanies": [
-    "Emerson Electric Co",
-    "Lennar Corp",
-    "UPS"
-  ],
+  "generatedAt": "2026-01-14T01:30:58Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Delta Air",
     "J B Hunt Transport Services Inc"

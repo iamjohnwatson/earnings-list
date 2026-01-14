@@ -1,48 +1,10 @@
 {
-  "records": [
-    {
-      "company": "Bio-Techne Corp",
-      "symbol": "TECH",
-      "date": "2026-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bio-techne.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "IDEXX Laboratories Inc",
-      "symbol": "IDXX",
-      "date": "2026-01-13",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://ir.idexx.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-01-13",
-      "bmo_amc": "2:18 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:18 pm ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
-    }
-  ],
-  "count": 3,
+  "records": [],
+  "count": 0,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-13T21:48:24Z",
-  "irCompanies": [
-    "Bio-Techne Corp",
-    "IDEXX Laboratories Inc",
-    "Merck"
-  ],
+  "generatedAt": "2026-01-14T01:30:59Z",
+  "irCompanies": [],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-01-12",
