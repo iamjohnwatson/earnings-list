@@ -55,6 +55,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Hilton Worldwide Holdings Inc",
+      "symbol": "HLT",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "MGM Resorts International",
       "symbol": "MGM",
       "date": "2026-02-11",
@@ -123,8 +132,8 @@
       "company": "Ingersoll Rand Inc",
       "symbol": "IR",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -147,10 +156,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-14T09:56:10Z",
+  "generatedAt": "2026-01-14T12:58:18Z",
   "irCompanies": [
     "MGM Resorts International"
   ],
@@ -161,6 +170,7 @@
     "Carrier Global Corp",
     "Deere",
     "Generac Holdings Inc",
+    "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Ingersoll Rand Inc",
     "Leidos Holdings Inc",

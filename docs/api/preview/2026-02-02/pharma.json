@@ -21,6 +21,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Revvity",
+      "symbol": "RVTY",
+      "date": "2026-02-02",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Amgen Inc",
       "symbol": "AMGN",
       "date": "2026-02-03",
@@ -223,10 +232,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 24,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-14T09:56:01Z",
+  "generatedAt": "2026-01-14T12:58:08Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Centene Corp",
@@ -252,6 +261,7 @@
     "Merck",
     "Molina Healthcare Inc",
     "Pfizer Inc",
+    "Revvity",
     "STERIS plc",
     "Zimmer Biomet Holdings Inc"
   ],

@@ -60,8 +60,8 @@
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -129,15 +129,6 @@
       "ir_time_label": "12:00 pm ET",
       "ir_source_url": "https://investors.fortive.com/",
       "source": "investor_relations"
-    },
-    {
-      "company": "General Dynamics Corp",
-      "symbol": "GD",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     },
     {
       "company": "Harley Davidson",
@@ -237,23 +228,14 @@
       "company": "Camden Property Trust",
       "symbol": "CPT",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Expedia Group Inc",
       "symbol": "EXPE",
-      "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Hilton Worldwide Holdings Inc",
-      "symbol": "HLT",
       "date": "2026-02-05",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -297,10 +279,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 32,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-14T09:56:00Z",
+  "generatedAt": "2026-01-14T12:58:09Z",
   "irCompanies": [
     "Emerson Electric Co",
     "Fortive Corp",
@@ -317,9 +299,7 @@
     "Expedia Group Inc",
     "Ford Motor Co",
     "Frontier Holdings",
-    "General Dynamics Corp",
     "Harley Davidson",
-    "Hilton Worldwide Holdings Inc",
     "Hubbell Inc",
     "Huntington Ingalls Industries Inc",
     "IDEX Corp",
