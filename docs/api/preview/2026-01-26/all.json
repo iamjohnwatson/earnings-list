@@ -1,312 +1,6 @@
 {
   "records": [
     {
-      "company": "Alexandria Real Estate Equities Inc",
-      "symbol": "ARE",
-      "date": "2026-01-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Nucor Corp",
-      "symbol": "NUE",
-      "date": "2026-01-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Steel Dynamics",
-      "symbol": "STLD",
-      "date": "2026-01-26",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Boeing",
-      "symbol": "BA",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Boston Properties",
-      "symbol": "BXP",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "JetBlue",
-      "symbol": "JBLU",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "NVR Inc",
-      "symbol": "NVR",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Northrop Grumman Corp",
-      "symbol": "NOC",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Packaging Corp of America",
-      "symbol": "PKG",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "RTX",
-      "symbol": "RTX",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2026-01-27",
-      "bmo_amc": "8:30 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM ET",
-      "ir_source_url": "https://investors.ups.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Union Pacific Corp",
-      "symbol": "UNP",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "CH Robinson Worldwide Inc",
-      "symbol": "CHRW",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Otis Worldwide Corp",
-      "symbol": "OTIS",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Teledyne Technologies Inc",
-      "symbol": "TDY",
-      "date": "2026-01-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Textron Inc",
-      "symbol": "TXT",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Waste Management Inc",
-      "symbol": "WM",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "A O Smith Corp",
-      "symbol": "AOS",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Caterpillar",
-      "symbol": "CAT",
-      "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Dover Corp",
-      "symbol": "DOV",
-      "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-01-29",
-      "bmo_amc": "8:30 A.M. ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "L3Harris Technologies Inc",
-      "symbol": "LHX",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Lockheed Martin",
-      "symbol": "LMT",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Norfolk Southern Corp",
-      "symbol": "NSC",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Parker-Hannifin Corp",
-      "symbol": "PH",
-      "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Pultegroup Inc",
-      "symbol": "PHM",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2026-01-29",
-      "bmo_amc": "10:00 AM EST",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EST",
-      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Trane Technologies PLC",
-      "symbol": "TT",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "UPS",
-      "symbol": "UPS",
-      "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Eaton Corporation PLC",
-      "symbol": "ETN",
-      "date": "2026-01-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Kimberly Clark Corp",
       "symbol": "KMB",
       "date": "2026-01-27",
@@ -417,218 +111,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "F5",
-      "symbol": "FFIV",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Qorvo",
-      "symbol": "QRVO",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Roper Technologies",
-      "symbol": "ROP",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Texas Instruments",
-      "symbol": "TXN",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "ADP",
-      "symbol": "ADP",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "AT&T",
-      "symbol": "T",
-      "date": "2026-01-28",
-      "bmo_amc": "08:30 AM\n                    ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "08:30 AM\n                    ET",
-      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Amphenol",
-      "symbol": "APH",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Corning",
-      "symbol": "GLW",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "IBM",
-      "symbol": "IBM",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Lam Research",
-      "symbol": "LRCX",
-      "date": "2026-01-28",
-      "bmo_amc": "2:00 P.M.",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00 p.m. ",
-      "ir_source_url": "https://investor.lamresearch.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Microsoft",
-      "symbol": "MSFT",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.microsoft.com/en-us/investor/default",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "ServiceNow",
-      "symbol": "NOW",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Tesla",
-      "symbol": "TSLA",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Apple",
-      "symbol": "AAPL",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Atlassian",
-      "symbol": "TEAM",
-      "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Comcast",
-      "symbol": "CMCSA",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "KLA Corp",
-      "symbol": "KLAC",
-      "date": "2026-01-29",
-      "bmo_amc": "2:00 PM PST",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00 pm PST",
-      "ir_source_url": "https://ir.kla.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Rogers Communications",
-      "symbol": "RCI",
-      "date": "2026-01-29",
-      "bmo_amc": "8:00 A.M. ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 a.m. ET",
-      "ir_source_url": "https://about.rogers.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Charter Communications",
-      "symbol": "CHTR",
-      "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Verizon",
-      "symbol": "VZ",
-      "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations",
-      "sector": "TMT"
     },
     {
       "company": "Brown & Brown",
@@ -1007,6 +489,524 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
+    },
+    {
+      "company": "F5",
+      "symbol": "FFIV",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Qorvo",
+      "symbol": "QRVO",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Roper Technologies",
+      "symbol": "ROP",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Texas Instruments",
+      "symbol": "TXN",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "ADP",
+      "symbol": "ADP",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "AT&T",
+      "symbol": "T",
+      "date": "2026-01-28",
+      "bmo_amc": "08:30 AM\n                    ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "08:30 AM\n                    ET",
+      "ir_source_url": "https://investors.att.com/news-and-events/events-and-presentations",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Amphenol",
+      "symbol": "APH",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Corning",
+      "symbol": "GLW",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "IBM",
+      "symbol": "IBM",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Lam Research",
+      "symbol": "LRCX",
+      "date": "2026-01-28",
+      "bmo_amc": "2:00 P.M.",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00 p.m. ",
+      "ir_source_url": "https://investor.lamresearch.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Microsoft",
+      "symbol": "MSFT",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.microsoft.com/en-us/investor/default",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "ServiceNow",
+      "symbol": "NOW",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Tesla",
+      "symbol": "TSLA",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Apple",
+      "symbol": "AAPL",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Atlassian",
+      "symbol": "TEAM",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Comcast",
+      "symbol": "CMCSA",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "KLA Corp",
+      "symbol": "KLAC",
+      "date": "2026-01-29",
+      "bmo_amc": "2:00 PM PST",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00 pm PST",
+      "ir_source_url": "https://ir.kla.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Rogers Communications",
+      "symbol": "RCI",
+      "date": "2026-01-29",
+      "bmo_amc": "8:00 A.M. ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 a.m. ET",
+      "ir_source_url": "https://about.rogers.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Charter Communications",
+      "symbol": "CHTR",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Alexandria Real Estate Equities Inc",
+      "symbol": "ARE",
+      "date": "2026-01-26",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nucor Corp",
+      "symbol": "NUE",
+      "date": "2026-01-26",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Steel Dynamics",
+      "symbol": "STLD",
+      "date": "2026-01-26",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Boeing",
+      "symbol": "BA",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Boston Properties",
+      "symbol": "BXP",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "JetBlue",
+      "symbol": "JBLU",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "NVR Inc",
+      "symbol": "NVR",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Northrop Grumman Corp",
+      "symbol": "NOC",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Packaging Corp of America",
+      "symbol": "PKG",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "RTX",
+      "symbol": "RTX",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2026-01-27",
+      "bmo_amc": "8:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM ET",
+      "ir_source_url": "https://investors.ups.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Union Pacific Corp",
+      "symbol": "UNP",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "CH Robinson Worldwide Inc",
+      "symbol": "CHRW",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Otis Worldwide Corp",
+      "symbol": "OTIS",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Teledyne Technologies Inc",
+      "symbol": "TDY",
+      "date": "2026-01-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Textron Inc",
+      "symbol": "TXT",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Waste Management Inc",
+      "symbol": "WM",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "A O Smith Corp",
+      "symbol": "AOS",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Caterpillar",
+      "symbol": "CAT",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Dover Corp",
+      "symbol": "DOV",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-01-29",
+      "bmo_amc": "8:30 A.M. ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 a.m. ET",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "L3Harris Technologies Inc",
+      "symbol": "LHX",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Lockheed Martin",
+      "symbol": "LMT",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Norfolk Southern Corp",
+      "symbol": "NSC",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Parker-Hannifin Corp",
+      "symbol": "PH",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Pultegroup Inc",
+      "symbol": "PHM",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-01-29",
+      "bmo_amc": "10:00 AM EST",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EST",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Trane Technologies PLC",
+      "symbol": "TT",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "UPS",
+      "symbol": "UPS",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Eaton Corporation PLC",
+      "symbol": "ETN",
+      "date": "2026-01-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 98,
@@ -1015,7 +1015,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-14T04:40:29Z",
+  "generatedAt": "2026-01-14T06:55:07Z",
   "irCompanies": [
     "AT&T",
     "Aon",
