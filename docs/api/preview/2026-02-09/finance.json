@@ -59,6 +59,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Arch Capital Group",
+      "symbol": "ACGL",
+      "date": "2026-02-10",
+      "bmo_amc": "10:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 AM ET",
+      "ir_source_url": "https://ir.archgroup.com/overview/default.aspx",
+      "source": "investor_relations"
+    },
+    {
       "company": "Assurant Inc",
       "symbol": "AIZ",
       "date": "2026-02-10",
@@ -171,15 +182,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-15T18:58:45Z",
+  "generatedAt": "2026-01-15T21:49:58Z",
   "irCompanies": [
     "Apollo",
+    "Arch Capital Group",
     "Cincinnati Financial",
     "JPMorgan",
     "Wells Fargo"

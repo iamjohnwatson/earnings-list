@@ -96,8 +96,19 @@
       "company": "WW Grainger Inc",
       "symbol": "GWW",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "10:00 A.M. CT",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 a.m. CT",
+      "ir_source_url": "https://invest.grainger.com/home/default.aspx",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Emerson Electric Co",
+      "symbol": "EMR",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -136,6 +147,15 @@
       "date": "2026-02-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Illinois Tool Works Inc",
+      "symbol": "ITW",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -270,20 +290,22 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 31,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-15T18:58:37Z",
+  "generatedAt": "2026-01-15T21:49:48Z",
   "irCompanies": [
     "Emerson Electric Co",
     "Fortive Corp",
     "Johnson Controls International PLC",
-    "Old Dominion Freight Line Inc"
+    "Old Dominion Freight Line Inc",
+    "WW Grainger Inc"
   ],
   "fallbackCompanies": [
     "AMETEK Inc",
     "Aptiv PLC",
     "Camden Property Trust",
+    "Emerson Electric Co",
     "Equity Residential",
     "Essex Property Trust Inc",
     "Expedia Group Inc",
@@ -304,8 +326,7 @@
     "TransDigm Group Inc",
     "UDR INC",
     "United Rentals Inc",
-    "Veralto Corp",
-    "WW Grainger Inc"
+    "Veralto Corp"
   ],
   "week": {
     "id": "2026-02-02",
