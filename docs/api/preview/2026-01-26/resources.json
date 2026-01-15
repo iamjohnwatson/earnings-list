@@ -28,15 +28,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-01-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Dow",
       "symbol": "DOW",
       "date": "2026-01-29",
@@ -82,6 +73,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Air Products",
+      "symbol": "APD",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Chevron",
       "symbol": "CVX",
       "date": "2026-01-30",
@@ -121,16 +121,16 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-15T09:54:15Z",
+  "generatedAt": "2026-01-15T12:58:19Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Air Products",
     "Chevron",
     "Dow",
     "Eastman Chemical",
     "Exxon Mobil",
     "GE Vernova",
     "Imperial Oil",
-    "Kinder Morgan",
     "LyondellBasell",
     "NextEra Energy",
     "PPG Industries",

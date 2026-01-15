@@ -1,22 +1,46 @@
 {
   "records": [
     {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-01-15",
+      "bmo_amc": "7:15 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:15 am EST",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-01-15",
-      "bmo_amc": "4:36 AM ET",
+      "bmo_amc": "5:23 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:36 am ET",
+      "ir_time_label": "5:23 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-15T09:53:58Z",
+  "generatedAt": "2026-01-15T12:58:03Z",
   "irCompanies": [
+    "Boston Scientific Corp",
+    "IDEXX Laboratories Inc",
     "Merck"
   ],
   "fallbackCompanies": [],

@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-01-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Keurig Dr. Pepper",
       "symbol": "KDP",
       "date": "2026-01-15",
@@ -48,8 +36,8 @@
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-01-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -58,8 +46,8 @@
       "company": "Citigroup",
       "symbol": "C",
       "date": "2026-01-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -68,8 +56,8 @@
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-01-14",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -91,7 +79,9 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
+      "source": "investor_relations",
       "sector": "Finance"
     },
     {
@@ -101,7 +91,9 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://www.morganstanley.com/about-us-ir",
+      "source": "investor_relations",
       "sector": "Finance"
     },
     {
@@ -157,6 +149,18 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "J B Hunt Transport Services Inc",
       "symbol": "JBHT",
       "date": "2026-01-15",
@@ -167,29 +171,83 @@
       "sector": "Manufacturing"
     },
     {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-01-15",
+      "bmo_amc": "7:15 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:15 am EST",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-01-15",
-      "bmo_amc": "4:36 AM ET",
+      "bmo_amc": "5:23 AM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:36 am ET",
+      "ir_time_label": "5:23 am ET",
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-01-15",
+      "bmo_amc": "6:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:00 AM EST",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
-  "count": 17,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-15T09:53:58Z",
+  "generatedAt": "2026-01-15T12:58:03Z",
   "irCompanies": [
+    "Bombardier",
+    "Boston Scientific Corp",
+    "Goldman Sachs",
     "HPE",
+    "IDEXX Laboratories Inc",
+    "Intuit",
     "Keurig Dr. Pepper",
     "Merck",
+    "Morgan Stanley",
     "PNC Financial"
   ],
   "fallbackCompanies": [
@@ -198,11 +256,9 @@
     "BlackRock Inc",
     "Citigroup",
     "Delta Air",
-    "Goldman Sachs",
     "J B Hunt Transport Services Inc",
     "JPMorgan",
     "M&T Bank Corp",
-    "Morgan Stanley",
     "Regions Financial",
     "State Street Corp",
     "Wells Fargo"

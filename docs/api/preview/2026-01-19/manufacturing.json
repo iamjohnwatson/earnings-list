@@ -50,6 +50,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Teledyne Technologies Inc",
+      "symbol": "TDY",
+      "date": "2026-01-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Alaska Air",
       "symbol": "ALK",
       "date": "2026-01-22",
@@ -77,10 +86,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-15T09:54:06Z",
+  "generatedAt": "2026-01-15T12:58:11Z",
   "irCompanies": [
     "DR Horton Inc",
     "Prologis Inc"
@@ -91,7 +100,8 @@
     "CSX Corp",
     "Fastenal Co",
     "GE Aerospace",
-    "TE Connectivity Ltd"
+    "TE Connectivity Ltd",
+    "Teledyne Technologies Inc"
   ],
   "week": {
     "id": "2026-01-19",

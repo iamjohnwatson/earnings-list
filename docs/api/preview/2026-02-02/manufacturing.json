@@ -10,15 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Equity Residential",
-      "symbol": "EQR",
-      "date": "2026-02-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "AMETEK Inc",
       "symbol": "AME",
       "date": "2026-02-03",
@@ -32,7 +23,7 @@
       "symbol": "EMR",
       "date": "2026-02-03",
       "bmo_amc": "4:30 PM EST",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "4:30 pm EST",
       "ir_source_url": "https://ir.emerson.com/",
@@ -51,8 +42,17 @@
       "company": "Hubbell Inc",
       "symbol": "HUBB",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Illinois Tool Works Inc",
+      "symbol": "ITW",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -87,8 +87,8 @@
       "company": "Veralto Corp",
       "symbol": "VLTO",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -98,15 +98,6 @@
       "date": "2026-02-03",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Emerson Electric Co",
-      "symbol": "EMR",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -145,15 +136,6 @@
       "date": "2026-02-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Illinois Tool Works Inc",
-      "symbol": "ITW",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -234,6 +216,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Equity Residential",
+      "symbol": "EQR",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Expedia Group Inc",
       "symbol": "EXPE",
       "date": "2026-02-05",
@@ -279,10 +270,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 30,
+  "count": 29,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-15T09:54:23Z",
+  "generatedAt": "2026-01-15T12:58:27Z",
   "irCompanies": [
     "Emerson Electric Co",
     "Fortive Corp",
@@ -293,7 +284,6 @@
     "AMETEK Inc",
     "Aptiv PLC",
     "Camden Property Trust",
-    "Emerson Electric Co",
     "Equity Residential",
     "Essex Property Trust Inc",
     "Expedia Group Inc",
