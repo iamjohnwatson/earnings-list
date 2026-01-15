@@ -1,6 +1,62 @@
 {
   "records": [
     {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-01-15",
+      "bmo_amc": "7:15 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:15 am EST",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-01-15",
+      "bmo_amc": "12:41 PM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:41 pm ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-01-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-01-15",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Bank of New York Mellon",
       "symbol": "BK",
       "date": "2026-01-13",
@@ -159,36 +215,28 @@
       "sector": "Finance"
     },
     {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
       "date": "2026-01-15",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://bombardier.com/en/investors",
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
       "date": "2026-01-15",
-      "bmo_amc": "AMC",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "bmo_amc": "1:20 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:20 PM EST",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
       "company": "Applied Digital",
@@ -215,13 +263,25 @@
       "sector": "TMT"
     },
     {
+      "company": "Live Nation Entertainment",
+      "symbol": "LYV",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-01-15",
-      "bmo_amc": "10:29 AM ET",
+      "bmo_amc": "1:33 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:29 AM ET",
+      "ir_time_label": "1:33 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations",
       "sector": "TMT"
@@ -237,51 +297,15 @@
       "ir_source_url": "https://investors.hpe.com/",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "IDEXX Laboratories Inc",
-      "symbol": "IDXX",
-      "date": "2026-01-15",
-      "bmo_amc": "7:15 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "7:15 am EST",
-      "ir_source_url": "https://ir.idexx.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-01-15",
-      "bmo_amc": "10:01 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:01 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2026-01-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
     }
   ],
-  "count": 25,
+  "count": 27,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-15T15:50:31Z",
+  "generatedAt": "2026-01-15T18:58:15Z",
   "irCompanies": [
     "Applied Digital",
     "Bombardier",
@@ -290,8 +314,10 @@
     "IDEXX Laboratories Inc",
     "Intuit",
     "Keurig Dr. Pepper",
+    "Live Nation Entertainment",
     "Merck",
     "Morgan Stanley",
+    "Norwegian Cruise Line",
     "PNC Financial",
     "Take-Two Interactive",
     "Truist Financial"

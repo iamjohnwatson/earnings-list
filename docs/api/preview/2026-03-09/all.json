@@ -21,20 +21,42 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Adobe",
+      "symbol": "ADBE",
+      "date": "2026-03-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "SentinelOne",
+      "symbol": "S",
+      "date": "2026-03-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
-  "count": 2,
+  "count": 4,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-15T15:51:43Z",
+  "generatedAt": "2026-01-15T18:59:16Z",
   "irCompanies": [
     "Ulta Beauty"
   ],
   "fallbackCompanies": [
-    "Oracle"
+    "Adobe",
+    "Oracle",
+    "SentinelOne"
   ],
   "week": {
     "id": "2026-03-09",

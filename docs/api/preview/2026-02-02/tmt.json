@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Disney",
+      "symbol": "DIS",
+      "date": "2026-02-02",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Kyndryl",
       "symbol": "KD",
       "date": "2026-02-02",
@@ -28,11 +37,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Alphabet Inc",
-      "symbol": "GOOGL",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "Teradyne",
+      "symbol": "TER",
+      "date": "2026-02-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +49,8 @@
       "company": "Electronic Arts",
       "symbol": "EA",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -76,8 +85,8 @@
       "company": "Match Group",
       "symbol": "MTCH",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -237,6 +246,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Atlassian",
+      "symbol": "TEAM",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Digital Realty",
       "symbol": "DLR",
       "date": "2026-02-05",
@@ -320,10 +338,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 35,
+  "count": 37,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-15T15:50:58Z",
+  "generatedAt": "2026-01-15T18:58:37Z",
   "irCompanies": [
     "SiriusXM",
     "Teradyne"
@@ -332,9 +350,11 @@
     "Alphabet Inc",
     "Amazon",
     "Arm Holdings",
+    "Atlassian",
     "Cognizant",
     "Dayforce",
     "Digital Realty",
+    "Disney",
     "Electronic Arts",
     "Fortinet",
     "Fox Corp",
@@ -358,6 +378,7 @@
     "Skyworks Solutions",
     "Snap",
     "Take-Two Interactive",
+    "Teradyne",
     "Uber",
     "VeriSign",
     "Wolfspeed"

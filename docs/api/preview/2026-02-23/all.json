@@ -81,54 +81,74 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Bank of Montreal",
-      "symbol": "BMO",
+      "company": "Hims and Hers",
+      "symbol": "HIMS",
+      "date": "2026-02-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Henry Schein Inc",
+      "symbol": "HSIC",
       "date": "2026-02-24",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Pharma"
     },
     {
-      "company": "Scotiabank",
-      "symbol": "BNS",
-      "date": "2026-02-24",
+      "company": "Agilent",
+      "symbol": "A",
+      "date": "2026-02-25",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Pharma"
     },
     {
-      "company": "CIBC",
-      "symbol": "CM",
+      "company": "Dentsply Sirona",
+      "symbol": "XRAY",
       "date": "2026-02-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Pharma"
     },
     {
-      "company": "Royal Bank of Canada",
-      "symbol": "RY",
+      "company": "Novavax",
+      "symbol": "NVAX",
       "date": "2026-02-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Pharma"
     },
     {
-      "company": "TD Bank",
-      "symbol": "TD",
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
       "date": "2026-02-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Pharma"
+    },
+    {
+      "company": "Viatris",
+      "symbol": "VTRS",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
       "company": "SBA Communications",
@@ -311,76 +331,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Hims and Hers",
-      "symbol": "HIMS",
-      "date": "2026-02-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Henry Schein Inc",
-      "symbol": "HSIC",
-      "date": "2026-02-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-02-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Dentsply Sirona",
-      "symbol": "XRAY",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Novavax",
-      "symbol": "NVAX",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Solventum Corp",
-      "symbol": "SOLV",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Viatris",
-      "symbol": "VTRS",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Domino\u2019s Pizza Inc",
       "symbol": "DPZ",
       "date": "2026-02-23",
@@ -493,6 +443,56 @@
       "sector": "Consumer"
     },
     {
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
+      "date": "2026-02-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Scotiabank",
+      "symbol": "BNS",
+      "date": "2026-02-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "CIBC",
+      "symbol": "CM",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "symbol": "RY",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "TD Bank",
+      "symbol": "TD",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Corterra Energy",
       "symbol": "CTRA",
       "date": "2026-02-23",
@@ -593,16 +593,6 @@
       "sector": "Resources"
     },
     {
-      "company": "First Energy",
-      "symbol": "FE",
-      "date": "2026-02-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "NRG Energy",
       "symbol": "NRG",
       "date": "2026-02-25",
@@ -683,13 +673,13 @@
       "sector": "Resources"
     }
   ],
-  "count": 68,
+  "count": 67,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-15T15:51:25Z",
+  "generatedAt": "2026-01-15T18:59:00Z",
   "irCompanies": [
     "Home Depot Inc"
   ],
@@ -718,7 +708,6 @@
     "Expand Energy",
     "Expeditors International of Washington Inc",
     "Extra Space Storage Inc",
-    "First Energy",
     "First Solar",
     "HP Inc",
     "Henry Schein Inc",

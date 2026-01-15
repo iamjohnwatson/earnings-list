@@ -75,118 +75,6 @@
       "sector": "Pharma"
     },
     {
-      "company": "Kimberly Clark Corp",
-      "symbol": "KMB",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Royal Caribbean Group",
-      "symbol": "RCL",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Starbucks Corp",
-      "symbol": "SBUX",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Sysco Corp",
-      "symbol": "SYY",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.sysco.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "VF Corp",
-      "symbol": "VFC",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Altria Group Inc",
-      "symbol": "MO",
-      "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Deckers Outdoors",
-      "symbol": "DECK",
-      "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "International Paper Co",
-      "symbol": "IP",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Tractor Supply Co",
-      "symbol": "TSCO",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Church & Dwight",
-      "symbol": "CHD",
-      "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Colgate-Palmolive",
-      "symbol": "CL",
-      "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "NextEra Energy",
       "symbol": "NEE",
       "date": "2026-01-27",
@@ -209,16 +97,6 @@
     {
       "company": "GE Vernova",
       "symbol": "GEV",
-      "date": "2026-01-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
       "date": "2026-01-28",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -713,6 +591,118 @@
       "sector": "Finance"
     },
     {
+      "company": "Kimberly Clark Corp",
+      "symbol": "KMB",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Starbucks Corp",
+      "symbol": "SBUX",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Sysco Corp",
+      "symbol": "SYY",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.sysco.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "VF Corp",
+      "symbol": "VFC",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Altria Group Inc",
+      "symbol": "MO",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
+      "date": "2026-01-29",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "International Paper Co",
+      "symbol": "IP",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tractor Supply Co",
+      "symbol": "TSCO",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Church & Dwight",
+      "symbol": "CHD",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Colgate-Palmolive",
+      "symbol": "CL",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Alexandria Real Estate Equities Inc",
       "symbol": "ARE",
       "date": "2026-01-26",
@@ -875,16 +865,6 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Teledyne Technologies Inc",
-      "symbol": "TDY",
-      "date": "2026-01-28",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
       "company": "Textron Inc",
       "symbol": "TXT",
       "date": "2026-01-28",
@@ -1029,13 +1009,13 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 100,
+  "count": 98,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-15T15:50:49Z",
+  "generatedAt": "2026-01-15T18:58:30Z",
   "irCompanies": [
     "AT&T",
     "Aon",
@@ -1094,7 +1074,6 @@
     "Invesco",
     "JetBlue",
     "Kimberly Clark Corp",
-    "Kinder Morgan",
     "L3Harris Technologies Inc",
     "Lazard",
     "Lockheed Martin",
@@ -1123,7 +1102,6 @@
     "Sherwin-Williams",
     "Starbucks Corp",
     "Steel Dynamics",
-    "Teledyne Technologies Inc",
     "Tesla",
     "Texas Instruments",
     "Textron Inc",

@@ -8,15 +8,35 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Adobe",
+      "symbol": "ADBE",
+      "date": "2026-03-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "SentinelOne",
+      "symbol": "S",
+      "date": "2026-03-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-15T15:51:43Z",
+  "generatedAt": "2026-01-15T18:59:16Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "Oracle"
+    "Adobe",
+    "Oracle",
+    "SentinelOne"
   ],
   "week": {
     "id": "2026-03-09",
