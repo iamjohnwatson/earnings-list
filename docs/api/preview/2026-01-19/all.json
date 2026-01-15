@@ -1,54 +1,130 @@
 {
   "records": [
     {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
+      "company": "Fifth Third Bancorp",
+      "symbol": "FITB",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Interactive Brokers",
+      "symbol": "IBKR",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "KeyCorp",
+      "symbol": "KEY",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "US Bancorp",
+      "symbol": "USB",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Zions Bancorporation",
+      "symbol": "ZION",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Charles Schwab",
+      "symbol": "SCHW",
       "date": "2026-01-21",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Finance"
     },
     {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2026-01-21",
+      "bmo_amc": "10:40 AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:40 AM ",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-01-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Capital One Financial",
+      "symbol": "COF",
+      "date": "2026-01-22",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-01-22",
+      "bmo_amc": "9:00 AM EST",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EST",
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Northern Trust",
+      "symbol": "NTRS",
       "date": "2026-01-22",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Finance"
     },
     {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
-      "date": "2026-01-22",
+      "company": "Comerica Inc",
+      "symbol": "CMA",
+      "date": "2026-01-23",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
-      "date": "2026-01-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Procter & Gamble",
-      "symbol": "PG",
-      "date": "2026-01-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.comerica.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
       "company": "3M Co",
@@ -177,134 +253,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Fifth Third Bancorp",
-      "symbol": "FITB",
-      "date": "2026-01-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Interactive Brokers",
-      "symbol": "IBKR",
-      "date": "2026-01-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "KeyCorp",
-      "symbol": "KEY",
-      "date": "2026-01-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "US Bancorp",
-      "symbol": "USB",
-      "date": "2026-01-20",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Zions Bancorporation",
-      "symbol": "ZION",
-      "date": "2026-01-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Charles Schwab",
-      "symbol": "SCHW",
-      "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2026-01-21",
-      "bmo_amc": "10:40 AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:40 AM ",
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Capital One Financial",
-      "symbol": "COF",
-      "date": "2026-01-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-01-22",
-      "bmo_amc": "9:00 AM EST",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EST",
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Northern Trust",
-      "symbol": "NTRS",
-      "date": "2026-01-22",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Comerica Inc",
-      "symbol": "CMA",
-      "date": "2026-01-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.comerica.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
       "company": "Halliburton",
       "symbol": "HAL",
       "date": "2026-01-21",
@@ -343,6 +291,56 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-01-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
+      "date": "2026-01-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
+      "date": "2026-01-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-01-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Procter & Gamble",
+      "symbol": "PG",
+      "date": "2026-01-22",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 33,
@@ -351,15 +349,14 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-15T12:58:11Z",
+  "generatedAt": "2026-01-15T15:50:40Z",
   "irCompanies": [
     "Citizens Financial",
     "Comerica Inc",
     "DR Horton Inc",
     "Huntington Bancshares",
     "Intel",
-    "Prologis Inc",
-    "Truist Financial"
+    "Prologis Inc"
   ],
   "fallbackCompanies": [
     "3M Co",
@@ -386,6 +383,7 @@
     "SLB",
     "TE Connectivity Ltd",
     "Teledyne Technologies Inc",
+    "Truist Financial",
     "US Bancorp",
     "Zions Bancorporation"
   ],

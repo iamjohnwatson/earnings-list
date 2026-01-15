@@ -49,18 +49,27 @@
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-01-15",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2026-01-15",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2026-01-15",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.goldmansachs.com/investor-relations/",
       "source": "investor_relations"
@@ -69,11 +78,33 @@
       "company": "Morgan Stanley",
       "symbol": "MS",
       "date": "2026-01-15",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.morganstanley.com/about-us-ir",
+      "source": "investor_relations"
+    },
+    {
+      "company": "PNC Financial",
+      "symbol": "PNC",
+      "date": "2026-01-15",
+      "bmo_amc": "9:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 am EST",
+      "ir_source_url": "https://investor.pnc.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
       "source": "investor_relations"
     },
     {
@@ -89,12 +120,10 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-01-16",
-      "bmo_amc": "9:00 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 am EST",
-      "ir_source_url": "https://investor.pnc.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Regions Financial",
@@ -115,25 +144,28 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-15T12:58:03Z",
+  "generatedAt": "2026-01-15T15:50:29Z",
   "irCompanies": [
     "Goldman Sachs",
     "Morgan Stanley",
-    "PNC Financial"
+    "PNC Financial",
+    "Truist Financial"
   ],
   "fallbackCompanies": [
     "Bank of America",
     "Bank of New York Mellon",
     "BlackRock Inc",
     "Citigroup",
+    "Citizens Financial",
     "JPMorgan",
     "M&T Bank Corp",
+    "PNC Financial",
     "Regions Financial",
     "State Street Corp",
     "Wells Fargo"

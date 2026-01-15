@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Clorox Co",
+      "symbol": "CLX",
+      "date": "2026-02-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Simon Property Group",
       "symbol": "SPG",
       "date": "2026-02-02",
@@ -50,20 +59,11 @@
       "source": "investor_relations"
     },
     {
-      "company": "Clorox Co",
-      "symbol": "CLX",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Mondelez International",
       "symbol": "MDLZ",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -145,7 +145,7 @@
   "count": 15,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-15T12:58:27Z",
+  "generatedAt": "2026-01-15T15:50:58Z",
   "irCompanies": [
     "Ball Corp",
     "Chipotle Mexican Grill",

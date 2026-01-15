@@ -37,6 +37,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-02-03",
@@ -88,7 +97,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Cencora Inc",
@@ -219,11 +230,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 24,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-15T12:58:27Z",
+  "generatedAt": "2026-01-15T15:50:58Z",
   "irCompanies": [
+    "Boston Scientific Corp",
     "Centene Corp"
   ],
   "fallbackCompanies": [
@@ -231,10 +243,10 @@
     "Amgen Inc",
     "Becton Dickinson and Co",
     "Bio-Techne Corp",
-    "Boston Scientific Corp",
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
     "Cencora Inc",
+    "Centene Corp",
     "Cigna",
     "Eli Lilly and Co",
     "GE HealthCare Technologies Inc",

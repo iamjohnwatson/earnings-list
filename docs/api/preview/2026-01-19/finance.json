@@ -72,9 +72,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Capital One Financial",
@@ -123,12 +121,11 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-15T12:58:11Z",
+  "generatedAt": "2026-01-15T15:50:38Z",
   "irCompanies": [
     "Citizens Financial",
     "Comerica Inc",
-    "Huntington Bancshares",
-    "Truist Financial"
+    "Huntington Bancshares"
   ],
   "fallbackCompanies": [
     "Capital One Financial",
@@ -137,6 +134,7 @@
     "Interactive Brokers",
     "KeyCorp",
     "Northern Trust",
+    "Truist Financial",
     "US Bancorp",
     "Zions Bancorporation"
   ],

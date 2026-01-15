@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Equity Residential",
+      "symbol": "EQR",
+      "date": "2026-02-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "AMETEK Inc",
       "symbol": "AME",
       "date": "2026-02-03",
@@ -23,7 +32,7 @@
       "symbol": "EMR",
       "date": "2026-02-03",
       "bmo_amc": "4:30 PM EST",
-      "nasdaq_time_label": "time-after-hours",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": "4:30 pm EST",
       "ir_source_url": "https://ir.emerson.com/",
@@ -42,17 +51,8 @@
       "company": "Hubbell Inc",
       "symbol": "HUBB",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Illinois Tool Works Inc",
-      "symbol": "ITW",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -87,8 +87,8 @@
       "company": "Veralto Corp",
       "symbol": "VLTO",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -216,15 +216,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Equity Residential",
-      "symbol": "EQR",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Expedia Group Inc",
       "symbol": "EXPE",
       "date": "2026-02-05",
@@ -270,10 +261,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-15T12:58:27Z",
+  "generatedAt": "2026-01-15T15:50:58Z",
   "irCompanies": [
     "Emerson Electric Co",
     "Fortive Corp",
@@ -293,7 +284,6 @@
     "Hubbell Inc",
     "Huntington Ingalls Industries Inc",
     "IDEX Corp",
-    "Illinois Tool Works Inc",
     "Jacobs Solutions Inc",
     "Las Vegas Sands Corp",
     "Mid-America Apartment Communities Inc",

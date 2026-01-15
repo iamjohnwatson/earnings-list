@@ -55,6 +55,15 @@
       "source": "aggregator"
     },
     {
+      "company": "First Energy",
+      "symbol": "FE",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Occidental Petroleum",
       "symbol": "OXY",
       "date": "2026-02-17",
@@ -199,10 +208,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-15T12:58:43Z",
+  "generatedAt": "2026-01-15T15:51:16Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alliant Energy",
@@ -217,6 +226,7 @@
     "EQT Corp",
     "Energy Transfer",
     "Entergy Corp",
+    "First Energy",
     "HF Sinclair",
     "Hawaiian Electric",
     "MP Materials",
