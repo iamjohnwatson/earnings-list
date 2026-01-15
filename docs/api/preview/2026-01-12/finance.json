@@ -25,9 +25,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.bankofamerica.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Citigroup",
@@ -36,9 +34,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.citigroup.com/global/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Wells Fargo",
@@ -53,27 +49,27 @@
       "company": "BlackRock Inc",
       "symbol": "BLK",
       "date": "2026-01-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2026-01-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Morgan Stanley",
       "symbol": "MS",
       "date": "2026-01-15",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -121,15 +117,15 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-14T21:47:56Z",
+  "generatedAt": "2026-01-15T01:26:38Z",
   "irCompanies": [
-    "Bank of America",
-    "Citigroup",
     "PNC Financial"
   ],
   "fallbackCompanies": [
+    "Bank of America",
     "Bank of New York Mellon",
     "BlackRock Inc",
+    "Citigroup",
     "Goldman Sachs",
     "JPMorgan",
     "M&T Bank Corp",
