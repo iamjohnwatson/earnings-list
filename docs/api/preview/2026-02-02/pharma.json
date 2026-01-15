@@ -54,9 +54,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Pfizer Inc",
@@ -237,12 +235,11 @@
   "count": 25,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-15T06:54:56Z",
+  "generatedAt": "2026-01-15T09:54:23Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Centene Corp",
-    "IDEXX Laboratories Inc",
-    "Merck"
+    "IDEXX Laboratories Inc"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
@@ -261,6 +258,7 @@
     "Kenvue",
     "Labcorp Holdings Inc",
     "Mckesson Corp",
+    "Merck",
     "Molina Healthcare Inc",
     "Pfizer Inc",
     "Revvity",
