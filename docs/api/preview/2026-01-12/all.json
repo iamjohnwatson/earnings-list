@@ -1,62 +1,6 @@
 {
   "records": [
     {
-      "company": "Royal Caribbean Group",
-      "symbol": "RCL",
-      "date": "2026-01-16",
-      "bmo_amc": "6:00 AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "6:00 am ",
-      "ir_source_url": "https://www.rclinvestor.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-01-16",
-      "bmo_amc": "7:37 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "7:37 am ET",
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Delta Air",
-      "symbol": "DAL",
-      "date": "2026-01-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "J B Hunt Transport Services Inc",
-      "symbol": "JBHT",
-      "date": "2026-01-15",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-01-16",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.hpe.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
       "company": "Bank of New York Mellon",
       "symbol": "BK",
       "date": "2026-01-13",
@@ -147,6 +91,18 @@
       "sector": "Finance"
     },
     {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "M&T Bank Corp",
       "symbol": "MTB",
       "date": "2026-01-16",
@@ -160,10 +116,10 @@
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-01-16",
-      "bmo_amc": "9:00 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "9:00 am EST",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
       "ir_source_url": "https://investor.pnc.com/",
       "source": "investor_relations",
       "sector": "Finance"
@@ -172,9 +128,9 @@
       "company": "Regions Financial",
       "symbol": "RF",
       "date": "2026-01-16",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
     },
@@ -182,25 +138,121 @@
       "company": "State Street Corp",
       "symbol": "STT",
       "date": "2026-01-16",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Delta Air",
+      "symbol": "DAL",
+      "date": "2026-01-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "J B Hunt Transport Services Inc",
+      "symbol": "JBHT",
+      "date": "2026-01-15",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2026-01-16",
+      "bmo_amc": "6:00 AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:00 am ",
+      "ir_source_url": "https://www.rclinvestor.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-01-16",
+      "bmo_amc": "10:35 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:35 am ET",
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2026-01-16",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.paychex.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-01-16",
+      "bmo_amc": "10:30 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:30 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
     }
   ],
-  "count": 18,
+  "count": 22,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-16T12:58:10Z",
+  "generatedAt": "2026-01-16T15:50:41Z",
   "irCompanies": [
+    "Citizens Financial",
     "HPE",
+    "MGM Resorts International",
     "Merck",
     "PNC Financial",
-    "Royal Caribbean Group"
+    "Paychex",
+    "Royal Caribbean Group",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Bank of America",
