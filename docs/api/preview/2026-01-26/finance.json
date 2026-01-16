@@ -39,8 +39,26 @@
       "source": "investor_relations"
     },
     {
+      "company": "Fair Issac Corp",
+      "symbol": "FICO",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "MSCI Inc",
       "symbol": "MSCI",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Progressive Corporation",
+      "symbol": "PGR",
       "date": "2026-01-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -53,6 +71,15 @@
       "date": "2026-01-28",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Ameriprise Financial Inc",
+      "symbol": "AMP",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -149,22 +176,24 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-16T09:53:44Z",
+  "generatedAt": "2026-01-16T12:58:27Z",
   "irCompanies": [
     "Aon",
     "Synchrony Financial"
   ],
   "fallbackCompanies": [
     "American Express",
+    "Ameriprise Financial Inc",
     "Arthur J. Gallagher",
     "Blackstone",
     "Brown & Brown",
+    "Fair Issac Corp",
     "Franklin Templeton",
     "Hartford Financial Services",
     "Invesco",
@@ -172,6 +201,7 @@
     "MSCI Inc",
     "Mastercard",
     "Nasdaq",
+    "Progressive Corporation",
     "Raymond James",
     "Visa",
     "W. R. Berkley Corp"

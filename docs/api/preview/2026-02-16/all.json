@@ -174,8 +174,8 @@
       "company": "Akamai Technologies",
       "symbol": "AKAM",
       "date": "2026-02-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -331,16 +331,6 @@
       "sector": "Resources"
     },
     {
-      "company": "Teck Resources",
-      "symbol": "TECK",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Texas Pacific Land",
       "symbol": "TPL",
       "date": "2026-02-18",
@@ -424,8 +414,8 @@
       "company": "Southern Co",
       "symbol": "SO",
       "date": "2026-02-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
@@ -436,6 +426,16 @@
       "date": "2026-02-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Teck Resources",
+      "symbol": "TECK",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
@@ -557,7 +557,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-16T09:54:09Z",
+  "generatedAt": "2026-01-16T12:58:54Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",

@@ -33,8 +33,8 @@
       "company": "Amgen Inc",
       "symbol": "AMGN",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -203,15 +203,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Zimmer Biomet Holdings Inc",
-      "symbol": "ZBH",
-      "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-02-06",
@@ -223,10 +214,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 24,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-16T09:53:52Z",
+  "generatedAt": "2026-01-16T12:58:35Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Centene Corp",
@@ -252,8 +243,7 @@
     "Molina Healthcare Inc",
     "Pfizer Inc",
     "Revvity",
-    "STERIS plc",
-    "Zimmer Biomet Holdings Inc"
+    "STERIS plc"
   ],
   "week": {
     "id": "2026-02-02",

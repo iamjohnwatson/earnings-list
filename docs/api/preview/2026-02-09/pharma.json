@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "CVS Health Corp",
+      "symbol": "CVS",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Edwards Lifesciences Corp",
       "symbol": "EW",
       "date": "2026-02-10",
@@ -37,9 +46,9 @@
       "source": "aggregator"
     },
     {
-      "company": "CVS Health Corp",
-      "symbol": "CVS",
-      "date": "2026-02-11",
+      "company": "Zimmer Biomet Holdings Inc",
+      "symbol": "ZBH",
+      "date": "2026-02-10",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
@@ -91,10 +100,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-16T09:54:00Z",
+  "generatedAt": "2026-01-16T12:58:44Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "CVS Health Corp",
@@ -106,6 +115,7 @@
     "Vertex Pharmaceuticals Inc",
     "Waters Corp",
     "West Pharmaceutical Services Inc",
+    "Zimmer Biomet Holdings Inc",
     "Zoetis"
   ],
   "week": {

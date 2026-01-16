@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Ulta Beauty",
-      "symbol": "ULTA",
-      "date": "2026-03-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.ulta.com/investor",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "Oracle",
       "symbol": "ORCL",
       "date": "2026-03-09",
@@ -41,20 +29,54 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Crown Castle",
+      "symbol": "CCI",
+      "date": "2026-03-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Dollar General",
+      "symbol": "DG",
+      "date": "2026-03-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ulta Beauty",
+      "symbol": "ULTA",
+      "date": "2026-03-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.ulta.com/investor",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
-  "count": 4,
+  "count": 6,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-16T09:54:34Z",
+  "generatedAt": "2026-01-16T12:59:20Z",
   "irCompanies": [
     "Ulta Beauty"
   ],
   "fallbackCompanies": [
     "Adobe",
+    "Crown Castle",
+    "Dollar General",
     "Oracle",
     "SentinelOne"
   ],

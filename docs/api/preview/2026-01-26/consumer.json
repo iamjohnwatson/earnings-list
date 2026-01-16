@@ -19,15 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Starbucks Corp",
-      "symbol": "SBUX",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Sysco Corp",
       "symbol": "SYY",
       "date": "2026-01-27",
@@ -37,6 +28,15 @@
       "ir_time_label": null,
       "ir_source_url": "https://investors.sysco.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Starbucks Corp",
+      "symbol": "SBUX",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "VF Corp",
@@ -51,8 +51,8 @@
       "company": "Altria Group Inc",
       "symbol": "MO",
       "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -105,7 +105,7 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-16T09:53:44Z",
+  "generatedAt": "2026-01-16T12:58:27Z",
   "irCompanies": [
     "Sysco Corp"
   ],

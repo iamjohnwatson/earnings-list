@@ -10,15 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Fair Issac Corp",
-      "symbol": "FICO",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Jack Henry and Associates",
       "symbol": "JKHY",
       "date": "2026-02-03",
@@ -64,15 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Ameriprise Financial Inc",
-      "symbol": "AMP",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "CME Group Inc",
       "symbol": "CME",
       "date": "2026-02-04",
@@ -105,15 +87,6 @@
       "date": "2026-02-04",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Progressive Corporation",
-      "symbol": "PGR",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -154,29 +127,26 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-16T09:53:52Z",
+  "generatedAt": "2026-01-16T12:58:36Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
-    "Ameriprise Financial Inc",
     "CME Group Inc",
     "Cboe Global Markets",
     "Chubb",
     "Everest",
-    "Fair Issac Corp",
     "Globe Life",
     "Intercontinental Exchange",
     "Jack Henry and Associates",
     "KKR",
     "MetLife",
     "PayPal Holdings",
-    "Progressive Corporation",
     "Prudential Financial",
     "T. Rowe Price Group",
     "Willis Tower Watson"

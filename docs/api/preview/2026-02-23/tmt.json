@@ -154,6 +154,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Qnity",
+      "symbol": "Q",
+      "date": "2026-02-26",
+      "bmo_amc": "6:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:00 am EST",
+      "ir_source_url": "https://ir.qnityelectronics.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Bumble",
       "symbol": "BMBL",
       "date": "2026-02-27",
@@ -163,11 +174,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-16T09:54:17Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-16T12:59:01Z",
+  "irCompanies": [
+    "Qnity"
+  ],
   "fallbackCompanies": [
     "American Tower",
     "Autodesk",

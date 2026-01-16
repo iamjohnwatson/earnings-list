@@ -37,15 +37,6 @@
       "source": "aggregator"
     },
     {
-      "company": "IAC",
-      "symbol": "IAC",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Lyft",
       "symbol": "LYFT",
       "date": "2026-02-10",
@@ -237,10 +228,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-16T09:54:00Z",
+  "generatedAt": "2026-01-16T12:58:45Z",
   "irCompanies": [
     "Equinix"
   ],
@@ -253,7 +244,6 @@
     "Freshworks",
     "GlobalFoundries",
     "GoDaddy",
-    "IAC",
     "Iron Mountain",
     "Lyft",
     "Motorola",
