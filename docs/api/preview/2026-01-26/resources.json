@@ -73,6 +73,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Air Products",
+      "symbol": "APD",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Chevron",
       "symbol": "CVX",
       "date": "2026-01-30",
@@ -109,12 +118,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-15T21:49:39Z",
+  "generatedAt": "2026-01-16T01:30:23Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Air Products",
     "Chevron",
     "Dow",
     "Eastman Chemical",

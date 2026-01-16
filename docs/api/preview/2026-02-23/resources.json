@@ -37,15 +37,6 @@
       "source": "aggregator"
     },
     {
-      "company": "EOG Resources",
-      "symbol": "EOG",
-      "date": "2026-02-24",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "First Solar",
       "symbol": "FSLR",
       "date": "2026-02-24",
@@ -163,10 +154,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-15T21:50:16Z",
+  "generatedAt": "2026-01-16T01:30:58Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
@@ -174,7 +165,6 @@
     "Corterra Energy",
     "Diamondback Energy",
     "Dominion Energy Inc",
-    "EOG Resources",
     "Edison International",
     "Evergy",
     "Expand Energy",

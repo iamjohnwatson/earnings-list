@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Equity Residential",
+      "symbol": "EQR",
+      "date": "2026-02-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "AMETEK Inc",
       "symbol": "AME",
       "date": "2026-02-03",
@@ -290,10 +299,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 31,
+  "count": 32,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-15T21:49:48Z",
+  "generatedAt": "2026-01-16T01:30:32Z",
   "irCompanies": [
     "Emerson Electric Co",
     "Fortive Corp",
