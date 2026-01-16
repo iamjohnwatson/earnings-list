@@ -10,15 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "CVS Health Corp",
-      "symbol": "CVS",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Edwards Lifesciences Corp",
       "symbol": "EW",
       "date": "2026-02-10",
@@ -39,15 +30,6 @@
     {
       "company": "Quest Diagnostics Inc",
       "symbol": "DGX",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Zimmer Biomet Holdings Inc",
-      "symbol": "ZBH",
       "date": "2026-02-10",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -100,13 +82,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-16T15:51:14Z",
+  "generatedAt": "2026-01-16T18:55:12Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "CVS Health Corp",
     "DaVita Inc",
     "Edwards Lifesciences Corp",
     "Gilead",
@@ -115,7 +96,6 @@
     "Vertex Pharmaceuticals Inc",
     "Waters Corp",
     "West Pharmaceutical Services Inc",
-    "Zimmer Biomet Holdings Inc",
     "Zoetis"
   ],
   "week": {
