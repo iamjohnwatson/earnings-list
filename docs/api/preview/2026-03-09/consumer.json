@@ -1,36 +1,25 @@
 {
   "records": [
     {
-      "company": "Dollar General",
-      "symbol": "DG",
-      "date": "2026-03-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Ulta Beauty",
       "symbol": "ULTA",
       "date": "2026-03-12",
       "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.ulta.com/investor",
       "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 1,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-16T21:49:01Z",
+  "generatedAt": "2026-01-17T01:28:22Z",
   "irCompanies": [
     "Ulta Beauty"
   ],
-  "fallbackCompanies": [
-    "Dollar General"
-  ],
+  "fallbackCompanies": [],
   "week": {
     "id": "2026-03-09",
     "start_date": "2026-03-09",

@@ -104,15 +104,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Meta",
-      "symbol": "META",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Microsoft",
       "symbol": "MSFT",
       "date": "2026-01-28",
@@ -211,10 +202,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 22,
+  "count": 21,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-16T21:48:07Z",
+  "generatedAt": "2026-01-17T01:27:27Z",
   "irCompanies": [
     "AT&T",
     "KLA Corp",
@@ -232,7 +223,6 @@
     "Corning",
     "F5",
     "IBM",
-    "Meta",
     "Qorvo",
     "Roper Technologies",
     "Seagate",
