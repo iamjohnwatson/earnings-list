@@ -73,11 +73,20 @@
       "source": "aggregator"
     },
     {
+      "company": "IAC",
+      "symbol": "IAC",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Lumen Tech",
       "symbol": "LUMN",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -331,10 +340,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 36,
+  "count": 37,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-17T04:27:10Z",
+  "generatedAt": "2026-01-17T06:53:50Z",
   "irCompanies": [
     "SiriusXM",
     "Take-Two Interactive",
@@ -354,6 +363,7 @@
     "Fox Corp",
     "Gartner",
     "Gen Digital",
+    "IAC",
     "Kyndryl",
     "Lumen Tech",
     "Match Group",

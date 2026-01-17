@@ -100,6 +100,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Teck Resources",
+      "symbol": "TECK",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Texas Pacific Land",
       "symbol": "TPL",
       "date": "2026-02-18",
@@ -199,10 +208,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-17T04:27:28Z",
+  "generatedAt": "2026-01-17T06:54:07Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alliant Energy",
@@ -226,6 +235,7 @@
     "Occidental Petroleum",
     "Southern Co",
     "Targa Resources",
+    "Teck Resources",
     "Texas Pacific Land"
   ],
   "week": {

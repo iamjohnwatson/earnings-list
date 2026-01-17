@@ -10,15 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Fair Issac Corp",
-      "symbol": "FICO",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Jack Henry and Associates",
       "symbol": "JKHY",
       "date": "2026-02-03",
@@ -136,13 +127,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-17T04:27:10Z",
+  "generatedAt": "2026-01-17T06:53:49Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
@@ -150,7 +141,6 @@
     "Cboe Global Markets",
     "Chubb",
     "Everest",
-    "Fair Issac Corp",
     "Globe Life",
     "Intercontinental Exchange",
     "Jack Henry and Associates",
