@@ -19,15 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Amcor PLC",
-      "symbol": "AMCR",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Ball Corp",
       "symbol": "BALL",
       "date": "2026-02-03",
@@ -142,17 +133,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-17T01:27:35Z",
+  "generatedAt": "2026-01-17T04:27:10Z",
   "irCompanies": [
     "Ball Corp",
     "Chipotle Mexican Grill",
     "Estee Lauder"
   ],
   "fallbackCompanies": [
-    "Amcor PLC",
     "Clorox Co",
     "Hershey Co",
     "Mondelez International",

@@ -26,15 +26,25 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Crown Castle",
+      "symbol": "CCI",
+      "date": "2026-03-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-17T01:28:21Z",
+  "generatedAt": "2026-01-17T04:27:54Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Adobe",
+    "Crown Castle",
     "Oracle",
     "SentinelOne"
   ],

@@ -175,8 +175,8 @@
       "company": "Southern Co",
       "symbol": "SO",
       "date": "2026-02-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -190,15 +190,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Teck Resources",
-      "symbol": "TECK",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Hawaiian Electric",
       "symbol": "HE",
       "date": "2026-02-20",
@@ -208,10 +199,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-17T01:27:54Z",
+  "generatedAt": "2026-01-17T04:27:28Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alliant Energy",
@@ -235,7 +226,6 @@
     "Occidental Petroleum",
     "Southern Co",
     "Targa Resources",
-    "Teck Resources",
     "Texas Pacific Land"
   ],
   "week": {
