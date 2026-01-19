@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Arista Networks",
+      "symbol": "ANET",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Baidu",
       "symbol": "BIDU",
       "date": "2026-02-17",
@@ -109,15 +118,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-19T15:53:21Z",
+  "generatedAt": "2026-01-19T18:55:20Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
     "Alibaba",
     "Analog Devices",
+    "Arista Networks",
     "Baidu",
     "Cadence",
     "CoStar Group",
