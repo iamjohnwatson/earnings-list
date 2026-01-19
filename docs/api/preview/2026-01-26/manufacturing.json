@@ -147,11 +147,29 @@
       "source": "aggregator"
     },
     {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Textron Inc",
       "symbol": "TXT",
       "date": "2026-01-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "United Rentals Inc",
+      "symbol": "URI",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -279,10 +297,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 30,
+  "count": 32,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-19T12:59:55Z",
+  "generatedAt": "2026-01-19T15:52:52Z",
   "irCompanies": [
     "Honeywell",
     "Parker-Hannifin Corp",
@@ -311,10 +329,12 @@
     "Packaging Corp of America",
     "Pultegroup Inc",
     "RTX",
+    "Southwest Airlines Co",
     "Steel Dynamics",
     "Textron Inc",
     "Trane Technologies PLC",
     "Union Pacific Corp",
+    "United Rentals Inc",
     "Waste Management Inc"
   ],
   "week": {
