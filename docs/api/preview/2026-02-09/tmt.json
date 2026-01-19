@@ -156,6 +156,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Arista Networks",
+      "symbol": "ANET",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Datadog",
       "symbol": "DDOG",
       "date": "2026-02-12",
@@ -201,6 +210,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Pinterest",
+      "symbol": "PINS",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Rivian",
       "symbol": "RIVN",
       "date": "2026-02-12",
@@ -228,16 +246,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 25,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-19T10:01:07Z",
+  "generatedAt": "2026-01-19T13:00:13Z",
   "irCompanies": [
     "Equinix"
   ],
   "fallbackCompanies": [
     "AppLovin",
     "Applied Materials",
+    "Arista Networks",
     "Cisco Systems",
     "CoreWeave",
     "Datadog",
@@ -250,6 +269,7 @@
     "Onsemi",
     "Palo Alto",
     "Paycom",
+    "Pinterest",
     "Reddit",
     "Rivian",
     "Roku",

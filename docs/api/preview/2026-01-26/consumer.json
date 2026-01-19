@@ -75,6 +75,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Tractor Supply Co",
       "symbol": "TSCO",
       "date": "2026-01-29",
@@ -102,10 +111,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-19T10:00:48Z",
+  "generatedAt": "2026-01-19T12:59:55Z",
   "irCompanies": [
     "Sysco Corp"
   ],

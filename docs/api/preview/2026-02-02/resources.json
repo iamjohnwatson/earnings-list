@@ -94,8 +94,8 @@
       "company": "Barrick Mining",
       "symbol": "GOLD",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +103,8 @@
       "company": "CMS Energy Corp",
       "symbol": "CMS",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -139,7 +139,7 @@
   "count": 15,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-19T10:00:58Z",
+  "generatedAt": "2026-01-19T13:00:04Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Archer-Daniels-Midland",

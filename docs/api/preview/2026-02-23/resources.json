@@ -55,6 +55,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Mosaic",
+      "symbol": "MOS",
+      "date": "2026-02-24",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Pinnacle West",
       "symbol": "PNW",
       "date": "2026-02-24",
@@ -136,15 +145,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Mosaic",
-      "symbol": "MOS",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Vistra Corp",
       "symbol": "VST",
       "date": "2026-02-26",
@@ -166,7 +166,7 @@
   "count": 18,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-19T10:01:25Z",
+  "generatedAt": "2026-01-19T13:00:30Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",

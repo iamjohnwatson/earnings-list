@@ -179,8 +179,8 @@
       "company": "NYT",
       "symbol": "NYT",
       "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -302,11 +302,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Pinterest",
-      "symbol": "PINS",
+      "company": "Reddit",
+      "symbol": "RDDT",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -343,7 +343,7 @@
   "count": 37,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-19T10:00:58Z",
+  "generatedAt": "2026-01-19T13:00:05Z",
   "irCompanies": [
     "SiriusXM",
     "Take-Two Interactive",
@@ -375,8 +375,8 @@
     "Omnicom",
     "PTC",
     "Palantir",
-    "Pinterest",
     "Qualcomm",
+    "Reddit",
     "Roblox",
     "Skyworks Solutions",
     "Snap",

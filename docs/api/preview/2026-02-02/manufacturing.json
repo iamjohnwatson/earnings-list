@@ -30,15 +30,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Essex Property Trust Inc",
-      "symbol": "ESS",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Hubbell Inc",
       "symbol": "HUBB",
       "date": "2026-02-03",
@@ -102,6 +93,15 @@
       "ir_time_label": "10:00 a.m. CT",
       "ir_source_url": "https://invest.grainger.com/home/default.aspx",
       "source": "investor_relations"
+    },
+    {
+      "company": "Essex Property Trust Inc",
+      "symbol": "ESS",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Ford Motor Co",
@@ -200,15 +200,6 @@
       "source": "aggregator"
     },
     {
-      "company": "United Rentals Inc",
-      "symbol": "URI",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Camden Property Trust",
       "symbol": "CPT",
       "date": "2026-02-05",
@@ -223,15 +214,6 @@
       "date": "2026-02-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Expedia Group Inc",
-      "symbol": "EXPE",
-      "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -272,10 +254,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-19T10:00:57Z",
+  "generatedAt": "2026-01-19T13:00:05Z",
   "irCompanies": [
     "Emerson Electric Co",
     "Fortive Corp",
@@ -289,7 +271,6 @@
     "Camden Property Trust",
     "Equity Residential",
     "Essex Property Trust Inc",
-    "Expedia Group Inc",
     "Ford Motor Co",
     "Frontier Holdings",
     "Harley Davidson",
@@ -306,7 +287,6 @@
     "Stanley Black & Decker",
     "TransDigm Group Inc",
     "UDR INC",
-    "United Rentals Inc",
     "Veralto Corp"
   ],
   "week": {

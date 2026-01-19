@@ -111,6 +111,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Expedia Group Inc",
+      "symbol": "EXPE",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-02-12",
@@ -147,10 +156,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-19T10:01:07Z",
+  "generatedAt": "2026-01-19T13:00:13Z",
   "irCompanies": [
     "MGM Resorts International"
   ],
@@ -160,6 +169,7 @@
     "Borgwarner Inc",
     "Carrier Global Corp",
     "Deere",
+    "Expedia Group Inc",
     "Generac Holdings Inc",
     "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
