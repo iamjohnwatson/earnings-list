@@ -55,15 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2026-01-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2026-01-15",
@@ -118,20 +109,19 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-20T15:57:39Z",
+  "generatedAt": "2026-01-20T18:57:34Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Bank of America",
     "Bank of New York Mellon",
     "BlackRock Inc",
     "Citigroup",
-    "Citizens Financial",
     "Goldman Sachs",
     "JPMorgan",
     "M&T Bank Corp",

@@ -61,16 +61,6 @@
       "sector": "Finance"
     },
     {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2026-01-15",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Goldman Sachs",
       "symbol": "GS",
       "date": "2026-01-15",
@@ -151,20 +141,19 @@
       "sector": "Manufacturing"
     }
   ],
-  "count": 15,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-20T15:57:40Z",
+  "generatedAt": "2026-01-20T18:57:35Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Bank of America",
     "Bank of New York Mellon",
     "BlackRock Inc",
     "Citigroup",
-    "Citizens Financial",
     "Delta Air",
     "Goldman Sachs",
     "J B Hunt Transport Services Inc",
