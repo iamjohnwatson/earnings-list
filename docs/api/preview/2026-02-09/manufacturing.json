@@ -10,15 +10,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Carrier Global Corp",
-      "symbol": "CARR",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Marriott International Inc",
       "symbol": "MAR",
       "date": "2026-02-10",
@@ -58,12 +49,10 @@
       "company": "MGM Resorts International",
       "symbol": "MGM",
       "date": "2026-02-11",
-      "bmo_amc": "2:00PM",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "2:00pm",
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Martin Marietta Materials Inc",
@@ -156,24 +145,22 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-20T10:00:38Z",
-  "irCompanies": [
-    "MGM Resorts International"
-  ],
+  "generatedAt": "2026-01-20T15:58:19Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
     "Borgwarner Inc",
-    "Carrier Global Corp",
     "Deere",
     "Expedia Group Inc",
     "Generac Holdings Inc",
     "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Ingersoll Rand Inc",
+    "MGM Resorts International",
     "Magna International",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",

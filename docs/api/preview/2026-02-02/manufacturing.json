@@ -209,6 +209,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Carrier Global Corp",
+      "symbol": "CARR",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Equity Residential",
       "symbol": "EQR",
       "date": "2026-02-05",
@@ -254,10 +263,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-20T10:00:28Z",
+  "generatedAt": "2026-01-20T15:58:09Z",
   "irCompanies": [
     "Emerson Electric Co",
     "Fortive Corp",
@@ -269,6 +278,7 @@
     "AMETEK Inc",
     "Aptiv PLC",
     "Camden Property Trust",
+    "Carrier Global Corp",
     "Equity Residential",
     "Essex Property Trust Inc",
     "Ford Motor Co",

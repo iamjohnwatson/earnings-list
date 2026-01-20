@@ -64,15 +64,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Occidental Petroleum",
-      "symbol": "OXY",
-      "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "CF Industries",
       "symbol": "CF",
       "date": "2026-02-18",
@@ -93,6 +84,15 @@
     {
       "company": "Nutrien",
       "symbol": "NTR",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Occidental Petroleum",
+      "symbol": "OXY",
       "date": "2026-02-18",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
@@ -211,7 +211,7 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-20T10:00:49Z",
+  "generatedAt": "2026-01-20T15:58:29Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alliant Energy",

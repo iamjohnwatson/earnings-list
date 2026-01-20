@@ -85,12 +85,10 @@
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2026-02-11",
-      "bmo_amc": "5:30 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "5:30 PM ET",
-      "ir_source_url": "https://investor.equinix.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "GlobalFoundries",
@@ -240,10 +238,8 @@
   "count": 26,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-20T10:00:40Z",
-  "irCompanies": [
-    "Equinix"
-  ],
+  "generatedAt": "2026-01-20T15:58:19Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "AppLovin",
     "Applied Materials",
@@ -251,6 +247,7 @@
     "Cisco Systems",
     "CoreWeave",
     "Datadog",
+    "Equinix",
     "Freshworks",
     "GlobalFoundries",
     "GoDaddy",

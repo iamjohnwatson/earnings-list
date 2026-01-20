@@ -1,13 +1,35 @@
 {
   "records": [
     {
+      "company": "Comerica Inc",
+      "symbol": "CMA",
+      "date": "2026-01-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.comerica.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Fifth Third Bancorp",
       "symbol": "FITB",
       "date": "2026-01-20",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Fiserv",
+      "symbol": "FI",
+      "date": "2026-01-20",
+      "bmo_amc": "8:01 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:01 AM EST",
+      "ir_source_url": "https://investors.fiserv.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Interactive Brokers",
@@ -22,9 +44,9 @@
       "company": "KeyCorp",
       "symbol": "KEY",
       "date": "2026-01-20",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -59,7 +81,7 @@
       "symbol": "CFG",
       "date": "2026-01-21",
       "bmo_amc": "10:40 AM",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "10:40 AM ",
       "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
@@ -112,27 +134,27 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.comerica.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-20T10:00:08Z",
+  "generatedAt": "2026-01-20T15:57:49Z",
   "irCompanies": [
     "Citizens Financial",
     "Comerica Inc",
+    "Fiserv",
     "Huntington Bancshares",
     "Truist Financial"
   ],
   "fallbackCompanies": [
     "Capital One Financial",
     "Charles Schwab",
+    "Comerica Inc",
     "Fifth Third Bancorp",
     "Interactive Brokers",
     "KeyCorp",

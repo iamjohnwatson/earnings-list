@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Equinix",
+      "symbol": "EQIX",
+      "date": "2026-01-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-01-20",
@@ -8,6 +19,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-01-20",
+      "bmo_amc": "10:34 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:34 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Intel",
@@ -30,12 +52,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-20T10:00:10Z",
+  "generatedAt": "2026-01-20T15:57:49Z",
   "irCompanies": [
-    "Intel"
+    "Equinix",
+    "Intel",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Mobileye",
