@@ -4,9 +4,9 @@
       "company": "3M Co",
       "symbol": "MMM",
       "date": "2026-01-20",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -15,7 +15,7 @@
       "date": "2026-01-20",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investor.drhorton.com/",
       "source": "investor_relations"
@@ -24,9 +24,9 @@
       "company": "Fastenal Co",
       "symbol": "FAST",
       "date": "2026-01-20",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -89,7 +89,7 @@
   "count": 9,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-19T21:47:09Z",
+  "generatedAt": "2026-01-20T01:28:23Z",
   "irCompanies": [
     "DR Horton Inc",
     "Prologis Inc"
