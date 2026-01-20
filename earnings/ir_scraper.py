@@ -40,7 +40,7 @@ _KEYWORDS = [
     "earnings",
     "results",
     "conference call",
-    "financial",
+    # "financial",  # Too generic, matches "financials" in nav/headers
     "quarter",
     "quarterly",
     "webcast",
