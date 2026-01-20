@@ -12,6 +12,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Lyft",
+      "symbol": "LYFT",
+      "date": "2026-01-20",
+      "bmo_amc": "4:05 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 PM EST",
+      "ir_source_url": "https://investor.lyft.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-01-20",
@@ -24,10 +35,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-01-20",
-      "bmo_amc": "1:38 PM ET",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "1:38 PM ET",
+      "ir_time_label": "4:00 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -52,13 +63,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-20T18:57:44Z",
+  "generatedAt": "2026-01-20T21:49:13Z",
   "irCompanies": [
     "Equinix",
     "Intel",
+    "Lyft",
     "Take-Two Interactive"
   ],
   "fallbackCompanies": [

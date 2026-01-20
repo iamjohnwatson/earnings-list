@@ -35,10 +35,12 @@
       "company": "Interactive Brokers",
       "symbol": "IBKR",
       "date": "2026-01-20",
-      "bmo_amc": "AMC",
+      "bmo_amc": "4:30PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "source": "aggregator"
+      "ir_time_label": "4:30pm ET",
+      "ir_source_url": "https://investors.interactivebrokers.com/ir/main.php",
+      "source": "investor_relations"
     },
     {
       "company": "KeyCorp",
@@ -143,12 +145,13 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-20T18:57:44Z",
+  "generatedAt": "2026-01-20T21:49:14Z",
   "irCompanies": [
     "Citizens Financial",
     "Comerica Inc",
     "Fiserv",
     "Huntington Bancshares",
+    "Interactive Brokers",
     "Truist Financial"
   ],
   "fallbackCompanies": [
@@ -156,7 +159,6 @@
     "Charles Schwab",
     "Comerica Inc",
     "Fifth Third Bancorp",
-    "Interactive Brokers",
     "KeyCorp",
     "Northern Trust",
     "US Bancorp",
