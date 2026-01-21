@@ -286,12 +286,21 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Eaton Corporation PLC",
+      "symbol": "ETN",
+      "date": "2026-01-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 31,
+  "count": 32,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-21T13:01:11Z",
+  "generatedAt": "2026-01-21T15:57:53Z",
   "irCompanies": [
     "Honeywell",
     "Parker-Hannifin Corp",
@@ -307,6 +316,7 @@
     "CH Robinson Worldwide Inc",
     "Caterpillar",
     "Dover Corp",
+    "Eaton Corporation PLC",
     "General Dynamics Corp",
     "JetBlue",
     "L3Harris Technologies Inc",

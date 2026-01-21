@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2026-01-21",
+      "bmo_amc": "9:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EST",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "McCormick & Co",
       "symbol": "MKC",
       "date": "2026-01-22",
@@ -19,11 +30,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-21T13:01:01Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-21T15:57:45Z",
+  "irCompanies": [
+    "Norwegian Cruise Line"
+  ],
   "fallbackCompanies": [
     "McCormick & Co",
     "Procter & Gamble"

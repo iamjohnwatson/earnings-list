@@ -49,29 +49,40 @@
       "company": "Charles Schwab",
       "symbol": "SCHW",
       "date": "2026-01-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-01-21",
-      "bmo_amc": "10:40 AM",
+      "bmo_amc": "9:00 A.M.",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "10:40 AM ",
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 a.m. ",
       "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Fiserv",
+      "symbol": "FI",
+      "date": "2026-01-21",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EST",
+      "ir_source_url": "https://investors.fiserv.com/",
       "source": "investor_relations"
     },
     {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-01-21",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://ir.truist.com/",
       "source": "investor_relations"
@@ -106,15 +117,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-21T13:01:01Z",
+  "generatedAt": "2026-01-21T15:57:45Z",
   "irCompanies": [
     "Citizens Financial",
+    "Fiserv",
     "Huntington Bancshares",
     "Truist Financial"
   ],
