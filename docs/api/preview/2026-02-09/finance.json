@@ -88,6 +88,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Fiserv",
+      "symbol": "FI",
+      "date": "2026-02-10",
+      "bmo_amc": "7:00 AM CT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:00 AM CT",
+      "ir_source_url": "https://investors.fiserv.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "JPMorgan",
       "symbol": "JPM",
       "date": "2026-02-10",
@@ -182,17 +193,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-20T21:49:40Z",
+  "generatedAt": "2026-01-21T01:31:14Z",
   "irCompanies": [
     "Apollo",
     "Arch Capital Group",
     "Cincinnati Financial",
+    "Fiserv",
     "JPMorgan",
     "Wells Fargo"
   ],

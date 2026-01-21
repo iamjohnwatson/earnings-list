@@ -4,18 +4,18 @@
       "company": "Halliburton",
       "symbol": "HAL",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Kinder Morgan",
       "symbol": "KMI",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -40,7 +40,7 @@
   "count": 4,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-20T21:49:14Z",
+  "generatedAt": "2026-01-21T01:30:45Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Freeport McMoRan",

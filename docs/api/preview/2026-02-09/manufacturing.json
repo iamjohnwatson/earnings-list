@@ -49,10 +49,12 @@
       "company": "MGM Resorts International",
       "symbol": "MGM",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "2:00PM",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "2:00pm",
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Martin Marietta Materials Inc",
@@ -148,8 +150,10 @@
   "count": 16,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-20T21:49:41Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-21T01:31:14Z",
+  "irCompanies": [
+    "MGM Resorts International"
+  ],
   "fallbackCompanies": [
     "Air Lease",
     "Airbnb Inc",
@@ -160,7 +164,6 @@
     "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Ingersoll Rand Inc",
-    "MGM Resorts International",
     "Magna International",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",

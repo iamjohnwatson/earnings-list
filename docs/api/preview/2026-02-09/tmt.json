@@ -40,10 +40,12 @@
       "company": "Lyft",
       "symbol": "LYFT",
       "date": "2026-02-10",
-      "bmo_amc": "TBD",
+      "bmo_amc": "5:00 PM EST",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "5:00 pm EST",
+      "ir_source_url": "https://investor.lyft.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Shopify",
@@ -85,10 +87,12 @@
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "5:30 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "5:30 PM ET",
+      "ir_source_url": "https://investor.equinix.com/",
+      "source": "investor_relations"
     },
     {
       "company": "GlobalFoundries",
@@ -238,8 +242,11 @@
   "count": 26,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-20T21:49:41Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-21T01:31:14Z",
+  "irCompanies": [
+    "Equinix",
+    "Lyft"
+  ],
   "fallbackCompanies": [
     "AppLovin",
     "Applied Materials",
@@ -247,12 +254,10 @@
     "Cisco Systems",
     "CoreWeave",
     "Datadog",
-    "Equinix",
     "Freshworks",
     "GlobalFoundries",
     "GoDaddy",
     "Iron Mountain",
-    "Lyft",
     "Motorola",
     "Onsemi",
     "Palo Alto",

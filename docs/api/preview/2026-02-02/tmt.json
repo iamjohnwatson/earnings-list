@@ -121,10 +121,12 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Teradyne",
@@ -341,9 +343,10 @@
   "count": 37,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-20T21:49:32Z",
+  "generatedAt": "2026-01-21T01:31:04Z",
   "irCompanies": [
     "SiriusXM",
+    "Take-Two Interactive",
     "Teradyne"
   ],
   "fallbackCompanies": [
@@ -377,7 +380,6 @@
     "Roblox",
     "Skyworks Solutions",
     "Snap",
-    "Take-Two Interactive",
     "Teradyne",
     "Uber",
     "VeriSign",

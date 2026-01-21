@@ -1,14 +1,14 @@
 {
   "records": [
     {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-03-05",
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-03-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
       "company": "New Fortress Energy",
@@ -49,86 +49,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-03-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Crowdstrike",
-      "symbol": "CRWD",
-      "date": "2026-03-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Sea Limited",
-      "symbol": "SE",
-      "date": "2026-03-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Marvell",
-      "symbol": "MRVL",
-      "date": "2026-03-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Zscaler",
-      "symbol": "ZS",
-      "date": "2026-03-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Broadcom",
-      "symbol": "AVGO",
-      "date": "2026-03-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "HPE",
-      "symbol": "HPE",
-      "date": "2026-03-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "JD.com",
-      "symbol": "JD",
-      "date": "2026-03-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
     },
     {
       "company": "Best Buy Co Inc",
@@ -199,6 +119,86 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Crowdstrike",
+      "symbol": "CRWD",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Sea Limited",
+      "symbol": "SE",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Marvell",
+      "symbol": "MRVL",
+      "date": "2026-03-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Zscaler",
+      "symbol": "ZS",
+      "date": "2026-03-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Broadcom",
+      "symbol": "AVGO",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "JD.com",
+      "symbol": "JD",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
   "count": 20,
@@ -207,7 +207,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-20T21:50:08Z",
+  "generatedAt": "2026-01-21T01:31:44Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Autozone Inc",

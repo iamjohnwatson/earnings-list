@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "Comerica Inc",
-      "symbol": "CMA",
-      "date": "2026-01-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.comerica.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Fifth Third Bancorp",
       "symbol": "FITB",
       "date": "2026-01-20",
@@ -21,26 +10,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Fiserv",
-      "symbol": "FI",
-      "date": "2026-01-20",
-      "bmo_amc": "8:01 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:01 AM EST",
-      "ir_source_url": "https://investors.fiserv.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Interactive Brokers",
       "symbol": "IBKR",
       "date": "2026-01-20",
-      "bmo_amc": "4:30PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:30pm ET",
-      "ir_source_url": "https://investors.interactivebrokers.com/ir/main.php",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "KeyCorp",
@@ -64,18 +40,18 @@
       "company": "Zions Bancorporation",
       "symbol": "ZION",
       "date": "2026-01-20",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Charles Schwab",
       "symbol": "SCHW",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -84,7 +60,7 @@
       "date": "2026-01-21",
       "bmo_amc": "10:40 AM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "10:40 AM ",
       "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
       "source": "investor_relations"
@@ -93,9 +69,9 @@
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://ir.truist.com/",
       "source": "investor_relations"
@@ -139,19 +115,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-20T21:49:14Z",
+  "generatedAt": "2026-01-21T01:30:43Z",
   "irCompanies": [
     "Citizens Financial",
-    "Comerica Inc",
-    "Fiserv",
     "Huntington Bancshares",
-    "Interactive Brokers",
     "Truist Financial"
   ],
   "fallbackCompanies": [
@@ -159,6 +132,7 @@
     "Charles Schwab",
     "Comerica Inc",
     "Fifth Third Bancorp",
+    "Interactive Brokers",
     "KeyCorp",
     "Northern Trust",
     "US Bancorp",

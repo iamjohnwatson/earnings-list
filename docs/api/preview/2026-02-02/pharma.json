@@ -80,10 +80,12 @@
       "company": "Bio-Techne Corp",
       "symbol": "TECH",
       "date": "2026-02-04",
-      "bmo_amc": "TBD",
+      "bmo_amc": "9:00AM EST",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00am EST",
+      "ir_source_url": "https://investors.bio-techne.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Boston Scientific Corp",
@@ -210,8 +212,9 @@
   "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-20T21:49:32Z",
+  "generatedAt": "2026-01-21T01:31:04Z",
   "irCompanies": [
+    "Bio-Techne Corp",
     "Boston Scientific Corp",
     "Centene Corp",
     "IDEXX Laboratories Inc",
@@ -221,7 +224,6 @@
     "Aflac Inc",
     "Amgen Inc",
     "Becton Dickinson and Co",
-    "Bio-Techne Corp",
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
     "Cencora Inc",
