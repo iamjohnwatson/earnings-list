@@ -58,10 +58,10 @@
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-01-21",
-      "bmo_amc": "9:00 A.M.",
+      "bmo_amc": "10:30 AM UBS",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 a.m. ",
+      "ir_time_label": "10:30 AM UBS",
       "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
       "source": "investor_relations"
     },
@@ -115,15 +115,24 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Comerica Inc",
+      "symbol": "CMA",
+      "date": "2026-01-23",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-21T19:06:11Z",
+  "generatedAt": "2026-01-21T21:57:09Z",
   "irCompanies": [
     "Citizens Financial",
     "Fiserv",
@@ -133,6 +142,7 @@
   "fallbackCompanies": [
     "Capital One Financial",
     "Charles Schwab",
+    "Comerica Inc",
     "Fifth Third Bancorp",
     "Interactive Brokers",
     "KeyCorp",

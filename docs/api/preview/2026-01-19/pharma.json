@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "DaVita Inc",
+      "symbol": "DVA",
+      "date": "2026-01-21",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.davita.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2026-01-21",
@@ -28,11 +39,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-21T19:06:10Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-21T21:57:09Z",
+  "irCompanies": [
+    "DaVita Inc"
+  ],
   "fallbackCompanies": [
     "Abbott Laboratories",
     "Intuitive Surgical Inc",
