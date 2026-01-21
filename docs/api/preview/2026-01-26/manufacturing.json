@@ -213,12 +213,10 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-01-29",
-      "bmo_amc": "8:30 A.M. ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "L3Harris Technologies Inc",
@@ -286,23 +284,13 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Eaton Corporation PLC",
-      "symbol": "ETN",
-      "date": "2026-01-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     }
   ],
-  "count": 32,
+  "count": 31,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-21T15:57:53Z",
+  "generatedAt": "2026-01-21T19:06:20Z",
   "irCompanies": [
-    "Honeywell",
     "Parker-Hannifin Corp",
     "Southwest Airlines Co",
     "UPS"
@@ -316,8 +304,8 @@
     "CH Robinson Worldwide Inc",
     "Caterpillar",
     "Dover Corp",
-    "Eaton Corporation PLC",
     "General Dynamics Corp",
+    "Honeywell",
     "JetBlue",
     "L3Harris Technologies Inc",
     "Lockheed Martin",

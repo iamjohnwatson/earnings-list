@@ -12,6 +12,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2026-01-21",
+      "bmo_amc": "11:46 AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:46 am ",
+      "ir_source_url": "https://www.rclinvestor.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "McCormick & Co",
       "symbol": "MKC",
       "date": "2026-01-22",
@@ -30,12 +41,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-21T15:57:45Z",
+  "generatedAt": "2026-01-21T19:06:10Z",
   "irCompanies": [
-    "Norwegian Cruise Line"
+    "Norwegian Cruise Line",
+    "Royal Caribbean Group"
   ],
   "fallbackCompanies": [
     "McCormick & Co",

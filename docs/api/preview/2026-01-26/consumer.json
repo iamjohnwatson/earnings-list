@@ -69,12 +69,10 @@
       "company": "Royal Caribbean Group",
       "symbol": "RCL",
       "date": "2026-01-29",
-      "bmo_amc": "10:00AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:00AM ET",
-      "ir_source_url": "https://www.rclinvestor.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Tractor Supply Co",
@@ -107,9 +105,8 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-21T15:57:54Z",
+  "generatedAt": "2026-01-21T19:06:20Z",
   "irCompanies": [
-    "Royal Caribbean Group",
     "Sysco Corp"
   ],
   "fallbackCompanies": [
@@ -119,6 +116,7 @@
     "Deckers Outdoors",
     "International Paper Co",
     "Kimberly Clark Corp",
+    "Royal Caribbean Group",
     "Starbucks Corp",
     "Tractor Supply Co",
     "VF Corp"
