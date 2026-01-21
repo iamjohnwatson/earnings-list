@@ -67,8 +67,8 @@
       "company": "Gartner",
       "symbol": "IT",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -105,6 +105,15 @@
       "date": "2026-02-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Skyworks Solutions",
+      "symbol": "SWKS",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -205,15 +214,6 @@
     {
       "company": "Qualcomm",
       "symbol": "QCOM",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Skyworks Solutions",
-      "symbol": "SWKS",
       "date": "2026-02-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -343,7 +343,7 @@
   "count": 37,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-21T10:00:51Z",
+  "generatedAt": "2026-01-21T13:01:21Z",
   "irCompanies": [
     "SiriusXM",
     "Take-Two Interactive",

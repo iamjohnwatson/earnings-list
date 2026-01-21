@@ -42,8 +42,17 @@
       "company": "Kraft Heinz Co",
       "symbol": "KHC",
       "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "McDonald\u2019s Corp",
+      "symbol": "MCD",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -84,10 +93,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-21T10:01:01Z",
+  "generatedAt": "2026-01-21T13:01:31Z",
   "irCompanies": [
     "Coca-Cola Co"
   ],

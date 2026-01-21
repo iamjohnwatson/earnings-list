@@ -122,6 +122,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Tower Semiconductor",
+      "symbol": "TSEM",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Trade Desk",
       "symbol": "TTD",
       "date": "2026-02-11",
@@ -239,10 +248,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-21T10:01:01Z",
+  "generatedAt": "2026-01-21T13:01:32Z",
   "irCompanies": [
     "Equinix",
     "Lyft"

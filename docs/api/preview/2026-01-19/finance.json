@@ -104,24 +104,15 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Comerica Inc",
-      "symbol": "CMA",
-      "date": "2026-01-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 11,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-21T10:00:33Z",
+  "generatedAt": "2026-01-21T13:01:01Z",
   "irCompanies": [
     "Citizens Financial",
     "Huntington Bancshares",
@@ -130,7 +121,6 @@
   "fallbackCompanies": [
     "Capital One Financial",
     "Charles Schwab",
-    "Comerica Inc",
     "Fifth Third Bancorp",
     "Interactive Brokers",
     "KeyCorp",
