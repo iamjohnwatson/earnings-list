@@ -89,10 +89,12 @@
       "company": "Estee Lauder",
       "symbol": "EL",
       "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "08:30AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "08:30AM ET",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Hershey Co",
@@ -143,15 +145,15 @@
   "count": 15,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-21T06:59:19Z",
+  "generatedAt": "2026-01-21T10:00:51Z",
   "irCompanies": [
     "Ball Corp",
-    "Chipotle Mexican Grill"
+    "Chipotle Mexican Grill",
+    "Estee Lauder"
   ],
   "fallbackCompanies": [
     "Amcor PLC",
     "Clorox Co",
-    "Estee Lauder",
     "Hershey Co",
     "Mondelez International",
     "PepsiCo Inc",
