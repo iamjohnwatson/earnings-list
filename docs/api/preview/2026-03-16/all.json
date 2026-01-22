@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "General Mills",
-      "symbol": "GIS",
-      "date": "2026-03-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-03-17",
@@ -29,6 +19,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "General Mills",
+      "symbol": "GIS",
+      "date": "2026-03-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 3,
@@ -37,7 +37,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-22T15:59:43Z",
+  "generatedAt": "2026-01-22T18:56:50Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "General Mills",

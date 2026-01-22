@@ -1,6 +1,16 @@
 {
   "records": [
     {
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2026-03-03",
@@ -69,6 +79,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
       "company": "Best Buy Co Inc",
@@ -141,16 +161,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-03-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "New Fortress Energy",
       "symbol": "NFE",
       "date": "2026-03-02",
@@ -189,16 +199,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-03-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
   "count": 20,
@@ -207,7 +207,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-22T15:59:22Z",
+  "generatedAt": "2026-01-22T18:56:30Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Autozone Inc",

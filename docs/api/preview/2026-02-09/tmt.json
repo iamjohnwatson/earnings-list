@@ -19,15 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Datadog",
-      "symbol": "DDOG",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Freshworks",
       "symbol": "FRSH",
       "date": "2026-02-10",
@@ -41,7 +32,7 @@
       "symbol": "LYFT",
       "date": "2026-02-10",
       "bmo_amc": "5:00 PM EST",
-      "nasdaq_time_label": "time-after-hours",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "ir_time_label": "5:00 pm EST",
       "ir_source_url": "https://investor.lyft.com/",
@@ -239,10 +230,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-22T15:58:50Z",
+  "generatedAt": "2026-01-22T18:56:01Z",
   "irCompanies": [
     "Equinix",
     "Lyft"
@@ -253,7 +244,6 @@
     "Arista Networks",
     "Cisco Systems",
     "CoreWeave",
-    "Datadog",
     "Freshworks",
     "GlobalFoundries",
     "GoDaddy",
