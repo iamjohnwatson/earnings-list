@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Vertex Pharmaceuticals Inc",
-      "symbol": "VRTX",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "CVS Health Corp",
       "symbol": "CVS",
       "date": "2026-02-10",
@@ -64,15 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Waters Corp",
-      "symbol": "WAT",
-      "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "DaVita Inc",
       "symbol": "DVA",
       "date": "2026-02-12",
@@ -118,10 +100,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-22T18:56:01Z",
+  "generatedAt": "2026-01-22T21:51:15Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "CVS Health Corp",
