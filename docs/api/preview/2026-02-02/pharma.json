@@ -108,6 +108,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Eli Lilly and Co",
+      "symbol": "LLY",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "GE HealthCare Technologies Inc",
       "symbol": "GEHC",
       "date": "2026-02-04",
@@ -192,22 +201,19 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-02-06",
-      "bmo_amc": "9:00AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-22T13:01:35Z",
+  "generatedAt": "2026-01-22T15:58:40Z",
   "irCompanies": [
     "Bio-Techne Corp",
     "Boston Scientific Corp",
-    "Centene Corp",
     "IDEXX Laboratories Inc",
     "Merck"
   ],
@@ -218,7 +224,9 @@
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
     "Cencora Inc",
+    "Centene Corp",
     "Cigna",
+    "Eli Lilly and Co",
     "GE HealthCare Technologies Inc",
     "Healthpeak Properties",
     "IQVIA Holdings Inc",

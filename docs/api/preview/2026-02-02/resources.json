@@ -46,6 +46,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Suncor Energy",
+      "symbol": "SU",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "WEC Energy Group Inc",
       "symbol": "WEC",
       "date": "2026-02-03",
@@ -78,15 +87,6 @@
       "date": "2026-02-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Suncor Energy",
-      "symbol": "SU",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -139,7 +139,7 @@
   "count": 15,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-22T13:01:34Z",
+  "generatedAt": "2026-01-22T15:58:39Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Archer-Daniels-Midland",

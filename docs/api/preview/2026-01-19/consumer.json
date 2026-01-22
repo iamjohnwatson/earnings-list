@@ -4,18 +4,18 @@
       "company": "McCormick & Co",
       "symbol": "MKC",
       "date": "2026-01-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Procter & Gamble",
       "symbol": "PG",
       "date": "2026-01-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -33,7 +33,7 @@
   "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-22T13:01:12Z",
+  "generatedAt": "2026-01-22T15:58:20Z",
   "irCompanies": [
     "Target Corp"
   ],

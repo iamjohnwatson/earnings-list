@@ -24,18 +24,30 @@
       "company": "Mobileye",
       "symbol": "MBLY",
       "date": "2026-01-22",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-01-22",
+      "bmo_amc": "10:37 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:37 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-22T13:01:13Z",
+  "generatedAt": "2026-01-22T15:58:19Z",
   "irCompanies": [
-    "Intel"
+    "Intel",
+    "Take-Two Interactive"
   ],
   "fallbackCompanies": [
     "Mobileye",
