@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Eaton Corporation PLC",
+      "symbol": "ETN",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Emerson Electric Co",
       "symbol": "EMR",
       "date": "2026-02-03",
@@ -274,10 +283,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-22T01:31:27Z",
+  "generatedAt": "2026-01-22T04:43:19Z",
   "irCompanies": [
     "Emerson Electric Co",
     "Fortive Corp",
@@ -291,6 +300,7 @@
     "Aptiv PLC",
     "Camden Property Trust",
     "Carrier Global Corp",
+    "Eaton Corporation PLC",
     "Equity Residential",
     "Essex Property Trust Inc",
     "Ford Motor Co",

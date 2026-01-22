@@ -67,8 +67,8 @@
       "company": "Gartner",
       "symbol": "IT",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -105,6 +105,15 @@
       "date": "2026-02-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Skyworks Solutions",
+      "symbol": "SWKS",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -344,10 +353,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 37,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-22T01:31:27Z",
+  "generatedAt": "2026-01-22T04:43:19Z",
   "irCompanies": [
     "Fox Corp",
     "Qualcomm",
@@ -383,6 +392,7 @@
     "Palantir",
     "Reddit",
     "Roblox",
+    "Skyworks Solutions",
     "Snap",
     "Teradyne",
     "Uber",
