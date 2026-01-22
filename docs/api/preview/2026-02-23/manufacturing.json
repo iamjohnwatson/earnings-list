@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Public Storage",
-      "symbol": "PSA",
-      "date": "2026-02-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Realty Income Corp",
       "symbol": "O",
       "date": "2026-02-23",
@@ -33,15 +24,6 @@
       "date": "2026-02-24",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Extra Space Storage Inc",
-      "symbol": "EXR",
-      "date": "2026-02-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -73,18 +55,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-22T10:00:47Z",
+  "generatedAt": "2026-01-22T13:02:06Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Axon Enterprise Inc",
     "Expeditors International of Washington Inc",
-    "Extra Space Storage Inc",
     "Invitation Homes Inc",
     "Keysight Technologies Inc",
-    "Public Storage",
     "Realty Income Corp",
     "VICI Properties Inc"
   ],

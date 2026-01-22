@@ -31,8 +31,17 @@
       "company": "ONEOK",
       "symbol": "OKE",
       "date": "2026-02-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Ovintiv",
+      "symbol": "OVV",
+      "date": "2026-02-23",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,8 +103,8 @@
       "company": "APA",
       "symbol": "APA",
       "date": "2026-02-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -111,15 +120,6 @@
     {
       "company": "NRG Energy",
       "symbol": "NRG",
-      "date": "2026-02-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Ovintiv",
-      "symbol": "OVV",
       "date": "2026-02-25",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -166,7 +166,7 @@
   "count": 18,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-22T10:00:48Z",
+  "generatedAt": "2026-01-22T13:02:06Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",

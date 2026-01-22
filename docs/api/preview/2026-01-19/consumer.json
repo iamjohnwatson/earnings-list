@@ -17,13 +17,26 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
       "source": "aggregator"
+    },
+    {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.target.com/investors",
+      "source": "investor_relations"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-22T10:00:03Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-22T13:01:12Z",
+  "irCompanies": [
+    "Target Corp"
+  ],
   "fallbackCompanies": [
     "McCormick & Co",
     "Procter & Gamble"

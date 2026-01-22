@@ -37,15 +37,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Hasbro Inc",
-      "symbol": "HAS",
-      "date": "2026-02-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Walmart Inc",
       "symbol": "WMT",
       "date": "2026-02-19",
@@ -55,15 +46,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-22T10:00:38Z",
+  "generatedAt": "2026-01-22T13:01:55Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "DoorDash",
     "Etsy Inc",
-    "Hasbro Inc",
     "International Flavours & Fragrances",
     "Molson Coors Beverage Co",
     "Walmart Inc"

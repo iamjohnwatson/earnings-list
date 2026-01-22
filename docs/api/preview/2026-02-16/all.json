@@ -1,66 +1,6 @@
 {
   "records": [
     {
-      "company": "International Flavours & Fragrances",
-      "symbol": "IFF",
-      "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "DoorDash",
-      "symbol": "DASH",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Etsy Inc",
-      "symbol": "ETSY",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Molson Coors Beverage Co",
-      "symbol": "TAP",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Hasbro Inc",
-      "symbol": "HAS",
-      "date": "2026-02-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Walmart Inc",
-      "symbol": "WMT",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Celanese",
       "symbol": "CE",
       "date": "2026-02-17",
@@ -184,8 +124,8 @@
       "company": "Alliant Energy",
       "symbol": "LNT",
       "date": "2026-02-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
@@ -204,8 +144,8 @@
       "company": "CenterPoint Energy",
       "symbol": "CNP",
       "date": "2026-02-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
@@ -291,6 +231,46 @@
       "sector": "Resources"
     },
     {
+      "company": "Labcorp Holdings Inc",
+      "symbol": "LH",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Charles River Labs",
+      "symbol": "CRL",
+      "date": "2026-02-18",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Insulet",
+      "symbol": "PODD",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Caesars Entertainment Inc",
       "symbol": "CZR",
       "date": "2026-02-17",
@@ -366,6 +346,16 @@
       "date": "2026-02-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Extra Space Storage Inc",
+      "symbol": "EXR",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -501,44 +491,54 @@
       "sector": "TMT"
     },
     {
-      "company": "Labcorp Holdings Inc",
-      "symbol": "LH",
+      "company": "International Flavours & Fragrances",
+      "symbol": "IFF",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "DoorDash",
+      "symbol": "DASH",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Charles River Labs",
-      "symbol": "CRL",
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
       "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Insulet",
-      "symbol": "PODD",
+      "company": "Molson Coors Beverage Co",
+      "symbol": "TAP",
       "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Walmart Inc",
+      "symbol": "WMT",
+      "date": "2026-02-19",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     }
   ],
   "count": 54,
@@ -547,7 +547,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-22T10:00:39Z",
+  "generatedAt": "2026-01-22T13:01:55Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -575,11 +575,11 @@
     "Energy Transfer",
     "Entergy Corp",
     "Etsy Inc",
+    "Extra Space Storage Inc",
     "First Energy",
     "Garmin",
     "Grab",
     "HF Sinclair",
-    "Hasbro Inc",
     "Hawaiian Electric",
     "Host Hotels & Resorts Inc",
     "Insulet",

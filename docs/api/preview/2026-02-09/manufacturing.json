@@ -129,6 +129,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Public Storage",
+      "symbol": "PSA",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Wynn Resorts Ltd",
       "symbol": "WYNN",
       "date": "2026-02-12",
@@ -147,10 +156,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-22T10:00:30Z",
+  "generatedAt": "2026-01-22T13:01:45Z",
   "irCompanies": [
     "MGM Resorts International"
   ],
@@ -167,6 +176,7 @@
     "Magna International",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",
+    "Public Storage",
     "Rockwell Automation Inc",
     "Wabtec",
     "Wynn Resorts Ltd"

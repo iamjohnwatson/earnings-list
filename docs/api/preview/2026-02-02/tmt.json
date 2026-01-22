@@ -300,14 +300,23 @@
       "company": "Microchip Tech",
       "symbol": "MCHP",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Monolithic Power",
       "symbol": "MPWR",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "News Corp",
+      "symbol": "NWSA",
       "date": "2026-02-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
@@ -353,10 +362,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 38,
+  "count": 39,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-22T10:00:21Z",
+  "generatedAt": "2026-01-22T13:01:35Z",
   "irCompanies": [
     "Fox Corp",
     "Qualcomm",
