@@ -121,10 +121,12 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Teradyne",
@@ -172,6 +174,17 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Fox Corp",
+      "symbol": "FOXA",
+      "date": "2026-02-04",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EST",
+      "ir_source_url": "https://investor.foxcorporation.com/",
+      "source": "investor_relations"
     },
     {
       "company": "NYT",
@@ -331,13 +344,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 36,
+  "count": 37,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-21T21:57:27Z",
+  "generatedAt": "2026-01-22T01:31:27Z",
   "irCompanies": [
+    "Fox Corp",
     "Qualcomm",
     "SiriusXM",
+    "Take-Two Interactive",
     "Teradyne"
   ],
   "fallbackCompanies": [
@@ -369,7 +384,6 @@
     "Reddit",
     "Roblox",
     "Snap",
-    "Take-Two Interactive",
     "Teradyne",
     "Uber",
     "VeriSign",

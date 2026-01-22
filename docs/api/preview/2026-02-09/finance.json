@@ -79,6 +79,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Citizens Financial",
+      "symbol": "CFG",
+      "date": "2026-02-10",
+      "bmo_amc": "10:30 AM UBS",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:30 AM UBS",
+      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
+      "source": "investor_relations"
+    },
+    {
       "company": "Fidelity National Information Services",
       "symbol": "FIS",
       "date": "2026-02-10",
@@ -182,17 +193,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-21T21:57:37Z",
+  "generatedAt": "2026-01-22T01:31:37Z",
   "irCompanies": [
     "Apollo",
     "Arch Capital Group",
     "Cincinnati Financial",
+    "Citizens Financial",
     "JPMorgan",
     "Wells Fargo"
   ],

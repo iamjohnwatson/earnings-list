@@ -1,38 +1,14 @@
 {
-  "records": [
-    {
-      "company": "Tencent Music",
-      "symbol": "TME",
-      "date": "2026-03-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Xpeng",
-      "symbol": "XPEV",
-      "date": "2026-03-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    }
-  ],
-  "count": 2,
+  "records": [],
+  "count": 0,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-21T21:58:25Z",
+  "generatedAt": "2026-01-22T01:32:26Z",
   "irCompanies": [],
-  "fallbackCompanies": [
-    "Tencent Music",
-    "Xpeng"
-  ],
+  "fallbackCompanies": [],
   "week": {
     "id": "2026-03-16",
     "start_date": "2026-03-16",

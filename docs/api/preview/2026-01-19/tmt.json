@@ -10,34 +10,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Fox Corp",
-      "symbol": "FOXA",
-      "date": "2026-01-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.foxcorporation.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-01-21",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Intel",
       "symbol": "INTC",
       "date": "2026-01-22",
       "bmo_amc": "2:00 PM PT",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "2:00 PM PT",
       "ir_source_url": "https://www.intc.com/",
       "source": "investor_relations"
@@ -46,20 +24,18 @@
       "company": "Mobileye",
       "symbol": "MBLY",
       "date": "2026-01-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-21T21:57:09Z",
+  "generatedAt": "2026-01-22T01:31:08Z",
   "irCompanies": [
-    "Fox Corp",
-    "Intel",
-    "Take-Two Interactive"
+    "Intel"
   ],
   "fallbackCompanies": [
     "Mobileye",

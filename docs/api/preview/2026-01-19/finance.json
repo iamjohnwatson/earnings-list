@@ -58,23 +58,10 @@
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-01-21",
-      "bmo_amc": "10:30 AM UBS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:30 AM UBS",
-      "ir_source_url": "https://investor.citizensbank.com/about-us/investor-relations.aspx",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Fiserv",
-      "symbol": "FI",
-      "date": "2026-01-21",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM EST",
-      "ir_source_url": "https://investors.fiserv.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Truist Financial",
@@ -83,17 +70,15 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Capital One Financial",
       "symbol": "COF",
       "date": "2026-01-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -102,7 +87,7 @@
       "date": "2026-01-22",
       "bmo_amc": "9:00 AM EST",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "9:00 am EST",
       "ir_source_url": "https://ir.huntington.com/",
       "source": "investor_relations"
@@ -111,42 +96,31 @@
       "company": "Northern Trust",
       "symbol": "NTRS",
       "date": "2026-01-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Comerica Inc",
-      "symbol": "CMA",
-      "date": "2026-01-23",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 11,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-21T21:57:09Z",
+  "generatedAt": "2026-01-22T01:31:08Z",
   "irCompanies": [
-    "Citizens Financial",
-    "Fiserv",
-    "Huntington Bancshares",
-    "Truist Financial"
+    "Huntington Bancshares"
   ],
   "fallbackCompanies": [
     "Capital One Financial",
     "Charles Schwab",
-    "Comerica Inc",
+    "Citizens Financial",
     "Fifth Third Bancorp",
     "Interactive Brokers",
     "KeyCorp",
     "Northern Trust",
+    "Truist Financial",
     "US Bancorp",
     "Zions Bancorporation"
   ],

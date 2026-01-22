@@ -1,54 +1,29 @@
 {
   "records": [
     {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-01-21",
-      "bmo_amc": "9:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EST",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Royal Caribbean Group",
-      "symbol": "RCL",
-      "date": "2026-01-21",
-      "bmo_amc": "11:46 AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:46 am ",
-      "ir_source_url": "https://www.rclinvestor.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "McCormick & Co",
       "symbol": "MKC",
       "date": "2026-01-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Procter & Gamble",
       "symbol": "PG",
       "date": "2026-01-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-21T21:57:08Z",
-  "irCompanies": [
-    "Norwegian Cruise Line",
-    "Royal Caribbean Group"
-  ],
+  "generatedAt": "2026-01-22T01:31:07Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "McCormick & Co",
     "Procter & Gamble"

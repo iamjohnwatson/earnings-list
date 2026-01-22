@@ -28,26 +28,13 @@
       "source": "aggregator"
     },
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-01-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.lennar.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Prologis Inc",
       "symbol": "PLD",
       "date": "2026-01-21",
-      "bmo_amc": "8:00 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM EST",
-      "ir_source_url": "https://ir.prologis.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "TE Connectivity Ltd",
@@ -71,38 +58,35 @@
       "company": "Alaska Air",
       "symbol": "ALK",
       "date": "2026-01-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "CSX Corp",
       "symbol": "CSX",
       "date": "2026-01-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "GE Aerospace",
       "symbol": "GE",
       "date": "2026-01-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-21T21:57:09Z",
-  "irCompanies": [
-    "Lennar Corp",
-    "Prologis Inc"
-  ],
+  "generatedAt": "2026-01-22T01:31:08Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "3M Co",
     "Alaska Air",
@@ -110,6 +94,7 @@
     "DR Horton Inc",
     "Fastenal Co",
     "GE Aerospace",
+    "Prologis Inc",
     "TE Connectivity Ltd",
     "Teledyne Technologies Inc"
   ],

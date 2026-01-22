@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "DaVita Inc",
-      "symbol": "DVA",
-      "date": "2026-01-21",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.davita.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2026-01-21",
@@ -24,28 +13,26 @@
       "company": "Abbott Laboratories",
       "symbol": "ABT",
       "date": "2026-01-22",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Intuitive Surgical Inc",
       "symbol": "ISRG",
       "date": "2026-01-22",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-21T21:57:09Z",
-  "irCompanies": [
-    "DaVita Inc"
-  ],
+  "generatedAt": "2026-01-22T01:31:07Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",
     "Intuitive Surgical Inc",
