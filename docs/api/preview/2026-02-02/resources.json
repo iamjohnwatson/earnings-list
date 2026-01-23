@@ -46,15 +46,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Suncor Energy",
-      "symbol": "SU",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "WEC Energy Group Inc",
       "symbol": "WEC",
       "date": "2026-02-03",
@@ -136,10 +127,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-22T21:51:05Z",
+  "generatedAt": "2026-01-23T01:31:37Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Archer-Daniels-Midland",
@@ -154,7 +145,6 @@
     "Linde",
     "Marathon Petroleum",
     "Phillips 66",
-    "Suncor Energy",
     "WEC Energy Group Inc",
     "Xcel Energy Inc"
   ],

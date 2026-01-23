@@ -19,33 +19,20 @@
       "source": "aggregator"
     },
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Intuitive Surgical Inc",
       "symbol": "ISRG",
       "date": "2026-01-22",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-22T21:50:45Z",
-  "irCompanies": [
-    "Centene Corp"
-  ],
+  "generatedAt": "2026-01-23T01:31:18Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",
     "Intuitive Surgical Inc",

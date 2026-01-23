@@ -12,15 +12,6 @@
       "source": "investor_relations"
     },
     {
-      "company": "Hasbro Inc",
-      "symbol": "HAS",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Masco Corp",
       "symbol": "MAS",
       "date": "2026-02-10",
@@ -93,17 +84,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-22T21:51:15Z",
+  "generatedAt": "2026-01-23T01:31:47Z",
   "irCompanies": [
     "Coca-Cola Co"
   ],
   "fallbackCompanies": [
     "Coca-Cola Europacific",
     "Federal Realty Investment Trust",
-    "Hasbro Inc",
     "Kimco Realty Corp",
     "Kraft Heinz Co",
     "Masco Corp",

@@ -58,18 +58,18 @@
       "company": "Alaska Air",
       "symbol": "ALK",
       "date": "2026-01-22",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "CSX Corp",
       "symbol": "CSX",
       "date": "2026-01-22",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -80,26 +80,13 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
     }
   ],
-  "count": 10,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-22T21:50:44Z",
-  "irCompanies": [
-    "MGM Resorts International"
-  ],
+  "generatedAt": "2026-01-23T01:31:17Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "3M Co",
     "Alaska Air",
