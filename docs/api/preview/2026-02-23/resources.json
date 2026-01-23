@@ -103,8 +103,8 @@
       "company": "APA",
       "symbol": "APA",
       "date": "2026-02-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -120,15 +120,6 @@
     {
       "company": "NRG Energy",
       "symbol": "NRG",
-      "date": "2026-02-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Ovintiv",
-      "symbol": "OVV",
       "date": "2026-02-25",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
@@ -172,10 +163,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-23T01:32:05Z",
+  "generatedAt": "2026-01-23T04:38:39Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
