@@ -80,13 +80,26 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-01-23",
+      "bmo_amc": "12:43PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "12:43pm EST",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-23T15:52:13Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-23T18:55:27Z",
+  "irCompanies": [
+    "Southwest Airlines Co"
+  ],
   "fallbackCompanies": [
     "3M Co",
     "Alaska Air",
