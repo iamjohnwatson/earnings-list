@@ -171,20 +171,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Eli Lilly and Co",
-      "symbol": "LLY",
-      "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "IQVIA Holdings Inc",
       "symbol": "IQV",
       "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -218,10 +209,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 23,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-23T06:57:09Z",
+  "generatedAt": "2026-01-23T09:57:16Z",
   "irCompanies": [
     "Bio-Techne Corp",
     "Boston Scientific Corp",
