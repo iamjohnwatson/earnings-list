@@ -46,8 +46,26 @@
       "source": "aggregator"
     },
     {
+      "company": "Booking Holdings Inc",
+      "symbol": "BKNG",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Host Hotels & Resorts Inc",
       "symbol": "HST",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Invitation Homes Inc",
+      "symbol": "INVH",
       "date": "2026-02-18",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
@@ -58,15 +76,6 @@
       "company": "Nordson Corp",
       "symbol": "NDSN",
       "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Booking Holdings Inc",
-      "symbol": "BKNG",
-      "date": "2026-02-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
@@ -100,10 +109,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-23T09:57:34Z",
+  "generatedAt": "2026-01-23T13:01:56Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "American Water Works",
@@ -111,6 +120,7 @@
     "Caesars Entertainment Inc",
     "Extra Space Storage Inc",
     "Host Hotels & Resorts Inc",
+    "Invitation Homes Inc",
     "Leidos Holdings Inc",
     "Nordson Corp",
     "Pool Corp",

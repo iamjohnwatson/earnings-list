@@ -67,8 +67,17 @@
       "company": "CF Industries",
       "symbol": "CF",
       "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Edison International",
+      "symbol": "EIX",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +112,8 @@
       "company": "Texas Pacific Land",
       "symbol": "TPL",
       "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -197,21 +206,12 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Hawaiian Electric",
-      "symbol": "HE",
-      "date": "2026-02-20",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
     }
   ],
   "count": 23,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-23T09:57:33Z",
+  "generatedAt": "2026-01-23T13:01:56Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alliant Energy",
@@ -224,11 +224,11 @@
     "Constellation Energy",
     "Devon Energy",
     "EQT Corp",
+    "Edison International",
     "Energy Transfer",
     "Entergy Corp",
     "First Energy",
     "HF Sinclair",
-    "Hawaiian Electric",
     "MP Materials",
     "Newmont Corp",
     "Nutrien",

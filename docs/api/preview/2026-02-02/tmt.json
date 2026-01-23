@@ -55,15 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Fox Corp",
-      "symbol": "FOXA",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Gartner",
       "symbol": "IT",
       "date": "2026-02-03",
@@ -167,6 +158,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Crown Castle",
+      "symbol": "CCI",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Dayforce",
       "symbol": "DAY",
       "date": "2026-02-04",
@@ -180,7 +180,7 @@
       "symbol": "FOXA",
       "date": "2026-02-04",
       "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "ir_time_label": "8:30 AM EST",
       "ir_source_url": "https://investor.foxcorporation.com/",
@@ -356,7 +356,7 @@
   "count": 38,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-23T09:57:16Z",
+  "generatedAt": "2026-01-23T13:01:38Z",
   "irCompanies": [
     "Fox Corp",
     "Qualcomm",
@@ -370,12 +370,12 @@
     "Arm Holdings",
     "Atlassian",
     "Cognizant",
+    "Crown Castle",
     "Dayforce",
     "Digital Realty",
     "Disney",
     "Electronic Arts",
     "Fortinet",
-    "Fox Corp",
     "Gartner",
     "Gen Digital",
     "IAC",

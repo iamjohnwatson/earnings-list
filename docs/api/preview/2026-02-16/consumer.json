@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "International Flavours & Fragrances",
-      "symbol": "IFF",
-      "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "DoorDash",
       "symbol": "DASH",
       "date": "2026-02-18",
@@ -46,15 +37,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-23T09:57:34Z",
+  "generatedAt": "2026-01-23T13:01:56Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "DoorDash",
     "Etsy Inc",
-    "International Flavours & Fragrances",
     "Molson Coors Beverage Co",
     "Walmart Inc"
   ],

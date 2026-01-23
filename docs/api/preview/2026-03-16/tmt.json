@@ -17,14 +17,34 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-03-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2026-03-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-23T09:58:09Z",
+  "generatedAt": "2026-01-23T13:02:37Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Accenture",
+    "Micron",
     "Tencent Music",
     "Xpeng"
   ],

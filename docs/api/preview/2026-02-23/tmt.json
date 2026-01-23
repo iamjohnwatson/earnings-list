@@ -127,6 +127,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Baidu",
+      "symbol": "BIDU",
+      "date": "2026-02-26",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Dell",
       "symbol": "DELL",
       "date": "2026-02-26",
@@ -174,16 +183,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-23T09:57:42Z",
+  "generatedAt": "2026-01-23T13:02:06Z",
   "irCompanies": [
     "Qnity"
   ],
   "fallbackCompanies": [
     "American Tower",
     "Autodesk",
+    "Baidu",
     "Bumble",
     "C3.ai",
     "Dell",

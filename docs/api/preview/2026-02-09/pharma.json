@@ -55,15 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "DaVita Inc",
-      "symbol": "DVA",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Vertex Pharmaceuticals Inc",
       "symbol": "VRTX",
       "date": "2026-02-12",
@@ -100,14 +91,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-23T09:57:25Z",
+  "generatedAt": "2026-01-23T13:01:47Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "CVS Health Corp",
-    "DaVita Inc",
     "Edwards Lifesciences Corp",
     "Gilead",
     "Quest Diagnostics Inc",

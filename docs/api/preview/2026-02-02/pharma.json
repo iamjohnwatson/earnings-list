@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "DaVita Inc",
+      "symbol": "DVA",
+      "date": "2026-02-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Healthpeak Properties",
       "symbol": "DOC",
       "date": "2026-02-02",
@@ -138,8 +147,8 @@
       "company": "STERIS plc",
       "symbol": "STE",
       "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -209,10 +218,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-23T09:57:16Z",
+  "generatedAt": "2026-01-23T13:01:38Z",
   "irCompanies": [
     "Bio-Techne Corp",
     "Boston Scientific Corp",
@@ -228,6 +237,7 @@
     "Cardinal Health Inc",
     "Cencora Inc",
     "Cigna",
+    "DaVita Inc",
     "Eli Lilly and Co",
     "GE HealthCare Technologies Inc",
     "Healthpeak Properties",
