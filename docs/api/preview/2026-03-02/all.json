@@ -141,6 +141,16 @@
       "sector": "TMT"
     },
     {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "New Fortress Energy",
       "symbol": "NFE",
       "date": "2026-03-02",
@@ -189,16 +199,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-03-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     }
   ],
   "count": 20,
@@ -207,7 +207,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-24T06:55:21Z",
+  "generatedAt": "2026-01-24T09:49:32Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Autozone Inc",
