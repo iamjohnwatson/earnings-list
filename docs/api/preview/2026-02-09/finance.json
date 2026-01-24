@@ -99,17 +99,6 @@
       "source": "aggregator"
     },
     {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-02-10",
-      "bmo_amc": "9:40 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:40 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations"
-    },
-    {
       "company": "Robinhood",
       "symbol": "HOOD",
       "date": "2026-02-10",
@@ -193,19 +182,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-23T21:49:18Z",
+  "generatedAt": "2026-01-24T01:29:20Z",
   "irCompanies": [
     "Apollo",
     "Arch Capital Group",
     "Cincinnati Financial",
     "Citizens Financial",
-    "JPMorgan",
     "Wells Fargo"
   ],
   "fallbackCompanies": [

@@ -275,6 +275,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-01-29",
+      "bmo_amc": "10:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EST",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Trane Technologies PLC",
       "symbol": "TT",
       "date": "2026-01-29",
@@ -284,12 +295,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 31,
+  "count": 32,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-23T21:49:00Z",
+  "generatedAt": "2026-01-24T01:29:04Z",
   "irCompanies": [
     "Parker-Hannifin Corp",
+    "Southwest Airlines Co",
     "UPS"
   ],
   "fallbackCompanies": [
