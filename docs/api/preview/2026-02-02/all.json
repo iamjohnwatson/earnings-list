@@ -141,634 +141,160 @@
       "sector": "Finance"
     },
     {
-      "company": "Disney",
-      "symbol": "DIS",
+      "company": "Simon Property Group",
+      "symbol": "SPG",
+      "date": "2026-02-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tyson Foods",
+      "symbol": "TSN",
       "date": "2026-02-02",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Kyndryl",
-      "symbol": "KD",
-      "date": "2026-02-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "NXP Semiconductors",
-      "symbol": "NXPI",
-      "date": "2026-02-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Palantir",
-      "symbol": "PLTR",
-      "date": "2026-02-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2026-02-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Electronic Arts",
-      "symbol": "EA",
+      "company": "Amcor PLC",
+      "symbol": "AMCR",
       "date": "2026-02-03",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Gartner",
-      "symbol": "IT",
+      "company": "Ball Corp",
+      "symbol": "BALL",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "9:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "ir_time_label": "9:00 AM ET",
+      "ir_source_url": "https://investors.ball.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
     },
     {
-      "company": "IAC",
-      "symbol": "IAC",
+      "company": "Chipotle Mexican Grill",
+      "symbol": "CMG",
+      "date": "2026-02-03",
+      "bmo_amc": "4:30 PM",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "4:30 PM ",
+      "ir_source_url": "https://ir.chipotle.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Clorox Co",
+      "symbol": "CLX",
       "date": "2026-02-03",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Lumen Tech",
-      "symbol": "LUMN",
+      "company": "Mondelez International",
+      "symbol": "MDLZ",
       "date": "2026-02-03",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Match Group",
-      "symbol": "MTCH",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Omnicom",
-      "symbol": "OMC",
+      "company": "PepsiCo Inc",
+      "symbol": "PEP",
       "date": "2026-02-03",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Skyworks Solutions",
-      "symbol": "SWKS",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-02-03",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2026-02-03",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.teradyne.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Alphabet Inc",
-      "symbol": "GOOGL",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Arm Holdings",
-      "symbol": "ARM",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Cognizant",
-      "symbol": "CTSH",
+      "company": "Yum Brands",
+      "symbol": "YUM",
       "date": "2026-02-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Crown Castle",
-      "symbol": "CCI",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Dayforce",
-      "symbol": "DAY",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Fox Corp",
-      "symbol": "FOXA",
-      "date": "2026-02-04",
-      "bmo_amc": "8:30 AM EST",
+      "company": "Estee Lauder",
+      "symbol": "EL",
+      "date": "2026-02-05",
+      "bmo_amc": "08:30AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM EST",
-      "ir_source_url": "https://investor.foxcorporation.com/",
+      "ir_time_label": "08:30AM ET",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
       "source": "investor_relations",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "NYT",
-      "symbol": "NYT",
-      "date": "2026-02-04",
+      "company": "Hershey Co",
+      "symbol": "HSY",
+      "date": "2026-02-05",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "PTC",
-      "symbol": "PTC",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Qualcomm",
-      "symbol": "QCOM",
-      "date": "2026-02-04",
-      "bmo_amc": "1:45 PM PT",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "1:45 PM PT",
-      "ir_source_url": "https://investor.qualcomm.com/overview/default.aspx",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "Snap",
-      "symbol": "SNAP",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Uber",
-      "symbol": "UBER",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Wolfspeed",
-      "symbol": "WOLF",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Amazon",
-      "symbol": "AMZN",
+      "company": "Philip Morris International",
+      "symbol": "PM",
       "date": "2026-02-05",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Consumer"
     },
     {
-      "company": "Atlassian",
-      "symbol": "TEAM",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Digital Realty",
-      "symbol": "DLR",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Fortinet",
-      "symbol": "FTNT",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Gen Digital",
-      "symbol": "GEN",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Microchip Tech",
-      "symbol": "MCHP",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Monolithic Power",
-      "symbol": "MPWR",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "News Corp",
-      "symbol": "NWSA",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Reddit",
-      "symbol": "RDDT",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Roblox",
-      "symbol": "RBLX",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "SiriusXM",
-      "symbol": "SIRI",
-      "date": "2026-02-05",
-      "bmo_amc": "8:00 AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM ET",
-      "ir_source_url": "https://investor.siriusxm.com/",
-      "source": "investor_relations",
-      "sector": "TMT"
-    },
-    {
-      "company": "VeriSign",
-      "symbol": "VRSN",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "DaVita Inc",
-      "symbol": "DVA",
-      "date": "2026-02-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Healthpeak Properties",
-      "symbol": "DOC",
-      "date": "2026-02-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "IDEXX Laboratories Inc",
-      "symbol": "IDXX",
-      "date": "2026-02-02",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://ir.idexx.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Revvity",
-      "symbol": "RVTY",
-      "date": "2026-02-02",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Amgen Inc",
-      "symbol": "AMGN",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Pfizer Inc",
-      "symbol": "PFE",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Aflac Inc",
-      "symbol": "AFL",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Becton Dickinson and Co",
-      "symbol": "BDX",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Bio-Techne Corp",
-      "symbol": "TECH",
-      "date": "2026-02-04",
-      "bmo_amc": "9:00AM EST",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00am EST",
-      "ir_source_url": "https://investors.bio-techne.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cencora Inc",
-      "symbol": "COR",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Eli Lilly and Co",
-      "symbol": "LLY",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "GE HealthCare Technologies Inc",
-      "symbol": "GEHC",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Mckesson Corp",
-      "symbol": "MCK",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "STERIS plc",
-      "symbol": "STE",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Bristol Myers-Squibb",
-      "symbol": "BMY",
+      "company": "Ralph Lauren Corp",
+      "symbol": "RL",
       "date": "2026-02-05",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Cardinal Health Inc",
-      "symbol": "CAH",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cigna",
-      "symbol": "CI",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "IQVIA Holdings Inc",
-      "symbol": "IQV",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Kenvue",
-      "symbol": "KVUE",
-      "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Molina Healthcare Inc",
-      "symbol": "MOH",
+      "company": "Regency Centers Corp",
+      "symbol": "REG",
       "date": "2026-02-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-02-06",
-      "bmo_amc": "9:00AM",
+      "company": "Tapestry Inc",
+      "symbol": "TPR",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
+      "source": "aggregator",
+      "sector": "Consumer"
     },
     {
       "company": "Aptiv PLC",
@@ -1223,160 +749,634 @@
       "sector": "Resources"
     },
     {
-      "company": "Simon Property Group",
-      "symbol": "SPG",
+      "company": "DaVita Inc",
+      "symbol": "DVA",
       "date": "2026-02-02",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Tyson Foods",
-      "symbol": "TSN",
+      "company": "Healthpeak Properties",
+      "symbol": "DOC",
+      "date": "2026-02-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-02-02",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Revvity",
+      "symbol": "RVTY",
       "date": "2026-02-02",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Amcor PLC",
-      "symbol": "AMCR",
+      "company": "Amgen Inc",
+      "symbol": "AMGN",
       "date": "2026-02-03",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Ball Corp",
-      "symbol": "BALL",
+      "company": "Merck",
+      "symbol": "MRK",
       "date": "2026-02-03",
-      "bmo_amc": "9:00 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM ET",
-      "ir_source_url": "https://investors.ball.com/",
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Chipotle Mexican Grill",
-      "symbol": "CMG",
+      "company": "Pfizer Inc",
+      "symbol": "PFE",
       "date": "2026-02-03",
-      "bmo_amc": "4:30 PM",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "4:30 PM ",
-      "ir_source_url": "https://ir.chipotle.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
-      "company": "Clorox Co",
-      "symbol": "CLX",
-      "date": "2026-02-03",
+      "company": "Aflac Inc",
+      "symbol": "AFL",
+      "date": "2026-02-04",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Mondelez International",
-      "symbol": "MDLZ",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "PepsiCo Inc",
-      "symbol": "PEP",
-      "date": "2026-02-03",
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
+      "date": "2026-02-04",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Yum Brands",
-      "symbol": "YUM",
+      "company": "Bio-Techne Corp",
+      "symbol": "TECH",
+      "date": "2026-02-04",
+      "bmo_amc": "9:00AM EST",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00am EST",
+      "ir_source_url": "https://investors.bio-techne.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cencora Inc",
+      "symbol": "COR",
       "date": "2026-02-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Estee Lauder",
-      "symbol": "EL",
-      "date": "2026-02-05",
-      "bmo_amc": "08:30AM ET",
+      "company": "Eli Lilly and Co",
+      "symbol": "LLY",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "08:30AM ET",
-      "ir_source_url": "https://www.elcompanies.com/en/investors",
-      "source": "investor_relations",
-      "sector": "Consumer"
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
-      "company": "Hershey Co",
-      "symbol": "HSY",
+      "company": "GE HealthCare Technologies Inc",
+      "symbol": "GEHC",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Mckesson Corp",
+      "symbol": "MCK",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "STERIS plc",
+      "symbol": "STE",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Bristol Myers-Squibb",
+      "symbol": "BMY",
       "date": "2026-02-05",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Philip Morris International",
-      "symbol": "PM",
+      "company": "Cardinal Health Inc",
+      "symbol": "CAH",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cigna",
+      "symbol": "CI",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "IQVIA Holdings Inc",
+      "symbol": "IQV",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Kenvue",
+      "symbol": "KVUE",
       "date": "2026-02-05",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Ralph Lauren Corp",
-      "symbol": "RL",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Regency Centers Corp",
-      "symbol": "REG",
+      "company": "Molina Healthcare Inc",
+      "symbol": "MOH",
       "date": "2026-02-05",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Tapestry Inc",
-      "symbol": "TPR",
-      "date": "2026-02-05",
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-02-06",
+      "bmo_amc": "9:00AM",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Disney",
+      "symbol": "DIS",
+      "date": "2026-02-02",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
+    },
+    {
+      "company": "Kyndryl",
+      "symbol": "KD",
+      "date": "2026-02-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "NXP Semiconductors",
+      "symbol": "NXPI",
+      "date": "2026-02-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Palantir",
+      "symbol": "PLTR",
+      "date": "2026-02-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Teradyne",
+      "symbol": "TER",
+      "date": "2026-02-02",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Electronic Arts",
+      "symbol": "EA",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Gartner",
+      "symbol": "IT",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "IAC",
+      "symbol": "IAC",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Lumen Tech",
+      "symbol": "LUMN",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Match Group",
+      "symbol": "MTCH",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Omnicom",
+      "symbol": "OMC",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Skyworks Solutions",
+      "symbol": "SWKS",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-02-03",
+      "bmo_amc": "4:00 PM ET",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Teradyne",
+      "symbol": "TER",
+      "date": "2026-02-03",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.teradyne.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Alphabet Inc",
+      "symbol": "GOOGL",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Arm Holdings",
+      "symbol": "ARM",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Cognizant",
+      "symbol": "CTSH",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Crown Castle",
+      "symbol": "CCI",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Dayforce",
+      "symbol": "DAY",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Fox Corp",
+      "symbol": "FOXA",
+      "date": "2026-02-04",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EST",
+      "ir_source_url": "https://investor.foxcorporation.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "NYT",
+      "symbol": "NYT",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "PTC",
+      "symbol": "PTC",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Qualcomm",
+      "symbol": "QCOM",
+      "date": "2026-02-04",
+      "bmo_amc": "1:45 PM PT",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "1:45 PM PT",
+      "ir_source_url": "https://investor.qualcomm.com/overview/default.aspx",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Snap",
+      "symbol": "SNAP",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Uber",
+      "symbol": "UBER",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Wolfspeed",
+      "symbol": "WOLF",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Amazon",
+      "symbol": "AMZN",
+      "date": "2026-02-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Atlassian",
+      "symbol": "TEAM",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Digital Realty",
+      "symbol": "DLR",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Fortinet",
+      "symbol": "FTNT",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Gen Digital",
+      "symbol": "GEN",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Microchip Tech",
+      "symbol": "MCHP",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Monolithic Power",
+      "symbol": "MPWR",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "News Corp",
+      "symbol": "NWSA",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Reddit",
+      "symbol": "RDDT",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Roblox",
+      "symbol": "RBLX",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "SiriusXM",
+      "symbol": "SIRI",
+      "date": "2026-02-05",
+      "bmo_amc": "8:00 AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 AM ET",
+      "ir_source_url": "https://investor.siriusxm.com/",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "VeriSign",
+      "symbol": "VRSN",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
   "count": 134,
@@ -1385,7 +1385,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-25T09:50:40Z",
+  "generatedAt": "2026-01-25T12:57:34Z",
   "irCompanies": [
     "Ball Corp",
     "Bio-Techne Corp",

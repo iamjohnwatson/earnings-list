@@ -1,6 +1,178 @@
 {
   "records": [
     {
+      "company": "Ford Motor Co",
+      "symbol": "F",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Marriott International Inc",
+      "symbol": "MAR",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Borgwarner Inc",
+      "symbol": "BWA",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Generac Holdings Inc",
+      "symbol": "GNRC",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Hilton Worldwide Holdings Inc",
+      "symbol": "HLT",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
+      "date": "2026-02-11",
+      "bmo_amc": "2:00PM",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00pm",
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Martin Marietta Materials Inc",
+      "symbol": "MLM",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Wabtec",
+      "symbol": "WAB",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Air Lease",
+      "symbol": "AL",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Airbnb Inc",
+      "symbol": "ABNB",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Expedia Group Inc",
+      "symbol": "EXPE",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Howmet Aerospace",
+      "symbol": "HWM",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Ingersoll Rand Inc",
+      "symbol": "IR",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Public Storage",
+      "symbol": "PSA",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Wynn Resorts Ltd",
+      "symbol": "WYNN",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Magna International",
+      "symbol": "MGA",
+      "date": "2026-02-13",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
       "company": "DuPont",
       "symbol": "DD",
       "date": "2026-02-10",
@@ -199,7 +371,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.cinfin.com/",
+      "source": "investor_relations",
       "sector": "Finance"
     },
     {
@@ -843,178 +1017,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
-    },
-    {
-      "company": "Ford Motor Co",
-      "symbol": "F",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Marriott International Inc",
-      "symbol": "MAR",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Borgwarner Inc",
-      "symbol": "BWA",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Generac Holdings Inc",
-      "symbol": "GNRC",
-      "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Hilton Worldwide Holdings Inc",
-      "symbol": "HLT",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2026-02-11",
-      "bmo_amc": "2:00PM",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00pm",
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Martin Marietta Materials Inc",
-      "symbol": "MLM",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Wabtec",
-      "symbol": "WAB",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Air Lease",
-      "symbol": "AL",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Airbnb Inc",
-      "symbol": "ABNB",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Expedia Group Inc",
-      "symbol": "EXPE",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Howmet Aerospace",
-      "symbol": "HWM",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Ingersoll Rand Inc",
-      "symbol": "IR",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Public Storage",
-      "symbol": "PSA",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Wynn Resorts Ltd",
-      "symbol": "WYNN",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Magna International",
-      "symbol": "MGA",
-      "date": "2026-02-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
     }
   ],
   "count": 100,
@@ -1023,10 +1025,11 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-25T09:50:48Z",
+  "generatedAt": "2026-01-25T12:57:43Z",
   "irCompanies": [
     "Apollo",
     "Arch Capital Group",
+    "Cincinnati Financial",
     "Citizens Financial",
     "Coca-Cola Co",
     "Equinix",
@@ -1048,7 +1051,6 @@
     "Borgwarner Inc",
     "CVS Health Corp",
     "Carlyle",
-    "Cincinnati Financial",
     "Cisco Systems",
     "Coca-Cola Europacific",
     "Coinbase",

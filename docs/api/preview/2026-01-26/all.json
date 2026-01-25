@@ -1,120 +1,6 @@
 {
   "records": [
     {
-      "company": "Kimberly Clark Corp",
-      "symbol": "KMB",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Sysco Corp",
-      "symbol": "SYY",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.sysco.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Starbucks Corp",
-      "symbol": "SBUX",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "VF Corp",
-      "symbol": "VFC",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Altria Group Inc",
-      "symbol": "MO",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Deckers Outdoors",
-      "symbol": "DECK",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "International Paper Co",
-      "symbol": "IP",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Royal Caribbean Group",
-      "symbol": "RCL",
-      "date": "2026-01-29",
-      "bmo_amc": "10:00AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00AM ET",
-      "ir_source_url": "https://www.rclinvestor.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Tractor Supply Co",
-      "symbol": "TSCO",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Church & Dwight",
-      "symbol": "CHD",
-      "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Colgate-Palmolive",
-      "symbol": "CL",
-      "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Alexandria Real Estate Equities Inc",
       "symbol": "ARE",
       "date": "2026-01-26",
@@ -360,10 +246,12 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 A.M. ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "8:30 a.m. ET",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
       "sector": "Manufacturing"
     },
     {
@@ -439,6 +327,136 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
+    },
+    {
+      "company": "NextEra Energy",
+      "symbol": "NEE",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "PPG Industries",
+      "symbol": "PPG",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "GE Vernova",
+      "symbol": "GEV",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Dow",
+      "symbol": "DOW",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Eastman Chemical",
+      "symbol": "EMN",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Sherwin-Williams",
+      "symbol": "SHW",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Valero Energy Corp",
+      "symbol": "VLO",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Weyerhaeuser",
+      "symbol": "WY",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Air Products",
+      "symbol": "APD",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Chevron",
+      "symbol": "CVX",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Exxon Mobil",
+      "symbol": "XOM",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Imperial Oil",
+      "symbol": "IMO",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "LyondellBasell",
+      "symbol": "LYB",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "F5",
@@ -673,6 +691,120 @@
       "sector": "TMT"
     },
     {
+      "company": "Kimberly Clark Corp",
+      "symbol": "KMB",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Sysco Corp",
+      "symbol": "SYY",
+      "date": "2026-01-27",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.sysco.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Starbucks Corp",
+      "symbol": "SBUX",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "VF Corp",
+      "symbol": "VFC",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Altria Group Inc",
+      "symbol": "MO",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Deckers Outdoors",
+      "symbol": "DECK",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "International Paper Co",
+      "symbol": "IP",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Royal Caribbean Group",
+      "symbol": "RCL",
+      "date": "2026-01-29",
+      "bmo_amc": "10:00AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00AM ET",
+      "ir_source_url": "https://www.rclinvestor.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Tractor Supply Co",
+      "symbol": "TSCO",
+      "date": "2026-01-29",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Church & Dwight",
+      "symbol": "CHD",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Colgate-Palmolive",
+      "symbol": "CL",
+      "date": "2026-01-30",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Brown & Brown",
       "symbol": "BRO",
       "date": "2026-01-26",
@@ -867,136 +999,6 @@
       "sector": "Finance"
     },
     {
-      "company": "NextEra Energy",
-      "symbol": "NEE",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "PPG Industries",
-      "symbol": "PPG",
-      "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "GE Vernova",
-      "symbol": "GEV",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Dow",
-      "symbol": "DOW",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Eastman Chemical",
-      "symbol": "EMN",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Sherwin-Williams",
-      "symbol": "SHW",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Valero Energy Corp",
-      "symbol": "VLO",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Weyerhaeuser",
-      "symbol": "WY",
-      "date": "2026-01-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Air Products",
-      "symbol": "APD",
-      "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Chevron",
-      "symbol": "CVX",
-      "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Exxon Mobil",
-      "symbol": "XOM",
-      "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Imperial Oil",
-      "symbol": "IMO",
-      "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "LyondellBasell",
-      "symbol": "LYB",
-      "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Becton Dickinson and Co",
       "symbol": "BDX",
       "date": "2026-01-27",
@@ -1077,12 +1079,13 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-25T09:50:32Z",
+  "generatedAt": "2026-01-25T12:57:25Z",
   "irCompanies": [
     "AT&T",
     "Aon",
     "Becton Dickinson and Co",
     "Danaher Corp",
+    "Honeywell",
     "KLA Corp",
     "Lam Research",
     "Microsoft",
@@ -1132,7 +1135,6 @@
     "General Dynamics Corp",
     "HCA Healthcare Inc",
     "Hartford Financial Services",
-    "Honeywell",
     "IBM",
     "Imperial Oil",
     "International Paper Co",
