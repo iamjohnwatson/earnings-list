@@ -222,10 +222,12 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 A.M. ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 a.m. ET",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "L3Harris Technologies Inc",
@@ -298,8 +300,9 @@
   "count": 32,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-26T01:35:10Z",
+  "generatedAt": "2026-01-26T04:49:37Z",
   "irCompanies": [
+    "Honeywell",
     "Parker-Hannifin Corp",
     "Southwest Airlines Co",
     "UPS"
@@ -314,7 +317,6 @@
     "Caterpillar",
     "Dover Corp",
     "General Dynamics Corp",
-    "Honeywell",
     "JetBlue",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",
