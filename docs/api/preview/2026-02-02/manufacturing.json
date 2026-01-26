@@ -148,9 +148,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.johnsoncontrols.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -277,11 +275,10 @@
   "count": 29,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-26T18:57:11Z",
+  "generatedAt": "2026-01-26T21:52:27Z",
   "irCompanies": [
     "Emerson Electric Co",
     "Fortive Corp",
-    "Johnson Controls International PLC",
     "Old Dominion Freight Line Inc",
     "Veralto Corp",
     "WW Grainger Inc"
@@ -301,6 +298,7 @@
     "IDEX Corp",
     "Illinois Tool Works Inc",
     "Jacobs Solutions Inc",
+    "Johnson Controls International PLC",
     "Mid-America Apartment Communities Inc",
     "Peloton",
     "Pentair PLC",

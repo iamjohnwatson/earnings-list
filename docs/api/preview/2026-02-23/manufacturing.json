@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Realty Income Corp",
+      "symbol": "O",
+      "date": "2026-02-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Axon Enterprise Inc",
       "symbol": "AXON",
       "date": "2026-02-24",
@@ -46,10 +55,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 5,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-26T18:57:34Z",
+  "generatedAt": "2026-01-26T21:52:56Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Axon Enterprise Inc",

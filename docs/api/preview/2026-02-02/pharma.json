@@ -4,10 +4,12 @@
       "company": "DaVita Inc",
       "symbol": "DVA",
       "date": "2026-02-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "5:00PM",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "5:00pm",
+      "ir_source_url": "https://investors.davita.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Healthpeak Properties",
@@ -221,11 +223,12 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-26T18:57:11Z",
+  "generatedAt": "2026-01-26T21:52:28Z",
   "irCompanies": [
     "Bio-Techne Corp",
     "Boston Scientific Corp",
     "Centene Corp",
+    "DaVita Inc",
     "IDEXX Laboratories Inc",
     "Merck"
   ],
@@ -237,7 +240,6 @@
     "Cardinal Health Inc",
     "Cencora Inc",
     "Cigna",
-    "DaVita Inc",
     "Eli Lilly and Co",
     "GE HealthCare Technologies Inc",
     "Healthpeak Properties",

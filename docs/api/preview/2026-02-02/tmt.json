@@ -127,17 +127,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2026-02-03",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.teradyne.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Alphabet Inc",
       "symbol": "GOOGL",
       "date": "2026-02-04",
@@ -360,15 +349,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 39,
+  "count": 38,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-26T18:57:11Z",
+  "generatedAt": "2026-01-26T21:52:27Z",
   "irCompanies": [
     "Fox Corp",
     "Qualcomm",
-    "SiriusXM",
-    "Teradyne"
+    "SiriusXM"
   ],
   "fallbackCompanies": [
     "Alphabet Inc",

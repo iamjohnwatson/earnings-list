@@ -4,18 +4,29 @@
       "company": "Alexandria Real Estate Equities Inc",
       "symbol": "ARE",
       "date": "2026-01-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Johnson Controls International PLC",
+      "symbol": "JCI",
+      "date": "2026-01-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.johnsoncontrols.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Nucor Corp",
       "symbol": "NUE",
       "date": "2026-01-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -222,12 +233,10 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-01-29",
-      "bmo_amc": "8:30 A.M. ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "L3Harris Technologies Inc",
@@ -297,12 +306,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 32,
+  "count": 33,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-26T18:57:03Z",
+  "generatedAt": "2026-01-26T21:52:18Z",
   "irCompanies": [
-    "Honeywell",
+    "Johnson Controls International PLC",
     "Parker-Hannifin Corp",
     "Southwest Airlines Co",
     "UPS"
@@ -317,6 +326,7 @@
     "Caterpillar",
     "Dover Corp",
     "General Dynamics Corp",
+    "Honeywell",
     "JetBlue",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",
