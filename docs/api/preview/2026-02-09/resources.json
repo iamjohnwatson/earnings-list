@@ -28,15 +28,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Eversource Energy",
-      "symbol": "ES",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Albemarle",
       "symbol": "ALB",
       "date": "2026-02-11",
@@ -139,16 +130,16 @@
       "company": "TC Energy",
       "symbol": "TRP",
       "date": "2026-02-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-26T10:02:27Z",
+  "generatedAt": "2026-01-26T13:01:30Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -159,7 +150,6 @@
     "Duke Energy",
     "Ecolab",
     "Enbridge",
-    "Eversource Energy",
     "Exelon Corp",
     "NiSource",
     "PBF Energy",

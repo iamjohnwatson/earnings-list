@@ -26,14 +26,24 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Carnival Corp",
+      "symbol": "CCL",
+      "date": "2026-03-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-26T10:03:04Z",
+  "generatedAt": "2026-01-26T13:02:09Z",
   "irCompanies": [],
   "fallbackCompanies": [
+    "Carnival Corp",
     "Darden Restaurants",
     "General Mills",
     "Nike Inc"

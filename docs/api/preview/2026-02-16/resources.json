@@ -31,8 +31,8 @@
       "company": "EQT Corp",
       "symbol": "EQT",
       "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -211,7 +211,7 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-26T10:02:34Z",
+  "generatedAt": "2026-01-26T13:01:38Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alliant Energy",
