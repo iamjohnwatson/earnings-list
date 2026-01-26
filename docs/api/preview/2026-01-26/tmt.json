@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-01-26",
+      "bmo_amc": "10:34 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:34 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "F5",
       "symbol": "FFIV",
       "date": "2026-01-27",
@@ -211,16 +222,17 @@
       "source": "investor_relations"
     }
   ],
-  "count": 22,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-26T13:01:15Z",
+  "generatedAt": "2026-01-26T15:56:01Z",
   "irCompanies": [
     "AT&T",
     "KLA Corp",
     "Lam Research",
     "Microsoft",
     "Rogers Communications",
+    "Take-Two Interactive",
     "Verizon"
   ],
   "fallbackCompanies": [

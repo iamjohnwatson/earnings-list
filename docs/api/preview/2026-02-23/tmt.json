@@ -46,15 +46,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Super Micro",
-      "symbol": "SMCI",
-      "date": "2026-02-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Workday",
       "symbol": "WDAY",
       "date": "2026-02-24",
@@ -183,10 +174,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-26T13:01:45Z",
+  "generatedAt": "2026-01-26T15:56:35Z",
   "irCompanies": [
     "Qnity"
   ],
@@ -205,7 +196,6 @@
     "SBA Communications",
     "Salesforce",
     "Snowflake",
-    "Super Micro",
     "Synopsys",
     "Workday",
     "Zoom",
