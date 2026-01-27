@@ -15,18 +15,18 @@
       "company": "HCA Healthcare Inc",
       "symbol": "HCA",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "UnitedHealth Group",
       "symbol": "UNH",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -71,7 +71,7 @@
   "count": 7,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-26T21:52:17Z",
+  "generatedAt": "2026-01-27T01:32:51Z",
   "irCompanies": [
     "Becton Dickinson and Co",
     "Danaher Corp"

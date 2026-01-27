@@ -4,18 +4,18 @@
       "company": "Kimberly Clark Corp",
       "symbol": "KMB",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Sysco Corp",
       "symbol": "SYY",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://investors.sysco.com/",
       "source": "investor_relations"
@@ -107,7 +107,7 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-26T21:52:18Z",
+  "generatedAt": "2026-01-27T01:32:52Z",
   "irCompanies": [
     "Royal Caribbean Group",
     "Sysco Corp"

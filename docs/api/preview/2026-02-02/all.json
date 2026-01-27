@@ -1,6 +1,146 @@
 {
   "records": [
     {
+      "company": "Chubb",
+      "symbol": "CB",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Jack Henry and Associates",
+      "symbol": "JKHY",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "PayPal Holdings",
+      "symbol": "PYPL",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Prudential Financial",
+      "symbol": "PRU",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Willis Tower Watson",
+      "symbol": "WTW",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Allstate Corp",
+      "symbol": "ALL",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "CME Group Inc",
+      "symbol": "CME",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Everest",
+      "symbol": "EG",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Globe Life",
+      "symbol": "GL",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "MetLife",
+      "symbol": "MET",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "T. Rowe Price Group",
+      "symbol": "TROW",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Intercontinental Exchange",
+      "symbol": "ICE",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "KKR",
+      "symbol": "KKR",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Cboe Global Markets",
+      "symbol": "CBOE",
+      "date": "2026-02-06",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "Disney",
       "symbol": "DIS",
       "date": "2026-02-02",
@@ -134,10 +274,24 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "4:00 PM ET",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": "4:00 PM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations",
+      "sector": "TMT"
+    },
+    {
+      "company": "Teradyne",
+      "symbol": "TER",
+      "date": "2026-02-03",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.teradyne.com/",
+      "source": "investor_relations",
       "sector": "TMT"
     },
     {
@@ -549,7 +703,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.johnsoncontrols.com/",
+      "source": "investor_relations",
       "sector": "Manufacturing"
     },
     {
@@ -685,156 +841,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "Archer-Daniels-Midland",
-      "symbol": "ADM",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Atmos Energy",
-      "symbol": "ATO",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Corteva",
-      "symbol": "CTVA",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Enphase Energy",
-      "symbol": "ENPH",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Marathon Petroleum",
-      "symbol": "MPC",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Suncor Energy",
-      "symbol": "SU",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Bunge",
-      "symbol": "BG",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "FMC",
-      "symbol": "FMC",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Phillips 66",
-      "symbol": "PSX",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Barrick Mining",
-      "symbol": "GOLD",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "CMS Energy Corp",
-      "symbol": "CMS",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "ConocoPhillips",
-      "symbol": "COP",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Linde",
-      "symbol": "LIN",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "WEC Energy Group Inc",
-      "symbol": "WEC",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Xcel Energy Inc",
-      "symbol": "XEL",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
     },
     {
       "company": "Simon Property Group",
@@ -991,6 +997,156 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Archer-Daniels-Midland",
+      "symbol": "ADM",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Atmos Energy",
+      "symbol": "ATO",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Corteva",
+      "symbol": "CTVA",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Enphase Energy",
+      "symbol": "ENPH",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Marathon Petroleum",
+      "symbol": "MPC",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Suncor Energy",
+      "symbol": "SU",
+      "date": "2026-02-03",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Bunge",
+      "symbol": "BG",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "FMC",
+      "symbol": "FMC",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Phillips 66",
+      "symbol": "PSX",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Barrick Mining",
+      "symbol": "GOLD",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "CMS Energy Corp",
+      "symbol": "CMS",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "ConocoPhillips",
+      "symbol": "COP",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Linde",
+      "symbol": "LIN",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "WEC Energy Group Inc",
+      "symbol": "WEC",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Xcel Energy Inc",
+      "symbol": "XEL",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
     },
     {
       "company": "DaVita Inc",
@@ -1233,155 +1389,15 @@
       "ir_source_url": "https://investors.centene.com/",
       "source": "investor_relations",
       "sector": "Pharma"
-    },
-    {
-      "company": "Chubb",
-      "symbol": "CB",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Jack Henry and Associates",
-      "symbol": "JKHY",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "PayPal Holdings",
-      "symbol": "PYPL",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Prudential Financial",
-      "symbol": "PRU",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Willis Tower Watson",
-      "symbol": "WTW",
-      "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Allstate Corp",
-      "symbol": "ALL",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "CME Group Inc",
-      "symbol": "CME",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Everest",
-      "symbol": "EG",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Globe Life",
-      "symbol": "GL",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "MetLife",
-      "symbol": "MET",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "T. Rowe Price Group",
-      "symbol": "TROW",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Intercontinental Exchange",
-      "symbol": "ICE",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "KKR",
-      "symbol": "KKR",
-      "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Cboe Global Markets",
-      "symbol": "CBOE",
-      "date": "2026-02-06",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
     }
   ],
-  "count": 134,
+  "count": 135,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-26T21:52:28Z",
+  "generatedAt": "2026-01-27T01:33:02Z",
   "irCompanies": [
     "Ball Corp",
     "Bio-Techne Corp",
@@ -1394,10 +1410,13 @@
     "Fortive Corp",
     "Fox Corp",
     "IDEXX Laboratories Inc",
+    "Johnson Controls International PLC",
     "Merck",
     "Old Dominion Freight Line Inc",
     "Qualcomm",
     "SiriusXM",
+    "Take-Two Interactive",
+    "Teradyne",
     "Veralto Corp",
     "WW Grainger Inc"
   ],
@@ -1461,7 +1480,6 @@
     "Intercontinental Exchange",
     "Jack Henry and Associates",
     "Jacobs Solutions Inc",
-    "Johnson Controls International PLC",
     "KKR",
     "Kenvue",
     "Kyndryl",
@@ -1505,7 +1523,6 @@
     "Suncor Energy",
     "Super Micro",
     "T. Rowe Price Group",
-    "Take-Two Interactive",
     "Tapestry Inc",
     "Teradyne",
     "TransDigm Group Inc",

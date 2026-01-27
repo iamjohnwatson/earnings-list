@@ -4,29 +4,18 @@
       "company": "Alexandria Real Estate Equities Inc",
       "symbol": "ARE",
       "date": "2026-01-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Johnson Controls International PLC",
-      "symbol": "JCI",
-      "date": "2026-01-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.johnsoncontrols.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Nucor Corp",
       "symbol": "NUE",
       "date": "2026-01-26",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -51,18 +40,18 @@
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Boston Properties",
       "symbol": "BXP",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -87,27 +76,27 @@
       "company": "Northrop Grumman Corp",
       "symbol": "NOC",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Packaging Corp of America",
       "symbol": "PKG",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "RTX",
       "symbol": "RTX",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -116,7 +105,7 @@
       "date": "2026-01-27",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 AM ET",
       "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations"
@@ -125,9 +114,9 @@
       "company": "Union Pacific Corp",
       "symbol": "UNP",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -233,10 +222,12 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 A.M. ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 a.m. ET",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "L3Harris Technologies Inc",
@@ -306,12 +297,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 33,
+  "count": 32,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-26T21:52:18Z",
+  "generatedAt": "2026-01-27T01:32:52Z",
   "irCompanies": [
-    "Johnson Controls International PLC",
+    "Honeywell",
     "Parker-Hannifin Corp",
     "Southwest Airlines Co",
     "UPS"
@@ -326,7 +317,6 @@
     "Caterpillar",
     "Dover Corp",
     "General Dynamics Corp",
-    "Honeywell",
     "JetBlue",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",

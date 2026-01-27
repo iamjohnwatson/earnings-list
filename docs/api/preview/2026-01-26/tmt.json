@@ -1,34 +1,12 @@
 {
   "records": [
     {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-01-26",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Teradyne",
-      "symbol": "TER",
-      "date": "2026-01-26",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.teradyne.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "F5",
       "symbol": "FFIV",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -44,27 +22,27 @@
       "company": "Roper Technologies",
       "symbol": "ROP",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Seagate",
       "symbol": "STX",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Texas Instruments",
       "symbol": "TXN",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -233,18 +211,16 @@
       "source": "investor_relations"
     }
   ],
-  "count": 24,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-26T21:52:17Z",
+  "generatedAt": "2026-01-27T01:32:51Z",
   "irCompanies": [
     "AT&T",
     "KLA Corp",
     "Lam Research",
     "Microsoft",
     "Rogers Communications",
-    "Take-Two Interactive",
-    "Teradyne",
     "Verizon"
   ],
   "fallbackCompanies": [
