@@ -4,8 +4,8 @@
       "company": "Alexandria Real Estate Equities Inc",
       "symbol": "ARE",
       "date": "2026-01-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,8 @@
       "company": "Nucor Corp",
       "symbol": "NUE",
       "date": "2026-01-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -22,8 +22,8 @@
       "company": "Steel Dynamics",
       "symbol": "STLD",
       "date": "2026-01-26",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,9 +40,9 @@
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-01-27",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -76,9 +76,9 @@
       "company": "Northrop Grumman Corp",
       "symbol": "NOC",
       "date": "2026-01-27",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -94,19 +94,19 @@
       "company": "RTX",
       "symbol": "RTX",
       "date": "2026-01-27",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "UPS",
       "symbol": "UPS",
       "date": "2026-01-27",
-      "bmo_amc": "8:30 AM ET",
+      "bmo_amc": "6:00 AM  ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:30 AM ET",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": "6:00 AM  ET",
       "ir_source_url": "https://investors.ups.com/",
       "source": "investor_relations"
     },
@@ -114,9 +114,9 @@
       "company": "Union Pacific Corp",
       "symbol": "UNP",
       "date": "2026-01-27",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -298,7 +298,7 @@
   "count": 32,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-27T13:00:36Z",
+  "generatedAt": "2026-01-27T15:58:28Z",
   "irCompanies": [
     "Parker-Hannifin Corp",
     "Southwest Airlines Co",

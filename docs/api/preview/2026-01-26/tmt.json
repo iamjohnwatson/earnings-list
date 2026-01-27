@@ -13,18 +13,18 @@
       "company": "Qorvo",
       "symbol": "QRVO",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Roper Technologies",
       "symbol": "ROP",
       "date": "2026-01-27",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -37,6 +37,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-01-27",
+      "bmo_amc": "10:38 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:38 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
+    },
+    {
       "company": "Texas Instruments",
       "symbol": "TXN",
       "date": "2026-01-27",
@@ -44,6 +55,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Verizon",
+      "symbol": "VZ",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.verizon.com/about/investors",
+      "source": "investor_relations"
     },
     {
       "company": "ADP",
@@ -203,24 +225,23 @@
       "company": "Verizon",
       "symbol": "VZ",
       "date": "2026-01-30",
-      "bmo_amc": "08:00 AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "08:00 AM ET",
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-27T13:00:37Z",
+  "generatedAt": "2026-01-27T15:58:27Z",
   "irCompanies": [
     "AT&T",
     "KLA Corp",
     "Lam Research",
     "Microsoft",
     "Rogers Communications",
+    "Take-Two Interactive",
     "Verizon"
   ],
   "fallbackCompanies": [
@@ -239,6 +260,7 @@
     "ServiceNow",
     "Tesla",
     "Texas Instruments",
+    "Verizon",
     "Western Digital"
   ],
   "week": {

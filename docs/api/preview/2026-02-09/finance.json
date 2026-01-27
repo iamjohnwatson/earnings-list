@@ -79,6 +79,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-02-10",
+      "bmo_amc": "8:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 am ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-02-10",
@@ -182,16 +193,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-27T13:00:56Z",
+  "generatedAt": "2026-01-27T15:58:47Z",
   "irCompanies": [
     "Apollo",
     "Arch Capital Group",
+    "Bank of America",
     "Cincinnati Financial",
     "Citizens Financial",
     "Wells Fargo"
