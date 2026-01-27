@@ -50,6 +50,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-01-27",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Fair Issac Corp",
       "symbol": "FICO",
       "date": "2026-01-28",
@@ -187,17 +198,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-27T19:00:42Z",
+  "generatedAt": "2026-01-27T21:49:50Z",
   "irCompanies": [
     "Aon",
     "PNC Financial",
-    "Synchrony Financial"
+    "Synchrony Financial",
+    "Truist Financial"
   ],
   "fallbackCompanies": [
     "American Express",
