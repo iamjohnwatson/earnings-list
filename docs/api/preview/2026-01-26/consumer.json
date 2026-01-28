@@ -16,17 +16,15 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.sysco.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Starbucks Corp",
       "symbol": "SBUX",
       "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -107,10 +105,9 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-27T21:49:51Z",
+  "generatedAt": "2026-01-28T01:32:03Z",
   "irCompanies": [
-    "Royal Caribbean Group",
-    "Sysco Corp"
+    "Royal Caribbean Group"
   ],
   "fallbackCompanies": [
     "Altria Group Inc",
@@ -120,6 +117,7 @@
     "International Paper Co",
     "Kimberly Clark Corp",
     "Starbucks Corp",
+    "Sysco Corp",
     "Tractor Supply Co",
     "VF Corp"
   ],

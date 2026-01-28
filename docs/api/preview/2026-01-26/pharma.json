@@ -1,17 +1,6 @@
 {
   "records": [
     {
-      "company": "Becton Dickinson and Co",
-      "symbol": "BDX",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bd.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "HCA Healthcare Inc",
       "symbol": "HCA",
       "date": "2026-01-27",
@@ -21,23 +10,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-01-27",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
-    },
-    {
       "company": "UnitedHealth Group",
       "symbol": "UNH",
       "date": "2026-01-27",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -46,7 +24,7 @@
       "date": "2026-01-28",
       "bmo_amc": "8:00 A.M. ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:00 a.m. ET",
       "ir_source_url": "https://investors.danaher.com/",
       "source": "investor_relations"
@@ -55,9 +33,9 @@
       "company": "Elevance Health Inc",
       "symbol": "ELV",
       "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -79,14 +57,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 8,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-27T21:49:50Z",
+  "generatedAt": "2026-01-28T01:32:03Z",
   "irCompanies": [
-    "Becton Dickinson and Co",
-    "Danaher Corp",
-    "Merck"
+    "Danaher Corp"
   ],
   "fallbackCompanies": [
     "Elevance Health Inc",
