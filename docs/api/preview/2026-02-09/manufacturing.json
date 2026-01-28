@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Harley Davidson",
+      "symbol": "HOG",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Marriott International Inc",
       "symbol": "MAR",
       "date": "2026-02-10",
@@ -156,10 +165,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 18,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-28T10:01:37Z",
+  "generatedAt": "2026-01-28T13:01:36Z",
   "irCompanies": [
     "MGM Resorts International"
   ],
@@ -171,6 +180,7 @@
     "Expedia Group Inc",
     "Ford Motor Co",
     "Generac Holdings Inc",
+    "Harley Davidson",
     "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Ingersoll Rand Inc",

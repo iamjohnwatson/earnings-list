@@ -4,8 +4,8 @@
       "company": "NextEra Energy",
       "symbol": "NEE",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,8 @@
       "company": "PPG Industries",
       "symbol": "PPG",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -121,7 +121,7 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-28T10:01:15Z",
+  "generatedAt": "2026-01-28T13:01:17Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Products",

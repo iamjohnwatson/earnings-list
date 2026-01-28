@@ -79,15 +79,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Becton Dickinson and Co",
-      "symbol": "BDX",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Bio-Techne Corp",
       "symbol": "TECH",
       "date": "2026-02-04",
@@ -220,10 +211,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 23,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-28T10:01:27Z",
+  "generatedAt": "2026-01-28T13:01:28Z",
   "irCompanies": [
     "Bio-Techne Corp",
     "Boston Scientific Corp",
@@ -235,7 +226,6 @@
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
-    "Becton Dickinson and Co",
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
     "Cencora Inc",

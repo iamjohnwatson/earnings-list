@@ -1,14 +1,49 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-03-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Smithfield Foods",
+      "symbol": "SFD",
+      "date": "2026-03-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "GameStop",
+      "symbol": "GME",
+      "date": "2026-03-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    }
+  ],
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-28T10:02:40Z",
+  "generatedAt": "2026-01-28T13:02:38Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "GameStop",
+    "McCormick & Co",
+    "Smithfield Foods"
+  ],
   "week": {
     "id": "2026-03-23",
     "start_date": "2026-03-23",

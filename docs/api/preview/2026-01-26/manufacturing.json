@@ -31,8 +31,8 @@
       "company": "American Airlines Group Inc",
       "symbol": "AAL",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +40,8 @@
       "company": "Boeing",
       "symbol": "BA",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -49,8 +49,8 @@
       "company": "Boston Properties",
       "symbol": "BXP",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -58,8 +58,8 @@
       "company": "JetBlue",
       "symbol": "JBLU",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -76,8 +76,8 @@
       "company": "Northrop Grumman Corp",
       "symbol": "NOC",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,8 +85,8 @@
       "company": "Packaging Corp of America",
       "symbol": "PKG",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,8 +94,8 @@
       "company": "RTX",
       "symbol": "RTX",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +103,8 @@
       "company": "UPS",
       "symbol": "UPS",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -112,8 +112,8 @@
       "company": "Union Pacific Corp",
       "symbol": "UNP",
       "date": "2026-01-27",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -157,10 +157,12 @@
       "company": "Southwest Airlines Co",
       "symbol": "LUV",
       "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "6:45AM EST",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "6:45am EST",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Textron Inc",
@@ -273,17 +275,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2026-01-29",
-      "bmo_amc": "10:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EST",
-      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Trane Technologies PLC",
       "symbol": "TT",
       "date": "2026-01-29",
@@ -293,10 +284,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 32,
+  "count": 31,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-28T10:01:16Z",
+  "generatedAt": "2026-01-28T13:01:17Z",
   "irCompanies": [
     "Parker-Hannifin Corp",
     "Southwest Airlines Co"
@@ -324,7 +315,6 @@
     "Packaging Corp of America",
     "Pultegroup Inc",
     "RTX",
-    "Southwest Airlines Co",
     "Steel Dynamics",
     "Textron Inc",
     "Trane Technologies PLC",

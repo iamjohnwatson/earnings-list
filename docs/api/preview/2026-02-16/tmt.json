@@ -37,15 +37,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Trimble",
-      "symbol": "TRMB",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Akamai Technologies",
       "symbol": "AKAM",
       "date": "2026-02-19",
@@ -91,10 +82,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 9,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-28T10:01:48Z",
+  "generatedAt": "2026-01-28T13:01:49Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -105,8 +96,7 @@
     "EPAM",
     "Garmin",
     "Grab",
-    "Live Nation Entertainment",
-    "Trimble"
+    "Live Nation Entertainment"
   ],
   "week": {
     "id": "2026-02-16",
