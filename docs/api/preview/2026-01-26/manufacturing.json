@@ -168,10 +168,10 @@
       "company": "Southwest Airlines Co",
       "symbol": "LUV",
       "date": "2026-01-28",
-      "bmo_amc": "6:45AM EST",
+      "bmo_amc": "4:28PM EST",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "ir_time_label": "6:45am EST",
+      "ir_time_label": "4:28pm EST",
       "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
       "source": "investor_relations"
     },
@@ -233,12 +233,10 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-01-29",
-      "bmo_amc": "8:30 A.M. ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "L3Harris Technologies Inc",
@@ -300,9 +298,8 @@
   "count": 32,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-28T18:59:22Z",
+  "generatedAt": "2026-01-28T21:58:05Z",
   "irCompanies": [
-    "Honeywell",
     "Parker-Hannifin Corp",
     "Quanta Services Inc",
     "Southwest Airlines Co"
@@ -317,6 +314,7 @@
     "Caterpillar",
     "Dover Corp",
     "General Dynamics Corp",
+    "Honeywell",
     "JetBlue",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",
