@@ -203,22 +203,19 @@
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-02-06",
-      "bmo_amc": "9:00AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00am",
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
   "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-28T15:59:49Z",
+  "generatedAt": "2026-01-28T18:59:30Z",
   "irCompanies": [
     "Bio-Techne Corp",
     "Boston Scientific Corp",
-    "Centene Corp",
     "DaVita Inc",
     "IDEXX Laboratories Inc",
     "Merck"
@@ -229,6 +226,7 @@
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
     "Cencora Inc",
+    "Centene Corp",
     "Cigna",
     "Eli Lilly and Co",
     "GE HealthCare Technologies Inc",
