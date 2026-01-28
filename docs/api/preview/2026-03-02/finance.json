@@ -1,27 +1,13 @@
 {
-  "records": [
-    {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-03-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations"
-    }
-  ],
-  "count": 1,
+  "records": [],
+  "count": 0,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-28T13:02:08Z",
-  "irCompanies": [
-    "Truist Financial"
-  ],
+  "generatedAt": "2026-01-28T16:00:28Z",
+  "irCompanies": [],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-03-02",

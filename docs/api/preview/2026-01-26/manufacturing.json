@@ -67,9 +67,9 @@
       "company": "NVR Inc",
       "symbol": "NVR",
       "date": "2026-01-27",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -121,18 +121,18 @@
       "company": "CH Robinson Worldwide Inc",
       "symbol": "CHRW",
       "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "General Dynamics Corp",
       "symbol": "GD",
       "date": "2026-01-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -148,10 +148,21 @@
       "company": "Otis Worldwide Corp",
       "symbol": "OTIS",
       "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
+    },
+    {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-01-28",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Southwest Airlines Co",
@@ -159,7 +170,7 @@
       "date": "2026-01-28",
       "bmo_amc": "6:45AM EST",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "6:45am EST",
       "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
       "source": "investor_relations"
@@ -222,10 +233,12 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 A.M. ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 a.m. ET",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations"
     },
     {
       "company": "L3Harris Technologies Inc",
@@ -284,12 +297,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 31,
+  "count": 32,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-28T13:01:17Z",
+  "generatedAt": "2026-01-28T15:59:39Z",
   "irCompanies": [
+    "Honeywell",
     "Parker-Hannifin Corp",
+    "Quanta Services Inc",
     "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
@@ -302,7 +317,6 @@
     "Caterpillar",
     "Dover Corp",
     "General Dynamics Corp",
-    "Honeywell",
     "JetBlue",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",

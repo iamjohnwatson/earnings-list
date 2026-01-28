@@ -19,12 +19,23 @@
       "source": "aggregator"
     },
     {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2026-01-28",
+      "bmo_amc": "9:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM EST",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Starbucks Corp",
       "symbol": "SBUX",
       "date": "2026-01-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -102,11 +113,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-28T13:01:18Z",
+  "generatedAt": "2026-01-28T15:59:40Z",
   "irCompanies": [
+    "Norwegian Cruise Line",
     "Royal Caribbean Group"
   ],
   "fallbackCompanies": [
