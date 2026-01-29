@@ -103,17 +103,21 @@
       "company": "Quanta Services Inc",
       "symbol": "PWR",
       "date": "2026-02-19",
-      "bmo_amc": "TBD",
+      "bmo_amc": "9:00 AM ET",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "9:00 AM ET",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 12,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-28T21:58:36Z",
-  "irCompanies": [],
+  "generatedAt": "2026-01-29T01:39:02Z",
+  "irCompanies": [
+    "Quanta Services Inc"
+  ],
   "fallbackCompanies": [
     "American Water Works",
     "Booking Holdings Inc",
@@ -124,7 +128,6 @@
     "Leidos Holdings Inc",
     "Nordson Corp",
     "Pool Corp",
-    "Quanta Services Inc",
     "Republic Services Inc",
     "Vulcan Materials Co"
   ],

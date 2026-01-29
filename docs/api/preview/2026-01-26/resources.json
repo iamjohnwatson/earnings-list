@@ -22,9 +22,9 @@
       "company": "GE Vernova",
       "symbol": "GEV",
       "date": "2026-01-28",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -49,9 +49,9 @@
       "company": "Sherwin-Williams",
       "symbol": "SHW",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -121,7 +121,7 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-28T21:58:04Z",
+  "generatedAt": "2026-01-29T01:38:34Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Products",

@@ -19,17 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-01-28",
-      "bmo_amc": "9:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM EST",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Starbucks Corp",
       "symbol": "SBUX",
       "date": "2026-01-28",
@@ -51,9 +40,9 @@
       "company": "Altria Group Inc",
       "symbol": "MO",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -80,7 +69,7 @@
       "date": "2026-01-29",
       "bmo_amc": "10:00AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "10:00AM ET",
       "ir_source_url": "https://www.rclinvestor.com/",
       "source": "investor_relations"
@@ -113,12 +102,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-28T21:58:05Z",
+  "generatedAt": "2026-01-29T01:38:34Z",
   "irCompanies": [
-    "Norwegian Cruise Line",
     "Royal Caribbean Group"
   ],
   "fallbackCompanies": [
