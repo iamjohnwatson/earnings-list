@@ -106,7 +106,9 @@
       "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.thehartford.com/overview/default.aspx",
+      "source": "investor_relations"
     },
     {
       "company": "Lazard",
@@ -180,9 +182,10 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-29T19:06:17Z",
+  "generatedAt": "2026-01-29T21:53:43Z",
   "irCompanies": [
-    "Aon"
+    "Aon",
+    "Hartford Financial Services"
   ],
   "fallbackCompanies": [
     "American Express",
@@ -192,7 +195,6 @@
     "Brown & Brown",
     "Fair Issac Corp",
     "Franklin Templeton",
-    "Hartford Financial Services",
     "Invesco",
     "Lazard",
     "MSCI Inc",
