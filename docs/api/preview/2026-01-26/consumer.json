@@ -40,18 +40,18 @@
       "company": "Altria Group Inc",
       "symbol": "MO",
       "date": "2026-01-29",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Deckers Outdoors",
       "symbol": "DECK",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -69,7 +69,7 @@
       "date": "2026-01-29",
       "bmo_amc": "10:00AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": "10:00AM ET",
       "ir_source_url": "https://www.rclinvestor.com/",
       "source": "investor_relations"
@@ -105,7 +105,7 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-29T13:06:22Z",
+  "generatedAt": "2026-01-29T16:01:19Z",
   "irCompanies": [
     "Royal Caribbean Group"
   ],

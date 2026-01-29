@@ -40,18 +40,18 @@
       "company": "Eastman Chemical",
       "symbol": "EMN",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Sherwin-Williams",
       "symbol": "SHW",
       "date": "2026-01-29",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -67,9 +67,9 @@
       "company": "Weyerhaeuser",
       "symbol": "WY",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -121,7 +121,7 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-29T13:06:22Z",
+  "generatedAt": "2026-01-29T16:01:19Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Products",

@@ -8,15 +8,25 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Paychex",
+      "symbol": "PAYX",
+      "date": "2026-03-25",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-29T13:07:40Z",
+  "generatedAt": "2026-01-29T16:02:36Z",
   "irCompanies": [],
   "fallbackCompanies": [
-    "GameStop"
+    "GameStop",
+    "Paychex"
   ],
   "week": {
     "id": "2026-03-23",
