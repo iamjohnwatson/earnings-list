@@ -211,12 +211,10 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-01-29",
-      "bmo_amc": "8:30 A.M. ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "L3Harris Technologies Inc",
@@ -240,19 +238,19 @@
       "company": "Norfolk Southern Corp",
       "symbol": "NSC",
       "date": "2026-01-29",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Parker-Hannifin Corp",
       "symbol": "PH",
       "date": "2026-01-29",
-      "bmo_amc": "11:00 AM ET",
+      "bmo_amc": "7:30 AM EST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "11:00 am ET",
+      "ir_time_label": "7:30 am EST",
       "ir_source_url": "https://investors.parker.com/",
       "source": "investor_relations"
     },
@@ -289,9 +287,8 @@
   "count": 31,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-29T16:01:17Z",
+  "generatedAt": "2026-01-29T19:06:16Z",
   "irCompanies": [
-    "Honeywell",
     "Parker-Hannifin Corp",
     "Southwest Airlines Co"
   ],
@@ -305,6 +302,7 @@
     "Caterpillar",
     "Dover Corp",
     "General Dynamics Corp",
+    "Honeywell",
     "JetBlue",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",
