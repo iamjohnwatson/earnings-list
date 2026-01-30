@@ -165,6 +165,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2026-01-30",
+      "bmo_amc": "11:00AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00am",
+      "ir_source_url": "https://investors.cinfin.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Franklin Templeton",
       "symbol": "BEN",
       "date": "2026-01-30",
@@ -174,15 +185,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-30T19:04:54Z",
+  "generatedAt": "2026-01-30T21:55:14Z",
   "irCompanies": [
-    "Aon"
+    "Aon",
+    "Cincinnati Financial"
   ],
   "fallbackCompanies": [
     "American Express",
