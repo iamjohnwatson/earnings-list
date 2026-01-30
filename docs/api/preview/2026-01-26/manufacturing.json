@@ -211,12 +211,10 @@
       "company": "Honeywell",
       "symbol": "HON",
       "date": "2026-01-29",
-      "bmo_amc": "8:30 A.M. ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:30 a.m. ET",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "L3Harris Technologies Inc",
@@ -249,12 +247,10 @@
       "company": "Parker-Hannifin Corp",
       "symbol": "PH",
       "date": "2026-01-29",
-      "bmo_amc": "7:30 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "7:30 am EST",
-      "ir_source_url": "https://investors.parker.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Pultegroup Inc",
@@ -266,17 +262,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2026-01-29",
-      "bmo_amc": "10:00 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "10:00 am EST",
-      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Trane Technologies PLC",
       "symbol": "TT",
       "date": "2026-01-29",
@@ -286,15 +271,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 31,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-01-29T21:53:42Z",
-  "irCompanies": [
-    "Honeywell",
-    "Parker-Hannifin Corp",
-    "Southwest Airlines Co"
-  ],
+  "generatedAt": "2026-01-30T01:37:47Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "A O Smith Corp",
     "Alexandria Real Estate Equities Inc",
@@ -305,6 +286,7 @@
     "Caterpillar",
     "Dover Corp",
     "General Dynamics Corp",
+    "Honeywell",
     "JetBlue",
     "L3Harris Technologies Inc",
     "Las Vegas Sands Corp",
@@ -314,6 +296,7 @@
     "Nucor Corp",
     "Otis Worldwide Corp",
     "Packaging Corp of America",
+    "Parker-Hannifin Corp",
     "Pultegroup Inc",
     "RTX",
     "Southwest Airlines Co",

@@ -37,42 +37,29 @@
       "source": "aggregator"
     },
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-01-29",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Thermo Fisher Scientific Inc",
       "symbol": "TMO",
       "date": "2026-01-29",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Regeneron Pharmaceuticals",
       "symbol": "REGN",
       "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 6,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-01-29T21:53:43Z",
-  "irCompanies": [
-    "Centene Corp"
-  ],
+  "generatedAt": "2026-01-30T01:37:48Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Danaher Corp",
     "Elevance Health Inc",

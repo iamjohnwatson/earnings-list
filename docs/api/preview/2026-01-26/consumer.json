@@ -49,9 +49,9 @@
       "company": "Deckers Outdoors",
       "symbol": "DECK",
       "date": "2026-01-29",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -67,12 +67,10 @@
       "company": "Royal Caribbean Group",
       "symbol": "RCL",
       "date": "2026-01-29",
-      "bmo_amc": "10:00AM ET",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:00AM ET",
-      "ir_source_url": "https://www.rclinvestor.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Tractor Supply Co",
@@ -87,28 +85,26 @@
       "company": "Church & Dwight",
       "symbol": "CHD",
       "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Colgate-Palmolive",
       "symbol": "CL",
       "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
   "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-29T21:53:42Z",
-  "irCompanies": [
-    "Royal Caribbean Group"
-  ],
+  "generatedAt": "2026-01-30T01:37:47Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Altria Group Inc",
     "Church & Dwight",
@@ -116,6 +112,7 @@
     "Deckers Outdoors",
     "International Paper Co",
     "Kimberly Clark Corp",
+    "Royal Caribbean Group",
     "Starbucks Corp",
     "Sysco Corp",
     "Tractor Supply Co",

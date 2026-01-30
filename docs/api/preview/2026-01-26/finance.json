@@ -85,9 +85,9 @@
       "company": "Arthur J. Gallagher",
       "symbol": "AJG",
       "date": "2026-01-29",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -103,12 +103,10 @@
       "company": "Hartford Financial Services",
       "symbol": "HIG",
       "date": "2026-01-29",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.thehartford.com/overview/default.aspx",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Lazard",
@@ -141,18 +139,18 @@
       "company": "Visa",
       "symbol": "V",
       "date": "2026-01-29",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "American Express",
       "symbol": "AXP",
       "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -161,7 +159,7 @@
       "date": "2026-01-30",
       "bmo_amc": "7:30AM",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "7:30am",
       "ir_source_url": "https://ir.aon.com/",
       "source": "investor_relations"
@@ -170,9 +168,9 @@
       "company": "Franklin Templeton",
       "symbol": "BEN",
       "date": "2026-01-30",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     }
   ],
@@ -182,10 +180,9 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-29T21:53:43Z",
+  "generatedAt": "2026-01-30T01:37:48Z",
   "irCompanies": [
-    "Aon",
-    "Hartford Financial Services"
+    "Aon"
   ],
   "fallbackCompanies": [
     "American Express",
@@ -195,6 +192,7 @@
     "Brown & Brown",
     "Fair Issac Corp",
     "Franklin Templeton",
+    "Hartford Financial Services",
     "Invesco",
     "Lazard",
     "MSCI Inc",

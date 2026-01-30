@@ -154,6 +154,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-02-26",
+      "bmo_amc": "1:30 PM PT",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "1:30 PM PT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-02-26",
@@ -174,11 +185,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-29T21:54:22Z",
+  "generatedAt": "2026-01-30T01:38:29Z",
   "irCompanies": [
+    "Intuit",
     "Qnity"
   ],
   "fallbackCompanies": [
