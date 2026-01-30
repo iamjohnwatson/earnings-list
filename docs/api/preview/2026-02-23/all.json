@@ -124,8 +124,8 @@
       "company": "NVIDIA",
       "symbol": "NVDA",
       "date": "2026-02-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
@@ -255,136 +255,108 @@
       "sector": "TMT"
     },
     {
-      "company": "Hims and Hers",
-      "symbol": "HIMS",
+      "company": "Domino\u2019s Pizza Inc",
+      "symbol": "DPZ",
       "date": "2026-02-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Henry Schein Inc",
-      "symbol": "HSIC",
-      "date": "2026-02-24",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Agilent",
-      "symbol": "A",
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-02-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Keurig Dr. Pepper",
+      "symbol": "KDP",
+      "date": "2026-02-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Lowe\u2019s Cos Inc",
+      "symbol": "LOW",
+      "date": "2026-02-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "TJX Cos Inc",
+      "symbol": "TJX",
       "date": "2026-02-25",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Dentsply Sirona",
-      "symbol": "XRAY",
+      "company": "Bath & Body Works",
+      "symbol": "BBWI",
       "date": "2026-02-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Novavax",
-      "symbol": "NVAX",
+      "company": "Hormel Foods",
+      "symbol": "HRL",
       "date": "2026-02-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Solventum Corp",
-      "symbol": "SOLV",
+      "company": "J.M. Smucker Co",
+      "symbol": "SJM",
+      "date": "2026-02-26",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Monster Beverage",
+      "symbol": "MNST",
       "date": "2026-02-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Consumer"
     },
     {
-      "company": "Viatris",
-      "symbol": "VTRS",
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
       "date": "2026-02-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-02-23",
-      "bmo_amc": "9:40 AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "9:40 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Bank of Montreal",
-      "symbol": "BMO",
-      "date": "2026-02-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Scotiabank",
-      "symbol": "BNS",
-      "date": "2026-02-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "CIBC",
-      "symbol": "CM",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Royal Bank of Canada",
-      "symbol": "RY",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "TD Bank",
-      "symbol": "TD",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Consumer"
     },
     {
       "company": "Corterra Energy",
@@ -450,8 +422,8 @@
       "company": "First Solar",
       "symbol": "FSLR",
       "date": "2026-02-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
@@ -537,11 +509,11 @@
       "sector": "Resources"
     },
     {
-      "company": "Evergy",
-      "symbol": "EVRG",
+      "company": "Cheniere Energy",
+      "symbol": "LNG",
       "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
@@ -577,108 +549,136 @@
       "sector": "Resources"
     },
     {
-      "company": "Domino\u2019s Pizza Inc",
-      "symbol": "DPZ",
+      "company": "JPMorgan",
+      "symbol": "JPM",
       "date": "2026-02-23",
+      "bmo_amc": "9:40 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "9:40 AM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Scotiabank",
+      "symbol": "BNS",
+      "date": "2026-02-24",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Finance"
     },
     {
-      "company": "Home Depot Inc",
-      "symbol": "HD",
-      "date": "2026-02-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2026-02-24",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Lowe\u2019s Cos Inc",
-      "symbol": "LOW",
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
       "date": "2026-02-25",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Finance"
     },
     {
-      "company": "TJX Cos Inc",
-      "symbol": "TJX",
+      "company": "CIBC",
+      "symbol": "CM",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "symbol": "RY",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "TD Bank",
+      "symbol": "TD",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Hims and Hers",
+      "symbol": "HIMS",
+      "date": "2026-02-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Henry Schein Inc",
+      "symbol": "HSIC",
+      "date": "2026-02-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Agilent",
+      "symbol": "A",
       "date": "2026-02-25",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Bath & Body Works",
-      "symbol": "BBWI",
+      "company": "Dentsply Sirona",
+      "symbol": "XRAY",
       "date": "2026-02-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Hormel Foods",
-      "symbol": "HRL",
+      "company": "Novavax",
+      "symbol": "NVAX",
       "date": "2026-02-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "J.M. Smucker Co",
-      "symbol": "SJM",
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
       "date": "2026-02-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     },
     {
-      "company": "Monster Beverage",
-      "symbol": "MNST",
+      "company": "Viatris",
+      "symbol": "VTRS",
       "date": "2026-02-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Pharma"
     }
   ],
   "count": 67,
@@ -687,7 +687,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-30T10:06:10Z",
+  "generatedAt": "2026-01-30T13:06:20Z",
   "irCompanies": [
     "Home Depot Inc",
     "Intuit",
@@ -708,6 +708,7 @@
     "Bumble",
     "C3.ai",
     "CIBC",
+    "Cheniere Energy",
     "Corterra Energy",
     "Dell",
     "Dentsply Sirona",
@@ -716,7 +717,6 @@
     "Domino\u2019s Pizza Inc",
     "Duolingo",
     "EOG Resources",
-    "Evergy",
     "Expand Energy",
     "Expeditors International of Washington Inc",
     "First Solar",

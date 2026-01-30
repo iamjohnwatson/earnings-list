@@ -41,6 +41,16 @@
       "sector": "Consumer"
     },
     {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-03-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "GameStop",
       "symbol": "GME",
       "date": "2026-03-24",
@@ -61,18 +71,19 @@
       "sector": "TMT"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-01-30T10:06:50Z",
+  "generatedAt": "2026-01-30T13:07:01Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Cintas Corp",
     "Dollar Tree",
     "GameStop",
+    "Lululemon Athletica",
     "McCormick & Co",
     "Paychex",
     "Smithfield Foods"

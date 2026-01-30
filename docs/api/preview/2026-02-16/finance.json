@@ -1,14 +1,26 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Moody's Corporation",
+      "symbol": "MCO",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    }
+  ],
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-30T10:06:00Z",
+  "generatedAt": "2026-01-30T13:06:10Z",
   "irCompanies": [],
-  "fallbackCompanies": [],
+  "fallbackCompanies": [
+    "Moody's Corporation"
+  ],
   "week": {
     "id": "2026-02-16",
     "start_date": "2026-02-16",

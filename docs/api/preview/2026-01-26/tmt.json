@@ -139,8 +139,8 @@
       "company": "Apple",
       "symbol": "AAPL",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -148,8 +148,8 @@
       "company": "Comcast",
       "symbol": "CMCSA",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -157,8 +157,8 @@
       "company": "KLA Corp",
       "symbol": "KLAC",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -166,8 +166,8 @@
       "company": "Rogers Communications",
       "symbol": "RCI",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -175,8 +175,8 @@
       "company": "Western Digital",
       "symbol": "WDC",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -204,7 +204,7 @@
   "count": 22,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-01-30T10:05:29Z",
+  "generatedAt": "2026-01-30T13:05:40Z",
   "irCompanies": [
     "Verizon"
   ],

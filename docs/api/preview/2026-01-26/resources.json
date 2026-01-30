@@ -31,8 +31,8 @@
       "company": "Dow",
       "symbol": "DOW",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -40,8 +40,8 @@
       "company": "Eastman Chemical",
       "symbol": "EMN",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -49,8 +49,8 @@
       "company": "Sherwin-Williams",
       "symbol": "SHW",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -58,8 +58,8 @@
       "company": "Valero Energy Corp",
       "symbol": "VLO",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -67,8 +67,8 @@
       "company": "Weyerhaeuser",
       "symbol": "WY",
       "date": "2026-01-29",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -121,7 +121,7 @@
   "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-30T10:05:29Z",
+  "generatedAt": "2026-01-30T13:05:40Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Products",

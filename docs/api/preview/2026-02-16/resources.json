@@ -145,20 +145,20 @@
       "source": "aggregator"
     },
     {
-      "company": "Cheniere Energy",
-      "symbol": "LNG",
-      "date": "2026-02-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Consolidated Edison",
       "symbol": "ED",
       "date": "2026-02-19",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Evergy",
+      "symbol": "EVRG",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -211,7 +211,7 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-01-30T10:05:59Z",
+  "generatedAt": "2026-01-30T13:06:10Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alliant Energy",
@@ -219,7 +219,6 @@
     "Celanese",
     "Cenovus Energy",
     "CenterPoint Energy",
-    "Cheniere Energy",
     "Consolidated Edison",
     "Constellation Energy",
     "Devon Energy",
@@ -227,6 +226,7 @@
     "Edison International",
     "Energy Transfer",
     "Entergy Corp",
+    "Evergy",
     "First Energy",
     "HF Sinclair",
     "MP Materials",
