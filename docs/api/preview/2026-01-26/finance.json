@@ -148,9 +148,9 @@
       "company": "American Express",
       "symbol": "AXP",
       "date": "2026-01-30",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -168,9 +168,9 @@
       "company": "Franklin Templeton",
       "symbol": "BEN",
       "date": "2026-01-30",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
@@ -180,7 +180,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-30T16:00:39Z",
+  "generatedAt": "2026-01-30T19:04:54Z",
   "irCompanies": [
     "Aon"
   ],

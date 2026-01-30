@@ -30,6 +30,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
+      "date": "2026-02-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "CIBC",
       "symbol": "CM",
       "date": "2026-02-26",
@@ -57,13 +66,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-30T16:01:15Z",
+  "generatedAt": "2026-01-30T19:05:31Z",
   "irCompanies": [
     "JPMorgan"
   ],
