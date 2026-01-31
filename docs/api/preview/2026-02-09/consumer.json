@@ -96,10 +96,12 @@
       "company": "Kimco Realty Corp",
       "symbol": "KIM",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:30 AM EST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.kimcorealty.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Coca-Cola Europacific",
@@ -114,9 +116,10 @@
   "count": 12,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-01-30T21:55:33Z",
+  "generatedAt": "2026-01-31T01:35:35Z",
   "irCompanies": [
-    "Coca-Cola Co"
+    "Coca-Cola Co",
+    "Kimco Realty Corp"
   ],
   "fallbackCompanies": [
     "Coca-Cola Europacific",
@@ -124,7 +127,6 @@
     "Hasbro Inc",
     "Instacart",
     "International Flavours & Fragrances",
-    "Kimco Realty Corp",
     "Kraft Heinz Co",
     "Masco Corp",
     "Mattel",

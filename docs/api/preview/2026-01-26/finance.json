@@ -157,23 +157,10 @@
       "company": "Aon",
       "symbol": "AON",
       "date": "2026-01-30",
-      "bmo_amc": "7:30AM",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "7:30am",
-      "ir_source_url": "https://ir.aon.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Cincinnati Financial",
-      "symbol": "CINF",
-      "date": "2026-01-30",
-      "bmo_amc": "11:00AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:00am",
-      "ir_source_url": "https://investors.cinfin.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Franklin Templeton",
@@ -185,20 +172,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-30T21:55:14Z",
-  "irCompanies": [
-    "Aon",
-    "Cincinnati Financial"
-  ],
+  "generatedAt": "2026-01-31T01:35:20Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "American Express",
     "Ameriprise Financial Inc",
+    "Aon",
     "Arthur J. Gallagher",
     "Blackstone",
     "Brown & Brown",
