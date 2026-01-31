@@ -55,15 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Citizens Financial",
-      "symbol": "CFG",
-      "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-01-21",
@@ -100,18 +91,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 10,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-01-31T09:55:07Z",
+  "generatedAt": "2026-01-31T12:58:22Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Capital One Financial",
     "Charles Schwab",
-    "Citizens Financial",
     "Fifth Third Bancorp",
     "Huntington Bancshares",
     "Interactive Brokers",
