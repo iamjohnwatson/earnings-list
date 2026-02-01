@@ -1,36 +1,6 @@
 {
   "records": [
     {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-01-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Intel",
-      "symbol": "INTC",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Mobileye",
-      "symbol": "MBLY",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Fifth Third Bancorp",
       "symbol": "FITB",
       "date": "2026-01-20",
@@ -141,54 +111,74 @@
       "sector": "Finance"
     },
     {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Intel",
+      "symbol": "INTC",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Procter & Gamble",
-      "symbol": "PG",
+      "company": "Mobileye",
+      "symbol": "MBLY",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
+      "company": "Halliburton",
+      "symbol": "HAL",
       "date": "2026-01-21",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
-      "company": "Abbott Laboratories",
-      "symbol": "ABT",
+      "company": "Kinder Morgan",
+      "symbol": "KMI",
+      "date": "2026-01-21",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Freeport McMoRan",
+      "symbol": "FCX",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
-      "company": "Intuitive Surgical Inc",
-      "symbol": "ISRG",
-      "date": "2026-01-22",
+      "company": "SLB",
+      "symbol": "SLB",
+      "date": "2026-01-23",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Resources"
     },
     {
       "company": "3M Co",
@@ -281,44 +271,54 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Halliburton",
-      "symbol": "HAL",
-      "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Kinder Morgan",
-      "symbol": "KMI",
-      "date": "2026-01-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Freeport McMoRan",
-      "symbol": "FCX",
+      "company": "McCormick & Co",
+      "symbol": "MKC",
       "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Consumer"
     },
     {
-      "company": "SLB",
-      "symbol": "SLB",
-      "date": "2026-01-23",
+      "company": "Procter & Gamble",
+      "symbol": "PG",
+      "date": "2026-01-22",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Resources"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "symbol": "JNJ",
+      "date": "2026-01-21",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Abbott Laboratories",
+      "symbol": "ABT",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Intuitive Surgical Inc",
+      "symbol": "ISRG",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     }
   ],
   "count": 32,
@@ -327,7 +327,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-01T15:51:51Z",
+  "generatedAt": "2026-02-01T18:57:02Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "3M Co",

@@ -1,6 +1,28 @@
 {
   "records": [
     {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-03-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2026-03-03",
@@ -71,68 +93,6 @@
       "sector": "TMT"
     },
     {
-      "company": "Truist Financial",
-      "symbol": "TFC",
-      "date": "2026-03-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.truist.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-03-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Autozone Inc",
-      "symbol": "AZO",
-      "date": "2026-03-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "New Fortress Energy",
-      "symbol": "NFE",
-      "date": "2026-03-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Canadian Natural Resources",
-      "symbol": "CNQ",
-      "date": "2026-03-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
-      "company": "Venture Global",
-      "symbol": "VG",
-      "date": "2026-03-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Resources"
-    },
-    {
       "company": "Best Buy Co Inc",
       "symbol": "BBY",
       "date": "2026-03-03",
@@ -201,6 +161,46 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "New Fortress Energy",
+      "symbol": "NFE",
+      "date": "2026-03-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Canadian Natural Resources",
+      "symbol": "CNQ",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2026-03-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Resources"
+    },
+    {
+      "company": "Autozone Inc",
+      "symbol": "AZO",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 20,
@@ -209,7 +209,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-01T15:52:38Z",
+  "generatedAt": "2026-02-01T18:57:44Z",
   "irCompanies": [
     "Truist Financial"
   ],
