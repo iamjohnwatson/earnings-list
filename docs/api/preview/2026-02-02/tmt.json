@@ -4,36 +4,36 @@
       "company": "Disney",
       "symbol": "DIS",
       "date": "2026-02-02",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "NXP Semiconductors",
       "symbol": "NXPI",
       "date": "2026-02-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Palantir",
       "symbol": "PLTR",
       "date": "2026-02-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Teradyne",
       "symbol": "TER",
       "date": "2026-02-02",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -356,7 +356,7 @@
   "count": 38,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-01T21:50:09Z",
+  "generatedAt": "2026-02-02T01:40:55Z",
   "irCompanies": [
     "Fox Corp",
     "Qualcomm",
