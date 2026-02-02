@@ -157,41 +157,44 @@ def fetch_investor_relations_events(
 ) -> Dict[str, InvestorRelationsEvent]:
     today = today or date.today()
     results: Dict[str, InvestorRelationsEvent] = {}
-
-    for entry in companies:
+    
+    # Use a separate session factory or just new sessions per thread to avoid race conditions 
+    # if the passed session isn't thread-safe (requests.Session is generally thread-safe but 
+    # relying on a single pool might be a bottleneck). 
+    # Actually, sharing one session is fine if pool size is large enough.
+    # However, let's use a thread pool to parallelize.
+    
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    
+    def _fetch_one(entry: Dict[str, str]) -> Optional[InvestorRelationsEvent]:
         symbol = entry.get("ticker")
         company = entry.get("name")
         url = entry.get("investorRelationsUrl")
         if not symbol or not url:
-            continue
+            return None
 
         try:
-            response = session.get(url, headers=_HEADERS, timeout=20)
+            # We use the shared session, but requests is thread-safe.
+            response = session.get(url, headers=_HEADERS, timeout=10) # Reduced timeout for speed
         except requests.RequestException as exc:
             logger.debug("IR fetch failed for %s (%s): %s", company, symbol, exc)
-            continue
+            return None
 
         if response.status_code != 200 or not response.text:
-            logger.debug(
-                "IR fetch returned status %s for %s (%s)",
-                response.status_code,
-                company,
-                symbol,
-            )
-            continue
+            return None
 
         soup = BeautifulSoup(response.text, "lxml")
         text = soup.get_text(" ", strip=True)
         if not text:
-            continue
+            return None
 
         candidates = _extract_candidates(text)
         selection = _pick_event(candidates, today)
         if not selection:
-            continue
+            return None
 
         event_date, time_label = selection
-        results[symbol] = InvestorRelationsEvent(
+        return InvestorRelationsEvent(
             symbol=symbol,
             company=company or symbol,
             date=event_date,
@@ -199,4 +202,21 @@ def fetch_investor_relations_events(
             source_url=response.url or url,
         )
 
+    # Limit max workers to avoid being flagged as a DoS or exhausting local resources
+    max_workers = min(len(companies), 20) or 1
+    
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        future_to_symbol = {
+            executor.submit(_fetch_one, entry): entry.get("ticker") 
+            for entry in companies
+        }
+        
+        for future in as_completed(future_to_symbol):
+            try:
+                event = future.result()
+                if event:
+                    results[event.symbol] = event
+            except Exception as exc:
+                logger.debug("Worker failed: %s", exc)
+                
     return results

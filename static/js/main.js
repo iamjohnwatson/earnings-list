@@ -1,5 +1,6 @@
 (function () {
-  const weekSelect = document.getElementById('week-select');
+  const startWeekSelect = document.getElementById('start-week-select');
+  const endWeekSelect = document.getElementById('end-week-select');
   const sectorSelect = document.getElementById('sector-select');
   const previewBtn = document.getElementById('preview-btn');
   const downloadBtn = document.getElementById('download-btn');
@@ -171,20 +172,20 @@
     const map = new Map();
     records.forEach((record) => {
       const key = record.date || 'Unscheduled';
-    if (!map.has(key)) {
-      const group = {
-        key,
-        fullLabel: formatFullDate(record.date || ''),
-        shortLabel: formatDayName(record.date || ''),
-        compactLabel: formatShortDate(record.date || ''),
-        count: 0,
-        isWeekend: isWeekend(record.date || ''),
-        anchorId: key === 'Unscheduled' ? 'day-unscheduled' : `day-${key}`,
-      };
-      map.set(key, group);
-      groups.push(group);
-    }
-    map.get(key).count += 1;
+      if (!map.has(key)) {
+        const group = {
+          key,
+          fullLabel: formatFullDate(record.date || ''),
+          shortLabel: formatDayName(record.date || ''),
+          compactLabel: formatShortDate(record.date || ''),
+          count: 0,
+          isWeekend: isWeekend(record.date || ''),
+          anchorId: key === 'Unscheduled' ? 'day-unscheduled' : `day-${key}`,
+        };
+        map.set(key, group);
+        groups.push(group);
+      }
+      map.get(key).count += 1;
     });
     return groups;
   }
@@ -401,17 +402,13 @@
     clearTimeline();
     clearSourceSummary();
     if (!data.records || data.records.length === 0) {
-      if (sectorHeader) {
-        sectorHeader.classList.add('hidden');
-      }
+      // sectorHeader logic removed
       hidePreviewSection();
       matchCount.textContent = 'No matches';
       return [];
     }
     const showSector = data.sectorSlug === 'all';
-    if (sectorHeader) {
-      sectorHeader.classList.toggle('hidden', !showSector);
-    }
+    // Removed sectorHeader toggle - using badges instead
     const sortedRecords = [...data.records].sort((a, b) => {
       const aDate = a.date || '';
       const bDate = b.date || '';
@@ -457,7 +454,18 @@
       const tr = document.createElement('tr');
       const companyCell = document.createElement('td');
       companyCell.dataset.label = 'Company';
-      companyCell.textContent = record.company || '';
+
+      if (showSector) {
+        const badge = document.createElement('span');
+        badge.className = 'badge';
+        badge.style.marginRight = '0.6rem';
+        badge.style.fontSize = '0.75rem';
+        badge.style.fontWeight = '600';
+        badge.textContent = record.sector || data.sector || '';
+        companyCell.appendChild(badge);
+      }
+      companyCell.appendChild(document.createTextNode(record.company || ''));
+
       const tickerCell = document.createElement('td');
       tickerCell.dataset.label = 'Ticker';
       tickerCell.textContent = record.symbol || '';
@@ -492,12 +500,7 @@
       callCell.appendChild(pill);
       tr.appendChild(companyCell);
       tr.appendChild(tickerCell);
-      if (showSector) {
-        const sectorCell = document.createElement('td');
-        sectorCell.dataset.label = 'Sector';
-        sectorCell.textContent = record.sector || data.sector || '';
-        tr.appendChild(sectorCell);
-      }
+      // Removed separate sector column
       tr.appendChild(irCell);
       tr.append(dateCell, callCell);
       fragment.appendChild(tr);
@@ -512,8 +515,8 @@
     return encodeURIComponent(value.trim().toLowerCase().replace(/\s+/g, '-'));
   }
 
-  async function fetchJSON(path) {
-    const response = await fetch(path, { cache: 'no-store' });
+  async function fetchJSON(path, options = {}) {
+    const response = await fetch(path, { cache: 'no-store', ...options });
     if (!response.ok) {
       throw new Error(`Request failed (${response.status})`);
     }
@@ -638,10 +641,11 @@
       listItem.appendChild(meta);
 
       listItem.addEventListener("click", () => {
-        if (!weekSelect || !sectorSelect) {
+        if (!startWeekSelect || !endWeekSelect || !sectorSelect) {
           return;
         }
-        weekSelect.value = entry.weekId;
+        startWeekSelect.value = entry.weekId;
+        endWeekSelect.value = entry.weekId;
         const desiredSector = entry.sector && entry.sector !== "All sectors" ? entry.sector : "All";
         const availableValues = Array.from(sectorSelect.options).map((opt) => opt.value);
         sectorSelect.value = availableValues.includes(desiredSector) ? desiredSector : "All";
@@ -932,13 +936,54 @@
     clearSuggestions();
   }
 
+  function getWeekRange(startId, endId) {
+    const weeks = window.APP_PRELOADED_WEEKS || [];
+    const startIndex = weeks.findIndex(w => w.id === startId);
+    const endIndex = weeks.findIndex(w => w.id === endId);
+
+    if (startIndex === -1 || endIndex === -1 || startIndex > endIndex) {
+      return [];
+    }
+    return weeks.slice(startIndex, endIndex + 1);
+  }
+
+  function jsonToCSV(records) {
+    if (!records || !records.length) return '';
+    const headers = ['Date', 'Time', 'Ticker', 'Company', 'Sector', 'Source'];
+    const rows = records.map(r => [
+      r.date,
+      r.time,
+      r.ticker,
+      // Escape quotes in company name
+      `"${(r.company || '').replace(/"/g, '""')}"`,
+      r.sector || '',
+      r.source
+    ]);
+    return [headers.join(','), ...rows.map(r => r.join(','))].join('\n');
+  }
+
+  // Helper for date formatting in label
+  function _formatLabel(isoDate) {
+    if (!isoDate) return '';
+    const parts = isoDate.split('-');
+    // YYYY-MM-DD
+    const dateObj = new Date(parts[0], parts[1] - 1, parts[2]);
+    return dateObj.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  }
+
   async function handlePreview() {
-   const payload = {
-     sector: sectorSelect.value,
-     weekId: weekSelect.value,
-   };
-    if (!payload.sector || !payload.weekId) {
-      setStatus('Pick a week and sector first.', 'error');
+    const startWeek = startWeekSelect.value;
+    const endWeek = endWeekSelect.value;
+    const sector = sectorSelect.value;
+
+    const payload = {
+      sector: sector,
+      startWeekId: startWeek,
+      endWeekId: endWeek,
+    };
+
+    if (!payload.sector || !payload.startWeekId || !payload.endWeekId) {
+      setStatus('Pick a week range and sector first.', 'error');
       hidePreviewSection();
       clearTimeline();
       clearSourceSummary();
@@ -947,12 +992,94 @@
       renderMissing([]);
       return;
     }
+
+    // Ensure start <= end
+    if (payload.startWeekId > payload.endWeekId) {
+      setStatus('Start week must be before end week.', 'error');
+      return;
+    }
+
+    const isSingleWeek = payload.startWeekId === payload.endWeekId;
     const slug = toSectorSlug(payload.sector);
-    const url = `api/preview/${payload.weekId}/${slug}.json`;
+
     setStatus('Fetching earnings...', 'loading');
     downloadBtn.disabled = true;
+
     try {
-      const data = await fetchJSON(url);
+      let data;
+      if (isSingleWeek) {
+        // Use static file directly
+        const url = `api/preview/${payload.startWeekId}/${slug}.json`;
+        data = await fetchJSON(url);
+        // Ensure sectorSlug is set for badges
+        data.sectorSlug = slug;
+      } else {
+        // Client-side aggregation
+        const weekRange = getWeekRange(payload.startWeekId, payload.endWeekId);
+        if (!weekRange.length) {
+          throw new Error('Invalid week selection.');
+        }
+
+        const requests = weekRange.map(week => `api/preview/${week.id}/${slug}.json`);
+        // Fetch all, ignoring 404s/errors gracefully
+        const responses = await Promise.all(requests.map(url => fetchJSON(url).catch(e => null)));
+
+        const successful = responses.filter(r => r);
+        if (successful.length === 0) {
+          throw new Error("No data found for selected range.");
+        }
+
+        // Aggregate
+        let allRecords = [];
+        let missingPublic = new Set();
+        let irCompanies = new Set();
+        let fallbackCompanies = new Set();
+        let totalCount = 0;
+
+        successful.forEach(d => {
+          if (d.records) {
+            // Ensure sector name is available on the record for badge display
+            if (d.sector && d.sector !== 'All') {
+              d.records.forEach(r => {
+                if (!r.sector) r.sector = d.sector;
+              });
+            }
+            allRecords.push(...d.records);
+          }
+          if (d.missingPublic) d.missingPublic.forEach(m => missingPublic.add(m));
+          if (d.irCompanies) d.irCompanies.forEach(c => irCompanies.add(c));
+          if (d.fallbackCompanies) d.fallbackCompanies.forEach(c => fallbackCompanies.add(c));
+          totalCount += (d.count || 0);
+        });
+
+        // Sort records by date then ticker
+        allRecords.sort((a, b) => {
+          const dateA = a.date || '';
+          const dateB = b.date || '';
+          if (dateA !== dateB) return dateA.localeCompare(dateB);
+
+          const symA = a.symbol || '';
+          const symB = b.symbol || '';
+          return symA.localeCompare(symB);
+        });
+
+        data = {
+          records: allRecords,
+          count: allRecords.length,
+          missingPublic: Array.from(missingPublic).sort(),
+          tickerCount: successful[0].tickerCount || 0, // Approx
+          generatedAt: successful[0].generatedAt,
+          irCompanies: Array.from(irCompanies).sort(),
+          fallbackCompanies: Array.from(fallbackCompanies).sort(),
+          week: {
+            label: `Weeks of ${_formatLabel(weekRange[0].start_date)} to ${_formatLabel(weekRange[weekRange.length - 1].end_date)}`,
+            id: `${payload.startWeekId}...${payload.endWeekId}`
+          },
+          sector: payload.sector,
+          sectorSlug: slug
+        };
+      }
+
       lastPayload = payload;
       lastPreview = data;
       const groups = renderPreview(data);
@@ -960,10 +1087,12 @@
       renderMissing(data.missingPublic);
       renderSourceSummary(data);
       if (data.count > 0) {
-        setStatus(`Found ${data.count} companies for ${data.week.label}.`, 'success');
+        const weekLabel = data.week ? data.week.label : 'selected weeks';
+        setStatus(`Found ${data.count} companies for ${weekLabel}.`, 'success');
         downloadBtn.disabled = false;
       } else {
-        setStatus(`No scheduled earnings for ${data.week.label}.`, 'info');
+        const weekLabel = data.week ? data.week.label : 'selected weeks';
+        setStatus(`No scheduled earnings for ${weekLabel}.`, 'info');
       }
     } catch (error) {
       setStatus(error.message, 'error');
@@ -979,26 +1108,34 @@
   }
 
   async function handleDownload() {
-    if (!lastPayload) {
-      setStatus('Preview the week before downloading.', 'error');
-      return;
-    }
-    if (!lastPreview || !lastPreview.downloadPath) {
-      setStatus('Download is not available for this selection.', 'error');
+    if (!lastPayload || !lastPreview) {
+      setStatus('Preview first.', 'error');
       return;
     }
 
     downloadBtn.disabled = true;
     setStatus('Building spreadsheet...', 'loading');
+
     try {
-      const downloadPath = lastPreview.downloadPath;
-      const filename = downloadPath.split('/').pop() || `earnings_${toSectorSlug(lastPayload.sector)}_${lastPayload.weekId}.csv`;
-      const response = await fetch(downloadPath, { cache: 'no-store' });
-      if (!response.ok) {
-        throw new Error(`Download failed (${response.status})`);
+      let url;
+      let filename;
+
+      if (lastPreview.downloadPath) {
+        // Single week static file
+        const downloadPath = lastPreview.downloadPath;
+        filename = downloadPath.split('/').pop();
+        const response = await fetch(downloadPath, { cache: 'no-store' });
+        if (!response.ok) throw new Error("Download failed");
+        const blob = await response.blob();
+        url = URL.createObjectURL(blob);
+      } else {
+        // Generated client-side
+        const csvContent = jsonToCSV(lastPreview.records);
+        const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+        url = URL.createObjectURL(blob);
+        filename = `earnings_${toSectorSlug(lastPayload.sector)}_range.csv`;
       }
-      const blob = await response.blob();
-      const url = URL.createObjectURL(blob);
+
       const link = document.createElement('a');
       link.href = url;
       link.download = filename;
@@ -1006,6 +1143,7 @@
       link.click();
       link.remove();
       URL.revokeObjectURL(url);
+
       setStatus('Spreadsheet downloaded.', 'success');
     } catch (error) {
       setStatus(error.message, 'error');
@@ -1047,7 +1185,20 @@
 
   previewBtn.addEventListener('click', handlePreview);
   downloadBtn.addEventListener('click', handleDownload);
-  [weekSelect, sectorSelect].forEach((select) =>
+
+  function syncWeekSelectors() {
+    if (startWeekSelect.value > endWeekSelect.value) {
+      endWeekSelect.value = startWeekSelect.value;
+    }
+  }
+
+  startWeekSelect.addEventListener('change', () => {
+    syncWeekSelectors();
+    downloadBtn.disabled = true;
+    setStatus('Adjust selections and preview to refresh.', 'info');
+  });
+
+  [endWeekSelect, sectorSelect].forEach((select) =>
     select.addEventListener('change', () => {
       downloadBtn.disabled = true;
       setStatus('Adjust selections and preview to refresh.', 'info');
