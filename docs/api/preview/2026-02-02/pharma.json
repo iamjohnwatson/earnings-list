@@ -35,10 +35,10 @@
       "company": "IDEXX Laboratories Inc",
       "symbol": "IDXX",
       "date": "2026-02-02",
-      "bmo_amc": "8:30 AM EST",
+      "bmo_amc": "6:30 AM EST",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:30 am EST",
+      "yahoo_time_label": null,
+      "ir_time_label": "6:30 am EST",
       "ir_source_url": "https://ir.idexx.com/",
       "source": "investor_relations"
     },
@@ -46,9 +46,9 @@
       "company": "Revvity",
       "symbol": "RVTY",
       "date": "2026-02-02",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -223,7 +223,7 @@
   "count": 23,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-02T12:33:07Z",
+  "generatedAt": "2026-02-02T15:31:07Z",
   "irCompanies": [
     "Bio-Techne Corp",
     "Boston Scientific Corp",

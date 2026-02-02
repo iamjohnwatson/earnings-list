@@ -4,9 +4,9 @@
       "company": "Aptiv PLC",
       "symbol": "APTV",
       "date": "2026-02-02",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -18,6 +18,17 @@
       "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Johnson Controls International PLC",
+      "symbol": "JCI",
+      "date": "2026-02-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.johnsoncontrols.com/",
       "source": "investor_relations"
     },
     {
@@ -150,9 +161,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.johnsoncontrols.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -276,10 +285,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-02T12:33:08Z",
+  "generatedAt": "2026-02-02T15:31:07Z",
   "irCompanies": [
     "Bombardier",
     "Emerson Electric Co",
@@ -303,6 +312,7 @@
     "IDEX Corp",
     "Illinois Tool Works Inc",
     "Jacobs Solutions Inc",
+    "Johnson Controls International PLC",
     "Mid-America Apartment Communities Inc",
     "Peloton",
     "Pentair PLC",

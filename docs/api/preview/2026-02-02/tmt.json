@@ -4,10 +4,21 @@
       "company": "Disney",
       "symbol": "DIS",
       "date": "2026-02-02",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Intuit",
+      "symbol": "INTU",
+      "date": "2026-02-02",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 AM EST",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations"
     },
     {
       "company": "NXP Semiconductors",
@@ -26,6 +37,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Take-Two Interactive",
+      "symbol": "TTWO",
+      "date": "2026-02-02",
+      "bmo_amc": "10:11 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:11 AM ET",
+      "ir_source_url": "https://www.take2games.com/ir",
+      "source": "investor_relations"
     },
     {
       "company": "Teradyne",
@@ -112,12 +134,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-02-03",
-      "bmo_amc": "4:00 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Teradyne",
@@ -353,12 +373,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 38,
+  "count": 40,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-02T12:33:08Z",
+  "generatedAt": "2026-02-02T15:31:06Z",
   "irCompanies": [
     "Fox Corp",
+    "Intuit",
     "Qualcomm",
     "SiriusXM",
     "Take-Two Interactive",
@@ -394,6 +415,7 @@
     "Skyworks Solutions",
     "Snap",
     "Super Micro",
+    "Take-Two Interactive",
     "Teradyne",
     "Uber",
     "VeriSign",
