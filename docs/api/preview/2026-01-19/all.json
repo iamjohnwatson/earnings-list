@@ -1,26 +1,6 @@
 {
   "records": [
     {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Procter & Gamble",
-      "symbol": "PG",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2026-01-21",
@@ -181,6 +161,26 @@
       "sector": "Resources"
     },
     {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Procter & Gamble",
+      "symbol": "PG",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Netflix",
       "symbol": "NFLX",
       "date": "2026-01-20",
@@ -327,7 +327,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-02T01:40:37Z",
+  "generatedAt": "2026-02-02T05:28:00Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "3M Co",
