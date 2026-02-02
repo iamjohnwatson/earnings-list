@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Corterra Energy",
-      "symbol": "CTRA",
-      "date": "2026-02-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Diamondback Energy",
       "symbol": "FANG",
       "date": "2026-02-23",
@@ -145,6 +136,24 @@
       "source": "aggregator"
     },
     {
+      "company": "Corterra Energy",
+      "symbol": "CTRA",
+      "date": "2026-02-26",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "MP Materials",
+      "symbol": "MP",
+      "date": "2026-02-26",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "NuScale Power",
       "symbol": "SMR",
       "date": "2026-02-26",
@@ -172,10 +181,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-02T07:26:54Z",
+  "generatedAt": "2026-02-02T12:33:39Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
@@ -188,6 +197,7 @@
     "Expand Energy",
     "First Solar",
     "Hawaiian Electric",
+    "MP Materials",
     "Mosaic",
     "NRG Energy",
     "NuScale Power",

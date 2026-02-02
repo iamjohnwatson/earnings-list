@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "XPLR Infrastructure (previously NEP)",
+      "symbol": "XPLR",
+      "date": "2026-02-02",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.investor.xplrinfrastructure.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Archer-Daniels-Midland",
       "symbol": "ADM",
       "date": "2026-02-03",
@@ -136,11 +147,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-02T07:26:23Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-02T12:33:09Z",
+  "irCompanies": [
+    "XPLR Infrastructure (previously NEP)"
+  ],
   "fallbackCompanies": [
     "Archer-Daniels-Midland",
     "Atmos Energy",

@@ -163,15 +163,6 @@
       "source": "aggregator"
     },
     {
-      "company": "MP Materials",
-      "symbol": "MP",
-      "date": "2026-02-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Newmont Corp",
       "symbol": "NEM",
       "date": "2026-02-19",
@@ -206,12 +197,21 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "PPL Corp",
+      "symbol": "PPL",
+      "date": "2026-02-20",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 23,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-02T07:26:44Z",
+  "generatedAt": "2026-02-02T12:33:29Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alliant Energy",
@@ -229,10 +229,10 @@
     "Evergy",
     "First Energy",
     "HF Sinclair",
-    "MP Materials",
     "Newmont Corp",
     "Nutrien",
     "Occidental Petroleum",
+    "PPL Corp",
     "Southern Co",
     "Targa Resources",
     "Teck Resources",
