@@ -1,76 +1,6 @@
 {
   "records": [
     {
-      "company": "Hims and Hers",
-      "symbol": "HIMS",
-      "date": "2026-02-23",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Henry Schein Inc",
-      "symbol": "HSIC",
-      "date": "2026-02-24",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Agilent",
-      "symbol": "A",
-      "date": "2026-02-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Dentsply Sirona",
-      "symbol": "XRAY",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Novavax",
-      "symbol": "NVAX",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Solventum Corp",
-      "symbol": "SOLV",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Viatris",
-      "symbol": "VTRS",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Diamondback Energy",
       "symbol": "FANG",
       "date": "2026-02-23",
@@ -271,66 +201,54 @@
       "sector": "Resources"
     },
     {
-      "company": "JPMorgan",
-      "symbol": "JPM",
-      "date": "2026-02-23",
-      "bmo_amc": "9:40 AM ET",
-      "nasdaq_time_label": null,
+      "company": "Axon Enterprise Inc",
+      "symbol": "AXON",
+      "date": "2026-02-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "ir_time_label": "9:40 AM ET",
-      "ir_source_url": "https://www.jpmorganchase.com/ir",
-      "source": "investor_relations",
-      "sector": "Finance"
+      "source": "aggregator",
+      "sector": "Manufacturing"
     },
     {
-      "company": "Scotiabank",
-      "symbol": "BNS",
+      "company": "Expeditors International of Washington Inc",
+      "symbol": "EXPD",
       "date": "2026-02-24",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Bank of Montreal",
-      "symbol": "BMO",
+      "company": "Keysight Technologies Inc",
+      "symbol": "KEYS",
+      "date": "2026-02-24",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Realty Income Corp",
+      "symbol": "O",
+      "date": "2026-02-24",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "VICI Properties Inc",
+      "symbol": "VICI",
       "date": "2026-02-25",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "CIBC",
-      "symbol": "CM",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Royal Bank of Canada",
-      "symbol": "RY",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "TD Bank",
-      "symbol": "TD",
-      "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
     },
     {
       "company": "SBA Communications",
@@ -527,54 +445,136 @@
       "sector": "TMT"
     },
     {
-      "company": "Axon Enterprise Inc",
-      "symbol": "AXON",
-      "date": "2026-02-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "company": "JPMorgan",
+      "symbol": "JPM",
+      "date": "2026-02-23",
+      "bmo_amc": "9:40 AM ET",
+      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "ir_time_label": "9:40 AM ET",
+      "ir_source_url": "https://www.jpmorganchase.com/ir",
+      "source": "investor_relations",
+      "sector": "Finance"
     },
     {
-      "company": "Expeditors International of Washington Inc",
-      "symbol": "EXPD",
+      "company": "Scotiabank",
+      "symbol": "BNS",
       "date": "2026-02-24",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
-      "company": "Keysight Technologies Inc",
-      "symbol": "KEYS",
-      "date": "2026-02-24",
+      "company": "Bank of Montreal",
+      "symbol": "BMO",
+      "date": "2026-02-25",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "CIBC",
+      "symbol": "CM",
+      "date": "2026-02-26",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
-      "company": "Realty Income Corp",
-      "symbol": "O",
+      "company": "Royal Bank of Canada",
+      "symbol": "RY",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "TD Bank",
+      "symbol": "TD",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Hims and Hers",
+      "symbol": "HIMS",
+      "date": "2026-02-23",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Henry Schein Inc",
+      "symbol": "HSIC",
       "date": "2026-02-24",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
     },
     {
-      "company": "VICI Properties Inc",
-      "symbol": "VICI",
+      "company": "Agilent",
+      "symbol": "A",
       "date": "2026-02-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Pharma"
+    },
+    {
+      "company": "Dentsply Sirona",
+      "symbol": "XRAY",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Novavax",
+      "symbol": "NVAX",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Solventum Corp",
+      "symbol": "SOLV",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Viatris",
+      "symbol": "VTRS",
+      "date": "2026-02-26",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
       "company": "Domino\u2019s Pizza Inc",
@@ -687,7 +687,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-03T04:32:20Z",
+  "generatedAt": "2026-02-03T06:38:32Z",
   "irCompanies": [
     "Home Depot Inc",
     "Intuit",
