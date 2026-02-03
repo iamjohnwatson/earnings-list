@@ -22,9 +22,9 @@
       "company": "PayPal Holdings",
       "symbol": "PYPL",
       "date": "2026-02-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -35,6 +35,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Willis Tower Watson",
@@ -136,14 +147,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-03T12:34:01Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-03T15:40:16Z",
+  "irCompanies": [
+    "Truist Financial"
+  ],
   "fallbackCompanies": [
     "Allstate Corp",
     "CME Group Inc",

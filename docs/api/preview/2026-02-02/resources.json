@@ -4,18 +4,18 @@
       "company": "Archer-Daniels-Midland",
       "symbol": "ADM",
       "date": "2026-02-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Atmos Energy",
       "symbol": "ATO",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -40,9 +40,9 @@
       "company": "Marathon Petroleum",
       "symbol": "MPC",
       "date": "2026-02-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -139,7 +139,7 @@
   "count": 15,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-03T12:34:01Z",
+  "generatedAt": "2026-02-03T15:40:16Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Archer-Daniels-Midland",

@@ -13,18 +13,18 @@
       "company": "AMETEK Inc",
       "symbol": "AME",
       "date": "2026-02-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
       "date": "2026-02-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -51,19 +51,30 @@
       "company": "Illinois Tool Works Inc",
       "symbol": "ITW",
       "date": "2026-02-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Johnson Controls International PLC",
+      "symbol": "JCI",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.johnsoncontrols.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Pentair PLC",
@@ -78,18 +89,18 @@
       "company": "TransDigm Group Inc",
       "symbol": "TDG",
       "date": "2026-02-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Veralto Corp",
       "symbol": "VLTO",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -98,7 +109,7 @@
       "date": "2026-02-03",
       "bmo_amc": "10:00 A.M. CT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": "10:00 a.m. CT",
       "ir_source_url": "https://invest.grainger.com/home/default.aspx",
       "source": "investor_relations"
@@ -139,9 +150,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.johnsoncontrols.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -256,10 +265,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-03T12:34:01Z",
+  "generatedAt": "2026-02-03T15:40:15Z",
   "irCompanies": [
     "Emerson Electric Co",
     "Fortive Corp",
@@ -282,6 +291,7 @@
     "IDEX Corp",
     "Illinois Tool Works Inc",
     "Jacobs Solutions Inc",
+    "Johnson Controls International PLC",
     "Mid-America Apartment Communities Inc",
     "Peloton",
     "Pentair PLC",

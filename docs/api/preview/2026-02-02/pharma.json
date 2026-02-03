@@ -49,9 +49,9 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-02-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations"
@@ -60,9 +60,9 @@
       "company": "Pfizer Inc",
       "symbol": "PFE",
       "date": "2026-02-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -210,7 +210,7 @@
   "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-03T12:34:00Z",
+  "generatedAt": "2026-02-03T15:40:15Z",
   "irCompanies": [
     "Bio-Techne Corp",
     "Boston Scientific Corp",

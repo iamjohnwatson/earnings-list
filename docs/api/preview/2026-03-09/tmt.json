@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "HPE",
+      "symbol": "HPE",
+      "date": "2026-03-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.hpe.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Oracle",
       "symbol": "ORCL",
       "date": "2026-03-09",
@@ -28,11 +39,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 4,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-03T12:34:53Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-03T15:41:09Z",
+  "irCompanies": [
+    "HPE"
+  ],
   "fallbackCompanies": [
     "Adobe",
     "Oracle",

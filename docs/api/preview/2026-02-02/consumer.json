@@ -22,19 +22,19 @@
       "company": "Amcor PLC",
       "symbol": "AMCR",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Ball Corp",
       "symbol": "BALL",
       "date": "2026-02-03",
-      "bmo_amc": "9:00 AM ET",
+      "bmo_amc": "6:00 AM EST",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM ET",
+      "yahoo_time_label": "TAS",
+      "ir_time_label": "6:00 am EST",
       "ir_source_url": "https://investors.ball.com/",
       "source": "investor_relations"
     },
@@ -53,9 +53,9 @@
       "company": "Clorox Co",
       "symbol": "CLX",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -71,10 +71,21 @@
       "company": "PepsiCo Inc",
       "symbol": "PEP",
       "date": "2026-02-03",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Sysco Corp",
+      "symbol": "SYY",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.sysco.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Yum Brands",
@@ -142,14 +153,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-03T12:34:00Z",
+  "generatedAt": "2026-02-03T15:40:16Z",
   "irCompanies": [
     "Ball Corp",
     "Chipotle Mexican Grill",
-    "Estee Lauder"
+    "Estee Lauder",
+    "Sysco Corp"
   ],
   "fallbackCompanies": [
     "Amcor PLC",
