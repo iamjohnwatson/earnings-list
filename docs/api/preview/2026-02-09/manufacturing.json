@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "UDR INC",
+      "symbol": "UDR",
+      "date": "2026-02-09",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Ford Motor Co",
       "symbol": "F",
       "date": "2026-02-10",
@@ -176,10 +185,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-03T09:31:00Z",
+  "generatedAt": "2026-02-03T12:34:10Z",
   "irCompanies": [
     "Bombardier",
     "MGM Resorts International"
@@ -200,6 +209,7 @@
     "Marriott International Inc",
     "Martin Marietta Materials Inc",
     "Public Storage",
+    "UDR INC",
     "Wabtec",
     "Wynn Resorts Ltd"
   ],

@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "DTE",
+      "symbol": "DTE",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Devon Energy",
       "symbol": "DVN",
       "date": "2026-02-17",
@@ -208,10 +217,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 23,
+  "count": 24,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-03T09:31:10Z",
+  "generatedAt": "2026-02-03T12:34:22Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alliant Energy",
@@ -221,6 +230,7 @@
     "CenterPoint Energy",
     "Consolidated Edison",
     "Constellation Energy",
+    "DTE",
     "Devon Energy",
     "EQT Corp",
     "Edison International",

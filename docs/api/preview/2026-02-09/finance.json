@@ -21,15 +21,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Carlyle",
-      "symbol": "CG",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Cincinnati Financial",
       "symbol": "CINF",
       "date": "2026-02-09",
@@ -195,13 +186,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-03T09:31:00Z",
+  "generatedAt": "2026-02-03T12:34:12Z",
   "irCompanies": [
     "Apollo",
     "Arch Capital Group",
@@ -214,7 +205,6 @@
   "fallbackCompanies": [
     "Arch Capital Group",
     "Assurant Inc",
-    "Carlyle",
     "Coinbase",
     "Fidelity National Information Services",
     "Global Payments",
