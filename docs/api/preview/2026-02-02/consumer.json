@@ -4,9 +4,9 @@
       "company": "Simon Property Group",
       "symbol": "SPG",
       "date": "2026-02-02",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -44,7 +44,7 @@
       "date": "2026-02-03",
       "bmo_amc": "4:30 PM",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "4:30 PM ",
       "ir_source_url": "https://ir.chipotle.com/",
       "source": "investor_relations"
@@ -62,18 +62,18 @@
       "company": "Mondelez International",
       "symbol": "MDLZ",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "PepsiCo Inc",
       "symbol": "PEP",
       "date": "2026-02-03",
-      "bmo_amc": "TBD",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -145,7 +145,7 @@
   "count": 15,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-02T18:29:34Z",
+  "generatedAt": "2026-02-03T01:06:42Z",
   "irCompanies": [
     "Ball Corp",
     "Chipotle Mexican Grill",

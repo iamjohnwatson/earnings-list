@@ -1,23 +1,12 @@
 {
   "records": [
     {
-      "company": "XPLR Infrastructure (previously NEP)",
-      "symbol": "XPLR",
-      "date": "2026-02-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.investor.xplrinfrastructure.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Archer-Daniels-Midland",
       "symbol": "ADM",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -33,9 +22,9 @@
       "company": "Corteva",
       "symbol": "CTVA",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -51,18 +40,18 @@
       "company": "Marathon Petroleum",
       "symbol": "MPC",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Suncor Energy",
       "symbol": "SU",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -147,13 +136,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-02T18:29:34Z",
-  "irCompanies": [
-    "XPLR Infrastructure (previously NEP)"
-  ],
+  "generatedAt": "2026-02-03T01:06:43Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Archer-Daniels-Midland",
     "Atmos Energy",

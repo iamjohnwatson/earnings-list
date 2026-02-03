@@ -102,6 +102,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Bombardier",
+      "symbol": "BDRBF",
+      "date": "2026-02-12",
+      "bmo_amc": "8:00 A.M",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 a.m",
+      "ir_source_url": "https://bombardier.com/en/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Deere",
       "symbol": "DE",
       "date": "2026-02-12",
@@ -165,11 +176,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-02T18:29:45Z",
+  "generatedAt": "2026-02-03T01:06:52Z",
   "irCompanies": [
+    "Bombardier",
     "MGM Resorts International"
   ],
   "fallbackCompanies": [

@@ -10,43 +10,21 @@
       "source": "aggregator"
     },
     {
-      "company": "Bombardier",
-      "symbol": "BDRBF",
-      "date": "2026-02-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://bombardier.com/en/investors",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Johnson Controls International PLC",
-      "symbol": "JCI",
-      "date": "2026-02-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.johnsoncontrols.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "AMETEK Inc",
       "symbol": "AME",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -55,7 +33,7 @@
       "date": "2026-02-03",
       "bmo_amc": "4:30 PM EST",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "4:30 pm EST",
       "ir_source_url": "https://ir.emerson.com/",
       "source": "investor_relations"
@@ -73,9 +51,9 @@
       "company": "Illinois Tool Works Inc",
       "symbol": "ITW",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -100,9 +78,9 @@
       "company": "TransDigm Group Inc",
       "symbol": "TDG",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -120,7 +98,7 @@
       "date": "2026-02-03",
       "bmo_amc": "10:00 A.M. CT",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "10:00 a.m. CT",
       "ir_source_url": "https://invest.grainger.com/home/default.aspx",
       "source": "investor_relations"
@@ -161,7 +139,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.johnsoncontrols.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -285,12 +265,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 30,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-02T18:29:32Z",
+  "generatedAt": "2026-02-03T01:06:43Z",
   "irCompanies": [
-    "Bombardier",
     "Emerson Electric Co",
     "Fortive Corp",
     "Johnson Controls International PLC",
@@ -312,7 +291,6 @@
     "IDEX Corp",
     "Illinois Tool Works Inc",
     "Jacobs Solutions Inc",
-    "Johnson Controls International PLC",
     "Mid-America Apartment Communities Inc",
     "Peloton",
     "Pentair PLC",
