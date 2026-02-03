@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Chubb",
       "symbol": "CB",
       "date": "2026-02-03",
@@ -8,6 +19,17 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": "AMC",
       "source": "aggregator"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-02-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Jack Henry and Associates",
@@ -147,14 +169,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 18,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-03T18:41:54Z",
+  "generatedAt": "2026-02-03T21:25:41Z",
   "irCompanies": [
+    "Bank of America",
+    "Huntington Bancshares",
     "Truist Financial"
   ],
   "fallbackCompanies": [

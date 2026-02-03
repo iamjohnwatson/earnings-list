@@ -15,10 +15,12 @@
       "company": "Scotiabank",
       "symbol": "BNS",
       "date": "2026-02-24",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "8:00 A.M. ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "8:00 a.m. ET",
+      "ir_source_url": "https://www.scotiabank.com/ca/en/about/investors-shareholders.html",
+      "source": "investor_relations"
     },
     {
       "company": "Bank of Montreal",
@@ -63,15 +65,15 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-03T18:42:20Z",
+  "generatedAt": "2026-02-03T21:26:10Z",
   "irCompanies": [
-    "JPMorgan"
+    "JPMorgan",
+    "Scotiabank"
   ],
   "fallbackCompanies": [
     "Bank of Montreal",
     "CIBC",
     "Royal Bank of Canada",
-    "Scotiabank",
     "TD Bank"
   ],
   "week": {
