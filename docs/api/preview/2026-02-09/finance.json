@@ -70,6 +70,28 @@
       "source": "aggregator"
     },
     {
+      "company": "Bank of America",
+      "symbol": "BAC",
+      "date": "2026-02-10",
+      "bmo_amc": "8:00 AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 am ET",
+      "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations"
+    },
+    {
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-02-10",
@@ -88,6 +110,17 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-02-10",
+      "bmo_amc": "11:20 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:20 am EST",
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
     },
     {
       "company": "PNC Financial",
@@ -175,18 +208,21 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 21,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-03T21:25:51Z",
+  "generatedAt": "2026-02-04T01:02:39Z",
   "irCompanies": [
     "Apollo",
     "Arch Capital Group",
+    "Bank of America",
     "Cincinnati Financial",
+    "Citigroup",
     "Citizens Financial",
+    "Huntington Bancshares",
     "PNC Financial",
     "Wells Fargo"
   ],

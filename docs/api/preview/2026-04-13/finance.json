@@ -1,27 +1,13 @@
 {
-  "records": [
-    {
-      "company": "Citigroup",
-      "symbol": "C",
-      "date": "2026-04-14",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.citigroup.com/global/investors",
-      "source": "investor_relations"
-    }
-  ],
-  "count": 1,
+  "records": [],
+  "count": 0,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-03T21:27:24Z",
-  "irCompanies": [
-    "Citigroup"
-  ],
+  "generatedAt": "2026-02-04T01:04:14Z",
+  "irCompanies": [],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-04-13",

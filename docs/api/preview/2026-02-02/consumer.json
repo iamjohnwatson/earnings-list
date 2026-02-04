@@ -22,60 +22,45 @@
       "company": "Amcor PLC",
       "symbol": "AMCR",
       "date": "2026-02-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Ball Corp",
       "symbol": "BALL",
       "date": "2026-02-03",
-      "bmo_amc": "6:00 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": "6:00 am EST",
-      "ir_source_url": "https://investors.ball.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Chipotle Mexican Grill",
       "symbol": "CMG",
       "date": "2026-02-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.chipotle.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Clorox Co",
       "symbol": "CLX",
       "date": "2026-02-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Keurig Dr. Pepper",
-      "symbol": "KDP",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.keurigdrpepper.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mondelez International",
       "symbol": "MDLZ",
       "date": "2026-02-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -86,17 +71,6 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Sysco Corp",
-      "symbol": "SYY",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.sysco.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Yum Brands",
@@ -164,19 +138,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-03T21:25:41Z",
+  "generatedAt": "2026-02-04T01:02:28Z",
   "irCompanies": [
-    "Ball Corp",
-    "Chipotle Mexican Grill",
-    "Estee Lauder",
-    "Keurig Dr. Pepper",
-    "Sysco Corp"
+    "Estee Lauder"
   ],
   "fallbackCompanies": [
     "Amcor PLC",
+    "Ball Corp",
+    "Chipotle Mexican Grill",
     "Clorox Co",
     "Hershey Co",
     "Mondelez International",

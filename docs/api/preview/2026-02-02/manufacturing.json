@@ -22,21 +22,19 @@
       "company": "Eaton Corporation PLC",
       "symbol": "ETN",
       "date": "2026-02-03",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Emerson Electric Co",
       "symbol": "EMR",
       "date": "2026-02-03",
-      "bmo_amc": "4:30 PM EST",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "4:30 pm EST",
-      "ir_source_url": "https://ir.emerson.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "Hubbell Inc",
@@ -60,21 +58,10 @@
       "company": "Jacobs Solutions Inc",
       "symbol": "J",
       "date": "2026-02-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Johnson Controls International PLC",
-      "symbol": "JCI",
-      "date": "2026-02-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.johnsoncontrols.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Pentair PLC",
@@ -98,21 +85,19 @@
       "company": "Veralto Corp",
       "symbol": "VLTO",
       "date": "2026-02-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "WW Grainger Inc",
       "symbol": "GWW",
       "date": "2026-02-03",
-      "bmo_amc": "10:00 A.M. CT",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "10:00 a.m. CT",
-      "ir_source_url": "https://invest.grainger.com/home/default.aspx",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Essex Property Trust Inc",
@@ -147,10 +132,12 @@
       "company": "Johnson Controls International PLC",
       "symbol": "JCI",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
+      "yahoo_time_label": "BMO",
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.johnsoncontrols.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -265,17 +252,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-03T21:25:41Z",
+  "generatedAt": "2026-02-04T01:02:28Z",
   "irCompanies": [
-    "Emerson Electric Co",
     "Fortive Corp",
     "Johnson Controls International PLC",
     "Old Dominion Freight Line Inc",
-    "Veralto Corp",
-    "WW Grainger Inc"
+    "Veralto Corp"
   ],
   "fallbackCompanies": [
     "AMETEK Inc",
@@ -283,6 +268,7 @@
     "Camden Property Trust",
     "Carrier Global Corp",
     "Eaton Corporation PLC",
+    "Emerson Electric Co",
     "Equity Residential",
     "Essex Property Trust Inc",
     "Frontier Holdings",
@@ -291,7 +277,6 @@
     "IDEX Corp",
     "Illinois Tool Works Inc",
     "Jacobs Solutions Inc",
-    "Johnson Controls International PLC",
     "Mid-America Apartment Communities Inc",
     "Peloton",
     "Pentair PLC",
@@ -299,7 +284,8 @@
     "Snap-On Inc",
     "Stanley Black & Decker",
     "TransDigm Group Inc",
-    "Veralto Corp"
+    "Veralto Corp",
+    "WW Grainger Inc"
   ],
   "week": {
     "id": "2026-02-02",

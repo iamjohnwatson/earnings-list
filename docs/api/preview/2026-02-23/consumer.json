@@ -27,7 +27,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.keurigdrpepper.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Lowe\u2019s Cos Inc",
@@ -96,16 +98,16 @@
   "count": 10,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-03T21:26:11Z",
+  "generatedAt": "2026-02-04T01:03:01Z",
   "irCompanies": [
-    "Home Depot Inc"
+    "Home Depot Inc",
+    "Keurig Dr. Pepper"
   ],
   "fallbackCompanies": [
     "Bath & Body Works",
     "Domino\u2019s Pizza Inc",
     "Hormel Foods",
     "J.M. Smucker Co",
-    "Keurig Dr. Pepper",
     "Lowe\u2019s Cos Inc",
     "Monster Beverage",
     "Norwegian Cruise Line",

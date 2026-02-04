@@ -49,10 +49,12 @@
       "company": "Solventum Corp",
       "symbol": "SOLV",
       "date": "2026-02-26",
-      "bmo_amc": "TBD",
+      "bmo_amc": "4:30 PM EST",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "4:30 pm EST",
+      "ir_source_url": "https://investors.solventum.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Viatris",
@@ -67,15 +69,16 @@
   "count": 7,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-03T21:26:10Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-04T01:03:01Z",
+  "irCompanies": [
+    "Solventum Corp"
+  ],
   "fallbackCompanies": [
     "Agilent",
     "Dentsply Sirona",
     "Henry Schein Inc",
     "Hims and Hers",
     "Novavax",
-    "Solventum Corp",
     "Viatris"
   ],
   "week": {

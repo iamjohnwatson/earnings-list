@@ -40,9 +40,9 @@
       "company": "Amgen Inc",
       "symbol": "AMGN",
       "date": "2026-02-03",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -52,9 +52,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Pfizer Inc",
@@ -66,23 +64,12 @@
       "source": "aggregator"
     },
     {
-      "company": "Solventum Corp",
-      "symbol": "SOLV",
-      "date": "2026-02-03",
-      "bmo_amc": "4:05 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:05 PM EST",
-      "ir_source_url": "https://investors.solventum.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Aflac Inc",
       "symbol": "AFL",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -100,9 +87,9 @@
       "company": "Boston Scientific Corp",
       "symbol": "BSX",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://investors.bostonscientific.com/",
       "source": "investor_relations"
@@ -111,18 +98,18 @@
       "company": "Cencora Inc",
       "symbol": "COR",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Eli Lilly and Co",
       "symbol": "LLY",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -138,9 +125,9 @@
       "company": "Mckesson Corp",
       "symbol": "MCK",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -218,16 +205,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 23,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-03T21:25:40Z",
+  "generatedAt": "2026-02-04T01:02:28Z",
   "irCompanies": [
     "Bio-Techne Corp",
     "Boston Scientific Corp",
-    "Centene Corp",
-    "Merck",
-    "Solventum Corp"
+    "Centene Corp"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
@@ -244,6 +229,7 @@
     "IQVIA Holdings Inc",
     "Kenvue",
     "Mckesson Corp",
+    "Merck",
     "Molina Healthcare Inc",
     "Pfizer Inc",
     "Revvity",

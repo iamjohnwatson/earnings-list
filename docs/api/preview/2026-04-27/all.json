@@ -1,13 +1,28 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-04-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    }
+  ],
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-03T21:27:46Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-04T01:04:36Z",
+  "irCompanies": [
+    "Merck"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-04-27",
