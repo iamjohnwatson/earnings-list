@@ -87,8 +87,8 @@
       "company": "Cisco Systems",
       "symbol": "CSCO",
       "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -225,15 +225,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Palo Alto",
-      "symbol": "PANW",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Pinterest",
       "symbol": "PINS",
       "date": "2026-02-12",
@@ -270,10 +261,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 29,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-04T09:33:59Z",
+  "generatedAt": "2026-02-04T12:34:18Z",
   "irCompanies": [
     "Equinix",
     "Lyft",
@@ -294,7 +285,6 @@
     "Kyndryl",
     "Motorola",
     "Onsemi",
-    "Palo Alto",
     "Paycom",
     "Pinterest",
     "Rivian",

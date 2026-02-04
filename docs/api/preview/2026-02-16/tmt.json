@@ -19,6 +19,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Palo Alto",
+      "symbol": "PANW",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Analog Devices",
       "symbol": "ADI",
       "date": "2026-02-18",
@@ -91,10 +100,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 10,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-04T09:34:08Z",
+  "generatedAt": "2026-02-04T12:34:31Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Akamai Technologies",
@@ -106,7 +115,8 @@
     "Figma",
     "Garmin",
     "Grab",
-    "Live Nation Entertainment"
+    "Live Nation Entertainment",
+    "Palo Alto"
   ],
   "week": {
     "id": "2026-02-16",

@@ -40,8 +40,8 @@
       "company": "Electronic Arts",
       "symbol": "EA",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -58,8 +58,8 @@
       "company": "IAC",
       "symbol": "IAC",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -67,8 +67,8 @@
       "company": "Lumen Tech",
       "symbol": "LUMN",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -76,8 +76,8 @@
       "company": "Match Group",
       "symbol": "MTCH",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,8 +94,8 @@
       "company": "Skyworks Solutions",
       "symbol": "SWKS",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +103,8 @@
       "company": "Super Micro",
       "symbol": "SMCI",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -112,8 +112,8 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -150,15 +150,6 @@
       "date": "2026-02-04",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Dayforce",
-      "symbol": "DAY",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -340,10 +331,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 37,
+  "count": 36,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-04T09:33:48Z",
+  "generatedAt": "2026-02-04T12:34:07Z",
   "irCompanies": [
     "Fox Corp",
     "Qualcomm",
@@ -356,7 +347,6 @@
     "Atlassian",
     "Cognizant",
     "Crown Castle",
-    "Dayforce",
     "Digital Realty",
     "Disney",
     "Electronic Arts",

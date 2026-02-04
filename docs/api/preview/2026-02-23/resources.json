@@ -73,15 +73,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Public Service Enterprise Co",
-      "symbol": "PEG",
-      "date": "2026-02-24",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Sempra",
       "symbol": "SRE",
       "date": "2026-02-24",
@@ -163,6 +154,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Public Service Enterprise Co",
+      "symbol": "PEG",
+      "date": "2026-02-26",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Vistra Corp",
       "symbol": "VST",
       "date": "2026-02-26",
@@ -184,7 +184,7 @@
   "count": 20,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-04T09:34:18Z",
+  "generatedAt": "2026-02-04T12:34:41Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
