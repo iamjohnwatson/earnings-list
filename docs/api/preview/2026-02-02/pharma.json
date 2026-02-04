@@ -49,8 +49,8 @@
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -58,8 +58,8 @@
       "company": "Pfizer Inc",
       "symbol": "PFE",
       "date": "2026-02-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -208,7 +208,7 @@
   "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-04T06:38:14Z",
+  "generatedAt": "2026-02-04T09:33:48Z",
   "irCompanies": [
     "Bio-Techne Corp",
     "Boston Scientific Corp",
