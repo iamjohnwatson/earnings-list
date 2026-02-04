@@ -58,9 +58,9 @@
       "company": "Bunge",
       "symbol": "BG",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -76,9 +76,9 @@
       "company": "Phillips 66",
       "symbol": "PSX",
       "date": "2026-02-04",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -139,7 +139,7 @@
   "count": 15,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-04T12:34:09Z",
+  "generatedAt": "2026-02-04T15:33:41Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Archer-Daniels-Midland",
