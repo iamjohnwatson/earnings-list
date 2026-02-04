@@ -154,15 +154,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Public Service Enterprise Co",
-      "symbol": "PEG",
-      "date": "2026-02-26",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Vistra Corp",
       "symbol": "VST",
       "date": "2026-02-26",
@@ -181,10 +172,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-04T15:34:11Z",
+  "generatedAt": "2026-02-04T18:35:31Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AES Corp",
@@ -204,7 +195,6 @@
     "ONEOK",
     "Ovintiv",
     "Pinnacle West",
-    "Public Service Enterprise Co",
     "Sempra",
     "Vistra Corp"
   ],
