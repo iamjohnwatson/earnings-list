@@ -120,6 +120,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Expedia Group Inc",
       "symbol": "EXPE",
       "date": "2026-02-12",
@@ -174,10 +183,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-05T01:04:29Z",
+  "generatedAt": "2026-02-05T04:32:45Z",
   "irCompanies": [
     "Bombardier"
   ],
@@ -185,6 +194,7 @@
     "Air Lease",
     "Airbnb Inc",
     "Borgwarner Inc",
+    "Deere",
     "Expedia Group Inc",
     "Ford Motor Co",
     "Generac Holdings Inc",
