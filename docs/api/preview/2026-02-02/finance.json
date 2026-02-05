@@ -100,21 +100,32 @@
       "source": "aggregator"
     },
     {
+      "company": "Huntington Bancshares",
+      "symbol": "HBAN",
+      "date": "2026-02-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.huntington.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Intercontinental Exchange",
       "symbol": "ICE",
       "date": "2026-02-05",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "KKR",
       "symbol": "KKR",
       "date": "2026-02-05",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -145,14 +156,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-05T12:34:46Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-05T15:33:12Z",
+  "irCompanies": [
+    "Huntington Bancshares"
+  ],
   "fallbackCompanies": [
     "Allstate Corp",
     "CME Group Inc",

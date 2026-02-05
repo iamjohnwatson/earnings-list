@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Venture Global",
+      "symbol": "VG",
+      "date": "2026-03-02",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Canadian Natural Resources",
       "symbol": "CNQ",
       "date": "2026-03-05",
@@ -19,14 +28,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-05T12:35:22Z",
+  "generatedAt": "2026-02-05T15:33:55Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Canadian Natural Resources",
-    "New Fortress Energy"
+    "New Fortress Energy",
+    "Venture Global"
   ],
   "week": {
     "id": "2026-03-02",

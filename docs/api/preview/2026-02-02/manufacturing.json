@@ -175,18 +175,18 @@
       "company": "Carrier Global Corp",
       "symbol": "CARR",
       "date": "2026-02-05",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Equity Residential",
       "symbol": "EQR",
       "date": "2026-02-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -222,9 +222,9 @@
       "company": "Rockwell Automation Inc",
       "symbol": "ROK",
       "date": "2026-02-05",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -237,6 +237,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Southwest Airlines Co",
+      "symbol": "LUV",
+      "date": "2026-02-05",
+      "bmo_amc": "10:00 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "10:00 am EST",
+      "ir_source_url": "https://www.southwestairlinesinvestorrelations.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Frontier Holdings",
       "symbol": "ULCC",
       "date": "2026-02-06",
@@ -246,12 +257,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-05T12:34:46Z",
+  "generatedAt": "2026-02-05T15:33:11Z",
   "irCompanies": [
-    "MGM Resorts International"
+    "MGM Resorts International",
+    "Southwest Airlines Co"
   ],
   "fallbackCompanies": [
     "AMETEK Inc",

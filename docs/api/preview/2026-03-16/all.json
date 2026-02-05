@@ -1,44 +1,34 @@
 {
   "records": [
     {
-      "company": "General Mills",
-      "symbol": "GIS",
-      "date": "2026-03-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Darden Restaurants",
-      "symbol": "DRI",
+      "company": "FedEx",
+      "symbol": "FDX",
       "date": "2026-03-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Nike Inc",
-      "symbol": "NKE",
+      "company": "Jabil Inc",
+      "symbol": "JBL",
       "date": "2026-03-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Carnival Corp",
-      "symbol": "CCL",
-      "date": "2026-03-20",
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-03-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "Manufacturing"
     },
     {
       "company": "FactSet Research",
@@ -91,34 +81,44 @@
       "sector": "TMT"
     },
     {
-      "company": "FedEx",
-      "symbol": "FDX",
-      "date": "2026-03-19",
+      "company": "General Mills",
+      "symbol": "GIS",
+      "date": "2026-03-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
-      "company": "Jabil Inc",
-      "symbol": "JBL",
+      "company": "Darden Restaurants",
+      "symbol": "DRI",
       "date": "2026-03-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
+      "company": "Nike Inc",
+      "symbol": "NKE",
       "date": "2026-03-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
+    },
+    {
+      "company": "Carnival Corp",
+      "symbol": "CCL",
+      "date": "2026-03-20",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 12,
@@ -127,7 +127,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-05T12:35:40Z",
+  "generatedAt": "2026-02-05T15:34:17Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Accenture",

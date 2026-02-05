@@ -103,18 +103,18 @@
       "company": "ConocoPhillips",
       "symbol": "COP",
       "date": "2026-02-05",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Linde",
       "symbol": "LIN",
       "date": "2026-02-05",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -130,16 +130,16 @@
       "company": "Xcel Energy Inc",
       "symbol": "XEL",
       "date": "2026-02-05",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
   "count": 15,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-05T12:34:45Z",
+  "generatedAt": "2026-02-05T15:33:12Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Archer-Daniels-Midland",
