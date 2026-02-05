@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "company": "Kenvue",
+      "symbol": "KVUE",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Labcorp Holdings Inc",
       "symbol": "LH",
       "date": "2026-02-17",
@@ -37,14 +46,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 4,
+  "count": 5,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-05T15:33:33Z",
+  "generatedAt": "2026-02-05T18:36:32Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Charles River Labs",
     "Insulet",
+    "Kenvue",
     "Labcorp Holdings Inc",
     "Medtronic PLC"
   ],
