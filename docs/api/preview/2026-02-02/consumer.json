@@ -73,17 +73,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-02-04",
-      "bmo_amc": "2:00 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "2:00 PM EST",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Yum Brands",
       "symbol": "YUM",
       "date": "2026-02-04",
@@ -98,7 +87,7 @@
       "date": "2026-02-05",
       "bmo_amc": "08:30AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "08:30AM ET",
       "ir_source_url": "https://www.elcompanies.com/en/investors",
       "source": "investor_relations"
@@ -149,13 +138,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-04T21:25:05Z",
+  "generatedAt": "2026-02-05T01:04:19Z",
   "irCompanies": [
-    "Estee Lauder",
-    "Norwegian Cruise Line"
+    "Estee Lauder"
   ],
   "fallbackCompanies": [
     "Amcor PLC",

@@ -112,17 +112,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-02-10",
-      "bmo_amc": "11:20 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:20 am EST",
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "PNC Financial",
       "symbol": "PNC",
       "date": "2026-02-10",
@@ -208,13 +197,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 20,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-04T21:25:15Z",
+  "generatedAt": "2026-02-05T01:04:29Z",
   "irCompanies": [
     "Apollo",
     "Arch Capital Group",
@@ -222,7 +211,6 @@
     "Cincinnati Financial",
     "Citigroup",
     "Citizens Financial",
-    "Huntington Bancshares",
     "PNC Financial",
     "Wells Fargo"
   ],

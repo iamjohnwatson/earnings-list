@@ -49,9 +49,9 @@
       "company": "Allstate Corp",
       "symbol": "ALL",
       "date": "2026-02-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -73,17 +73,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Global Payments",
-      "symbol": "GPN",
-      "date": "2026-02-04",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM EST",
-      "ir_source_url": "https://investors.globalpayments.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Globe Life",
       "symbol": "GL",
       "date": "2026-02-04",
@@ -96,9 +85,9 @@
       "company": "MetLife",
       "symbol": "MET",
       "date": "2026-02-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -114,18 +103,18 @@
       "company": "Intercontinental Exchange",
       "symbol": "ICE",
       "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "KKR",
       "symbol": "KKR",
       "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -147,16 +136,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-04T21:25:05Z",
-  "irCompanies": [
-    "Global Payments"
-  ],
+  "generatedAt": "2026-02-05T01:04:18Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
     "CME Group Inc",

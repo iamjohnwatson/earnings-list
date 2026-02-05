@@ -112,12 +112,10 @@
       "company": "Fortive Corp",
       "symbol": "FTV",
       "date": "2026-02-04",
-      "bmo_amc": "7:30 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "7:30 AM EST",
-      "ir_source_url": "https://investors.fortive.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "IDEX Corp",
@@ -135,20 +133,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.johnsoncontrols.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Mid-America Apartment Communities Inc",
@@ -166,9 +151,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.odfl.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Stanley Black & Decker",
@@ -178,17 +161,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Veralto Corp",
-      "symbol": "VLTO",
-      "date": "2026-02-04",
-      "bmo_amc": "8:30AM",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30am",
-      "ir_source_url": "https://investors.veralto.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Camden Property Trust",
@@ -203,9 +175,9 @@
       "company": "Carrier Global Corp",
       "symbol": "CARR",
       "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -227,6 +199,17 @@
       "source": "aggregator"
     },
     {
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
+      "date": "2026-02-05",
+      "bmo_amc": "2:00PM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "2:00pm",
+      "ir_source_url": "https://investors.mgmresorts.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Peloton",
       "symbol": "PTON",
       "date": "2026-02-05",
@@ -239,9 +222,9 @@
       "company": "Rockwell Automation Inc",
       "symbol": "ROK",
       "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -263,16 +246,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-04T21:25:05Z",
+  "generatedAt": "2026-02-05T01:04:18Z",
   "irCompanies": [
-    "Fortive Corp",
-    "Johnson Controls International PLC",
-    "MGM Resorts International",
-    "Old Dominion Freight Line Inc",
-    "Veralto Corp"
+    "MGM Resorts International"
   ],
   "fallbackCompanies": [
     "AMETEK Inc",
@@ -283,13 +262,16 @@
     "Emerson Electric Co",
     "Equity Residential",
     "Essex Property Trust Inc",
+    "Fortive Corp",
     "Frontier Holdings",
     "Hubbell Inc",
     "Huntington Ingalls Industries Inc",
     "IDEX Corp",
     "Illinois Tool Works Inc",
     "Jacobs Solutions Inc",
+    "Johnson Controls International PLC",
     "Mid-America Apartment Communities Inc",
+    "Old Dominion Freight Line Inc",
     "Peloton",
     "Pentair PLC",
     "Rockwell Automation Inc",

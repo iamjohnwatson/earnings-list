@@ -67,9 +67,9 @@
       "company": "Aflac Inc",
       "symbol": "AFL",
       "date": "2026-02-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -79,9 +79,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bio-techne.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Boston Scientific Corp",
@@ -114,54 +112,54 @@
       "company": "GE HealthCare Technologies Inc",
       "symbol": "GEHC",
       "date": "2026-02-04",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Mckesson Corp",
       "symbol": "MCK",
       "date": "2026-02-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "STERIS plc",
       "symbol": "STE",
       "date": "2026-02-04",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Bristol Myers-Squibb",
       "symbol": "BMY",
       "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Cardinal Health Inc",
       "symbol": "CAH",
       "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Cigna",
       "symbol": "CI",
       "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -206,14 +204,14 @@
   "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-04T21:25:05Z",
+  "generatedAt": "2026-02-05T01:04:18Z",
   "irCompanies": [
-    "Bio-Techne Corp",
     "Centene Corp"
   ],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
+    "Bio-Techne Corp",
     "Boston Scientific Corp",
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
