@@ -161,12 +161,10 @@
       "company": "Qnity",
       "symbol": "Q",
       "date": "2026-02-26",
-      "bmo_amc": "6:00 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "6:00 am EST",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "SBA Communications",
@@ -190,11 +188,10 @@
   "count": 20,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-05T18:36:41Z",
+  "generatedAt": "2026-02-05T21:21:26Z",
   "irCompanies": [
     "GoDaddy",
-    "Intuit",
-    "Qnity"
+    "Intuit"
   ],
   "fallbackCompanies": [
     "American Tower",
@@ -207,6 +204,7 @@
     "HP Inc",
     "Lucid",
     "NVIDIA",
+    "Qnity",
     "SBA Communications",
     "Salesforce",
     "Snowflake",

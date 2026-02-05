@@ -93,6 +93,17 @@
       "source": "investor_relations"
     },
     {
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
+      "date": "2026-02-05",
+      "bmo_amc": "4:05 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:05 pm EST",
+      "ir_source_url": "https://investors.etsy.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Hershey Co",
       "symbol": "HSY",
       "date": "2026-02-05",
@@ -149,12 +160,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 17,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-05T18:36:12Z",
+  "generatedAt": "2026-02-05T21:20:58Z",
   "irCompanies": [
     "Estee Lauder",
+    "Etsy Inc",
     "Norwegian Cruise Line"
   ],
   "fallbackCompanies": [
