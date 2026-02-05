@@ -50,7 +50,7 @@
       "symbol": "SOLV",
       "date": "2026-02-26",
       "bmo_amc": "4:30 PM EST",
-      "nasdaq_time_label": "time-not-supplied",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "ir_time_label": "4:30 pm EST",
       "ir_source_url": "https://investors.solventum.com/",
@@ -60,8 +60,8 @@
       "company": "Viatris",
       "symbol": "VTRS",
       "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
@@ -69,7 +69,7 @@
   "count": 7,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-05T09:35:20Z",
+  "generatedAt": "2026-02-05T12:35:12Z",
   "irCompanies": [
     "Solventum Corp"
   ],

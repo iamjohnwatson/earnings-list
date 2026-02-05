@@ -118,6 +118,15 @@
       "source": "aggregator"
     },
     {
+      "company": "TPG",
+      "symbol": "TPG",
+      "date": "2026-02-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Carlyle",
       "symbol": "CG",
       "date": "2026-02-06",
@@ -136,13 +145,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-05T09:34:53Z",
+  "generatedAt": "2026-02-05T12:34:46Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
@@ -159,6 +168,7 @@
     "PayPal Holdings",
     "Prudential Financial",
     "T. Rowe Price Group",
+    "TPG",
     "Willis Tower Watson"
   ],
   "week": {

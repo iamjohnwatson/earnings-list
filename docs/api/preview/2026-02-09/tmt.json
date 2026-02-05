@@ -207,15 +207,6 @@
       "source": "aggregator"
     },
     {
-      "company": "GoDaddy",
-      "symbol": "GDDY",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Iron Mountain",
       "symbol": "IRM",
       "date": "2026-02-12",
@@ -261,10 +252,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-05T09:35:03Z",
+  "generatedAt": "2026-02-05T12:34:55Z",
   "irCompanies": [
     "Equinix",
     "Lyft",
@@ -280,7 +271,6 @@
     "Datadog",
     "Freshworks",
     "GlobalFoundries",
-    "GoDaddy",
     "Iron Mountain",
     "Kyndryl",
     "Motorola",
