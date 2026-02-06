@@ -41,16 +41,6 @@
       "sector": "Consumer"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-03-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "FedEx",
       "symbol": "FDX",
       "date": "2026-03-19",
@@ -119,6 +109,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "TMT"
+    },
+    {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-03-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
     }
   ],
   "count": 12,
@@ -127,7 +127,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-06T18:35:12Z",
+  "generatedAt": "2026-02-06T21:23:11Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Accenture",
