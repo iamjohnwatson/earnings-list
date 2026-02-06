@@ -127,15 +127,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Las Vegas Sands Corp",
-      "symbol": "LVS",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Otis Worldwide Corp",
       "symbol": "OTIS",
       "date": "2026-01-28",
@@ -269,12 +260,21 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Eaton Corporation PLC",
+      "symbol": "ETN",
+      "date": "2026-01-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
   "count": 30,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-05T21:20:48Z",
+  "generatedAt": "2026-02-06T01:02:04Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "A O Smith Corp",
@@ -285,11 +285,11 @@
     "CH Robinson Worldwide Inc",
     "Caterpillar",
     "Dover Corp",
+    "Eaton Corporation PLC",
     "General Dynamics Corp",
     "Honeywell",
     "JetBlue",
     "L3Harris Technologies Inc",
-    "Las Vegas Sands Corp",
     "Lockheed Martin",
     "Norfolk Southern Corp",
     "Northrop Grumman Corp",

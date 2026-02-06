@@ -48,6 +48,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
+      "date": "2026-02-19",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.etsy.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Walmart Inc",
       "symbol": "WMT",
       "date": "2026-02-19",
@@ -57,11 +68,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-05T21:21:18Z",
+  "generatedAt": "2026-02-06T01:02:32Z",
   "irCompanies": [
+    "Etsy Inc",
     "Sysco Corp"
   ],
   "fallbackCompanies": [

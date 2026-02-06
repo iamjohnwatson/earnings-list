@@ -145,20 +145,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Crown Castle",
-      "symbol": "CCI",
+      "company": "Dayforce",
+      "symbol": "DAY",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Fox Corp",
-      "symbol": "FOXA",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -168,6 +159,15 @@
       "date": "2026-02-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "News Corp",
+      "symbol": "NWSA",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -184,17 +184,17 @@
       "company": "Qualcomm",
       "symbol": "QCOM",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
-      "company": "Snap",
-      "symbol": "SNAP",
+      "company": "Skyworks Solutions",
+      "symbol": "SWKS",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -211,8 +211,8 @@
       "company": "Wolfspeed",
       "symbol": "WOLF",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -220,36 +220,36 @@
       "company": "Amazon",
       "symbol": "AMZN",
       "date": "2026-02-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Atlassian",
       "symbol": "TEAM",
       "date": "2026-02-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Digital Realty",
       "symbol": "DLR",
       "date": "2026-02-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Fortinet",
       "symbol": "FTNT",
       "date": "2026-02-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -259,37 +259,24 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.gendigital.com/overview/default.aspx",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Lam Research",
-      "symbol": "LRCX",
-      "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investor.lamresearch.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Microchip Tech",
       "symbol": "MCHP",
       "date": "2026-02-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Monolithic Power",
       "symbol": "MPWR",
       "date": "2026-02-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -302,102 +289,60 @@
       "source": "aggregator"
     },
     {
-      "company": "Qnity",
-      "symbol": "Q",
-      "date": "2026-02-05",
-      "bmo_amc": "4:15 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:15 pm EST",
-      "ir_source_url": "https://ir.qnityelectronics.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Reddit",
       "symbol": "RDDT",
       "date": "2026-02-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Roblox",
       "symbol": "RBLX",
       "date": "2026-02-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "SiriusXM",
       "symbol": "SIRI",
       "date": "2026-02-05",
-      "bmo_amc": "7:00 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "7:00 AM EST",
-      "ir_source_url": "https://investor.siriusxm.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-02-05",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "VeriSign",
       "symbol": "VRSN",
       "date": "2026-02-05",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Verizon",
-      "symbol": "VZ",
-      "date": "2026-02-05",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.verizon.com/about/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
-  "count": 40,
+  "count": 36,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-05T21:20:57Z",
-  "irCompanies": [
-    "Gen Digital",
-    "Lam Research",
-    "Qnity",
-    "SiriusXM",
-    "Take-Two Interactive",
-    "Verizon"
-  ],
+  "generatedAt": "2026-02-06T01:02:14Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Alphabet Inc",
     "Amazon",
     "Arm Holdings",
     "Atlassian",
     "Cognizant",
-    "Crown Castle",
+    "Dayforce",
     "Digital Realty",
     "Disney",
     "Electronic Arts",
     "Fortinet",
-    "Fox Corp",
     "Gartner",
+    "Gen Digital",
     "IAC",
     "Lumen Tech",
     "Match Group",
@@ -412,8 +357,8 @@
     "Qualcomm",
     "Reddit",
     "Roblox",
+    "SiriusXM",
     "Skyworks Solutions",
-    "Snap",
     "Super Micro",
     "Take-Two Interactive",
     "Teradyne",
