@@ -78,8 +78,8 @@
       "company": "Salesforce",
       "symbol": "CRM",
       "date": "2026-02-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -208,7 +208,7 @@
   "count": 22,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-06T15:32:04Z",
+  "generatedAt": "2026-02-06T18:34:51Z",
   "irCompanies": [
     "GoDaddy",
     "Intuit",

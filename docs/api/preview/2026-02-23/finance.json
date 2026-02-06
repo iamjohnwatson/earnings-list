@@ -47,7 +47,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.rbc.com/investor-relations/",
+      "source": "investor_relations"
     },
     {
       "company": "TD Bank",
@@ -65,15 +67,15 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-06T15:32:05Z",
+  "generatedAt": "2026-02-06T18:34:50Z",
   "irCompanies": [
     "JPMorgan",
+    "Royal Bank of Canada",
     "Scotiabank"
   ],
   "fallbackCompanies": [
     "Bank of Montreal",
     "CIBC",
-    "Royal Bank of Canada",
     "TD Bank"
   ],
   "week": {

@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Merck",
-      "symbol": "MRK",
-      "date": "2026-04-30",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.merck.com/investor-relations/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
       "company": "Estee Lauder",
       "symbol": "EL",
       "date": "2026-05-01",
@@ -23,6 +11,18 @@
       "ir_source_url": "https://www.elcompanies.com/en/investors",
       "source": "investor_relations",
       "sector": "Consumer"
+    },
+    {
+      "company": "Merck",
+      "symbol": "MRK",
+      "date": "2026-04-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.merck.com/investor-relations/",
+      "source": "investor_relations",
+      "sector": "Pharma"
     }
   ],
   "count": 2,
@@ -31,7 +31,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-06T15:33:29Z",
+  "generatedAt": "2026-02-06T18:36:09Z",
   "irCompanies": [
     "Estee Lauder",
     "Merck"
