@@ -55,11 +55,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Entergy Corp",
-      "symbol": "ETR",
+      "company": "Expand Energy",
+      "symbol": "EXE",
       "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -220,7 +220,7 @@
   "count": 24,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-06T09:34:24Z",
+  "generatedAt": "2026-02-06T12:33:16Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alliant Energy",
@@ -235,8 +235,8 @@
     "EQT Corp",
     "Edison International",
     "Energy Transfer",
-    "Entergy Corp",
     "Evergy",
+    "Expand Energy",
     "First Energy",
     "HF Sinclair",
     "Newmont Corp",

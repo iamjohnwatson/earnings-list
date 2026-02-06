@@ -57,6 +57,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Omnicom",
+      "symbol": "OMC",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Spotify",
       "symbol": "SPOT",
       "date": "2026-02-10",
@@ -252,10 +261,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-06T09:34:13Z",
+  "generatedAt": "2026-02-06T12:33:06Z",
   "irCompanies": [
     "Equinix",
     "Lyft",
@@ -274,6 +283,7 @@
     "Iron Mountain",
     "Kyndryl",
     "Motorola",
+    "Omnicom",
     "Onsemi",
     "Paycom",
     "Pinterest",

@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "CoStar Group",
+      "symbol": "CSGP",
+      "date": "2026-02-24",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "GoDaddy",
       "symbol": "GDDY",
       "date": "2026-02-24",
@@ -69,8 +78,8 @@
       "company": "Salesforce",
       "symbol": "CRM",
       "date": "2026-02-25",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -141,8 +150,8 @@
       "company": "Duolingo",
       "symbol": "DUOL",
       "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -178,6 +187,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Zscaler",
+      "symbol": "ZS",
+      "date": "2026-02-26",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Bumble",
       "symbol": "BMBL",
       "date": "2026-02-27",
@@ -187,10 +205,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-06T09:34:35Z",
+  "generatedAt": "2026-02-06T12:33:26Z",
   "irCompanies": [
     "GoDaddy",
     "Intuit",
@@ -202,6 +220,7 @@
     "Baidu",
     "Bumble",
     "C3.ai",
+    "CoStar Group",
     "Dell",
     "Duolingo",
     "HP Inc",
@@ -213,6 +232,7 @@
     "Synopsys",
     "Workday",
     "Zoom",
+    "Zscaler",
     "eBay"
   ],
   "week": {
