@@ -27,7 +27,9 @@
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.cinfin.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Principal Financial Group",
@@ -183,11 +185,12 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-06T01:02:23Z",
+  "generatedAt": "2026-02-06T04:32:43Z",
   "irCompanies": [
     "Apollo",
     "Arch Capital Group",
     "Bank of America",
+    "Cincinnati Financial",
     "Citigroup",
     "Citizens Financial",
     "PNC Financial",
@@ -196,7 +199,6 @@
   "fallbackCompanies": [
     "Arch Capital Group",
     "Assurant Inc",
-    "Cincinnati Financial",
     "Coinbase",
     "Fidelity National Information Services",
     "Lincoln National Corporation",
