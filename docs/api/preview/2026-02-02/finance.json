@@ -139,9 +139,9 @@
       "company": "Cboe Global Markets",
       "symbol": "CBOE",
       "date": "2026-02-06",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
@@ -151,7 +151,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-06T12:32:55Z",
+  "generatedAt": "2026-02-06T15:31:36Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",

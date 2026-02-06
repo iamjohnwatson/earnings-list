@@ -84,15 +84,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Entergy Corp",
-      "symbol": "ETR",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Eversource Energy",
       "symbol": "ES",
       "date": "2026-02-12",
@@ -147,10 +138,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-06T12:33:04Z",
+  "generatedAt": "2026-02-06T15:31:46Z",
   "irCompanies": [
     "XPLR Infrastructure (previously NEP)"
   ],
@@ -162,7 +153,6 @@
     "Duke Energy",
     "Ecolab",
     "Enbridge",
-    "Entergy Corp",
     "Eversource Energy",
     "Exelon Corp",
     "NiSource",

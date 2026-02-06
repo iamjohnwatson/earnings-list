@@ -1,33 +1,11 @@
 {
-  "records": [
-    {
-      "company": "Conagra Brands",
-      "symbol": "CAG",
-      "date": "2026-04-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Lamb Weston Holdings",
-      "symbol": "LW",
-      "date": "2026-04-02",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    }
-  ],
-  "count": 2,
+  "records": [],
+  "count": 0,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-06T12:34:17Z",
+  "generatedAt": "2026-02-06T15:32:52Z",
   "irCompanies": [],
-  "fallbackCompanies": [
-    "Conagra Brands",
-    "Lamb Weston Holdings"
-  ],
+  "fallbackCompanies": [],
   "week": {
     "id": "2026-03-30",
     "start_date": "2026-03-30",
