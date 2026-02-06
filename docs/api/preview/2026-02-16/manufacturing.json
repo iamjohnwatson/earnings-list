@@ -55,17 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-02-18",
-      "bmo_amc": "11:20 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:20 AM EST",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Host Hotels & Resorts Inc",
       "symbol": "HST",
       "date": "2026-02-18",
@@ -131,12 +120,11 @@
       "source": "investor_relations"
     }
   ],
-  "count": 14,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-06T04:32:52Z",
+  "generatedAt": "2026-02-06T06:41:25Z",
   "irCompanies": [
-    "Honeywell",
     "Quanta Services Inc"
   ],
   "fallbackCompanies": [
