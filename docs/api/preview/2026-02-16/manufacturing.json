@@ -111,6 +111,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Johnson Controls International PLC",
+      "symbol": "JCI",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.johnsoncontrols.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Pool Corp",
       "symbol": "POOL",
       "date": "2026-02-19",
@@ -131,12 +142,13 @@
       "source": "investor_relations"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-06T21:22:34Z",
+  "generatedAt": "2026-02-07T01:01:33Z",
   "irCompanies": [
     "Honeywell",
+    "Johnson Controls International PLC",
     "Quanta Services Inc"
   ],
   "fallbackCompanies": [

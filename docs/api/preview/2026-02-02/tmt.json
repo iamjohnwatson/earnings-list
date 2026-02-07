@@ -314,26 +314,13 @@
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-02-06",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
     }
   ],
-  "count": 36,
+  "count": 35,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-06T21:22:15Z",
-  "irCompanies": [
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2026-02-07T01:01:15Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Alphabet Inc",
     "Amazon",

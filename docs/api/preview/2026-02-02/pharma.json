@@ -187,18 +187,14 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     }
   ],
   "count": 21,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-06T21:22:16Z",
-  "irCompanies": [
-    "Centene Corp"
-  ],
+  "generatedAt": "2026-02-07T01:01:15Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
@@ -207,6 +203,7 @@
     "Bristol Myers-Squibb",
     "Cardinal Health Inc",
     "Cencora Inc",
+    "Centene Corp",
     "Cigna",
     "DaVita Inc",
     "Eli Lilly and Co",
