@@ -1,76 +1,160 @@
 {
   "records": [
     {
-      "company": "Global Payments",
-      "symbol": "GPN",
-      "date": "2026-02-18",
-      "bmo_amc": "8:00 AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 AM ET",
-      "ir_source_url": "https://investors.globalpayments.com/",
-      "source": "investor_relations",
-      "sector": "Finance"
-    },
-    {
-      "company": "Moody's Corporation",
-      "symbol": "MCO",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Kenvue",
-      "symbol": "KVUE",
+      "company": "Caesars Entertainment Inc",
+      "symbol": "CZR",
       "date": "2026-02-17",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Labcorp Holdings Inc",
-      "symbol": "LH",
+      "company": "Leidos Holdings Inc",
+      "symbol": "LDOS",
       "date": "2026-02-17",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
+      "company": "Republic Services Inc",
+      "symbol": "RSG",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Vulcan Materials Co",
+      "symbol": "VMC",
       "date": "2026-02-17",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Charles River Labs",
-      "symbol": "CRL",
+      "company": "American Water Works",
+      "symbol": "AWK",
       "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Booking Holdings Inc",
+      "symbol": "BKNG",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Honeywell",
+      "symbol": "HON",
+      "date": "2026-02-18",
+      "bmo_amc": "11:20 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:20 AM EST",
+      "ir_source_url": "https://investor.honeywell.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Host Hotels & Resorts Inc",
+      "symbol": "HST",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Invitation Homes Inc",
+      "symbol": "INVH",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Nordson Corp",
+      "symbol": "NDSN",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Deere",
+      "symbol": "DE",
+      "date": "2026-02-19",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
     },
     {
-      "company": "Insulet",
-      "symbol": "PODD",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Extra Space Storage Inc",
+      "symbol": "EXR",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Pharma"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Johnson Controls International PLC",
+      "symbol": "JCI",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.johnsoncontrols.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Pool Corp",
+      "symbol": "POOL",
+      "date": "2026-02-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Quanta Services Inc",
+      "symbol": "PWR",
+      "date": "2026-02-19",
+      "bmo_amc": "9:00 AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "9:00 AM ET",
+      "ir_source_url": "https://investors.quantaservices.com/",
+      "source": "investor_relations",
+      "sector": "Manufacturing"
     },
     {
       "company": "Celanese",
@@ -313,160 +397,160 @@
       "sector": "Resources"
     },
     {
-      "company": "Caesars Entertainment Inc",
-      "symbol": "CZR",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Leidos Holdings Inc",
-      "symbol": "LDOS",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "company": "Global Payments",
+      "symbol": "GPN",
+      "date": "2026-02-18",
+      "bmo_amc": "8:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Republic Services Inc",
-      "symbol": "RSG",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Vulcan Materials Co",
-      "symbol": "VMC",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "American Water Works",
-      "symbol": "AWK",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Booking Holdings Inc",
-      "symbol": "BKNG",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-02-18",
-      "bmo_amc": "11:20 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:20 AM EST",
-      "ir_source_url": "https://investor.honeywell.com/",
+      "ir_time_label": "8:00 AM ET",
+      "ir_source_url": "https://investors.globalpayments.com/",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
-      "company": "Host Hotels & Resorts Inc",
-      "symbol": "HST",
+      "company": "Moody's Corporation",
+      "symbol": "MCO",
       "date": "2026-02-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Invitation Homes Inc",
-      "symbol": "INVH",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Nordson Corp",
-      "symbol": "NDSN",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Deere",
-      "symbol": "DE",
-      "date": "2026-02-19",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
-      "company": "Extra Space Storage Inc",
-      "symbol": "EXR",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "company": "Coca-Cola Europacific",
+      "symbol": "CCEP",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
-      "company": "Johnson Controls International PLC",
-      "symbol": "JCI",
-      "date": "2026-02-19",
+      "company": "Sysco Corp",
+      "symbol": "SYY",
+      "date": "2026-02-17",
       "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
       "ir_time_label": null,
-      "ir_source_url": "https://investors.johnsoncontrols.com/",
+      "ir_source_url": "https://investors.sysco.com/",
       "source": "investor_relations",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
-      "company": "Pool Corp",
-      "symbol": "POOL",
-      "date": "2026-02-19",
+      "company": "DoorDash",
+      "symbol": "DASH",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
+      "date": "2026-02-18",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Consumer"
     },
     {
-      "company": "Quanta Services Inc",
-      "symbol": "PWR",
+      "company": "Hormel Foods",
+      "symbol": "HRL",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Molson Coors Beverage Co",
+      "symbol": "TAP",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Etsy Inc",
+      "symbol": "ETSY",
       "date": "2026-02-19",
-      "bmo_amc": "9:00 AM ET",
+      "bmo_amc": "8:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30 am EST",
+      "ir_source_url": "https://investors.etsy.com/",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Walmart Inc",
+      "symbol": "WMT",
+      "date": "2026-02-19",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "9:00 AM ET",
-      "ir_source_url": "https://investors.quantaservices.com/",
-      "source": "investor_relations",
-      "sector": "Manufacturing"
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Kenvue",
+      "symbol": "KVUE",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Labcorp Holdings Inc",
+      "symbol": "LH",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Charles River Labs",
+      "symbol": "CRL",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Insulet",
+      "symbol": "PODD",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
     },
     {
       "company": "Cadence",
@@ -569,90 +653,6 @@
       "ir_source_url": "https://investors.livenationentertainment.com/",
       "source": "investor_relations",
       "sector": "TMT"
-    },
-    {
-      "company": "Coca-Cola Europacific",
-      "symbol": "CCEP",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Sysco Corp",
-      "symbol": "SYY",
-      "date": "2026-02-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.sysco.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "DoorDash",
-      "symbol": "DASH",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Etsy Inc",
-      "symbol": "ETSY",
-      "date": "2026-02-18",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Hormel Foods",
-      "symbol": "HRL",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Molson Coors Beverage Co",
-      "symbol": "TAP",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Etsy Inc",
-      "symbol": "ETSY",
-      "date": "2026-02-19",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 am EST",
-      "ir_source_url": "https://investors.etsy.com/",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Walmart Inc",
-      "symbol": "WMT",
-      "date": "2026-02-19",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     }
   ],
   "count": 64,
@@ -661,7 +661,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-08T18:22:12Z",
+  "generatedAt": "2026-02-08T21:18:23Z",
   "irCompanies": [
     "Etsy Inc",
     "Global Payments",
