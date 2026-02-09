@@ -163,6 +163,15 @@
       "source": "aggregator"
     },
     {
+      "company": "UDR INC",
+      "symbol": "UDR",
+      "date": "2026-02-04",
+      "bmo_amc": "AMC",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": "AMC",
+      "source": "aggregator"
+    },
+    {
       "company": "Camden Property Trust",
       "symbol": "CPT",
       "date": "2026-02-05",
@@ -235,10 +244,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 27,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-09T15:45:01Z",
+  "generatedAt": "2026-02-09T18:43:15Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AMETEK Inc",
@@ -265,6 +274,7 @@
     "Snap-On Inc",
     "Stanley Black & Decker",
     "TransDigm Group Inc",
+    "UDR INC",
     "Veralto Corp",
     "WW Grainger Inc"
   ],

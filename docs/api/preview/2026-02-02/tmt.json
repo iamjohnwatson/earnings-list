@@ -145,6 +145,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Dayforce",
+      "symbol": "DAY",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Fox Corp",
       "symbol": "FOXA",
       "date": "2026-02-04",
@@ -316,10 +325,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 35,
+  "count": 36,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-09T15:45:01Z",
+  "generatedAt": "2026-02-09T18:43:15Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Alphabet Inc",
@@ -328,6 +337,7 @@
     "Atlassian",
     "Cognizant",
     "Crown Castle",
+    "Dayforce",
     "Digital Realty",
     "Disney",
     "Electronic Arts",
