@@ -6,7 +6,7 @@
       "date": "2026-02-09",
       "bmo_amc": "8:00 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:00 AM ET",
       "ir_source_url": "https://investors.bd.com/",
       "source": "investor_relations"
@@ -78,9 +78,9 @@
       "company": "Waters Corp",
       "symbol": "WAT",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -105,7 +105,7 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-08T21:18:15Z",
+  "generatedAt": "2026-02-09T01:08:34Z",
   "irCompanies": [
     "Becton Dickinson and Co"
   ],

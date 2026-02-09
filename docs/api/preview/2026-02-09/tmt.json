@@ -13,18 +13,18 @@
       "company": "Kyndryl",
       "symbol": "KD",
       "date": "2026-02-09",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-02-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -264,7 +264,7 @@
   "count": 28,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-08T21:18:15Z",
+  "generatedAt": "2026-02-09T01:08:35Z",
   "irCompanies": [
     "Equinix",
     "Lyft",

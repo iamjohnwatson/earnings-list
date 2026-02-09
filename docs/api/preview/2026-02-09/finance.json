@@ -6,7 +6,7 @@
       "date": "2026-02-09",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": "8:30 AM ET",
       "ir_source_url": "https://ir.apollo.com?source=redirect",
       "source": "investor_relations"
@@ -15,18 +15,18 @@
       "company": "Arch Capital Group",
       "symbol": "ACGL",
       "date": "2026-02-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Cincinnati Financial",
       "symbol": "CINF",
       "date": "2026-02-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": null,
       "ir_source_url": "https://investors.cinfin.com/",
       "source": "investor_relations"
@@ -35,9 +35,9 @@
       "company": "Principal Financial Group",
       "symbol": "PFG",
       "date": "2026-02-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -196,7 +196,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-08T21:18:14Z",
+  "generatedAt": "2026-02-09T01:08:35Z",
   "irCompanies": [
     "Apollo",
     "Arch Capital Group",
