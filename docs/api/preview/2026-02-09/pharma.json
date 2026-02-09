@@ -4,10 +4,10 @@
       "company": "Becton Dickinson and Co",
       "symbol": "BDX",
       "date": "2026-02-09",
-      "bmo_amc": "8:00 AM ET",
+      "bmo_amc": "6:30 AM EST",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
-      "ir_time_label": "8:00 AM ET",
+      "yahoo_time_label": null,
+      "ir_time_label": "6:30 AM EST",
       "ir_source_url": "https://investors.bd.com/",
       "source": "investor_relations"
     },
@@ -78,9 +78,9 @@
       "company": "Waters Corp",
       "symbol": "WAT",
       "date": "2026-02-12",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -105,7 +105,7 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-09T12:41:05Z",
+  "generatedAt": "2026-02-09T15:45:10Z",
   "irCompanies": [
     "Becton Dickinson and Co"
   ],

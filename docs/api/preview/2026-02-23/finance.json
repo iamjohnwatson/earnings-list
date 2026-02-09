@@ -35,8 +35,8 @@
       "company": "CIBC",
       "symbol": "CM",
       "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -55,8 +55,8 @@
       "company": "TD Bank",
       "symbol": "TD",
       "date": "2026-02-26",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
@@ -67,7 +67,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-09T12:41:24Z",
+  "generatedAt": "2026-02-09T15:45:29Z",
   "irCompanies": [
     "JPMorgan",
     "Royal Bank of Canada",
