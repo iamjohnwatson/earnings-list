@@ -172,6 +172,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Kenvue",
+      "symbol": "KVUE",
+      "date": "2026-02-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Molina Healthcare Inc",
       "symbol": "MOH",
       "date": "2026-02-05",
@@ -190,10 +199,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 22,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-09T09:48:59Z",
+  "generatedAt": "2026-02-09T12:40:56Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Aflac Inc",
@@ -211,6 +220,7 @@
     "Healthpeak Properties",
     "IDEXX Laboratories Inc",
     "IQVIA Holdings Inc",
+    "Kenvue",
     "Mckesson Corp",
     "Merck",
     "Molina Healthcare Inc",
