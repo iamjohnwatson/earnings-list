@@ -102,15 +102,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Trade Desk",
-      "symbol": "TTD",
-      "date": "2026-02-25",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Zoom",
       "symbol": "ZM",
       "date": "2026-02-25",
@@ -221,10 +212,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 24,
+  "count": 23,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-10T15:58:29Z",
+  "generatedAt": "2026-02-10T18:53:31Z",
   "irCompanies": [
     "GoDaddy",
     "Qnity"
@@ -247,7 +238,6 @@
     "Salesforce",
     "Snowflake",
     "Synopsys",
-    "Trade Desk",
     "Workday",
     "Zoom",
     "Zscaler",
