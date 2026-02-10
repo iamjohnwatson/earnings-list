@@ -4,51 +4,36 @@
       "company": "Apollo",
       "symbol": "APO",
       "date": "2026-02-09",
-      "bmo_amc": "8:50 AM EST",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": "8:50 am EST",
-      "ir_source_url": "https://ir.apollo.com?source=redirect",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Arch Capital Group",
       "symbol": "ACGL",
       "date": "2026-02-09",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Cincinnati Financial",
       "symbol": "CINF",
       "date": "2026-02-09",
-      "bmo_amc": "11:00AM",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "11:00am",
-      "ir_source_url": "https://investors.cinfin.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Huntington Bancshares",
-      "symbol": "HBAN",
-      "date": "2026-02-09",
-      "bmo_amc": "11:20 AM EST",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "11:20 am EST",
-      "ir_source_url": "https://ir.huntington.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Principal Financial Group",
       "symbol": "PFG",
       "date": "2026-02-09",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -80,6 +65,17 @@
       "yahoo_time_label": null,
       "ir_time_label": "8:00 am ET",
       "ir_source_url": "https://investor.bankofamerica.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2026-02-10",
+      "bmo_amc": "11:00AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "11:00am",
+      "ir_source_url": "https://investors.cinfin.com/",
       "source": "investor_relations"
     },
     {
@@ -139,18 +135,18 @@
       "company": "Robinhood",
       "symbol": "HOOD",
       "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "S&P Global Inc",
       "symbol": "SPGI",
       "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -207,22 +203,22 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-09T21:31:37Z",
+  "generatedAt": "2026-02-10T01:17:13Z",
   "irCompanies": [
-    "Apollo",
     "Arch Capital Group",
     "Bank of America",
     "Cincinnati Financial",
     "Citigroup",
     "Citizens Financial",
-    "Huntington Bancshares",
     "Morgan Stanley",
     "PNC Financial",
     "Wells Fargo"
   ],
   "fallbackCompanies": [
+    "Apollo",
     "Arch Capital Group",
     "Assurant Inc",
+    "Cincinnati Financial",
     "Coinbase",
     "Fidelity National Information Services",
     "Lincoln National Corporation",

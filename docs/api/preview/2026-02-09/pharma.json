@@ -4,49 +4,36 @@
       "company": "Becton Dickinson and Co",
       "symbol": "BDX",
       "date": "2026-02-09",
-      "bmo_amc": "6:30 AM EST",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "6:30 AM EST",
-      "ir_source_url": "https://investors.bd.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "CVS Health Corp",
-      "symbol": "CVS",
-      "date": "2026-02-10",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
+      "company": "CVS Health Corp",
+      "symbol": "CVS",
+      "date": "2026-02-10",
+      "bmo_amc": "BMO",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": "BMO",
+      "source": "aggregator"
+    },
+    {
       "company": "Edwards Lifesciences Corp",
       "symbol": "EW",
       "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Gilead",
       "symbol": "GILD",
       "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -113,15 +100,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-09T21:31:37Z",
-  "irCompanies": [
-    "Becton Dickinson and Co",
-    "Centene Corp"
-  ],
+  "generatedAt": "2026-02-10T01:17:13Z",
+  "irCompanies": [],
   "fallbackCompanies": [
+    "Becton Dickinson and Co",
     "CVS Health Corp",
     "Edwards Lifesciences Corp",
     "Gilead",
