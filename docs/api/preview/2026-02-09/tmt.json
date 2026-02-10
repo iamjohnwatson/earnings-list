@@ -4,8 +4,8 @@
       "company": "Kyndryl",
       "symbol": "KD",
       "date": "2026-02-09",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -13,8 +13,8 @@
       "company": "Onsemi",
       "symbol": "ON",
       "date": "2026-02-09",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -64,6 +64,17 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
       "source": "aggregator"
+    },
+    {
+      "company": "Tencent Music",
+      "symbol": "TME",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.tencentmusic.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Trimble",
@@ -252,15 +263,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 27,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-10T09:50:12Z",
+  "generatedAt": "2026-02-10T12:46:27Z",
   "irCompanies": [
     "Equinix",
     "Lyft",
     "Micron",
-    "Shopify"
+    "Shopify",
+    "Tencent Music"
   ],
   "fallbackCompanies": [
     "AppLovin",
