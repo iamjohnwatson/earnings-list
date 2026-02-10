@@ -60,10 +60,10 @@
       "company": "Bank of America",
       "symbol": "BAC",
       "date": "2026-02-10",
-      "bmo_amc": "8:00 AM ET",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "8:00 am ET",
+      "ir_time_label": null,
       "ir_source_url": "https://investor.bankofamerica.com/",
       "source": "investor_relations"
     },
@@ -144,9 +144,9 @@
       "company": "S&P Global Inc",
       "symbol": "SPGI",
       "date": "2026-02-10",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -203,7 +203,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-10T12:46:29Z",
+  "generatedAt": "2026-02-10T15:58:03Z",
   "irCompanies": [
     "Arch Capital Group",
     "Bank of America",

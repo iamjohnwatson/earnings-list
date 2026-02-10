@@ -13,18 +13,18 @@
       "company": "Duke Energy",
       "symbol": "DUK",
       "date": "2026-02-10",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Ecolab",
       "symbol": "ECL",
       "date": "2026-02-10",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -69,9 +69,9 @@
       "company": "Williams Co",
       "symbol": "WMB",
       "date": "2026-02-11",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -150,7 +150,7 @@
   "count": 16,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-10T12:46:27Z",
+  "generatedAt": "2026-02-10T15:58:02Z",
   "irCompanies": [
     "XPLR Infrastructure (previously NEP)"
   ],

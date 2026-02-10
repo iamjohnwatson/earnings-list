@@ -22,9 +22,9 @@
       "company": "CVS Health Corp",
       "symbol": "CVS",
       "date": "2026-02-10",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -58,9 +58,9 @@
       "company": "Zimmer Biomet Holdings Inc",
       "symbol": "ZBH",
       "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -103,7 +103,7 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-10T12:46:27Z",
+  "generatedAt": "2026-02-10T15:58:03Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Becton Dickinson and Co",

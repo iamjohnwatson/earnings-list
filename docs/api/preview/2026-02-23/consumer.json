@@ -16,9 +16,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.homedepot.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Keurig Dr. Pepper",
@@ -89,14 +87,14 @@
   "count": 9,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-10T12:46:53Z",
+  "generatedAt": "2026-02-10T15:58:28Z",
   "irCompanies": [
-    "Home Depot Inc",
     "Keurig Dr. Pepper"
   ],
   "fallbackCompanies": [
     "Bath & Body Works",
     "Domino\u2019s Pizza Inc",
+    "Home Depot Inc",
     "J.M. Smucker Co",
     "Lowe\u2019s Cos Inc",
     "Monster Beverage",

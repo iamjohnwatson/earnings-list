@@ -1,44 +1,14 @@
 {
   "records": [
     {
-      "company": "Tencent Music",
-      "symbol": "TME",
-      "date": "2026-03-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Xpeng",
-      "symbol": "XPEV",
-      "date": "2026-03-17",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Accenture",
-      "symbol": "ACN",
+      "company": "FactSet Research",
+      "symbol": "FDS",
       "date": "2026-03-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-03-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
       "company": "FedEx",
@@ -69,16 +39,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
-    },
-    {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-03-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
     },
     {
       "company": "General Mills",
@@ -119,6 +79,46 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "Tencent Music",
+      "symbol": "TME",
+      "date": "2026-03-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Xpeng",
+      "symbol": "XPEV",
+      "date": "2026-03-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Accenture",
+      "symbol": "ACN",
+      "date": "2026-03-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Micron",
+      "symbol": "MU",
+      "date": "2026-03-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
   "count": 12,
@@ -127,7 +127,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-10T12:47:28Z",
+  "generatedAt": "2026-02-10T15:59:10Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Accenture",

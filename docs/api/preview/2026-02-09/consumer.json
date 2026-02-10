@@ -6,7 +6,7 @@
       "date": "2026-02-10",
       "bmo_amc": "8:30 AM ET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": "8:30 am ET",
       "ir_source_url": "https://investors.coca-colacompany.com/",
       "source": "investor_relations"
@@ -19,6 +19,28 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Home Depot Inc",
+      "symbol": "HD",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.homedepot.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "Lululemon Athletica",
+      "symbol": "LULU",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://corporate.lululemon.com/investors",
+      "source": "investor_relations"
     },
     {
       "company": "Masco Corp",
@@ -104,13 +126,15 @@
       "source": "investor_relations"
     }
   ],
-  "count": 11,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-10T12:46:28Z",
+  "generatedAt": "2026-02-10T15:58:02Z",
   "irCompanies": [
     "Coca-Cola Co",
-    "Kimco Realty Corp"
+    "Home Depot Inc",
+    "Kimco Realty Corp",
+    "Lululemon Athletica"
   ],
   "fallbackCompanies": [
     "Federal Realty Investment Trust",

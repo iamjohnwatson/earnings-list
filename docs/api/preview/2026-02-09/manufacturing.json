@@ -31,14 +31,23 @@
       "company": "Marriott International Inc",
       "symbol": "MAR",
       "date": "2026-02-10",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Borgwarner Inc",
       "symbol": "BWA",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Frontier Holdings",
+      "symbol": "ULCC",
       "date": "2026-02-11",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -165,10 +174,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-10T12:46:27Z",
+  "generatedAt": "2026-02-10T15:58:02Z",
   "irCompanies": [
     "Bombardier"
   ],
@@ -178,6 +187,7 @@
     "Borgwarner Inc",
     "Expedia Group Inc",
     "Ford Motor Co",
+    "Frontier Holdings",
     "Generac Holdings Inc",
     "Harley Davidson",
     "Hilton Worldwide Holdings Inc",
