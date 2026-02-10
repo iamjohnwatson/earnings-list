@@ -161,14 +161,14 @@
       "source": "aggregator"
     },
     {
-      "company": "Wells Fargo",
-      "symbol": "WFC",
+      "company": "Synchrony Financial",
+      "symbol": "SYF",
       "date": "2026-02-10",
-      "bmo_amc": "TBD",
+      "bmo_amc": "1:50 PM EST",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "ir_time_label": "1:50 PM EST",
+      "ir_source_url": "https://investors.synchrony.com/",
       "source": "investor_relations"
     },
     {
@@ -214,7 +214,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-10T18:53:05Z",
+  "generatedAt": "2026-02-10T21:35:30Z",
   "irCompanies": [
     "Arch Capital Group",
     "Bank of America",
@@ -224,7 +224,7 @@
     "Huntington Bancshares",
     "Morgan Stanley",
     "PNC Financial",
-    "Wells Fargo"
+    "Synchrony Financial"
   ],
   "fallbackCompanies": [
     "Apollo",

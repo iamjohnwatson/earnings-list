@@ -66,17 +66,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Honeywell",
-      "symbol": "HON",
-      "date": "2026-02-18",
-      "bmo_amc": "11:20 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "11:20 AM EST",
-      "ir_source_url": "https://investor.honeywell.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Host Hotels & Resorts Inc",
       "symbol": "HST",
       "date": "2026-02-18",
@@ -153,13 +142,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-10T18:53:19Z",
+  "generatedAt": "2026-02-10T21:35:41Z",
   "irCompanies": [
     "Emerson Electric Co",
-    "Honeywell",
     "Johnson Controls International PLC",
     "Quanta Services Inc"
   ],

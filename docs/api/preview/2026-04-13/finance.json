@@ -1,13 +1,27 @@
 {
-  "records": [],
-  "count": 0,
+  "records": [
+    {
+      "company": "Wells Fargo",
+      "symbol": "WFC",
+      "date": "2026-04-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.wellsfargo.com/about/investor-relations/",
+      "source": "investor_relations"
+    }
+  ],
+  "count": 1,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-10T18:54:55Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-10T21:37:34Z",
+  "irCompanies": [
+    "Wells Fargo"
+  ],
   "fallbackCompanies": [],
   "week": {
     "id": "2026-04-13",
