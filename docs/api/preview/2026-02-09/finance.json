@@ -73,17 +73,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Citigroup",
-      "symbol": "C",
-      "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.citigroup.com/global/investors",
-      "source": "investor_relations"
-    },
-    {
       "company": "Manulife",
       "symbol": "MFC",
       "date": "2026-02-11",
@@ -120,16 +109,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 12,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-11T12:41:55Z",
-  "irCompanies": [
-    "Citigroup"
-  ],
+  "generatedAt": "2026-02-11T15:50:16Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Apollo",
     "Arch Capital Group",

@@ -58,38 +58,49 @@
       "company": "Generac Holdings Inc",
       "symbol": "GNRC",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
       "company": "Hilton Worldwide Holdings Inc",
       "symbol": "HLT",
       "date": "2026-02-11",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "ir_time_label": null,
       "ir_source_url": "https://ir.hilton.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "MGM Resorts International",
+      "symbol": "MGM",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.mgmresorts.com/",
       "source": "investor_relations"
     },
     {
       "company": "Martin Marietta Materials Inc",
       "symbol": "MLM",
       "date": "2026-02-11",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Wabtec",
       "symbol": "WAB",
       "date": "2026-02-11",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TAS",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": "TAS",
       "source": "aggregator"
     },
     {
@@ -176,13 +187,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 19,
+  "count": 20,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-11T12:41:55Z",
+  "generatedAt": "2026-02-11T15:50:17Z",
   "irCompanies": [
     "Bombardier",
-    "Hilton Worldwide Holdings Inc"
+    "Hilton Worldwide Holdings Inc",
+    "MGM Resorts International"
   ],
   "fallbackCompanies": [
     "Air Lease",

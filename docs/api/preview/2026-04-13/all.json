@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "company": "Citigroup",
+      "symbol": "C",
+      "date": "2026-04-14",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://www.citigroup.com/global/investors",
+      "source": "investor_relations",
+      "sector": "Finance"
+    },
+    {
       "company": "Wells Fargo",
       "symbol": "WFC",
       "date": "2026-04-14",
@@ -25,15 +37,16 @@
       "sector": "Finance"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-11T12:43:54Z",
+  "generatedAt": "2026-02-11T15:52:12Z",
   "irCompanies": [
     "Bank of America",
+    "Citigroup",
     "Wells Fargo"
   ],
   "fallbackCompanies": [],

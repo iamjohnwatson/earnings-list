@@ -31,9 +31,9 @@
       "company": "Albemarle",
       "symbol": "ALB",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -49,9 +49,9 @@
       "company": "NiSource",
       "symbol": "NI",
       "date": "2026-02-11",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -130,7 +130,7 @@
   "count": 14,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-11T12:41:55Z",
+  "generatedAt": "2026-02-11T15:50:18Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",

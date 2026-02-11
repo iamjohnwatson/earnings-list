@@ -12,6 +12,15 @@
       "source": "investor_relations"
     },
     {
+      "company": "Fidelity National Information Services",
+      "symbol": "FIS",
+      "date": "2026-02-24",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Scotiabank",
       "symbol": "BNS",
       "date": "2026-02-24",
@@ -61,13 +70,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 6,
+  "count": 7,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-11T12:42:20Z",
+  "generatedAt": "2026-02-11T15:50:41Z",
   "irCompanies": [
     "JPMorgan",
     "Royal Bank of Canada",
@@ -76,6 +85,7 @@
   "fallbackCompanies": [
     "Bank of Montreal",
     "CIBC",
+    "Fidelity National Information Services",
     "TD Bank"
   ],
   "week": {

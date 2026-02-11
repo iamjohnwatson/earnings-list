@@ -10,6 +10,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Omnicom",
+      "symbol": "OMC",
+      "date": "2026-02-17",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Palo Alto",
       "symbol": "PANW",
       "date": "2026-02-17",
@@ -84,10 +93,10 @@
       "source": "investor_relations"
     }
   ],
-  "count": 9,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-11T12:42:09Z",
+  "generatedAt": "2026-02-11T15:50:33Z",
   "irCompanies": [
     "Live Nation Entertainment"
   ],
@@ -99,6 +108,7 @@
     "EPAM",
     "Figma",
     "Garmin",
+    "Omnicom",
     "Palo Alto"
   ],
   "week": {

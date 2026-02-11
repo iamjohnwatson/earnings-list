@@ -1,15 +1,6 @@
 {
   "records": [
     {
-      "company": "Johnson & Johnson",
-      "symbol": "JNJ",
-      "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Abbott Laboratories",
       "symbol": "ABT",
       "date": "2026-01-22",
@@ -28,15 +19,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 3,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-11T12:41:19Z",
+  "generatedAt": "2026-02-11T15:49:40Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Abbott Laboratories",
-    "Intuitive Surgical Inc",
-    "Johnson & Johnson"
+    "Intuitive Surgical Inc"
   ],
   "week": {
     "id": "2026-01-19",
