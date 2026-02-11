@@ -100,15 +100,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Meta",
-      "symbol": "META",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Microsoft",
       "symbol": "MSFT",
       "date": "2026-01-28",
@@ -199,10 +190,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 22,
+  "count": 21,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-11T15:49:52Z",
+  "generatedAt": "2026-02-11T18:48:45Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "ADP",
@@ -216,7 +207,6 @@
     "IBM",
     "KLA Corp",
     "Lam Research",
-    "Meta",
     "Microsoft",
     "Qorvo",
     "Rogers Communications",

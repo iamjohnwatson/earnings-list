@@ -22,10 +22,12 @@
       "company": "Medtronic PLC",
       "symbol": "MDT",
       "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "5:45 AM CST",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "5:45 AM CST",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Charles River Labs",
@@ -49,14 +51,15 @@
   "count": 5,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-11T15:50:31Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-11T18:49:25Z",
+  "irCompanies": [
+    "Medtronic PLC"
+  ],
   "fallbackCompanies": [
     "Charles River Labs",
     "Insulet",
     "Kenvue",
-    "Labcorp Holdings Inc",
-    "Medtronic PLC"
+    "Labcorp Holdings Inc"
   ],
   "week": {
     "id": "2026-02-16",

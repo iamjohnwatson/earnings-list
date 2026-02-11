@@ -19,15 +19,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Starbucks Corp",
-      "symbol": "SBUX",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "VF Corp",
       "symbol": "VFC",
       "date": "2026-01-28",
@@ -100,10 +91,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-11T15:49:51Z",
+  "generatedAt": "2026-02-11T18:48:44Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Altria Group Inc",
@@ -113,7 +104,6 @@
     "International Paper Co",
     "Kimberly Clark Corp",
     "Royal Caribbean Group",
-    "Starbucks Corp",
     "Sysco Corp",
     "Tractor Supply Co",
     "VF Corp"

@@ -100,11 +100,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Essex Property Trust Inc",
-      "symbol": "ESS",
+      "company": "Ford Motor Co",
+      "symbol": "F",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -114,6 +114,15 @@
       "date": "2026-02-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Harley Davidson",
+      "symbol": "HOG",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -136,11 +145,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Las Vegas Sands Corp",
+      "symbol": "LVS",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Mid-America Apartment Communities Inc",
       "symbol": "MAA",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -159,6 +177,24 @@
       "date": "2026-02-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "UDR INC",
+      "symbol": "UDR",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "United Rentals Inc",
+      "symbol": "URI",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -235,10 +271,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 26,
+  "count": 30,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-11T15:50:05Z",
+  "generatedAt": "2026-02-11T18:49:01Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AMETEK Inc",
@@ -248,15 +284,17 @@
     "Eaton Corporation PLC",
     "Emerson Electric Co",
     "Equity Residential",
-    "Essex Property Trust Inc",
+    "Ford Motor Co",
     "Fortive Corp",
     "Frontier Holdings",
+    "Harley Davidson",
     "Hubbell Inc",
     "Huntington Ingalls Industries Inc",
     "IDEX Corp",
     "Illinois Tool Works Inc",
     "Jacobs Solutions Inc",
     "Johnson Controls International PLC",
+    "Las Vegas Sands Corp",
     "Mid-America Apartment Communities Inc",
     "Old Dominion Freight Line Inc",
     "Peloton",
@@ -265,6 +303,8 @@
     "Snap-On Inc",
     "Stanley Black & Decker",
     "TransDigm Group Inc",
+    "UDR INC",
+    "United Rentals Inc",
     "Veralto Corp",
     "WW Grainger Inc"
   ],

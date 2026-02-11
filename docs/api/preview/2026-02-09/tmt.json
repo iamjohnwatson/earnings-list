@@ -163,9 +163,9 @@
       "company": "Shopify",
       "symbol": "SHOP",
       "date": "2026-02-11",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "ir_time_label": null,
       "ir_source_url": "https://www.shopify.com/investors",
       "source": "investor_relations"
@@ -183,10 +183,10 @@
       "company": "Take-Two Interactive",
       "symbol": "TTWO",
       "date": "2026-02-11",
-      "bmo_amc": "10:29 AM ET",
+      "bmo_amc": "1:29 PM ET",
       "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "10:29 AM ET",
+      "ir_time_label": "1:29 PM ET",
       "ir_source_url": "https://www.take2games.com/ir",
       "source": "investor_relations"
     },
@@ -275,7 +275,7 @@
   "count": 29,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-11T15:50:19Z",
+  "generatedAt": "2026-02-11T18:49:13Z",
   "irCompanies": [
     "Equinix",
     "Intuit",
