@@ -177,10 +177,12 @@
       "company": "Intuit",
       "symbol": "INTU",
       "date": "2026-02-26",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "1:30 PM PT",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "1:30 PM PT",
+      "ir_source_url": "https://investors.intuit.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Qnity",
@@ -224,9 +226,10 @@
   "count": 24,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-10T21:35:58Z",
+  "generatedAt": "2026-02-11T01:15:46Z",
   "irCompanies": [
     "GoDaddy",
+    "Intuit",
     "Qnity"
   ],
   "fallbackCompanies": [
@@ -240,7 +243,6 @@
     "Dell",
     "Duolingo",
     "HP Inc",
-    "Intuit",
     "Lucid",
     "NVIDIA",
     "SBA Communications",

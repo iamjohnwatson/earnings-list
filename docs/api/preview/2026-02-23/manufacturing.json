@@ -16,7 +16,9 @@
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://investor.axon.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Expeditors International of Washington Inc",
@@ -49,10 +51,11 @@
   "count": 5,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-10T21:35:56Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-11T01:15:45Z",
+  "irCompanies": [
+    "Axon Enterprise Inc"
+  ],
   "fallbackCompanies": [
-    "Axon Enterprise Inc",
     "Expeditors International of Washington Inc",
     "Keysight Technologies Inc",
     "Realty Income Corp",

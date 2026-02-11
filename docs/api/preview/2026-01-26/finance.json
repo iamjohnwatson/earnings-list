@@ -37,8 +37,26 @@
       "source": "aggregator"
     },
     {
+      "company": "Fair Issac Corp",
+      "symbol": "FICO",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "MSCI Inc",
       "symbol": "MSCI",
+      "date": "2026-01-28",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Progressive Corporation",
+      "symbol": "PGR",
       "date": "2026-01-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -154,13 +172,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 17,
+  "count": 19,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-10T21:35:00Z",
+  "generatedAt": "2026-02-11T01:14:56Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "American Express",
@@ -169,6 +187,7 @@
     "Arthur J. Gallagher",
     "Blackstone",
     "Brown & Brown",
+    "Fair Issac Corp",
     "Franklin Templeton",
     "Hartford Financial Services",
     "Invesco",
@@ -176,6 +195,7 @@
     "MSCI Inc",
     "Mastercard",
     "Nasdaq",
+    "Progressive Corporation",
     "Raymond James",
     "Synchrony Financial",
     "Visa",

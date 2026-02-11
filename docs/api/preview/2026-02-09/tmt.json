@@ -37,103 +37,57 @@
       "source": "aggregator"
     },
     {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2026-02-10",
-      "bmo_amc": "8:30 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:30 AM EST",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Lyft",
       "symbol": "LYFT",
       "date": "2026-02-10",
-      "bmo_amc": "4:05 PM EST",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "ir_time_label": "4:05 PM EST",
-      "ir_source_url": "https://investor.lyft.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Omnicom",
       "symbol": "OMC",
       "date": "2026-02-10",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Spotify",
       "symbol": "SPOT",
       "date": "2026-02-10",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-02-10",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Tencent Music",
-      "symbol": "TME",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.tencentmusic.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Trimble",
       "symbol": "TRMB",
       "date": "2026-02-10",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "AppLovin",
       "symbol": "APP",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Cisco Systems",
       "symbol": "CSCO",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -142,7 +96,7 @@
       "date": "2026-02-11",
       "bmo_amc": "5:30 PM ET",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "ir_time_label": "5:30 PM ET",
       "ir_source_url": "https://investor.equinix.com/",
       "source": "investor_relations"
@@ -151,9 +105,9 @@
       "company": "GlobalFoundries",
       "symbol": "GFS",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -171,9 +125,9 @@
       "company": "Motorola",
       "symbol": "MSI",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -189,9 +143,9 @@
       "company": "Shopify",
       "symbol": "SHOP",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "ir_time_label": null,
       "ir_source_url": "https://www.shopify.com/investors",
       "source": "investor_relations"
@@ -200,9 +154,9 @@
       "company": "T-Mobile US",
       "symbol": "TMUS",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -287,19 +241,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 30,
+  "count": 26,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-10T21:35:30Z",
+  "generatedAt": "2026-02-11T01:15:19Z",
   "irCompanies": [
     "Equinix",
-    "Intuit",
-    "Live Nation Entertainment",
-    "Lyft",
     "Micron",
-    "Shopify",
-    "Take-Two Interactive",
-    "Tencent Music"
+    "Shopify"
   ],
   "fallbackCompanies": [
     "AppLovin",
@@ -311,6 +260,7 @@
     "GlobalFoundries",
     "Iron Mountain",
     "Kyndryl",
+    "Lyft",
     "Motorola",
     "Omnicom",
     "Onsemi",
