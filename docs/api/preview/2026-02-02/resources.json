@@ -55,33 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Bunge",
-      "symbol": "BG",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "FMC",
-      "symbol": "FMC",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Phillips 66",
-      "symbol": "PSX",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Barrick Mining",
       "symbol": "GOLD",
       "date": "2026-02-05",
@@ -136,24 +109,21 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-11T01:15:07Z",
+  "generatedAt": "2026-02-11T04:58:29Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Archer-Daniels-Midland",
     "Atmos Energy",
     "Barrick Mining",
-    "Bunge",
     "CMS Energy Corp",
     "ConocoPhillips",
     "Corteva",
     "Enphase Energy",
-    "FMC",
     "Linde",
     "Marathon Petroleum",
-    "Phillips 66",
     "Suncor Energy",
     "WEC Energy Group Inc",
     "Xcel Energy Inc"
