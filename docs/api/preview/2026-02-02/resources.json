@@ -55,6 +55,42 @@
       "source": "aggregator"
     },
     {
+      "company": "Bunge",
+      "symbol": "BG",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "FMC",
+      "symbol": "FMC",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Phillips 66",
+      "symbol": "PSX",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Suncor Energy",
+      "symbol": "SU",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Barrick Mining",
       "symbol": "GOLD",
       "date": "2026-02-05",
@@ -109,21 +145,24 @@
       "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-11T04:58:29Z",
+  "generatedAt": "2026-02-11T06:51:34Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Archer-Daniels-Midland",
     "Atmos Energy",
     "Barrick Mining",
+    "Bunge",
     "CMS Energy Corp",
     "ConocoPhillips",
     "Corteva",
     "Enphase Energy",
+    "FMC",
     "Linde",
     "Marathon Petroleum",
+    "Phillips 66",
     "Suncor Energy",
     "WEC Energy Group Inc",
     "Xcel Energy Inc"
