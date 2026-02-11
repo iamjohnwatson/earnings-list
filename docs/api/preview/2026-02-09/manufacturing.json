@@ -70,7 +70,9 @@
       "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": "BMO",
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.hilton.com/",
+      "source": "investor_relations"
     },
     {
       "company": "Martin Marietta Materials Inc",
@@ -177,9 +179,10 @@
   "count": 19,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-11T09:43:12Z",
+  "generatedAt": "2026-02-11T12:41:55Z",
   "irCompanies": [
-    "Bombardier"
+    "Bombardier",
+    "Hilton Worldwide Holdings Inc"
   ],
   "fallbackCompanies": [
     "Air Lease",
@@ -190,7 +193,6 @@
     "Frontier Holdings",
     "Generac Holdings Inc",
     "Harley Davidson",
-    "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Ingersoll Rand Inc",
     "Magna International",

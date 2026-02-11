@@ -127,15 +127,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Las Vegas Sands Corp",
-      "symbol": "LVS",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Otis Worldwide Corp",
       "symbol": "OTIS",
       "date": "2026-01-28",
@@ -145,29 +136,11 @@
       "source": "aggregator"
     },
     {
-      "company": "Southwest Airlines Co",
-      "symbol": "LUV",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Textron Inc",
       "symbol": "TXT",
       "date": "2026-01-28",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "United Rentals Inc",
-      "symbol": "URI",
-      "date": "2026-01-28",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -269,12 +242,21 @@
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Eaton Corporation PLC",
+      "symbol": "ETN",
+      "date": "2026-01-30",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 30,
+  "count": 28,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-11T09:42:44Z",
+  "generatedAt": "2026-02-11T12:41:29Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "A O Smith Corp",
@@ -285,11 +267,11 @@
     "CH Robinson Worldwide Inc",
     "Caterpillar",
     "Dover Corp",
+    "Eaton Corporation PLC",
     "General Dynamics Corp",
     "Honeywell",
     "JetBlue",
     "L3Harris Technologies Inc",
-    "Las Vegas Sands Corp",
     "Lockheed Martin",
     "Norfolk Southern Corp",
     "Northrop Grumman Corp",
@@ -299,13 +281,11 @@
     "Parker-Hannifin Corp",
     "Pultegroup Inc",
     "RTX",
-    "Southwest Airlines Co",
     "Steel Dynamics",
     "Textron Inc",
     "Trane Technologies PLC",
     "UPS",
     "Union Pacific Corp",
-    "United Rentals Inc",
     "Waste Management Inc"
   ],
   "week": {

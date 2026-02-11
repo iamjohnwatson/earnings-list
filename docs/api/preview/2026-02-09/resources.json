@@ -55,15 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Williams Co",
-      "symbol": "WMB",
-      "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "AEP",
       "symbol": "AEP",
       "date": "2026-02-12",
@@ -136,10 +127,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 14,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-11T09:43:12Z",
+  "generatedAt": "2026-02-11T12:41:55Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
@@ -155,8 +146,7 @@
     "NiSource",
     "PBF Energy",
     "PG&E Corp",
-    "TC Energy",
-    "Williams Co"
+    "TC Energy"
   ],
   "week": {
     "id": "2026-02-09",
