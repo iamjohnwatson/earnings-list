@@ -107,16 +107,29 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Truist Financial",
+      "symbol": "TFC",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://ir.truist.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 12,
+  "count": 13,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-12T12:38:53Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-12T15:42:30Z",
+  "irCompanies": [
+    "Truist Financial"
+  ],
   "fallbackCompanies": [
     "Apollo",
     "Arch Capital Group",
