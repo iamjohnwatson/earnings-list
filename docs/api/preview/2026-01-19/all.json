@@ -34,8 +34,8 @@
       "company": "Prologis Inc",
       "symbol": "PLD",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -44,8 +44,8 @@
       "company": "TE Connectivity Ltd",
       "symbol": "TEL",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -54,8 +54,8 @@
       "company": "Teledyne Technologies Inc",
       "symbol": "TDY",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Manufacturing"
@@ -94,8 +94,8 @@
       "company": "Johnson & Johnson",
       "symbol": "JNJ",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Pharma"
@@ -121,11 +121,31 @@
       "sector": "Pharma"
     },
     {
+      "company": "McCormick & Co",
+      "symbol": "MKC",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Procter & Gamble",
+      "symbol": "PG",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
       "company": "Halliburton",
       "symbol": "HAL",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
@@ -134,8 +154,8 @@
       "company": "Kinder Morgan",
       "symbol": "KMI",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
@@ -159,56 +179,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Netflix",
-      "symbol": "NFLX",
-      "date": "2026-01-20",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Intel",
-      "symbol": "INTC",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Mobileye",
-      "symbol": "MBLY",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "McCormick & Co",
-      "symbol": "MKC",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Procter & Gamble",
-      "symbol": "PG",
-      "date": "2026-01-22",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
     },
     {
       "company": "Fifth Third Bancorp",
@@ -264,8 +234,8 @@
       "company": "Charles Schwab",
       "symbol": "SCHW",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -274,8 +244,8 @@
       "company": "Citizens Financial",
       "symbol": "CFG",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -284,8 +254,8 @@
       "company": "Truist Financial",
       "symbol": "TFC",
       "date": "2026-01-21",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
@@ -319,6 +289,36 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Finance"
+    },
+    {
+      "company": "Netflix",
+      "symbol": "NFLX",
+      "date": "2026-01-20",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Intel",
+      "symbol": "INTC",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Mobileye",
+      "symbol": "MBLY",
+      "date": "2026-01-22",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
   "count": 32,
@@ -327,7 +327,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-12T15:41:55Z",
+  "generatedAt": "2026-02-12T18:46:22Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "3M Co",
