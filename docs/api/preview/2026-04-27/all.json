@@ -1,18 +1,6 @@
 {
   "records": [
     {
-      "company": "Estee Lauder",
-      "symbol": "EL",
-      "date": "2026-05-01",
-      "bmo_amc": "08:30AM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "08:30AM ET",
-      "ir_source_url": "https://www.elcompanies.com/en/investors",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-04-28",
@@ -35,6 +23,18 @@
       "ir_source_url": "https://www.merck.com/investor-relations/",
       "source": "investor_relations",
       "sector": "Pharma"
+    },
+    {
+      "company": "Estee Lauder",
+      "symbol": "EL",
+      "date": "2026-05-01",
+      "bmo_amc": "08:30AM ET",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "08:30AM ET",
+      "ir_source_url": "https://www.elcompanies.com/en/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
     }
   ],
   "count": 3,
@@ -43,7 +43,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-12T09:41:17Z",
+  "generatedAt": "2026-02-12T12:41:11Z",
   "irCompanies": [
     "Centene Corp",
     "Estee Lauder",

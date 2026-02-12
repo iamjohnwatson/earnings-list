@@ -100,14 +100,26 @@
       "ir_time_label": "8:30 am EST",
       "ir_source_url": "https://investors.kimcorealty.com/",
       "source": "investor_relations"
+    },
+    {
+      "company": "Walmart Inc",
+      "symbol": "WMT",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://stock.walmart.com/",
+      "source": "investor_relations"
     }
   ],
-  "count": 11,
+  "count": 12,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-12T09:39:01Z",
+  "generatedAt": "2026-02-12T12:38:53Z",
   "irCompanies": [
-    "Kimco Realty Corp"
+    "Kimco Realty Corp",
+    "Walmart Inc"
   ],
   "fallbackCompanies": [
     "Coca-Cola Co",

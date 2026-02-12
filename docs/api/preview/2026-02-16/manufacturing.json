@@ -104,6 +104,17 @@
       "source": "aggregator"
     },
     {
+      "company": "Parker-Hannifin Corp",
+      "symbol": "PH",
+      "date": "2026-02-18",
+      "bmo_amc": "7:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "7:30 am EST",
+      "ir_source_url": "https://investors.parker.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Deere",
       "symbol": "DE",
       "date": "2026-02-19",
@@ -142,13 +153,14 @@
       "source": "investor_relations"
     }
   ],
-  "count": 15,
+  "count": 16,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-12T09:39:15Z",
+  "generatedAt": "2026-02-12T12:39:03Z",
   "irCompanies": [
     "Emerson Electric Co",
     "Honeywell",
+    "Parker-Hannifin Corp",
     "Quanta Services Inc"
   ],
   "fallbackCompanies": [
