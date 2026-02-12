@@ -73,6 +73,28 @@
       "source": "aggregator"
     },
     {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
+    },
+    {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-02-12",
+      "bmo_amc": "4:15 PM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "4:15 pm EST",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Vertex Pharmaceuticals Inc",
       "symbol": "VRTX",
       "date": "2026-02-12",
@@ -100,11 +122,14 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-12T18:47:02Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-12T21:25:27Z",
+  "irCompanies": [
+    "Centene Corp",
+    "IDEXX Laboratories Inc"
+  ],
   "fallbackCompanies": [
     "Becton Dickinson and Co",
     "CVS Health Corp",
