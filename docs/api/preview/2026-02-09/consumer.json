@@ -40,9 +40,9 @@
       "company": "International Flavours & Fragrances",
       "symbol": "IFF",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -58,18 +58,18 @@
       "company": "McDonald\u2019s Corp",
       "symbol": "MCD",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Rollins Inc",
       "symbol": "ROL",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -105,7 +105,7 @@
   "count": 11,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-11T21:27:22Z",
+  "generatedAt": "2026-02-12T01:07:36Z",
   "irCompanies": [
     "Kimco Realty Corp"
   ],

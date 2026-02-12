@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-04-28",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-04-30",
@@ -12,11 +23,12 @@
       "source": "investor_relations"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-11T21:29:53Z",
+  "generatedAt": "2026-02-12T01:10:06Z",
   "irCompanies": [
+    "Centene Corp",
     "Merck"
   ],
   "fallbackCompanies": [],

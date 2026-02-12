@@ -31,18 +31,18 @@
       "company": "Albemarle",
       "symbol": "ALB",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Ameren",
       "symbol": "AEE",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -58,18 +58,18 @@
       "company": "AEP",
       "symbol": "AEP",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Entergy Corp",
       "symbol": "ETR",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -85,9 +85,9 @@
       "company": "Exelon Corp",
       "symbol": "EXC",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -103,9 +103,9 @@
       "company": "PG&E Corp",
       "symbol": "PCG",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -130,7 +130,7 @@
   "count": 14,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-11T21:27:21Z",
+  "generatedAt": "2026-02-12T01:07:36Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",

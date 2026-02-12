@@ -76,27 +76,27 @@
       "company": "Manulife",
       "symbol": "MFC",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Sun Life",
       "symbol": "SLF",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Coinbase",
       "symbol": "COIN",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -115,7 +115,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-11T21:27:23Z",
+  "generatedAt": "2026-02-12T01:07:36Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Apollo",

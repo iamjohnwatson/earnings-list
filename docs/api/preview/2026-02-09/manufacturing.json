@@ -58,32 +58,19 @@
       "company": "Generac Holdings Inc",
       "symbol": "GNRC",
       "date": "2026-02-11",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Hilton Worldwide Holdings Inc",
       "symbol": "HLT",
       "date": "2026-02-11",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
-      "ir_time_label": null,
-      "ir_source_url": "https://ir.hilton.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2026-02-11",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.mgmresorts.com/",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Martin Marietta Materials Inc",
@@ -98,9 +85,9 @@
       "company": "Wabtec",
       "symbol": "WAB",
       "date": "2026-02-11",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -116,9 +103,9 @@
       "company": "Airbnb Inc",
       "symbol": "ABNB",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -136,36 +123,36 @@
       "company": "Expedia Group Inc",
       "symbol": "EXPE",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Howmet Aerospace",
       "symbol": "HWM",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
       "company": "Ingersoll Rand Inc",
       "symbol": "IR",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Public Storage",
       "symbol": "PSA",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
@@ -187,14 +174,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 20,
+  "count": 19,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-11T21:27:22Z",
+  "generatedAt": "2026-02-12T01:07:37Z",
   "irCompanies": [
-    "Bombardier",
-    "Hilton Worldwide Holdings Inc",
-    "MGM Resorts International"
+    "Bombardier"
   ],
   "fallbackCompanies": [
     "Air Lease",
@@ -205,6 +190,7 @@
     "Frontier Holdings",
     "Generac Holdings Inc",
     "Harley Davidson",
+    "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Ingersoll Rand Inc",
     "Magna International",

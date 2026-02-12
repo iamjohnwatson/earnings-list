@@ -67,30 +67,28 @@
       "company": "AppLovin",
       "symbol": "APP",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Cisco Systems",
       "symbol": "CSCO",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Equinix",
       "symbol": "EQIX",
       "date": "2026-02-11",
-      "bmo_amc": "5:30 PM ET",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "ir_time_label": "5:30 PM ET",
-      "ir_source_url": "https://investor.equinix.com/",
-      "source": "investor_relations"
+      "yahoo_time_label": null,
+      "source": "aggregator"
     },
     {
       "company": "GlobalFoundries",
@@ -105,40 +103,18 @@
       "company": "Grab",
       "symbol": "GRAB",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Intuit",
-      "symbol": "INTU",
-      "date": "2026-02-11",
-      "bmo_amc": "4:00 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM EST",
-      "ir_source_url": "https://investors.intuit.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "Micron",
-      "symbol": "MU",
-      "date": "2026-02-11",
-      "bmo_amc": "8:50 AM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "8:50 AM EST",
-      "ir_source_url": "https://investors.micron.com/",
-      "source": "investor_relations"
     },
     {
       "company": "Motorola",
       "symbol": "MSI",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -157,9 +133,7 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://www.shopify.com/investors",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "T-Mobile US",
@@ -169,17 +143,6 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-02-11",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
     },
     {
       "company": "Tower Semiconductor",
@@ -194,36 +157,36 @@
       "company": "Tyler Tech",
       "symbol": "TYL",
       "date": "2026-02-11",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Applied Materials",
       "symbol": "AMAT",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Arista Networks",
       "symbol": "ANET",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "AMC",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "AMC",
       "source": "aggregator"
     },
     {
       "company": "Iron Mountain",
       "symbol": "IRM",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
+      "bmo_amc": "BMO",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
+      "yahoo_time_label": "BMO",
       "source": "aggregator"
     },
     {
@@ -263,23 +226,18 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-11T21:27:22Z",
-  "irCompanies": [
-    "Equinix",
-    "Intuit",
-    "Micron",
-    "Shopify",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2026-02-12T01:07:36Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "AppLovin",
     "Applied Materials",
     "Arista Networks",
     "Cisco Systems",
     "Datadog",
+    "Equinix",
     "Freshworks",
     "GlobalFoundries",
     "Grab",
@@ -292,6 +250,7 @@
     "Pinterest",
     "Rivian",
     "Roku",
+    "Shopify",
     "Spotify",
     "T-Mobile US",
     "Tower Semiconductor",
