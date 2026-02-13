@@ -46,15 +46,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Omnicom",
-      "symbol": "OMC",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Spotify",
       "symbol": "SPOT",
       "date": "2026-02-10",
@@ -85,8 +76,8 @@
       "company": "Cisco Systems",
       "symbol": "CSCO",
       "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -105,15 +96,6 @@
       "date": "2026-02-11",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Grab",
-      "symbol": "GRAB",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -163,6 +145,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Trade Desk",
+      "symbol": "TTD",
+      "date": "2026-02-11",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Tyler Tech",
       "symbol": "TYL",
       "date": "2026-02-11",
@@ -175,18 +166,18 @@
       "company": "Applied Materials",
       "symbol": "AMAT",
       "date": "2026-02-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Arista Networks",
       "symbol": "ANET",
       "date": "2026-02-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -199,53 +190,31 @@
       "source": "aggregator"
     },
     {
-      "company": "Live Nation Entertainment",
-      "symbol": "LYV",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.livenationentertainment.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Pinterest",
       "symbol": "PINS",
       "date": "2026-02-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Rivian",
       "symbol": "RIVN",
       "date": "2026-02-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "Roku",
       "symbol": "ROKU",
       "date": "2026-02-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
-      "source": "aggregator"
-    },
-    {
-      "company": "Take-Two Interactive",
-      "symbol": "TTWO",
-      "date": "2026-02-12",
-      "bmo_amc": "4:00 PM ET",
-      "nasdaq_time_label": null,
       "yahoo_time_label": null,
-      "ir_time_label": "4:00 PM ET",
-      "ir_source_url": "https://www.take2games.com/ir",
-      "source": "investor_relations"
+      "source": "aggregator"
     },
     {
       "company": "Zebra Technologies",
@@ -257,14 +226,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 28,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-12T21:25:28Z",
-  "irCompanies": [
-    "Live Nation Entertainment",
-    "Take-Two Interactive"
-  ],
+  "generatedAt": "2026-02-13T01:11:38Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "AppLovin",
     "Applied Materials",
@@ -274,12 +240,10 @@
     "Equinix",
     "Freshworks",
     "GlobalFoundries",
-    "Grab",
     "Iron Mountain",
     "Kyndryl",
     "Lyft",
     "Motorola",
-    "Omnicom",
     "Onsemi",
     "Paycom",
     "Pinterest",
@@ -289,6 +253,7 @@
     "Spotify",
     "T-Mobile US",
     "Tower Semiconductor",
+    "Trade Desk",
     "Trimble",
     "Tyler Tech",
     "Zebra Technologies"

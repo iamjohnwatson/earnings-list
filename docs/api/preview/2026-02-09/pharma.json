@@ -31,8 +31,8 @@
       "company": "Edwards Lifesciences Corp",
       "symbol": "EW",
       "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -73,43 +73,21 @@
       "source": "aggregator"
     },
     {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
-    },
-    {
-      "company": "IDEXX Laboratories Inc",
-      "symbol": "IDXX",
-      "date": "2026-02-12",
-      "bmo_amc": "4:15 PM EST",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": "4:15 pm EST",
-      "ir_source_url": "https://ir.idexx.com/",
-      "source": "investor_relations"
-    },
-    {
       "company": "Vertex Pharmaceuticals Inc",
       "symbol": "VRTX",
       "date": "2026-02-12",
-      "bmo_amc": "AMC",
+      "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": "AMC",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "West Pharmaceutical Services Inc",
       "symbol": "WST",
       "date": "2026-02-12",
-      "bmo_amc": "TAS",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "TAS",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
@@ -122,14 +100,11 @@
       "source": "aggregator"
     }
   ],
-  "count": 13,
+  "count": 11,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-12T21:25:27Z",
-  "irCompanies": [
-    "Centene Corp",
-    "IDEXX Laboratories Inc"
-  ],
+  "generatedAt": "2026-02-13T01:11:39Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Becton Dickinson and Co",
     "CVS Health Corp",

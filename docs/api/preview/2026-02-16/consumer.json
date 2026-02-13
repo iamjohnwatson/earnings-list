@@ -65,23 +65,25 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://stock.walmart.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 7,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-12T21:25:39Z",
+  "generatedAt": "2026-02-13T01:11:50Z",
   "irCompanies": [
     "Etsy Inc",
-    "Sysco Corp"
+    "Sysco Corp",
+    "Walmart Inc"
   ],
   "fallbackCompanies": [
     "Coca-Cola Europacific",
     "DoorDash",
     "Hormel Foods",
-    "Molson Coors Beverage Co",
-    "Walmart Inc"
+    "Molson Coors Beverage Co"
   ],
   "week": {
     "id": "2026-02-16",

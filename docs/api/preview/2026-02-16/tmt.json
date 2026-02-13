@@ -85,17 +85,21 @@
       "company": "Live Nation Entertainment",
       "symbol": "LYV",
       "date": "2026-02-19",
-      "bmo_amc": "TIME-AFTER-HOURS",
+      "bmo_amc": "2:00PM PST",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": "2:00pm PST",
+      "ir_source_url": "https://investors.livenationentertainment.com/",
+      "source": "investor_relations"
     }
   ],
   "count": 10,
   "missingPublic": [],
   "tickerCount": 142,
-  "generatedAt": "2026-02-12T21:25:39Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-13T01:11:50Z",
+  "irCompanies": [
+    "Live Nation Entertainment"
+  ],
   "fallbackCompanies": [
     "Akamai Technologies",
     "Alibaba",
@@ -104,7 +108,6 @@
     "EPAM",
     "Figma",
     "Garmin",
-    "Live Nation Entertainment",
     "Omnicom",
     "Palo Alto"
   ],

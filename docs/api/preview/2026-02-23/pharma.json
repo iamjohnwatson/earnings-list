@@ -37,6 +37,17 @@
       "source": "aggregator"
     },
     {
+      "company": "IDEXX Laboratories Inc",
+      "symbol": "IDXX",
+      "date": "2026-02-26",
+      "bmo_amc": "6:30 AM EST",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "6:30 am EST",
+      "ir_source_url": "https://ir.idexx.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Novavax",
       "symbol": "NVAX",
       "date": "2026-02-26",
@@ -66,11 +77,12 @@
       "source": "aggregator"
     }
   ],
-  "count": 7,
+  "count": 8,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-12T21:25:52Z",
+  "generatedAt": "2026-02-13T01:12:06Z",
   "irCompanies": [
+    "IDEXX Laboratories Inc",
     "Solventum Corp"
   ],
   "fallbackCompanies": [
