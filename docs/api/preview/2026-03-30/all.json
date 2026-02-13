@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "BlackBerry",
-      "symbol": "BB",
-      "date": "2026-04-01",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
       "company": "Conagra Brands",
       "symbol": "CAG",
       "date": "2026-04-02",
@@ -29,6 +19,16 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Consumer"
+    },
+    {
+      "company": "BlackBerry",
+      "symbol": "BB",
+      "date": "2026-04-01",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     }
   ],
   "count": 3,
@@ -37,7 +37,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-13T09:36:47Z",
+  "generatedAt": "2026-02-13T12:35:08Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "BlackBerry",
