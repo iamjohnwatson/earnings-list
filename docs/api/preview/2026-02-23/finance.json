@@ -47,7 +47,9 @@
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
-      "source": "aggregator"
+      "ir_time_label": null,
+      "ir_source_url": "https://www.cibc.com/en/about-cibc/investor-relations.html",
+      "source": "investor_relations"
     },
     {
       "company": "Royal Bank of Canada",
@@ -76,15 +78,15 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-13T15:34:14Z",
+  "generatedAt": "2026-02-13T18:33:18Z",
   "irCompanies": [
+    "CIBC",
     "JPMorgan",
     "Royal Bank of Canada",
     "Scotiabank"
   ],
   "fallbackCompanies": [
     "Bank of Montreal",
-    "CIBC",
     "Fidelity National Information Services",
     "TD Bank"
   ],
