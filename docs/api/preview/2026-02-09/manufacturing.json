@@ -46,6 +46,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Frontier Holdings",
+      "symbol": "ULCC",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Generac Holdings Inc",
       "symbol": "GNRC",
       "date": "2026-02-11",
@@ -60,15 +69,6 @@
       "date": "2026-02-11",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "MGM Resorts International",
-      "symbol": "MGM",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -166,7 +166,7 @@
   "count": 18,
   "missingPublic": [],
   "tickerCount": 113,
-  "generatedAt": "2026-02-13T01:11:39Z",
+  "generatedAt": "2026-02-13T04:50:02Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Air Lease",
@@ -174,12 +174,12 @@
     "Borgwarner Inc",
     "Expedia Group Inc",
     "Ford Motor Co",
+    "Frontier Holdings",
     "Generac Holdings Inc",
     "Harley Davidson",
     "Hilton Worldwide Holdings Inc",
     "Howmet Aerospace",
     "Ingersoll Rand Inc",
-    "MGM Resorts International",
     "Magna International",
     "Marriott International Inc",
     "Martin Marietta Materials Inc",
