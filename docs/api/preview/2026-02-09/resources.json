@@ -112,25 +112,25 @@
       "company": "Enbridge",
       "symbol": "ENB",
       "date": "2026-02-13",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
       "company": "TC Energy",
       "symbol": "TRP",
       "date": "2026-02-13",
-      "bmo_amc": "BMO",
+      "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": "BMO",
+      "yahoo_time_label": null,
       "source": "aggregator"
     }
   ],
   "count": 14,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-13T12:33:37Z",
+  "generatedAt": "2026-02-13T15:33:50Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",

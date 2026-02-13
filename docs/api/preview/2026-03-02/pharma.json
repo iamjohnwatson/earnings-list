@@ -1,6 +1,17 @@
 {
   "records": [
     {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations"
+    },
+    {
       "company": "Cooper Companies Inc",
       "symbol": "COO",
       "date": "2026-03-05",
@@ -10,11 +21,13 @@
       "source": "aggregator"
     }
   ],
-  "count": 1,
+  "count": 2,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-13T12:34:16Z",
-  "irCompanies": [],
+  "generatedAt": "2026-02-13T15:34:27Z",
+  "irCompanies": [
+    "Boston Scientific Corp"
+  ],
   "fallbackCompanies": [
     "Cooper Companies Inc"
   ],
