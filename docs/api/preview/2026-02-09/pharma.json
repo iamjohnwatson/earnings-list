@@ -76,8 +76,17 @@
       "company": "Vertex Pharmaceuticals Inc",
       "symbol": "VRTX",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Waters Corp",
+      "symbol": "WAT",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -85,8 +94,8 @@
       "company": "West Pharmaceutical Services Inc",
       "symbol": "WST",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -94,30 +103,17 @@
       "company": "Zoetis",
       "symbol": "ZTS",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
-    },
-    {
-      "company": "Centene Corp",
-      "symbol": "CNC",
-      "date": "2026-02-13",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.centene.com/",
-      "source": "investor_relations"
     }
   ],
   "count": 12,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-13T21:27:31Z",
-  "irCompanies": [
-    "Centene Corp"
-  ],
+  "generatedAt": "2026-02-14T01:04:37Z",
+  "irCompanies": [],
   "fallbackCompanies": [
     "Becton Dickinson and Co",
     "CVS Health Corp",

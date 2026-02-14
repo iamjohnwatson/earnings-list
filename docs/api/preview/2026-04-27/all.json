@@ -13,6 +13,18 @@
       "sector": "Consumer"
     },
     {
+      "company": "Centene Corp",
+      "symbol": "CNC",
+      "date": "2026-04-28",
+      "bmo_amc": "8:30AM",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": "8:30am",
+      "ir_source_url": "https://investors.centene.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
       "company": "Merck",
       "symbol": "MRK",
       "date": "2026-04-30",
@@ -25,14 +37,15 @@
       "sector": "Pharma"
     }
   ],
-  "count": 2,
+  "count": 3,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-13T21:29:57Z",
+  "generatedAt": "2026-02-14T01:06:55Z",
   "irCompanies": [
+    "Centene Corp",
     "Estee Lauder",
     "Merck"
   ],
