@@ -94,8 +94,8 @@
       "company": "Coinbase",
       "symbol": "COIN",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -103,8 +103,8 @@
       "company": "Lincoln National Corporation",
       "symbol": "LNC",
       "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     }
@@ -115,7 +115,7 @@
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-14T01:04:35Z",
+  "generatedAt": "2026-02-14T04:29:02Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Apollo",
