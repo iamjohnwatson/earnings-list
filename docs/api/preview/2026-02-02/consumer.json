@@ -73,6 +73,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Yum Brands",
+      "symbol": "YUM",
+      "date": "2026-02-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Estee Lauder",
       "symbol": "EL",
       "date": "2026-02-05",
@@ -127,10 +136,10 @@
       "source": "aggregator"
     }
   ],
-  "count": 14,
+  "count": 15,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-14T09:22:02Z",
+  "generatedAt": "2026-02-14T12:24:01Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Amcor PLC",
@@ -146,7 +155,8 @@
     "Regency Centers Corp",
     "Simon Property Group",
     "Tapestry Inc",
-    "Tyson Foods"
+    "Tyson Foods",
+    "Yum Brands"
   ],
   "week": {
     "id": "2026-02-02",

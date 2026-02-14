@@ -55,15 +55,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Ameriprise Financial Inc",
-      "symbol": "AMP",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "CME Group Inc",
       "symbol": "CME",
       "date": "2026-02-04",
@@ -85,8 +76,8 @@
       "company": "Globe Life",
       "symbol": "GL",
       "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -96,15 +87,6 @@
       "date": "2026-02-04",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Progressive Corporation",
-      "symbol": "PGR",
-      "date": "2026-02-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -163,17 +145,16 @@
       "source": "aggregator"
     }
   ],
-  "count": 18,
+  "count": 16,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-14T09:22:05Z",
+  "generatedAt": "2026-02-14T12:24:00Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
-    "Ameriprise Financial Inc",
     "CME Group Inc",
     "Carlyle",
     "Cboe Global Markets",
@@ -185,7 +166,6 @@
     "KKR",
     "MetLife",
     "PayPal Holdings",
-    "Progressive Corporation",
     "Prudential Financial",
     "T. Rowe Price Group",
     "TPG",
