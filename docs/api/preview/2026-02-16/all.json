@@ -1,6 +1,58 @@
 {
   "records": [
     {
+      "company": "Kenvue",
+      "symbol": "KVUE",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Labcorp Holdings Inc",
+      "symbol": "LH",
+      "date": "2026-02-17",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Medtronic PLC",
+      "symbol": "MDT",
+      "date": "2026-02-17",
+      "bmo_amc": "5:45 AM CST",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "5:45 AM CST",
+      "ir_source_url": "https://investorrelations.medtronic.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Charles River Labs",
+      "symbol": "CRL",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Insulet",
+      "symbol": "PODD",
+      "date": "2026-02-18",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
       "company": "Global Payments",
       "symbol": "GPN",
       "date": "2026-02-18",
@@ -261,58 +313,6 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
-    },
-    {
-      "company": "Kenvue",
-      "symbol": "KVUE",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Labcorp Holdings Inc",
-      "symbol": "LH",
-      "date": "2026-02-17",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Medtronic PLC",
-      "symbol": "MDT",
-      "date": "2026-02-17",
-      "bmo_amc": "5:45 AM CST",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "5:45 AM CST",
-      "ir_source_url": "https://investorrelations.medtronic.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Charles River Labs",
-      "symbol": "CRL",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Insulet",
-      "symbol": "PODD",
-      "date": "2026-02-18",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
     },
     {
       "company": "Caesars Entertainment Inc",
@@ -655,7 +655,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-14T06:33:21Z",
+  "generatedAt": "2026-02-14T09:22:29Z",
   "irCompanies": [
     "Emerson Electric Co",
     "Etsy Inc",
