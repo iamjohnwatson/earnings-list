@@ -1,16 +1,6 @@
 {
   "records": [
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
-      "date": "2026-03-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
       "company": "Tencent Music",
       "symbol": "TME",
       "date": "2026-03-17",
@@ -93,6 +83,16 @@
       "sector": "Consumer"
     },
     {
+      "company": "FactSet Research",
+      "symbol": "FDS",
+      "date": "2026-03-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
       "company": "FedEx",
       "symbol": "FDX",
       "date": "2026-03-19",
@@ -129,7 +129,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-14T12:25:13Z",
+  "generatedAt": "2026-02-14T15:18:32Z",
   "irCompanies": [
     "Tencent Music"
   ],

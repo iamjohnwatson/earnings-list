@@ -1,264 +1,124 @@
 {
   "records": [
     {
-      "company": "Kyndryl",
-      "symbol": "KD",
+      "company": "Apollo",
+      "symbol": "APO",
       "date": "2026-02-09",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Onsemi",
-      "symbol": "ON",
+      "company": "Arch Capital Group",
+      "symbol": "ACGL",
       "date": "2026-02-09",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Datadog",
-      "symbol": "DDOG",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "company": "Cincinnati Financial",
+      "symbol": "CINF",
+      "date": "2026-02-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Freshworks",
-      "symbol": "FRSH",
+      "company": "Principal Financial Group",
+      "symbol": "PFG",
+      "date": "2026-02-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "Assurant Inc",
+      "symbol": "AIZ",
       "date": "2026-02-10",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Lyft",
-      "symbol": "LYFT",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Omnicom",
-      "symbol": "OMC",
+      "company": "Fidelity National Information Services",
+      "symbol": "FIS",
       "date": "2026-02-10",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Spotify",
-      "symbol": "SPOT",
+      "company": "Robinhood",
+      "symbol": "HOOD",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Finance"
+    },
+    {
+      "company": "S&P Global Inc",
+      "symbol": "SPGI",
       "date": "2026-02-10",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Trimble",
-      "symbol": "TRMB",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "AppLovin",
-      "symbol": "APP",
+      "company": "Manulife",
+      "symbol": "MFC",
       "date": "2026-02-11",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Cisco Systems",
-      "symbol": "CSCO",
+      "company": "Sun Life",
+      "symbol": "SLF",
       "date": "2026-02-11",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Equinix",
-      "symbol": "EQIX",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "GlobalFoundries",
-      "symbol": "GFS",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Grab",
-      "symbol": "GRAB",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Motorola",
-      "symbol": "MSI",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Paycom",
-      "symbol": "PAYC",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Shopify",
-      "symbol": "SHOP",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "T-Mobile US",
-      "symbol": "TMUS",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Tower Semiconductor",
-      "symbol": "TSEM",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Tyler Tech",
-      "symbol": "TYL",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Applied Materials",
-      "symbol": "AMAT",
+      "company": "Coinbase",
+      "symbol": "COIN",
       "date": "2026-02-12",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
-      "company": "Arista Networks",
-      "symbol": "ANET",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Iron Mountain",
-      "symbol": "IRM",
+      "company": "Lincoln National Corporation",
+      "symbol": "LNC",
       "date": "2026-02-12",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Pinterest",
-      "symbol": "PINS",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Rivian",
-      "symbol": "RIVN",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Roku",
-      "symbol": "ROKU",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
-    },
-    {
-      "company": "Zebra Technologies",
-      "symbol": "ZBRA",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "TMT"
+      "sector": "Finance"
     },
     {
       "company": "Becton Dickinson and Co",
@@ -561,114 +421,264 @@
       "sector": "Manufacturing"
     },
     {
-      "company": "Coca-Cola Co",
-      "symbol": "KO",
+      "company": "Kyndryl",
+      "symbol": "KD",
+      "date": "2026-02-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Onsemi",
+      "symbol": "ON",
+      "date": "2026-02-09",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Datadog",
+      "symbol": "DDOG",
       "date": "2026-02-10",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Hasbro Inc",
-      "symbol": "HAS",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Masco Corp",
-      "symbol": "MAS",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Mattel",
-      "symbol": "MAT",
+      "company": "Freshworks",
+      "symbol": "FRSH",
       "date": "2026-02-10",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "International Flavours & Fragrances",
-      "symbol": "IFF",
+      "company": "Lyft",
+      "symbol": "LYFT",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Omnicom",
+      "symbol": "OMC",
+      "date": "2026-02-10",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Spotify",
+      "symbol": "SPOT",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Trimble",
+      "symbol": "TRMB",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "AppLovin",
+      "symbol": "APP",
       "date": "2026-02-11",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Kraft Heinz Co",
-      "symbol": "KHC",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "McDonald\u2019s Corp",
-      "symbol": "MCD",
-      "date": "2026-02-11",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Rollins Inc",
-      "symbol": "ROL",
+      "company": "Cisco Systems",
+      "symbol": "CSCO",
       "date": "2026-02-11",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Federal Realty Investment Trust",
-      "symbol": "FRT",
+      "company": "Equinix",
+      "symbol": "EQIX",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "GlobalFoundries",
+      "symbol": "GFS",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Grab",
+      "symbol": "GRAB",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Motorola",
+      "symbol": "MSI",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Paycom",
+      "symbol": "PAYC",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Shopify",
+      "symbol": "SHOP",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "T-Mobile US",
+      "symbol": "TMUS",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Tower Semiconductor",
+      "symbol": "TSEM",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Tyler Tech",
+      "symbol": "TYL",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Applied Materials",
+      "symbol": "AMAT",
       "date": "2026-02-12",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Instacart",
-      "symbol": "CART",
+      "company": "Arista Networks",
+      "symbol": "ANET",
       "date": "2026-02-12",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
     },
     {
-      "company": "Kimco Realty Corp",
-      "symbol": "KIM",
+      "company": "Iron Mountain",
+      "symbol": "IRM",
       "date": "2026-02-12",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Consumer"
+      "sector": "TMT"
+    },
+    {
+      "company": "Pinterest",
+      "symbol": "PINS",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Rivian",
+      "symbol": "RIVN",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Roku",
+      "symbol": "ROKU",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
+    },
+    {
+      "company": "Zebra Technologies",
+      "symbol": "ZBRA",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "TMT"
     },
     {
       "company": "DuPont",
@@ -801,124 +811,114 @@
       "sector": "Resources"
     },
     {
-      "company": "Apollo",
-      "symbol": "APO",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Arch Capital Group",
-      "symbol": "ACGL",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Cincinnati Financial",
-      "symbol": "CINF",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Principal Financial Group",
-      "symbol": "PFG",
-      "date": "2026-02-09",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Assurant Inc",
-      "symbol": "AIZ",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Fidelity National Information Services",
-      "symbol": "FIS",
-      "date": "2026-02-10",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "Robinhood",
-      "symbol": "HOOD",
-      "date": "2026-02-10",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Finance"
-    },
-    {
-      "company": "S&P Global Inc",
-      "symbol": "SPGI",
+      "company": "Coca-Cola Co",
+      "symbol": "KO",
       "date": "2026-02-10",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Consumer"
     },
     {
-      "company": "Manulife",
-      "symbol": "MFC",
+      "company": "Hasbro Inc",
+      "symbol": "HAS",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Masco Corp",
+      "symbol": "MAS",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Mattel",
+      "symbol": "MAT",
+      "date": "2026-02-10",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "International Flavours & Fragrances",
+      "symbol": "IFF",
       "date": "2026-02-11",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Consumer"
     },
     {
-      "company": "Sun Life",
-      "symbol": "SLF",
+      "company": "Kraft Heinz Co",
+      "symbol": "KHC",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "McDonald\u2019s Corp",
+      "symbol": "MCD",
+      "date": "2026-02-11",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Rollins Inc",
+      "symbol": "ROL",
       "date": "2026-02-11",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Consumer"
     },
     {
-      "company": "Coinbase",
-      "symbol": "COIN",
+      "company": "Federal Realty Investment Trust",
+      "symbol": "FRT",
       "date": "2026-02-12",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Consumer"
     },
     {
-      "company": "Lincoln National Corporation",
-      "symbol": "LNC",
+      "company": "Instacart",
+      "symbol": "CART",
+      "date": "2026-02-12",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Kimco Realty Corp",
+      "symbol": "KIM",
       "date": "2026-02-12",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Consumer"
     }
   ],
   "count": 92,
@@ -927,7 +927,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-14T12:24:13Z",
+  "generatedAt": "2026-02-14T15:17:31Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
