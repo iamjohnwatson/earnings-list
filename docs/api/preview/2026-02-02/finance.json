@@ -55,6 +55,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Ameriprise Financial Inc",
+      "symbol": "AMP",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "CME Group Inc",
       "symbol": "CME",
       "date": "2026-02-04",
@@ -76,8 +85,8 @@
       "company": "Globe Life",
       "symbol": "GL",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -87,6 +96,15 @@
       "date": "2026-02-04",
       "bmo_amc": "TIME-AFTER-HOURS",
       "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Progressive Corporation",
+      "symbol": "PGR",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -118,9 +136,9 @@
       "source": "aggregator"
     },
     {
-      "company": "TPG",
-      "symbol": "TPG",
-      "date": "2026-02-05",
+      "company": "Carlyle",
+      "symbol": "CG",
+      "date": "2026-02-06",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
@@ -136,17 +154,19 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 17,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-15T12:25:52Z",
+  "generatedAt": "2026-02-15T15:17:16Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
+    "Ameriprise Financial Inc",
     "CME Group Inc",
+    "Carlyle",
     "Cboe Global Markets",
     "Chubb",
     "Everest",
@@ -156,9 +176,9 @@
     "KKR",
     "MetLife",
     "PayPal Holdings",
+    "Progressive Corporation",
     "Prudential Financial",
     "T. Rowe Price Group",
-    "TPG",
     "Willis Tower Watson"
   ],
   "week": {
