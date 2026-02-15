@@ -58,26 +58,17 @@
       "company": "AEP",
       "symbol": "AEP",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
     {
-      "company": "Ameren",
-      "symbol": "AEE",
+      "company": "Eversource Energy",
+      "symbol": "ES",
       "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "DTE",
-      "symbol": "DTE",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -109,15 +100,6 @@
       "source": "aggregator"
     },
     {
-      "company": "PPL Corp",
-      "symbol": "PPL",
-      "date": "2026-02-12",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Enbridge",
       "symbol": "ENB",
       "date": "2026-02-13",
@@ -136,25 +118,24 @@
       "source": "aggregator"
     }
   ],
-  "count": 15,
+  "count": 13,
   "missingPublic": [],
   "tickerCount": 98,
-  "generatedAt": "2026-02-14T21:16:35Z",
+  "generatedAt": "2026-02-15T01:09:57Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "AEP",
     "Albemarle",
     "Ameren",
-    "DTE",
     "DuPont",
     "Duke Energy",
     "Ecolab",
     "Enbridge",
+    "Eversource Energy",
     "Exelon Corp",
     "NiSource",
     "PBF Energy",
     "PG&E Corp",
-    "PPL Corp",
     "TC Energy"
   ],
   "week": {
