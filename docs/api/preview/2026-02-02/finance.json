@@ -127,15 +127,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Carlyle",
-      "symbol": "CG",
-      "date": "2026-02-06",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Cboe Global Markets",
       "symbol": "CBOE",
       "date": "2026-02-06",
@@ -145,18 +136,17 @@
       "source": "aggregator"
     }
   ],
-  "count": 16,
+  "count": 15,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-15T01:09:43Z",
+  "generatedAt": "2026-02-15T04:50:26Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Allstate Corp",
     "CME Group Inc",
-    "Carlyle",
     "Cboe Global Markets",
     "Chubb",
     "Everest",
