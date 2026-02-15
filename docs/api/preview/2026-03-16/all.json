@@ -1,34 +1,14 @@
 {
   "records": [
     {
-      "company": "FedEx",
-      "symbol": "FDX",
+      "company": "FactSet Research",
+      "symbol": "FDS",
       "date": "2026-03-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Jabil Inc",
-      "symbol": "JBL",
-      "date": "2026-03-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
-    },
-    {
-      "company": "Lennar Corp",
-      "symbol": "LEN",
-      "date": "2026-03-19",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Manufacturing"
+      "sector": "Finance"
     },
     {
       "company": "General Mills",
@@ -113,14 +93,34 @@
       "sector": "TMT"
     },
     {
-      "company": "FactSet Research",
-      "symbol": "FDS",
+      "company": "FedEx",
+      "symbol": "FDX",
       "date": "2026-03-19",
       "bmo_amc": "TBD",
       "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator",
-      "sector": "Finance"
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Jabil Inc",
+      "symbol": "JBL",
+      "date": "2026-03-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
+    },
+    {
+      "company": "Lennar Corp",
+      "symbol": "LEN",
+      "date": "2026-03-19",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Manufacturing"
     }
   ],
   "count": 12,
@@ -129,7 +129,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-15T18:23:12Z",
+  "generatedAt": "2026-02-15T21:17:40Z",
   "irCompanies": [
     "Tencent Music"
   ],
