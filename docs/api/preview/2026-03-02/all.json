@@ -1,110 +1,6 @@
 {
   "records": [
     {
-      "company": "Norwegian Cruise Line",
-      "symbol": "NCLH",
-      "date": "2026-03-02",
-      "bmo_amc": "8:00 AM ET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "ir_time_label": "8:00 am ET",
-      "ir_source_url": "https://www.nclhltd.com/investors",
-      "source": "investor_relations",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Best Buy Co Inc",
-      "symbol": "BBY",
-      "date": "2026-03-03",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Ross Stores",
-      "symbol": "ROST",
-      "date": "2026-03-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Target Corp",
-      "symbol": "TGT",
-      "date": "2026-03-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Brown-Forman Corp",
-      "symbol": "BF.B",
-      "date": "2026-03-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Campbell Soup Co",
-      "symbol": "CPB",
-      "date": "2026-03-04",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": "time-not-supplied",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Costco Wholesale Corp",
-      "symbol": "COST",
-      "date": "2026-03-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Kroger Co",
-      "symbol": "KR",
-      "date": "2026-03-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Consumer"
-    },
-    {
-      "company": "Boston Scientific Corp",
-      "symbol": "BSX",
-      "date": "2026-03-03",
-      "bmo_amc": "TBD",
-      "nasdaq_time_label": null,
-      "yahoo_time_label": null,
-      "ir_time_label": null,
-      "ir_source_url": "https://investors.bostonscientific.com/",
-      "source": "investor_relations",
-      "sector": "Pharma"
-    },
-    {
-      "company": "Cooper Companies Inc",
-      "symbol": "COO",
-      "date": "2026-03-05",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator",
-      "sector": "Pharma"
-    },
-    {
       "company": "Crowdstrike",
       "symbol": "CRWD",
       "date": "2026-03-03",
@@ -195,6 +91,110 @@
       "yahoo_time_label": null,
       "source": "aggregator",
       "sector": "Resources"
+    },
+    {
+      "company": "Boston Scientific Corp",
+      "symbol": "BSX",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": null,
+      "yahoo_time_label": null,
+      "ir_time_label": null,
+      "ir_source_url": "https://investors.bostonscientific.com/",
+      "source": "investor_relations",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Cooper Companies Inc",
+      "symbol": "COO",
+      "date": "2026-03-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Pharma"
+    },
+    {
+      "company": "Norwegian Cruise Line",
+      "symbol": "NCLH",
+      "date": "2026-03-02",
+      "bmo_amc": "8:00 AM ET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "ir_time_label": "8:00 am ET",
+      "ir_source_url": "https://www.nclhltd.com/investors",
+      "source": "investor_relations",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Best Buy Co Inc",
+      "symbol": "BBY",
+      "date": "2026-03-03",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Ross Stores",
+      "symbol": "ROST",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Target Corp",
+      "symbol": "TGT",
+      "date": "2026-03-03",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Brown-Forman Corp",
+      "symbol": "BF.B",
+      "date": "2026-03-04",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Campbell Soup Co",
+      "symbol": "CPB",
+      "date": "2026-03-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Costco Wholesale Corp",
+      "symbol": "COST",
+      "date": "2026-03-05",
+      "bmo_amc": "TIME-AFTER-HOURS",
+      "nasdaq_time_label": "time-after-hours",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
+    },
+    {
+      "company": "Kroger Co",
+      "symbol": "KR",
+      "date": "2026-03-05",
+      "bmo_amc": "TIME-PRE-MARKET",
+      "nasdaq_time_label": "time-pre-market",
+      "yahoo_time_label": null,
+      "source": "aggregator",
+      "sector": "Consumer"
     }
   ],
   "count": 19,
@@ -203,7 +203,7 @@
     "CPPIB"
   ],
   "tickerCount": 568,
-  "generatedAt": "2026-02-15T21:17:15Z",
+  "generatedAt": "2026-02-16T01:08:42Z",
   "irCompanies": [
     "Boston Scientific Corp",
     "Marvell",

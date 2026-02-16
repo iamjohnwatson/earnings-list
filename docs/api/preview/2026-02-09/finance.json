@@ -100,6 +100,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Global Payments",
+      "symbol": "GPN",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Lincoln National Corporation",
       "symbol": "LNC",
       "date": "2026-02-12",
@@ -107,15 +116,24 @@
       "nasdaq_time_label": "time-pre-market",
       "yahoo_time_label": null,
       "source": "aggregator"
+    },
+    {
+      "company": "Moody's Corporation",
+      "symbol": "MCO",
+      "date": "2026-02-12",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
     }
   ],
-  "count": 12,
+  "count": 14,
   "missingPublic": [
     "CDPQ",
     "CPPIB"
   ],
   "tickerCount": 85,
-  "generatedAt": "2026-02-15T21:16:37Z",
+  "generatedAt": "2026-02-16T01:08:01Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Apollo",
@@ -124,8 +142,10 @@
     "Cincinnati Financial",
     "Coinbase",
     "Fidelity National Information Services",
+    "Global Payments",
     "Lincoln National Corporation",
     "Manulife",
+    "Moody's Corporation",
     "Principal Financial Group",
     "Robinhood",
     "S&P Global Inc",

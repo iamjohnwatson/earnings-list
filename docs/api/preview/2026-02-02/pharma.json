@@ -73,11 +73,20 @@
       "source": "aggregator"
     },
     {
+      "company": "Becton Dickinson and Co",
+      "symbol": "BDX",
+      "date": "2026-02-04",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Bio-Techne Corp",
       "symbol": "TECH",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -93,15 +102,6 @@
     {
       "company": "Cencora Inc",
       "symbol": "COR",
-      "date": "2026-02-04",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
-      "company": "Eli Lilly and Co",
-      "symbol": "LLY",
       "date": "2026-02-04",
       "bmo_amc": "TIME-PRE-MARKET",
       "nasdaq_time_label": "time-pre-market",
@@ -130,8 +130,8 @@
       "company": "STERIS plc",
       "symbol": "STE",
       "date": "2026-02-04",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -163,11 +163,38 @@
       "source": "aggregator"
     },
     {
+      "company": "Eli Lilly and Co",
+      "symbol": "LLY",
+      "date": "2026-02-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "IQVIA Holdings Inc",
       "symbol": "IQV",
       "date": "2026-02-05",
-      "bmo_amc": "TIME-PRE-MARKET",
-      "nasdaq_time_label": "time-pre-market",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Kenvue",
+      "symbol": "KVUE",
+      "date": "2026-02-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
+      "company": "Labcorp Holdings Inc",
+      "symbol": "LH",
+      "date": "2026-02-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
       "yahoo_time_label": null,
       "source": "aggregator"
     },
@@ -181,6 +208,15 @@
       "source": "aggregator"
     },
     {
+      "company": "Zimmer Biomet Holdings Inc",
+      "symbol": "ZBH",
+      "date": "2026-02-05",
+      "bmo_amc": "TBD",
+      "nasdaq_time_label": "time-not-supplied",
+      "yahoo_time_label": null,
+      "source": "aggregator"
+    },
+    {
       "company": "Centene Corp",
       "symbol": "CNC",
       "date": "2026-02-06",
@@ -190,14 +226,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 21,
+  "count": 25,
   "missingPublic": [],
   "tickerCount": 55,
-  "generatedAt": "2026-02-15T21:16:27Z",
+  "generatedAt": "2026-02-16T01:07:46Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Aflac Inc",
     "Amgen Inc",
+    "Becton Dickinson and Co",
     "Bio-Techne Corp",
     "Boston Scientific Corp",
     "Bristol Myers-Squibb",
@@ -211,12 +248,15 @@
     "Healthpeak Properties",
     "IDEXX Laboratories Inc",
     "IQVIA Holdings Inc",
+    "Kenvue",
+    "Labcorp Holdings Inc",
     "Mckesson Corp",
     "Merck",
     "Molina Healthcare Inc",
     "Pfizer Inc",
     "Revvity",
-    "STERIS plc"
+    "STERIS plc",
+    "Zimmer Biomet Holdings Inc"
   ],
   "week": {
     "id": "2026-02-02",

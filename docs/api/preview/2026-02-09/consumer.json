@@ -82,15 +82,6 @@
       "source": "aggregator"
     },
     {
-      "company": "Instacart",
-      "symbol": "CART",
-      "date": "2026-02-12",
-      "bmo_amc": "TIME-AFTER-HOURS",
-      "nasdaq_time_label": "time-after-hours",
-      "yahoo_time_label": null,
-      "source": "aggregator"
-    },
-    {
       "company": "Kimco Realty Corp",
       "symbol": "KIM",
       "date": "2026-02-12",
@@ -100,16 +91,15 @@
       "source": "aggregator"
     }
   ],
-  "count": 11,
+  "count": 10,
   "missingPublic": [],
   "tickerCount": 75,
-  "generatedAt": "2026-02-15T21:16:37Z",
+  "generatedAt": "2026-02-16T01:07:59Z",
   "irCompanies": [],
   "fallbackCompanies": [
     "Coca-Cola Co",
     "Federal Realty Investment Trust",
     "Hasbro Inc",
-    "Instacart",
     "International Flavours & Fragrances",
     "Kimco Realty Corp",
     "Kraft Heinz Co",
